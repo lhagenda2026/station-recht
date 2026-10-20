@@ -24,3 +24,4 @@
 - Systemschrift (SF Pro / SF Pro Rounded für Zahlen) statt eingebetteter Fonts – offline sicher, auf iOS ideal.
 - Safe-Area kann Playwright nicht emulieren; abgesichert über `env(safe-area-inset-*)` im CSS, geprüft per Screenshot im 390×844-Format.
 - Lighthouse nicht ausgeführt (braucht Chrome); PWA-Kriterien (Manifest, Icons, SW, Offline) per Playwright-Test geprüft.
+- GitHub Pages braucht bei kostenlosen Konten ein öffentliches Repo → Repo `station-recht` öffentlich angelegt (die App-Inhalte sind über die URL ohnehin öffentlich).
