@@ -1,0 +1,597 @@
+{
+  "kapitel": "verwaltungsrecht",
+  "karten": [
+    {
+      "id": "q27",
+      "typ": "definition",
+      "normenAusText": ["§ 4 I SGB V", "§ 77 V SGB V"],
+      "eselsbruecke": "Körperschaft = Club mit Mitgliedern: Die Krankenkasse hat Mitglieder, die mitreden (Selbstverwaltung).",
+      "luecken": [
+        { "text": "Eine Körperschaft ist eine mitgliedschaftlich verfasste, vom Wechsel der Mitglieder ___ Verwaltungseinheit.", "loesung": "unabhängige" },
+        { "text": "Die Körperschaft wird durch ___ (meist Gesetz) errichtet.", "loesung": "Hoheitsakt" },
+        { "text": "Ärztekammer und IHK sind Beispiele für ___.", "loesung": "Personalkörperschaften" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die gesetzliche Krankenkasse X mit ihren versicherten Mitgliedern und gewähltem Verwaltungsrat.", "set": "koerperschaft-anstalt", "richtig": "Körperschaft", "grund": "Krankenkassen sind mitgliedschaftlich verfasste Körperschaften mit Selbstverwaltung (§ 4 I SGB V)." },
+        { "fall": "Die Kassenärztliche Vereinigung, der alle Vertragsärzte der Region angehören.", "set": "koerperschaft-anstalt", "richtig": "Körperschaft", "grund": "Die KV hat Mitglieder (Vertragsärzte) und ist Körperschaft (§ 77 V SGB V)." },
+        { "fall": "Die Landesärztekammer, in der jede Ärztin des Landes Pflichtmitglied ist.", "set": "koerperschaft-anstalt", "richtig": "Körperschaft", "grund": "Ärztekammern sind Personalkörperschaften mit Mitgliedern." }
+      ],
+      "luegen": [
+        { "aussagen": ["Eine Körperschaft ist rechtsfähig.", "Eine Körperschaft hat Nutzer, aber keine Mitglieder.", "Gesetzliche Krankenkassen sind Körperschaften (§ 4 I SGB V)."], "luege": 1, "erklaerung": "Nutzer statt Mitglieder kennzeichnet die Anstalt. Die Körperschaft ist gerade mitgliedschaftlich verfasst." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q28",
+      "typ": "definition",
+      "normenAusText": [],
+      "eselsbruecke": "Anstalt = Gebäude mit Personal für einen Zweck: Im Uniklinikum ist man Patient (Nutzer), nicht Mitglied.",
+      "luecken": [
+        { "text": "Eine Anstalt hat keine Mitglieder, sondern ___.", "loesung": "Nutzer" },
+        { "text": "Die Anstalt ist ein Bestand an sachlichen und persönlichen Mitteln, der dauerhaft einem besonderen ___ dient.", "loesung": "öffentlichen Zweck" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Ein Universitätsklinikum, das im Land als AöR organisiert ist und Patienten behandelt.", "set": "koerperschaft-anstalt", "richtig": "Anstalt", "grund": "Sach- und Personalmittel für einen öffentlichen Zweck, Patienten sind Nutzer, keine Mitglieder." },
+        { "fall": "Die öffentlich-rechtliche Rundfunkanstalt, deren Programm die Bürger empfangen.", "set": "koerperschaft-anstalt", "richtig": "Anstalt", "grund": "Rundfunkanstalten haben Nutzer statt Mitglieder." },
+        { "fall": "Die Sparkasse, bei der ein Klinikmitarbeiter sein Gehaltskonto führt.", "set": "koerperschaft-anstalt", "richtig": "Anstalt", "grund": "Die Sparkasse ist Anstalt; Kunden sind Nutzer." }
+      ],
+      "luegen": [
+        { "aussagen": ["Eine Anstalt kann rechtsfähig oder nicht rechtsfähig sein.", "Ein Universitätsklinikum kann je nach Land als AöR organisiert sein.", "Eine Anstalt muss stets rechtsfähig sein."], "luege": 2, "erklaerung": "Die Anstalt kann rechtsfähig (AöR) oder nicht rechtsfähig sein." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q29",
+      "typ": "definition",
+      "normenAusText": [],
+      "eselsbruecke": "Verordnung = Parlament leiht der Regierung den Stift – aber nur mit Inhalt, Zweck und Ausmaß auf dem Leihschein.",
+      "luecken": [
+        { "text": "Die Ermächtigung zur Rechtsverordnung muss Inhalt, Zweck und ___ bestimmen.", "loesung": "Ausmaß" },
+        { "text": "Die Pflicht, die Ermächtigungsgrundlage in der Verordnung zu nennen, heißt ___.", "loesung": "Zitiergebot" },
+        { "text": "Ein Beispiel für eine Rechtsverordnung ist die ___ für Ärzte.", "loesung": "Approbationsordnung" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Das Bundesgesundheitsministerium erlässt aufgrund gesetzlicher Ermächtigung die Approbationsordnung für Ärzte.", "set": "normtyp", "richtig": "Rechtsverordnung", "grund": "Abstrakt-generelle Norm der Exekutive aufgrund gesetzlicher Ermächtigung (Art. 80 I GG)." },
+        { "fall": "Der Bundestag beschließt mit Zustimmung des Bundesrats eine Änderung des SGB V.", "set": "normtyp", "richtig": "Gesetz", "grund": "Parlamentsgesetz, erlassen von der Legislative." }
+      ],
+      "luegen": [
+        { "aussagen": ["Die Rechtsverordnung ist ein Parlamentsgesetz.", "Die Rechtsverordnung steht im Rang unter dem Gesetz.", "In der Verordnung ist die Ermächtigungsgrundlage zu nennen."], "luege": 0, "erklaerung": "Die Rechtsverordnung ist materielles Gesetz, aber kein Parlamentsgesetz; sie wird von der Exekutive erlassen." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q30",
+      "typ": "abgrenzung",
+      "normenAusText": ["§ 194 SGB V"],
+      "eselsbruecke": "Satzung = selbst gesetzt (Selbstverwaltung), Verordnung = vom Staat verordnet (Delegation).",
+      "luecken": [
+        { "text": "Die Satzung wird im Rahmen der ___ erlassen.", "loesung": "Selbstverwaltungsautonomie" },
+        { "text": "Rechtsverordnung beruht auf ___, Satzung auf Selbstverwaltung.", "loesung": "staatliche Delegation" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Der Verwaltungsrat einer Krankenkasse beschließt Regeln über Mehrleistungen für ihre Mitglieder.", "set": "normtyp", "richtig": "Satzung", "grund": "Abstrakt-generelle Norm einer juristischen Person des öffentlichen Rechts in Selbstverwaltung (§ 194 SGB V)." },
+        { "fall": "Die Ärztekammer erlässt ihre Berufsordnung für alle Kammermitglieder.", "set": "normtyp", "richtig": "Satzung", "grund": "Berufsordnung der Kammer = Satzung im Rahmen der Selbstverwaltung." },
+        { "fall": "Die Krankenkasse lehnt per Bescheid die Kostenübernahme für Patientin P ab.", "set": "normtyp", "richtig": "Verwaltungsakt", "grund": "Regelung eines Einzelfalls, keine abstrakt-generelle Norm." }
+      ],
+      "luegen": [
+        { "aussagen": ["Die Satzung gilt für Mitglieder bzw. Angehörige der juristischen Person.", "Die Satzung beruht auf staatlicher Delegation, die Rechtsverordnung auf Selbstverwaltung.", "Die Berufsordnung der Ärztekammer ist ein Beispiel für eine Satzung."], "luege": 1, "erklaerung": "Vertauscht: Satzung = Selbstverwaltung, Rechtsverordnung = staatliche Delegation." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q31",
+      "typ": "fakt",
+      "normenAusText": ["Art. 30 GG", "Art. 83 GG", "Art. 70 I GG", "Art. 92 GG", "Art. 86 GG", "Art. 87 I GG", "Art. 87 II GG"],
+      "eselsbruecke": "Art. 30: Im Zweifel die Länder. Art. 83: Bund schreibt, Länder führen aus.",
+      "luecken": [
+        { "text": "Nach Art. 83 GG führen die Länder die Bundesgesetze als ___ aus.", "loesung": "eigene Angelegenheit" },
+        { "text": "Für die Gesetzgebung bestätigt Art. ___ die Grundregel.", "loesung": "70 I" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Grundregel ist Art. 30 GG: staatliche Aufgaben sind Sache der Länder.", "Art. 70 I GG bestätigt die Grundregel für die Gesetzgebung.", "Art. 83 GG: Der Bund führt die Bundesgesetze als eigene Angelegenheit aus."], "luege": 2, "erklaerung": "Nach Art. 83 GG führen die Länder die Bundesgesetze als eigene Angelegenheit aus." },
+        { "aussagen": ["Bundesverwaltung ist die Ausnahme (Art. 86 ff. GG).", "Art. 87 II GG betrifft bundesunmittelbare Sozialversicherungsträger.", "Für die Rechtsprechung sind nach Art. 92 ff. GG stets nur Bundesgerichte zuständig."], "luege": 2, "erklaerung": "Auch bei der Rechtsprechung gilt: Länder, soweit nicht Bundesgerichte zuständig sind." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q32",
+      "typ": "fakt",
+      "normenAusText": ["Art. 30 GG", "Art. 83 GG"],
+      "eselsbruecke": "Bund = Kopf (Gesetze), Länder = Hände (Verwaltung): Exekutivföderalismus.",
+      "luecken": [
+        { "text": "Dass der Bund vor allem Gesetzgeber ist und die Länder verwalten, nennt man ___.", "loesung": "Exekutivföderalismus" },
+        { "text": "Gründe für die Länderverwaltung sind u. a. Bürgernähe und ___.", "loesung": "Sachnähe" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Die Verwaltung liegt vor allem beim Bund.", "Ein Grund für die Länderverwaltung ist die föderale Gewaltenteilung.", "Die Länder verfügen über vorhandene Verwaltungsstrukturen."], "luege": 0, "erklaerung": "Für die Verwaltung sind vor allem die Länder zuständig (Art. 30, 83 GG); der Bund ist überwiegend Gesetzgeber." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q33",
+      "typ": "abgrenzung",
+      "normenAusText": [],
+      "eselsbruecke": "Kasse über die Landesgrenze? Dann schaut der Bund (BAS). Bleibt sie daheim, schaut das Land.",
+      "luecken": [
+        { "text": "Krankenkassen sind ___ Staatsverwaltung.", "loesung": "mittelbare" },
+        { "text": "Bundesunmittelbare Kassen beaufsichtigt das Bundesamt für ___.", "loesung": "Soziale Sicherung" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Techniker Krankenkasse versichert Mitglieder im gesamten Bundesgebiet.", "set": "bund-land", "richtig": "bundesunmittelbar", "grund": "Zuständigkeitsbereich reicht über ein Land hinaus (Art. 87 II GG)." },
+        { "fall": "Eine regionale AOK ist nur für ein einziges Bundesland zuständig.", "set": "bund-land", "richtig": "landesunmittelbar", "grund": "Zuständigkeit nur in einem Land → landesunmittelbar, Aufsicht durch Landesbehörde." },
+        { "fall": "Eine Betriebskrankenkasse öffnet sich für Versicherte in sieben Bundesländern.", "set": "bund-land", "richtig": "bundesunmittelbar", "grund": "Weit über ein Land (und über drei Länder) hinaus → bundesunmittelbar." }
+      ],
+      "luegen": [
+        { "aussagen": ["Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung.", "Bundesunmittelbare Kassen beaufsichtigt eine Landesbehörde.", "Maßgeblich ist der räumliche Zuständigkeitsbereich (Art. 87 II GG)."], "luege": 1, "erklaerung": "Bundesunmittelbare Kassen beaufsichtigt das Bundesamt für Soziale Sicherung; Landesbehörden beaufsichtigen landesunmittelbare." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q34",
+      "typ": "definition",
+      "normenAusText": ["§ 31 SGB X", "§ 1 II SGB X", "§ 53 SGB X"],
+      "eselsbruecke": "B-H-Ö-R-E-A: Behörde, Hoheitlich, Öffentliches Recht, Regelung, Einzelfall, Außenwirkung.",
+      "luecken": [
+        { "text": "Ein VA ist auf unmittelbare ___ nach außen gerichtet.", "loesung": "Rechtswirkung" },
+        { "text": "Die Allgemeinverfügung ist ___ (§ 31 S. 2).", "loesung": "konkret-generell" },
+        { "text": "Das Merkmal Regelung grenzt den VA vom ___/Auskunft ab.", "loesung": "Realakt" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Krankenkasse bewilligt Patient P per Bescheid eine Reha-Maßnahme.", "set": "va-oder-nicht", "richtig": "Verwaltungsakt", "grund": "Hoheitliche Regelung eines Einzelfalls mit Außenwirkung durch eine Behörde." },
+        { "fall": "Der Abteilungsleiter der Krankenkasse weist seine Sachbearbeiter intern an, Anträge schneller zu bearbeiten.", "set": "va-oder-nicht", "richtig": "kein Verwaltungsakt", "grund": "Verwaltungsinternum ohne Außenwirkung." },
+        { "fall": "Eine Sachbearbeiterin erklärt einer Versicherten am Telefon, welche Leistungen die Kasse allgemein bezahlt.", "set": "va-oder-nicht", "richtig": "kein Verwaltungsakt", "grund": "Bloße Auskunft ohne verbindliche Regelung." },
+        { "fall": "Eine private Arztpraxis kündigt einem Patienten den Behandlungsvertrag.", "set": "va-oder-nicht", "richtig": "kein Verwaltungsakt", "grund": "Keine Behörde, privatrechtliches Handeln." },
+        { "fall": "Die Krankenkasse schließt mit einem Krankenhaus einen Versorgungsvertrag.", "set": "va-oder-nicht", "richtig": "kein Verwaltungsakt", "grund": "Vertrag statt einseitiger hoheitlicher Maßnahme (§ 53 SGB X)." }
+      ],
+      "luegen": [
+        { "aussagen": ["Das Merkmal Einzelfall grenzt den VA von der Rechtsnorm ab.", "Das Merkmal Außenwirkung grenzt den VA von Weisung und Verwaltungsvorschrift ab.", "Das Merkmal Regelung grenzt den VA vom öffentlich-rechtlichen Vertrag ab."], "luege": 2, "erklaerung": "Vom Vertrag grenzt das Merkmal hoheitliche (einseitige) Maßnahme ab; Regelung grenzt von Realakt/Auskunft ab." },
+        { "aussagen": ["Die Allgemeinverfügung ist abstrakt-generell und daher kein VA.", "Die Definition des VA steht in § 31 S. 1 SGB X.", "Privatrechtliches Handeln ist kein VA."], "luege": 0, "erklaerung": "Die Allgemeinverfügung ist konkret-generell und nach § 31 S. 2 SGB X ein VA; abstrakt-generell ist die Rechtsnorm." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q35",
+      "typ": "fakt",
+      "normenAusText": [],
+      "eselsbruecke": "Die Verwaltung ist ihr eigener Gerichtsvollzieher: Selbsttitulierung statt Urteil.",
+      "luecken": [
+        { "text": "Die Verwaltung kann ihre VA selbst vollstrecken; man spricht von ___.", "loesung": "Selbsttitulierung" },
+        { "text": "Voraussetzung der Vollstreckung ist die ___ des VA.", "loesung": "Vollziehbarkeit" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Die Verwaltung braucht für die Vollstreckung eines VA einen gerichtlichen Titel.", "Zwangsmittel sind u. a. Zwangsgeld, Ersatzvornahme und unmittelbarer Zwang.", "Widerspruch und Klage haben grundsätzlich aufschiebende Wirkung (§ 86a SGG)."], "luege": 0, "erklaerung": "Anders als im Privatrecht braucht die Verwaltung keinen gerichtlichen Titel; sie tituliert und vollstreckt selbst." }
+      ],
+      "fristen": [
+        { "szenario": "Die Krankenkasse fordert per Bescheid Leistungen zurück. Versicherter V legt fristgerecht Widerspruch ein. Kann die Kasse sofort vollstrecken?", "optionen": ["Ja, sie braucht nur einen Bescheid", "Nein, nur nach Klage vor dem Sozialgericht", "Grundsätzlich nein: aufschiebende Wirkung (§ 86a SGG)"], "richtig": 2, "erklaerung": "Vollstreckung setzt Vollziehbarkeit voraus; der Widerspruch hat grundsätzlich aufschiebende Wirkung. Ein Gericht braucht die Kasse aber nicht." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q36",
+      "typ": "fakt",
+      "normenAusText": ["§ 53 SGB X", "§ 109 SGB V", "§ 14 SGB I", "§ 15 SGB I"],
+      "eselsbruecke": "Neben dem VA: Norm, Vertrag, Vorschrift, Realakt, Plan, Privat – die Verwaltung hat einen ganzen Werkzeugkasten.",
+      "luecken": [
+        { "text": "Auskunft, Beratung und Warnung sind ___/schlichtes Verwaltungshandeln.", "loesung": "Realakte" },
+        { "text": "Verwaltungsvorschriften sind ___.", "loesung": "Innenrecht" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Eine Krankenkasse und ein Krankenhaus schließen einen Versorgungsvertrag nach § 109 SGB V.", "set": "handlungsform", "richtig": "öffentlich-rechtlicher Vertrag", "grund": "Verträge der Selbstverwaltung sind öffentlich-rechtliche Verträge (§§ 53 ff. SGB X)." },
+        { "fall": "Die Krankenkasse berät eine Versicherte persönlich über ihre Ansprüche bei Pflegebedürftigkeit.", "set": "handlungsform", "richtig": "Realakt", "grund": "Beratung (§ 14 SGB I) ist schlichtes Verwaltungshandeln ohne Regelung." },
+        { "fall": "Der Vorstand der Kasse erlässt eine interne Richtlinie, wie Hilfsmittelanträge zu prüfen sind.", "set": "handlungsform", "richtig": "Verwaltungsvorschrift", "grund": "Innenrecht ohne unmittelbare Außenwirkung." },
+        { "fall": "Die Kasse kürzt per Bescheid das Krankengeld eines Versicherten.", "set": "handlungsform", "richtig": "Verwaltungsakt", "grund": "Einseitige hoheitliche Regelung eines Einzelfalls mit Außenwirkung." },
+        { "fall": "Eine Behörde warnt öffentlich vor einem gesundheitsgefährdenden Nahrungsergänzungsmittel.", "set": "handlungsform", "richtig": "Realakt", "grund": "Warnungen sind schlichtes Verwaltungshandeln." }
+      ],
+      "luegen": [
+        { "aussagen": ["Bundesmantelverträge sind öffentlich-rechtliche Verträge.", "Die Bedarfsplanung ist ein Beispiel für Pläne.", "Beratung nach §§ 14, 15 SGB I ist ein Verwaltungsakt."], "luege": 2, "erklaerung": "Auskunft und Beratung sind Realakte/schlichtes Verwaltungshandeln, keine Regelung." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q37",
+      "typ": "fakt",
+      "normenAusText": ["§ 44 SGB X", "§ 45 SGB X", "§ 46 SGB X", "§ 47 SGB X", "§ 48 SGB X", "§ 49 SGB X", "§ 50 SGB X"],
+      "eselsbruecke": "44/45 = Rücknahme (rechtswidrig), 46/47 = Widerruf (rechtmäßig); gerade = begünstigend, 48 = Dauerwirkung.",
+      "luecken": [
+        { "text": "§ 45 SGB X regelt die Rücknahme eines rechtswidrigen ___ VA.", "loesung": "begünstigenden" },
+        { "text": "§ 48 SGB X betrifft die Aufhebung eines VA mit ___.", "loesung": "Dauerwirkung" },
+        { "text": "§ 50 SGB X regelt Erstattung und ___.", "loesung": "Verzinsung" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse hebt einen von Anfang an falsch berechneten Beitragsbescheid zugunsten des Versicherten auf.", "set": "ruecknahme-widerruf", "richtig": "Rücknahme", "grund": "Der belastende VA war rechtswidrig → Rücknahme (§ 44 SGB X)." }
+      ],
+      "luegen": [
+        { "aussagen": ["§ 44 SGB X: Rücknahme eines rechtswidrigen nicht begünstigenden VA.", "§ 46 SGB X: Widerruf eines rechtmäßigen begünstigenden VA.", "§ 48 SGB X: Aufhebung bei Änderung der Verhältnisse."], "luege": 1, "erklaerung": "§ 46 betrifft den nicht begünstigenden rechtmäßigen VA; der begünstigende fällt unter § 47." },
+        { "aussagen": ["§ 49 SGB X regelt Rücknahme und Widerruf im Rechtsbehelfsverfahren.", "§ 45 SGB X: Rücknahme eines rechtswidrigen begünstigenden VA.", "§ 47 SGB X: Rücknahme eines rechtswidrigen nicht begünstigenden VA."], "luege": 2, "erklaerung": "§ 47 regelt den Widerruf eines rechtmäßigen begünstigenden VA; der rechtswidrige nicht begünstigende fällt unter § 44." }
+      ],
+      "fristen": [
+        { "szenario": "Die Krankenkasse will einen rechtswidrigen Bescheid aufheben, der dem Versicherten eine Leistung bewilligt hat. Welche Norm des SGB X?", "optionen": ["§ 44 SGB X", "§ 45 SGB X", "§ 47 SGB X"], "richtig": 1, "erklaerung": "Rechtswidrig + begünstigend → Rücknahme nach § 45 SGB X (Vertrauensschutz!)." },
+        { "szenario": "Ein rechtmäßiger, begünstigender Bewilligungsbescheid soll aufgehoben werden. Einschlägig ist …", "optionen": ["§ 47 SGB X", "§ 46 SGB X", "§ 45 SGB X"], "richtig": 0, "erklaerung": "Rechtmäßig + begünstigend → Widerruf nach § 47 SGB X." },
+        { "szenario": "Eine laufend gezahlte Rente (VA mit Dauerwirkung) ist zu hoch, weil sich die Verhältnisse nachträglich geändert haben. Welche Norm?", "optionen": ["§ 44 SGB X", "§ 49 SGB X", "§ 48 SGB X"], "richtig": 2, "erklaerung": "Aufhebung eines VA mit Dauerwirkung bei Änderung der Verhältnisse: § 48 SGB X." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q38",
+      "typ": "abgrenzung",
+      "normenAusText": [],
+      "eselsbruecke": "Rücknahme = Rotstift für Rechtswidriges. Widerruf = Wechsel bei Rechtmäßigem, wirkt nach vorn.",
+      "luecken": [
+        { "text": "Die Rücknahme betrifft ___ Verwaltungsakte.", "loesung": "rechtswidrig" },
+        { "text": "Der Widerruf wirkt grundsätzlich nur für die ___.", "loesung": "Zukunft" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse bewilligt versehentlich ein zu hohes Krankengeld und hebt den Bescheid später deshalb auf.", "set": "ruecknahme-widerruf", "richtig": "Rücknahme", "grund": "Der VA war bereits bei Erlass rechtswidrig." },
+        { "fall": "Ein rechtmäßig bewilligter Zuschuss wird aufgehoben, weil ein gesetzlicher Aufhebungsgrund für die Zukunft eingetreten ist.", "set": "ruecknahme-widerruf", "richtig": "Widerruf", "grund": "Der VA war bei Erlass rechtmäßig." },
+        { "fall": "Ein Bescheid wurde ohne Rechtsgrundlage erlassen, die Behörde hebt ihn auf.", "set": "ruecknahme-widerruf", "richtig": "Rücknahme", "grund": "Fehlende Rechtsgrundlage macht ihn von Anfang an rechtswidrig." },
+        { "fall": "Eine fehlerfrei erteilte Bewilligung entfällt, weil ihre Voraussetzungen später weggefallen sind.", "set": "ruecknahme-widerruf", "richtig": "Widerruf", "grund": "Ursprünglich rechtmäßiger VA, Aufhebung wegen entfallener Voraussetzungen." }
+      ],
+      "luegen": [
+        { "aussagen": ["Maßgeblich ist die Rechtmäßigkeit des VA bei Erlass.", "Der Widerruf wirkt grundsätzlich auch für die Vergangenheit.", "Rücknahme = von Anfang an rechtswidriger VA."], "luege": 1, "erklaerung": "Der Widerruf wirkt grundsätzlich nur für die Zukunft." }
+      ],
+      "fristen": [
+        { "szenario": "Ein rechtmäßiger VA wird widerrufen. Ab wann wirkt der Widerruf grundsätzlich?", "optionen": ["Rückwirkend ab Erlass", "Nur für die Zukunft", "Erst nach Bestandskraft des Widerrufs plus 1 Jahr"], "richtig": 1, "erklaerung": "Der Widerruf wirkt grundsätzlich nur für die Zukunft." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q39",
+      "typ": "fakt",
+      "normenAusText": ["§ 41 SGB X", "§ 40 SGB X", "§ 41 II SGB X", "§ 42 SGB X"],
+      "eselsbruecke": "Fehler nachgeholt = Fehler geheilt – aber nur bis zur letzten Tatsacheninstanz.",
+      "luecken": [
+        { "text": "Verfahrens- und Formfehler werden ___, wenn sie nachgeholt werden.", "loesung": "unbeachtlich" },
+        { "text": "Die Heilung ist bis zur ___ des sozialgerichtlichen Verfahrens möglich.", "loesung": "letzten Tatsacheninstanz" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Eine fehlende Begründung kann nachträglich gegeben werden.", "Heilung ist auch bei nichtigen VA (§ 40) möglich.", "Eine unterbliebene Anhörung kann nachgeholt werden."], "luege": 1, "erklaerung": "§ 41 gilt nur für Fehler, die nicht zur Nichtigkeit nach § 40 führen." },
+        { "aussagen": ["Nach § 42 kann die Aufhebung verlangt werden, auch wenn der Fehler die Entscheidung offensichtlich nicht beeinflusst hat.", "Der Ausschussbeschluss kann nachträglich gefasst werden.", "Die Mitwirkung einer anderen Behörde kann nachgeholt werden."], "luege": 0, "erklaerung": "Nach § 42 kann die Aufhebung gerade nicht verlangt werden, wenn offensichtlich ist, dass der Fehler die Sachentscheidung nicht beeinflusst hat." }
+      ],
+      "fristen": [
+        { "szenario": "Die Kasse hat einen Bescheid ohne Begründung erlassen. Bis wann kann sie die Begründung heilend nachholen?", "optionen": ["Nur bis zum Ende der Widerspruchsfrist", "Bis zur letzten Tatsacheninstanz des Gerichtsverfahrens", "Bis zum Revisionsurteil des BSG"], "richtig": 1, "erklaerung": "§ 41 II SGB X: bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens." },
+        { "szenario": "Ein Formfehler hat die Entscheidung in der Sache offensichtlich nicht beeinflusst. Kann der Betroffene allein deswegen die Aufhebung verlangen?", "optionen": ["Nein, § 42 SGB X", "Ja, jeder Formfehler führt zur Aufhebung", "Ja, der VA ist nichtig"], "richtig": 0, "erklaerung": "§ 42 SGB X schließt den Aufhebungsanspruch bei offensichtlich nicht entscheidungserheblichen Verfahrens-/Formfehlern aus." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q40",
+      "typ": "fakt",
+      "normenAusText": ["§ 24 SGB X", "§ 24 II SGB X", "§ 41 I Nr. 3 SGB X"],
+      "eselsbruecke": "Wer eingreift, muss erst zuhören: Erst Anhörung (§ 24), dann Kürzung.",
+      "luecken": [
+        { "text": "Anzuhören ist vor einem VA, der in ___ eines Beteiligten eingreift.", "loesung": "Rechte" },
+        { "text": "Die Anhörung bezieht sich auf die ___ Tatsachen.", "loesung": "entscheidungserheblichen" },
+        { "text": "Ein Anhörungsmangel ist ___ (§ 41 I Nr. 3).", "loesung": "heilbar" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse kürzt das Krankengeld, ohne den Versicherten vorher anzuhören. Der Bescheid ist …", "set": "nichtig-rechtswidrig", "richtig": "nur rechtswidrig", "grund": "Fehlende Anhörung ist ein heilbarer Verfahrensfehler (§ 41 I Nr. 3), kein Nichtigkeitsgrund." }
+      ],
+      "luegen": [
+        { "aussagen": ["Anhörung ist vor belastenden VA erforderlich, z. B. vor einer Leistungskürzung.", "Bei Gefahr im Verzug kann von der Anhörung abgesehen werden.", "Eine unterbliebene Anhörung macht den VA stets nichtig."], "luege": 2, "erklaerung": "Der Anhörungsmangel ist ein Verfahrensfehler und nach § 41 I Nr. 3 heilbar, nicht nichtig." },
+        { "aussagen": ["Die Anhörung ist in § 24 SGB X geregelt.", "Anzuhören ist vor jedem begünstigenden VA.", "Bei Allgemeinverfügungen kann die Anhörung entfallen."], "luege": 1, "erklaerung": "Anhörung ist bei VA nötig, die in Rechte eingreifen (belastende VA), nicht bei jedem begünstigenden." }
+      ],
+      "fristen": [
+        { "szenario": "Die Krankenkasse hebt eine Leistungsbewilligung auf, ohne V vorher anzuhören. Rechtsfolge?", "optionen": ["VA nichtig", "VA rechtmäßig, Anhörung entbehrlich", "Verfahrensfehler, durch Nachholung heilbar"], "richtig": 2, "erklaerung": "Verstoß gegen § 24 SGB X = Verfahrensfehler, heilbar nach § 41 I Nr. 3 SGB X." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q41",
+      "typ": "fall",
+      "normenAusText": ["§ 40 SGB X", "§ 40 II SGB X", "§ 40 III SGB X"],
+      "eselsbruecke": "Nichtig nur bei „Knallfehler“: besonders schwer UND offensichtlich. Sonst bloß rechtswidrig.",
+      "luecken": [
+        { "text": "Nach § 40 I ist ein VA nichtig, wenn er an einem ___ Fehler leidet und dies offensichtlich ist.", "loesung": "besonders schwerwiegenden" },
+        { "text": "Ein Verstoß gegen die ___ Zuständigkeit macht den VA allein nicht nichtig.", "loesung": "örtliche" },
+        { "text": "Nichtigkeit ist die ___.", "loesung": "Ausnahme" }
+      ],
+      "reihenfolge": { "titel": "Nichtigkeitsprüfung (§ 40 SGB X)", "schritte": ["§ 40 I: schwerer + offensichtlicher Fehler", "§ 40 II: absolute Nichtigkeitsgründe", "§ 40 III: kein Nichtigkeitsgrund allein", "Ergebnis: nichtig oder nur rechtswidrig"] },
+      "triage": [
+        { "fall": "Ein Bescheid über Krankengeld lässt nicht erkennen, welche Behörde ihn erlassen hat.", "set": "nichtig-rechtswidrig", "richtig": "nichtig", "grund": "Absoluter Nichtigkeitsgrund nach § 40 II (Behörde nicht erkennbar)." },
+        { "fall": "Eine örtlich unzuständige Geschäftsstelle bewilligt eine Leistung.", "set": "nichtig-rechtswidrig", "richtig": "nur rechtswidrig", "grund": "§ 40 III: Verstoß gegen die örtliche Zuständigkeit allein führt nicht zur Nichtigkeit." },
+        { "fall": "Sachbearbeiter S bewilligt seinem eigenen Bruder eine Leistung, obwohl er ausgeschlossen wäre.", "set": "nichtig-rechtswidrig", "richtig": "nur rechtswidrig", "grund": "§ 40 III: Mitwirkung eines ausgeschlossenen Amtsträgers allein macht nicht nichtig." },
+        { "fall": "Ein Bescheid verlangt vom Pflegedienst, Patientendaten unter Begehung einer Straftat weiterzugeben.", "set": "nichtig-rechtswidrig", "richtig": "nichtig", "grund": "§ 40 II: VA verlangt eine Straftat." },
+        { "fall": "Ein Bescheid ordnet die Behandlung in einer Klinik an, die es tatsächlich nicht gibt.", "set": "nichtig-rechtswidrig", "richtig": "nichtig", "grund": "§ 40 II: aus tatsächlichen Gründen kann niemand den VA ausführen." },
+        { "fall": "Der zuständige Ausschuss war bei der Beschlussfassung über den Bescheid nicht beschlussfähig.", "set": "nichtig-rechtswidrig", "richtig": "nur rechtswidrig", "grund": "§ 40 III: nicht beschlussfähiger Ausschuss ist allein kein Nichtigkeitsgrund." }
+      ],
+      "luegen": [
+        { "aussagen": ["Ein Verstoß gegen die guten Sitten ist absoluter Nichtigkeitsgrund.", "Die Mitwirkung eines ausgeschlossenen Amtsträgers macht den VA nach § 40 II nichtig.", "Nach § 40 I muss der Fehler besonders schwerwiegend und offensichtlich sein."], "luege": 1, "erklaerung": "Die Mitwirkung eines ausgeschlossenen Amtsträgers steht in § 40 III: allein kein Nichtigkeitsgrund." },
+        { "aussagen": ["Nach § 40 I genügt ein besonders schwerwiegender Fehler; Offensichtlichkeit ist nicht nötig.", "Fehlende Urkundenform kann zur Nichtigkeit führen.", "Zuständigkeits- und Verfahrensfehler machen den VA meist nur rechtswidrig."], "luege": 0, "erklaerung": "§ 40 I verlangt kumulativ: besonders schwerwiegender Fehler UND bei verständiger Würdigung offensichtlich." }
+      ],
+      "fristen": [
+        { "szenario": "Eine örtlich unzuständige Krankenkassen-Geschäftsstelle erlässt einen Leistungsbescheid. Folge nach § 40 SGB X?", "optionen": ["Allein deswegen nicht nichtig (§ 40 III)", "Nichtig nach § 40 II", "Unwirksam, ohne dass es auf § 40 ankommt"], "richtig": 0, "erklaerung": "Verstoß gegen die örtliche Zuständigkeit ist nach § 40 III allein kein Nichtigkeitsgrund; der VA ist allenfalls rechtswidrig." }
+      ],
+      "beispielfall": {
+        "titel": "Der Bescheid für den Bruder",
+        "sachverhalt": "Sachbearbeiter S der Krankenkasse K erlässt zugunsten seines Bruders B einen schriftlichen Leistungsbescheid über Krankengeld. Der Bescheid trägt Briefkopf und Unterschrift der K. B wohnt im Bezirk einer anderen Geschäftsstelle, die örtlich zuständig gewesen wäre. Ist der Bescheid nichtig?",
+        "loesung": "**1. § 40 I SGB X (Generalklausel):** Nichtig nur bei einem **besonders schwerwiegenden** Fehler, der **bei verständiger Würdigung offensichtlich** ist. Die Mitwirkung des Bruders und die falsche Geschäftsstelle sind Fehler, aber für einen verständigen Betrachter nicht derart schwer und offenkundig, dass der Bescheid keinerlei Geltung beanspruchen könnte. → (-)\n\n**2. § 40 II SGB X (absolute Nichtigkeitsgründe):** Die Behörde ist erkennbar (Briefkopf K), keine Urkundenform vorgeschrieben, der VA ist tatsächlich ausführbar, verlangt keine Straftat/Ordnungswidrigkeit und verstößt nicht gegen die guten Sitten. → (-)\n\n**3. § 40 III SGB X (kein Nichtigkeitsgrund allein):** Der Verstoß gegen die **örtliche Zuständigkeit** und die **Mitwirkung eines ausgeschlossenen Amtsträgers** (S entscheidet über den eigenen Bruder) führen ausdrücklich **nicht allein** zur Nichtigkeit.\n\n**Ergebnis:** Der Bescheid ist **nicht nichtig**, sondern nur **rechtswidrig** (Nichtigkeit ist die Ausnahme). Er ist wirksam, kann aber angefochten bzw. von K unter den Voraussetzungen des § 45 SGB X zurückgenommen werden."
+      }
+    },
+    {
+      "id": "q42",
+      "typ": "definition",
+      "normenAusText": ["Art. 20 III GG", "§ 31 SGB I", "§ 45 SGB X"],
+      "eselsbruecke": "Kein Eingriff ohne Erlaubnisschein: Die Ermächtigungsgrundlage ist der Waffenschein der Verwaltung.",
+      "luecken": [
+        { "text": "Die Ermächtigungsgrundlage ist notwendig wegen des ___.", "loesung": "Vorbehalts des Gesetzes" },
+        { "text": "Im Sozialrecht gilt der Gesetzesvorbehalt auch für ___ (§ 31 SGB I).", "loesung": "Leistungen" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Krankenkasse will einen Bescheid zurücknehmen und sucht dafür nach einer Befugnisnorm im SGB X.", "set": "vorrang-vorbehalt", "richtig": "Vorbehalt des Gesetzes", "grund": "Ein Eingriff braucht eine gesetzliche Ermächtigungsgrundlage (hier § 45 SGB X)." }
+      ],
+      "luegen": [
+        { "aussagen": ["Die Ermächtigungsgrundlage verleiht der Verwaltung eine Befugnis.", "Im Sozialrecht brauchen nur Eingriffe, nicht aber Leistungen, eine gesetzliche Grundlage.", "§ 45 SGB X ist Ermächtigungsgrundlage für die Rücknahme eines begünstigenden VA."], "luege": 1, "erklaerung": "Nach § 31 SGB I gilt der Gesetzesvorbehalt im Sozialrecht auch für Leistungen." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q43",
+      "typ": "schema",
+      "normenAusText": ["§ 27 I SGB V", "§ 45 I SGB X"],
+      "eselsbruecke": "Wenn-Teil = Tatbestand, Dann-Teil = Rechtsfolge. „Kann“ im Dann-Teil? Ermessen!",
+      "luecken": [
+        { "text": "Der Tatbestand enthält die abstrakt beschriebenen ___.", "loesung": "Voraussetzungen" },
+        { "text": "Bei § 45 I SGB X führt das „darf“ in der Rechtsfolge zu ___.", "loesung": "Ermessen" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "§ 27 I SGB V: „… wenn sie notwendig ist, um eine Krankheit zu erkennen …“", "set": "tatbestand-rechtsfolge", "richtig": "Tatbestand", "grund": "Voraussetzung, eingeleitet mit dem Signalwort „wenn“." },
+        { "fall": "§ 27 I SGB V: „Versicherte haben Anspruch auf Krankenbehandlung …“", "set": "tatbestand-rechtsfolge", "richtig": "Rechtsfolge", "grund": "„Hat Anspruch“ beschreibt, was bei Erfüllung geschehen muss." },
+        { "fall": "§ 45 I SGB X: Ein rechtswidriger, begünstigender Verwaltungsakt liegt vor.", "set": "tatbestand-rechtsfolge", "richtig": "Tatbestand", "grund": "Beschreibt die Voraussetzung der Rücknahme." },
+        { "fall": "§ 45 I SGB X: Der VA darf ganz oder teilweise, für Zukunft oder Vergangenheit zurückgenommen werden.", "set": "tatbestand-rechtsfolge", "richtig": "Rechtsfolge", "grund": "Beschreibt, was geschehen darf; hier sitzt das Ermessen." }
+      ],
+      "luegen": [
+        { "aussagen": ["Das Ermessen sitzt im Tatbestand der Norm.", "„Wenn“, „sofern“, „soweit“ leiten typischerweise den Tatbestand ein.", "„Hat Anspruch“ ist ein Signalwort der Rechtsfolge."], "luege": 0, "erklaerung": "Ermessen sitzt in der Rechtsfolge (Signalwörter „kann“, „darf“)." }
+      ],
+      "fristen": [],
+      "beispielfall": {
+        "titel": "Zerlegung von § 27 I 1 SGB V",
+        "sachverhalt": "§ 27 Abs. 1 Satz 1 SGB V lautet: „Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.“ Ordnen Sie Tatbestand und Rechtsfolge zu und bestimmen Sie die Bindung der Verwaltung.",
+        "loesung": "**1. Signalwörter suchen:** „wenn“ leitet die Voraussetzungen ein, „haben Anspruch“ beschreibt die Folge.\n\n**2. Tatbestand (Voraussetzungen):**\n- Versicherte(r)\n- Krankheit\n- Notwendigkeit der Behandlung, um die Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Beschwerden zu lindern\n\n**3. Rechtsfolge:** Anspruch auf Krankenbehandlung.\n\n**4. Spielraum:** „haben Anspruch“ → **gebundene Entscheidung**, kein Ermessen. „Notwendig“ ist ein unbestimmter Rechtsbegriff im Tatbestand und gerichtlich voll überprüfbar.\n\n**Kontrast § 45 I SGB X:** Tatbestand = rechtswidriger, begünstigender VA; Rechtsfolge = darf (ganz oder teilweise, für Zukunft oder Vergangenheit) zurückgenommen werden → **Ermessen** in der Rechtsfolge."
+      }
+    },
+    {
+      "id": "q44",
+      "typ": "abgrenzung",
+      "normenAusText": [],
+      "eselsbruecke": "Ermessen hinten (Rechtsfolge), Beurteilung vorne (Tatbestand), Planung im Großen (Bedarfsplan).",
+      "luecken": [
+        { "text": "Der Beurteilungsspielraum besteht bei unbestimmten Rechtsbegriffen nur in ___.", "loesung": "Ausnahmefällen" },
+        { "text": "Ermessen ist der ___ zuzuordnen.", "loesung": "Rechtsfolge" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Ein Prüfungsausschuss bewertet die Facharztprüfung einer Ärztin als nicht bestanden. Wo liegt der Spielraum?", "set": "tatbestand-rechtsfolge", "richtig": "Tatbestand", "grund": "Prüfungsentscheidungen sind Beurteilungsspielraum, der auf der Tatbestandsseite sitzt." },
+        { "fall": "Eine Norm sagt, die Behörde „kann“ eine Leistung erbringen. Wo liegt der Spielraum?", "set": "tatbestand-rechtsfolge", "richtig": "Rechtsfolge", "grund": "„Kann“ signalisiert Ermessen auf der Rechtsfolgenseite." }
+      ],
+      "luegen": [
+        { "aussagen": ["Der Beurteilungsspielraum sitzt auf der Rechtsfolgenseite.", "Planungsspielraum gibt es z. B. bei der Krankenhausplanung.", "Signalwörter des Ermessens sind „kann“, „darf“, „ist berechtigt“."], "luege": 0, "erklaerung": "Beurteilungsspielraum → Tatbestand; Ermessen → Rechtsfolge." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q45",
+      "typ": "fakt",
+      "normenAusText": ["Art. 19 IV GG", "§ 27 SGB V"],
+      "eselsbruecke": "Unbestimmt heißt nicht frei: Das Gericht legt „notwendig“ selbst aus.",
+      "luecken": [
+        { "text": "Die Auslegung unbestimmter Rechtsbegriffe ist eine ___.", "loesung": "Rechtsfrage" },
+        { "text": "„Notwendig“ in § 27 SGB V ist ___.", "loesung": "voll überprüfbar" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Aus unbestimmten Rechtsbegriffen folgt grundsätzlich ein Beurteilungsspielraum der Verwaltung.", "Gerichte überprüfen unbestimmte Rechtsbegriffe grundsätzlich voll (Art. 19 IV GG).", "Pluralistisch besetzte Gremien können einen Beurteilungsspielraum haben."], "luege": 0, "erklaerung": "Grundsätzlich nein: unbestimmte Rechtsbegriffe sind voll überprüfbar; Beurteilungsspielräume sind enge Ausnahmen." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q46",
+      "typ": "abgrenzung",
+      "normenAusText": ["§ 45 SGB X"],
+      "eselsbruecke": "Entschließung = OB ich losgehe. Auswahl = WIE ich gehe.",
+      "luecken": [
+        { "text": "Das Entschließungsermessen betrifft, ___ die Behörde überhaupt tätig wird.", "loesung": "ob" },
+        { "text": "Beim Auswahlermessen wählt die Behörde die Rechtsfolge oder das ___.", "loesung": "Mittel" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse überlegt, ob sie einen rechtswidrigen Bewilligungsbescheid überhaupt zurücknehmen soll.", "set": "ermessensart", "richtig": "Entschließungsermessen", "grund": "Es geht um das Ob des Tätigwerdens." },
+        { "fall": "Die Kasse hat entschieden zurückzunehmen und überlegt: ganz oder nur teilweise?", "set": "ermessensart", "richtig": "Auswahlermessen", "grund": "Es geht um das Wie, also die Wahl der Rechtsfolge." },
+        { "fall": "Die Kasse überlegt, ob die Rücknahme für die Zukunft oder auch für die Vergangenheit gelten soll.", "set": "ermessensart", "richtig": "Auswahlermessen", "grund": "Wahl zwischen mehreren möglichen Rechtsfolgen." },
+        { "fall": "Eine Behörde erfährt von einem Hygienemangel in einer Praxis und erwägt, ob sie überhaupt einschreiten soll.", "set": "ermessensart", "richtig": "Entschließungsermessen", "grund": "Ob die Behörde tätig wird." }
+      ],
+      "luegen": [
+        { "aussagen": ["Beim Auswahlermessen entscheidet die Behörde, ob sie überhaupt tätig wird.", "§ 45 SGB X eröffnet Entschließungs- und Auswahlermessen.", "Ganz oder teilweise zurücknehmen ist eine Frage des Auswahlermessens."], "luege": 0, "erklaerung": "Das Ob ist Entschließungsermessen; Auswahlermessen betrifft das Wie." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q47",
+      "typ": "definition",
+      "normenAusText": ["§ 38 SGB I"],
+      "eselsbruecke": "Gebunden = Automat: Tatbestand rein, Rechtsfolge raus.",
+      "luecken": [
+        { "text": "Bei der gebundenen Entscheidung hat die Verwaltung keinen ___.", "loesung": "Entscheidungsspielraum" },
+        { "text": "Im Sozialrecht ist sie der Regelfall bei ___ (§ 38 SGB I).", "loesung": "Rechtsansprüchen" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "„Versicherte haben Anspruch auf Krankenbehandlung, wenn …“ (§ 27 I SGB V)", "set": "spielraum", "richtig": "gebundene Entscheidung", "grund": "„Hat Anspruch“: Rechtsfolge zwingend." },
+        { "fall": "Eine Norm bestimmt, eine Leistung „ist zu gewähren“, wenn die Voraussetzungen vorliegen.", "set": "spielraum", "richtig": "gebundene Entscheidung", "grund": "„Ist zu“ signalisiert zwingende Rechtsfolge." }
+      ],
+      "luegen": [
+        { "aussagen": ["Gebundene Entscheidungen sind vollständig gerichtlich überprüfbar.", "Signalwörter sind „hat Anspruch“, „ist zu“, „muss“.", "Bei der gebundenen Entscheidung darf die Behörde in atypischen Fällen abweichen."], "luege": 2, "erklaerung": "Abweichen im atypischen Fall kennzeichnet die Sollvorschrift; bei gebundener Entscheidung muss die Rechtsfolge eintreten." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q48",
+      "typ": "definition",
+      "normenAusText": [],
+      "eselsbruecke": "„Soll“ = „muss, außer es ist was Besonderes“ – nur der atypische Fall darf ausbrechen.",
+      "luecken": [
+        { "text": "Von einer Sollvorschrift darf nur in ___ Ausnahmefällen abgewichen werden.", "loesung": "atypischen" },
+        { "text": "Man spricht auch von ___ Ermessen.", "loesung": "intendiertem" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Eine Norm bestimmt, die Kasse „soll“ den Antrag im Regelfall bewilligen.", "set": "spielraum", "richtig": "Sollvorschrift", "grund": "„Soll“: Regelfall verpflichtend, Abweichung nur atypisch." },
+        { "fall": "Eine Norm sagt, die Behörde „kann“ einen Zuschuss gewähren.", "set": "spielraum", "richtig": "Ermessen", "grund": "„Kann“ eröffnet Ermessen." },
+        { "fall": "§ 45 I SGB X: Ein rechtswidriger begünstigender VA „darf“ zurückgenommen werden.", "set": "spielraum", "richtig": "Ermessen", "grund": "„Darf“ in der Rechtsfolge → Ermessen." }
+      ],
+      "luegen": [
+        { "aussagen": ["Die Sollvorschrift steht zwischen gebundener Entscheidung und freiem Ermessen.", "Bei der Sollvorschrift ist jede Entscheidung ausführlich zu begründen, auch im Regelfall.", "Im Regelfall verpflichtet die Sollvorschrift zu einer bestimmten Rechtsfolge."], "luege": 1, "erklaerung": "Eine Begründung ist nur bei der Abweichung vom Regelfall nötig." }
+      ],
+      "fristen": [
+        { "szenario": "Nach einer Sollvorschrift ist eine Leistung zu bewilligen. Der Fall ist völlig typisch. Was gilt?", "optionen": ["Freie Wahl der Behörde", "Behörde muss bewilligen", "Behörde darf ohne Begründung ablehnen"], "richtig": 1, "erklaerung": "Im Regelfall verpflichtet die Sollvorschrift zur Rechtsfolge; Abweichung nur im atypischen Ausnahmefall." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q49",
+      "typ": "fakt",
+      "normenAusText": [],
+      "eselsbruecke": "Richter kontrollieren Recht, nicht Geschmack: Ermessen nur auf Fehler, nie auf Zweckmäßigkeit.",
+      "luecken": [
+        { "text": "Ermessen wird nur auf Ermessensfehler, nicht auf ___ geprüft.", "loesung": "Zweckmäßigkeit" },
+        { "text": "Beim ___ ist die Kontrolle eingeschränkt.", "loesung": "Beurteilungsspielraum" }
+      ],
+      "reihenfolge": null,
+      "triage": [],
+      "luegen": [
+        { "aussagen": ["Grundsätzlich prüfen Gerichte den Tatbestand voll.", "Ermessensentscheidungen prüft das Gericht auch auf ihre Zweckmäßigkeit.", "Prognoseentscheidungen werden nur eingeschränkt geprüft."], "luege": 1, "erklaerung": "Nach § 54 II 2 SGG prüft das Gericht nur Ermessensfehler, keine Zweckmäßigkeit." }
+      ],
+      "fristen": [
+        { "szenario": "V klagt gegen eine Ermessensentscheidung der Kasse, weil eine andere Lösung „sinnvoller“ wäre. Was prüft das Sozialgericht?", "optionen": ["Nur Ermessensfehler (§ 54 II 2 SGG)", "Volle Zweckmäßigkeit", "Gar nichts, Ermessen ist unüberprüfbar"], "richtig": 0, "erklaerung": "Ermessen wird nur auf Ermessensfehler kontrolliert, nicht auf Zweckmäßigkeit." }
+      ],
+      "beispielfall": null
+    },
+    {
+      "id": "q50",
+      "typ": "definition",
+      "normenAusText": ["§ 45 SGB X"],
+      "eselsbruecke": "Nichtgebrauch = Ermessen liegt im Schrank und wird gar nicht rausgeholt.",
+      "luecken": [
+        { "text": "Ermessensnichtgebrauch heißt auch ___.", "loesung": "Ermessensausfall" },
+        { "text": "Typisch ist, dass sich die Behörde ___ gebunden glaubt.", "loesung": "irrtümlich" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse nimmt einen Bescheid nach § 45 SGB X zurück und schreibt: „Wir sind zur Rücknahme verpflichtet.“", "set": "ermessensfehler", "richtig": "Nichtgebrauch", "grund": "Die Kasse glaubt sich irrtümlich gebunden und übt kein Ermessen aus." },
+        { "fall": "Eine Sachbearbeiterin lehnt alle Anträge dieser Art pauschal mit Textbaustein ab, ohne den Einzelfall zu betrachten.", "set": "ermessensfehler", "richtig": "Nichtgebrauch", "grund": "Pauschale Entscheidung ohne Ermessensausübung." }
+      ],
+      "luegen": [
+        { "aussagen": ["Beim Nichtgebrauch erkennt die Behörde ihren Spielraum nicht.", "Ein Fall ist, dass sich die Behörde irrtümlich gebunden glaubt.", "Nichtgebrauch wird auch Ermessensmissbrauch genannt."], "luege": 2, "erklaerung": "Nichtgebrauch heißt auch Ermessensausfall; Ermessensmissbrauch ist ein anderer Name für den Fehlgebrauch." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q51",
+      "typ": "definition",
+      "normenAusText": [],
+      "eselsbruecke": "Überschreitung = über den Zaun gesprungen: Rechtsfolge außerhalb des gesetzlichen Rahmens.",
+      "luecken": [
+        { "text": "Bei der Ermessensüberschreitung ist die Rechtsfolge vom gesetzlichen ___ nicht gedeckt.", "loesung": "Ermessensrahmen" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Das Gesetz erlaubt eine Kürzung um bis zu 30 %, die Kasse kürzt um 50 %.", "set": "ermessensfehler", "richtig": "Überschreitung", "grund": "Die Rechtsfolge liegt außerhalb des gesetzlichen Rahmens." },
+        { "fall": "Eine Norm erlaubt nur eine Verwarnung oder ein Bußgeld bis 500 €, die Behörde verhängt 2.000 €.", "set": "ermessensfehler", "richtig": "Überschreitung", "grund": "Gewählte Rechtsfolge vom Ermessensrahmen nicht gedeckt." }
+      ],
+      "luegen": [
+        { "aussagen": ["Bei der Überschreitung wählt die Behörde eine nicht vorgesehene Rechtsfolge.", "Kürzt die Behörde um 50 %, obwohl nur 30 % erlaubt sind, liegt Ermessensnichtgebrauch vor.", "Die Überschreitung ist ein Ermessensfehler."], "luege": 1, "erklaerung": "Das ist das Lehrbeispiel der Ermessensüberschreitung: Rahmen überschritten." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q52",
+      "typ": "definition",
+      "normenAusText": [],
+      "eselsbruecke": "Fehlgebrauch = richtiges Werkzeug, falscher Zweck: sachfremde Gründe wie Kassenwechsel oder Antipathie.",
+      "luecken": [
+        { "text": "Beim Fehlgebrauch wird das Ermessen nicht entsprechend dem Zweck der ___ ausgeübt.", "loesung": "Ermächtigung" },
+        { "text": "Typisch sind ___ Erwägungen.", "loesung": "sachfremder" }
+      ],
+      "reihenfolge": null,
+      "triage": [
+        { "fall": "Die Kasse lehnt eine Reha ab, weil der Antragsteller früher die Kasse gewechselt hatte.", "set": "ermessensfehler", "richtig": "Fehlgebrauch", "grund": "Sachfremde Erwägung, nicht vom Zweck der Ermächtigung gedeckt." },
+        { "fall": "Ein Sachbearbeiter lehnt einen Antrag ab, weil ihm der Antragsteller persönlich unsympathisch ist.", "set": "ermessensfehler", "richtig": "Fehlgebrauch", "grund": "Persönliche Abneigung ist eine sachfremde Erwägung." },
+        { "fall": "Die Behörde berücksichtigt bei ihrer Ermessensabwägung wesentliche Belange des Betroffenen nicht.", "set": "ermessensfehler", "richtig": "Fehlgebrauch", "grund": "Abwägungsdefizit = Fehlgebrauch." }
+      ],
+      "luegen": [
+        { "aussagen": ["Der Fehlgebrauch heißt auch Ermessensmissbrauch.", "Ein Verstoß gegen die Verhältnismäßigkeit kann Fehlgebrauch sein.", "Die Pflicht zur zweckgerechten Ermessensausübung steht in § 39 I SGB X."], "luege": 2, "erklaerung": "Die Norm ist § 39 I SGB I, nicht SGB X." }
+      ],
+      "fristen": [],
+      "beispielfall": null
+    },
+    {
+      "id": "q53",
+      "typ": "schema",
+      "normenAusText": [],
+      "eselsbruecke": "Z-G-E-A: Zweck, Geeignet, Erforderlich, Angemessen – „Zieh Gut Eben An“.",
+      "luecken": [
+        { "text": "Erforderlich ist das ___ gleich wirksame Mittel.", "loesung": "mildeste" },
+        { "text": "Ist nur eine Entscheidung rechtmäßig, liegt eine Ermessensreduzierung auf ___ vor.", "loesung": "Null" },
+        { "text": "Die Verhältnismäßigkeit ist eine ___ der Ermessensausübung.", "loesung": "Schranke" }
+      ],
+      "reihenfolge": { "titel": "Verhältnismäßigkeit im Ermessen", "schritte": ["Legitimer Zweck", "Geeignet", "Erforderlich (mildestes Mittel)", "Angemessen"] },
+      "triage": [
+        { "fall": "Die Kasse hebt eine Leistung vollständig auf, obwohl eine teilweise Aufhebung den Zweck genauso erreicht hätte.", "set": "ermessensfehler", "richtig": "Fehlgebrauch", "grund": "Unverhältnismäßig (nicht erforderlich) → Verstoß gegen Verhältnismäßigkeit = Fehlgebrauch." }
+      ],
+      "luegen": [
+        { "aussagen": ["Eine unverhältnismäßige Entscheidung ist ein Ermessensfehler.", "Erforderlich ist das wirksamste, nicht das mildeste Mittel.", "Bei Ermessensreduzierung auf Null ist die Entscheidung gebunden."], "luege": 1, "erklaerung": "Erforderlich ist das mildeste gleich wirksame Mittel." }
+      ],
+      "fristen": [
+        { "szenario": "Wegen der Verhältnismäßigkeit ist nur noch eine einzige Entscheidung der Kasse rechtmäßig. Was folgt daraus?", "optionen": ["Ermessen bleibt frei", "Entscheidung ist nichtig", "Ermessensreduzierung auf Null: gebunden"], "richtig": 2, "erklaerung": "Bleibt nur eine rechtmäßige Entscheidung, ist das Ermessen auf Null reduziert und die Entscheidung gebunden." }
+      ],
+      "beispielfall": null
+    }
+  ],
+  "stichprobe": [
+    { "karte": "q40", "norm": "§ 24 SGB X", "quelle": "https://www.gesetze-im-internet.de/sgb_10/__24.html", "ergebnis": "stimmt" },
+    { "karte": "q41", "norm": "§ 40 SGB X", "quelle": "https://www.gesetze-im-internet.de/sgb_10/__40.html", "ergebnis": "stimmt (Abs. 3 enthält zusätzlich Nr. 4: unterbliebene Mitwirkung einer anderen Behörde; Karte nennt „u. a.“)" },
+    { "karte": "q39", "norm": "§ 41 SGB X", "quelle": "https://www.gesetze-im-internet.de/sgb_10/__41.html", "ergebnis": "Abweichung: Abs. 1 hat 6 Nummern (Nr. 6 Hinzuziehung eines Beteiligten); Abs. 2 Zeitgrenze gilt für Nr. 2–6" },
+    { "karte": "q43", "norm": "§ 45 SGB X", "quelle": "https://www.gesetze-im-internet.de/sgb_10/__45.html", "ergebnis": "stimmt (Gesetz: „darf … zurückgenommen werden“, Abs. 2–4 Vertrauensschutz)" },
+    { "karte": "q43", "norm": "§ 27 I SGB V", "quelle": "https://www.gesetze-im-internet.de/sgb_5/__27.html", "ergebnis": "stimmt" }
+  ],
+  "anmerkungen": [
+    "§ 41 I SGB X nennt sechs Heilungstatbestände (zusätzlich Nr. 6: Hinzuziehung eines Beteiligten); ANTWORTEN.md (q39) listet nur fünf.",
+    "§ 41 II SGB X: Die Zeitgrenze „bis zur letzten Tatsacheninstanz“ gilt dem Wortlaut nach für Nr. 2–6 (nicht für den Antrag, Nr. 1); q39 formuliert sie allgemein."
+  ]
+}
