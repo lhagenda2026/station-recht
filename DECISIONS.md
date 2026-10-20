@@ -1,0 +1,26 @@
+# Entscheidungen (je eine Zeile)
+
+- Skill `frontend-design` war nicht installiert → per `npx skills add anthropics/skills@frontend-design` geholt und angewendet; Skills für PWA/Playwright/Deployment gab es nicht, selbst gelöst.
+- Fragenwortlaut stammt aus dem Anhang von BRIEF.md (vollständiger), Kurzantwort/Normen/Schlüsselbegriffe wörtlich aus ANTWORTEN.md (automatisch geparst, Validator prüft Gleichheit).
+- `kurzantwort` = Text der Kurzantwort-Zeile (bei Listen-Antworten inkl. direkt folgender Liste); `langantwort` = alle weiteren Zeilen der Antwort, unverändert.
+- ⚠-Zeilen aus ANTWORTEN.md werden als „Hinweis“ unter den Details gezeigt statt im Antworttext; diese Karten sind `verifiziert: false`.
+- Fehlt in ANTWORTEN.md die Normen-Zeile, werden nur die im Antworttext selbst genannten Normen übernommen; q1, q2, q3, q5, q16, q20, q28, q38, q44, q48, q51 nennen keine Norm und bleiben ohne.
+- q51 hat in ANTWORTEN.md nur 2 Schlüsselbegriffe (Brief verlangt 3–6) → unverändert übernommen.
+- Normabweichung § 37 Abs. 2 SGB X: aktuelle Fassung fingiert Bekanntgabe am vierten Tag, ANTWORTEN.md (q54) sagt dritter Tag → Antwort unverändert, q54 als nicht verifiziert markiert + Hinweis in der App; Datumsaufgaben so gewählt, dass beide Regeln dasselbe Fristende ergeben.
+- Normabweichung § 41 SGB X: Abs. 1 hat sechs Nummern (Nr. 6 Hinzuziehung eines Beteiligten), Zeitgrenze Abs. 2 gilt für Nr. 2–6 → Hinweis an q39, Antwort unverändert.
+- Normabweichung § 2 Abs. 1a SGB V: auch „wertungsmäßig vergleichbare“ Erkrankungen; „auf Indizien gestützt“ stammt aus dem Nikolaus-Beschluss → Hinweis an q25.
+- § 91 Abs. 6 SGB V nimmt Beschlüsse nach § 136d von der Verbindlichkeit aus → Hinweis an q10.
+- q56 (⚠): § 84 Abs. 2 SGG verweist tatsächlich auf §§ 66, 67 SGG → Hinweis bestätigt; Karte bleibt wegen ⚠ als nicht verifiziert markiert.
+- § 66 Abs. 1 SGG nennt „Form“ nicht ausdrücklich als Belehrungsinhalt (q56) → keine Spielfrage dazu.
+- Inhaltlicher Stichproben-Check: 17 Normen auf gesetze-im-internet.de geprüft (Liste in `content/*.json` → `stichprobe`), Abweichungen siehe oben.
+- „Wackelt“ = Box −2 (min. 0), „Weg“ = Box 0, „Sitzt“ = Box +1, aber höchstens ein Aufstieg pro Karte und Tag, damit Spielrunden die Boxen nicht hochjagen.
+- Spielmodi werten richtig = „Sitzt“, falsch = „Weg“; Fristen-Bombe nach Fehlschnitt aber richtig = „Wackelt“.
+- Visite: fällige Karten, dann schwache (Vital < 70 %), dann neue – so kommen auch bei vielen gesehenen Karten neue dazu.
+- Vitalwert: Basis je Box (18/40/58/74/88/100 %) minus 30 Punkte pro überzogenem Intervall; ungesehene Karten sind „neu“ (5. Zustand neben kritisch/wackelt/stabil/entlassen).
+- Zimmerwert auf der Station = Mittel aller Vitalwerte, neue Karten zählen 0 %.
+- Zusätzliche Triage-Sets (Schranken, Drei-Stufen, Auslegung, VA ja/nein usw.) neben den im Brief genannten, damit alle Kapitel bespielbar sind.
+- Modus D umgesetzt als „Schema-OP“: Schritte antippen statt fallender Blöcke (einfacher und auf dem iPhone besser bedienbar).
+- Oberarzt-Visite nutzt die objektiv auswertbaren Aufgaben (Triage, Lüge, Bombe) des Kapitels.
+- Systemschrift (SF Pro / SF Pro Rounded für Zahlen) statt eingebetteter Fonts – offline sicher, auf iOS ideal.
+- Safe-Area kann Playwright nicht emulieren; abgesichert über `env(safe-area-inset-*)` im CSS, geprüft per Screenshot im 390×844-Format.
+- Lighthouse nicht ausgeführt (braucht Chrome); PWA-Kriterien (Manifest, Icons, SW, Offline) per Playwright-Test geprüft.

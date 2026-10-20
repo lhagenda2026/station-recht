@@ -1,0 +1,14 @@
+{
+  "name": "station-recht",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build_cards.mjs && node tools/validate.mjs && node tools/bump_sw.mjs",
+    "validate": "node tools/validate.mjs",
+    "serve": "node tools/serve.mjs",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
+}

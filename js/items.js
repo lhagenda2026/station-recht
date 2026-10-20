@@ -15,7 +15,7 @@ export function triageItem(ctx, fall, { zeitMs = 0, onAntwort, onWeiter }) {
   const karte = h('div', { class: 'fallkarte', tabindex: '-1' },
     h('p', { class: 'set-titel' }, set.titel),
     h('p', { class: 'fall' }, fall.fall));
-  const zeitbalken = zeitMs ? h('div', { class: 'zeitbalken', 'aria-hidden': 'true' }, h('span', { style: `animation-duration:${zeitMs}ms` })) : null;
+  const zeitbalken = zeitMs ? h('div', { class: 'zeitbalken', 'aria-hidden': 'true' }, h('span', { style: `--dauer:${zeitMs}ms;animation-duration:${zeitMs}ms` })) : null;
   const feedback = h('div', { class: 'feedback', role: 'status' });
   const boxen = h('div', { class: `boxen n${set.boxen.length}` }, set.boxen.map((b) =>
     h('button', { type: 'button', class: 'box', 'data-box': b, onclick: () => antwort(b) }, b)));
