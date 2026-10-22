@@ -1,103 +1,78 @@
-// Kleine DOM- und Darstellungshelfer.
+// Kleine DOM-Helfer, Texte mit Glossar-Begriffen und das Glossar-Fenster.
+import { getDaten } from './tag.js';
 
-export function h(tag, attrs = {}, ...kinder) {
-  const el = document.createElement(tag);
-  for (const [k, v] of Object.entries(attrs ?? {})) {
-    if (v === null || v === undefined || v === false) continue;
-    if (k === 'class') el.className = v;
-    else if (k === 'html') el.innerHTML = v;
-    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
-    else el.setAttribute(k, v === true ? '' : v);
+export const app = () => document.getElementById('app');
+
+export function el(tag, attrs = {}, ...kinder) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v == null || v === false) continue;
+    if (k === 'class') n.className = v;
+    else if (k.startsWith('on')) n.addEventListener(k.slice(2), v);
+    else if (k === 'text') n.textContent = v;
+    else n.setAttribute(k, v === true ? '' : v);
   }
-  for (const c of kinder.flat()) if (c !== null && c !== undefined && c !== false) el.append(c instanceof Node ? c : document.createTextNode(c));
-  return el;
+  for (const k of kinder.flat()) if (k != null && k !== false) n.append(k);
+  return n;
 }
 
-const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const inline = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+export function zeige(...knoten) {
+  const root = app();
+  root.replaceChildren(...knoten);
+  root.scrollTop = 0;
+  window.scrollTo(0, 0);
+}
 
-// Minimal-Markdown: Absätze, **fett**, Listen (- / 1.), Tabellen
-export function md(src = '') {
-  const lines = src.split('\n');
-  let out = '';
-  let i = 0;
-  while (i < lines.length) {
-    const l = lines[i];
-    if (!l.trim()) { i++; continue; }
-    if (l.startsWith('|')) {
-      const rows = [];
-      while (i < lines.length && lines[i].startsWith('|')) rows.push(lines[i++]);
-      const cells = (r) => r.split('|').slice(1, -1).map((c) => c.trim());
-      const [kopf, , ...rest] = rows;
-      out += '<div class="tabelle"><table><thead><tr>' + cells(kopf).map((c) => `<th>${inline(c)}</th>`).join('') + '</tr></thead><tbody>'
-        + rest.map((r) => '<tr>' + cells(r).map((c) => `<td>${inline(c)}</td>`).join('') + '</tr>').join('') + '</tbody></table></div>';
-      continue;
-    }
-    if (/^(- |\d+\. )/.test(l)) {
-      const ordered = /^\d+\. /.test(l);
-      const items = [];
-      while (i < lines.length && /^(- |\d+\. )/.test(lines[i])) items.push(lines[i++].replace(/^(- |\d+\. )/, ''));
-      const tag = ordered ? 'ol' : 'ul';
-      out += `<${tag}>` + items.map((t) => `<li>${inline(t)}</li>`).join('') + `</${tag}>`;
-      continue;
-    }
-    const para = [];
-    while (i < lines.length && lines[i].trim() && !/^(- |\d+\. |\|)/.test(lines[i])) para.push(lines[i++]);
-    out += `<p>${para.map(inline).join('<br>')}</p>`;
+// Glossar-Eintrag zu einem Begriff (auch über Aliase, ohne Groß-/Kleinschreibung)
+export function glossarEintrag(begriff) {
+  const g = getDaten()?.glossar ?? [];
+  const key = begriff.toLowerCase();
+  return g.find((e) => e.begriff.toLowerCase() === key || e.aliase?.some((a) => a.toLowerCase() === key));
+}
+
+// Text mit **fett** und [[Begriff]] bzw. [[angezeigt|Begriff]] → Knoten
+export function text(s) {
+  const frag = document.createDocumentFragment();
+  if (!s) return frag;
+  const teile = String(s).split(/(\[\[[^\]]+\]\]|\*\*[^*]+\*\*)/g);
+  for (const t of teile) {
+    if (!t) continue;
+    if (t.startsWith('[[')) {
+      const [anzeige, schluessel = anzeige] = t.slice(2, -2).split('|');
+      const eintrag = glossarEintrag(schluessel);
+      frag.append(eintrag
+        ? el('button', { type: 'button', class: 'begriff', onclick: (e) => { e.stopPropagation(); glossarFenster(eintrag); } }, anzeige)
+        : anzeige);
+    } else if (t.startsWith('**')) {
+      frag.append(el('strong', {}, t.slice(2, -2)));
+    } else frag.append(t);
   }
-  return out;
+  return frag;
 }
 
-export function shuffle(arr) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
-  return a;
+export const p = (s, cls) => el('p', { class: cls }, text(s));
+
+// Unteres Blatt (Sheet) für Glossar, Regelkarte, Regelbuch
+export function blatt(inhalt, { klasse = '', onzu } = {}) {
+  const hinter = el('div', { class: 'blatt-hinter' });
+  const zu = () => { hinter.remove(); onzu?.(); };
+  const knopfZu = el('button', { type: 'button', class: 'blatt__zu', 'aria-label': 'Schließen', onclick: zu }, '✕');
+  const box = el('div', { class: `blatt ${klasse}`, role: 'dialog', 'aria-modal': 'true' }, knopfZu, inhalt);
+  hinter.append(box);
+  hinter.addEventListener('click', (e) => { if (e.target === hinter) zu(); });
+  document.body.append(hinter);
+  knopfZu.focus({ preventScroll: true });
+  return { zu, box };
 }
 
-export const ZUSTAND = {
-  kritisch: { label: 'kritisch', icon: '▲' },
-  wackelt: { label: 'wackelt', icon: '◆' },
-  stabil: { label: 'stabil', icon: '●' },
-  entlassen: { label: 'entlassen', icon: '✓' },
-  neu: { label: 'neu', icon: '○' },
-};
-
-export function toast(text) {
-  const t = h('div', { class: 'toast', role: 'status' }, text);
-  document.body.append(t);
-  setTimeout(() => t.classList.add('weg'), 1800);
-  setTimeout(() => t.remove(), 2300);
+export function glossarFenster(e) {
+  blatt(el('div', { class: 'glossar' },
+    el('h3', { class: 'glossar__begriff' }, e.begriff),
+    p(e.erklaerung, 'glossar__satz'),
+    e.beispiel ? el('p', { class: 'glossar__bsp' }, el('span', { class: 'glossar__bsp-label' }, 'Beispiel: '), text(e.beispiel)) : null,
+  ), { klasse: 'blatt--klein' });
 }
 
-export function konfetti(n = 70) {
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  const box = h('div', { class: 'konfetti', 'aria-hidden': 'true' });
-  const farben = ['var(--hf)', 'var(--spo2)', 'var(--af)', 'var(--nibp)', 'var(--text)'];
-  for (let i = 0; i < n; i++) {
-    const s = h('i');
-    s.style.left = Math.random() * 100 + '%';
-    s.style.background = farben[i % farben.length];
-    s.style.animationDelay = Math.random() * 0.4 + 's';
-    s.style.setProperty('--dx', (Math.random() * 120 - 60) + 'px');
-    s.style.setProperty('--rot', (Math.random() * 720 - 360) + 'deg');
-    box.append(s);
-  }
-  document.body.append(box);
-  setTimeout(() => box.remove(), 2600);
-}
-
-// EKG-Kurve als SVG-Pfad; Puls/Amplitude spiegeln den Zustand
-export function ekgPfad(breite, hoehe, vital, phase = 0) {
-  const mitte = hoehe * 0.62;
-  if (vital === null) return `M0 ${mitte} L${breite} ${mitte}`;
-  const amp = (0.25 + 0.75 * vital / 100) * hoehe * 0.55;
-  const schlag = 64 - Math.round(vital / 100 * 18);
-  let d = `M0 ${mitte}`;
-  for (let x = -phase; x < breite; x += schlag) {
-    const p = (dx) => Math.max(0, Math.min(breite, x + dx)).toFixed(1);
-    d += ` L${p(schlag * 0.35)} ${mitte} L${p(schlag * 0.42)} ${mitte - amp * 0.12} L${p(schlag * 0.48)} ${mitte}`
-      + ` L${p(schlag * 0.55)} ${mitte + amp * 0.18} L${p(schlag * 0.6)} ${mitte - amp} L${p(schlag * 0.66)} ${mitte + amp * 0.32}`
-      + ` L${p(schlag * 0.72)} ${mitte} L${p(schlag * 0.84)} ${mitte - amp * 0.2} L${p(schlag * 0.94)} ${mitte}`;
-  }
-  return d + ` L${breite} ${mitte}`;
+export function reducedMotion() {
+  return matchMedia('(prefers-reduced-motion: reduce)').matches;
 }

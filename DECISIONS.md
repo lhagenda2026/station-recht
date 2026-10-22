@@ -25,3 +25,20 @@
 - Safe-Area kann Playwright nicht emulieren; abgesichert über `env(safe-area-inset-*)` im CSS, geprüft per Screenshot im 390×844-Format.
 - Lighthouse nicht ausgeführt (braucht Chrome); PWA-Kriterien (Manifest, Icons, SW, Offline) per Playwright-Test geprüft.
 - GitHub Pages braucht bei kostenlosen Konten ein öffentliches Repo → Repo `station-recht` öffentlich angelegt (die App-Inhalte sind über die URL ohnehin öffentlich).
+
+## Version 2 „Bescheid, bitte!“ (BRIEF_V2)
+- V1 lag bereits identisch im Branch `v1-karteikarten` (lokal und auf GitHub) → nur geprüft, nicht neu angelegt.
+- Deployment wie V1: GitHub Pages aus `main`, Repo `station-recht`, gleiche URL; der neue Service Worker löscht beim Aktivieren alle alten Caches.
+- Klausurformel (Kurzantwort, Normen, Schlüsselbegriffe) baut `tools/build.mjs` wörtlich aus `data/base.json` (Parser aus V1); Inhaltsdateien `inhalte/*.json` liefern nur Alltagssprache, Fälle, Bausteine und Glossar.
+- Fachbegriffe werden im Text als `[[Begriff]]` bzw. `[[angezeigt|Begriff]]` markiert; so ist „jedes Fachwort im Glossar“ maschinell prüfbar.
+- Ein Spieltag ist eine Runde (kein Kalendertag): beliebig viele Schichten pro Tag möglich; Leitner-Fälligkeit läuft trotzdem nach echten Tagen.
+- Fälle werden erst am Schalter gewählt (nach der dann aktuellen Stufe), damit eine neue Regel schon am ersten Tag von Stufe 0 auf 1 steigen kann.
+- Neue Regeln: 3 pro Tag, bei viel Fälligem 2 bzw. 1; jede neue Regel kommt zwei- bis dreimal dran.
+- Stufe 0 ohne Zeitdruck und ohne Zeitablauf; Stufe 1 = 1,5 × Grunddauer, Stufe 2 = 1 ×, Stufe 3 = 0,85 ×.
+- Regelbuch auch auf Stufe 3 erreichbar (mit Kosten), damit man nie festhängt; „keine Hilfe“ heißt dort: kein offene Karte, kein Tipp.
+- Zeit abgelaufen = Antragsteller geht = Beschwerde (wie falsch).
+- Sterne: Restgeduld ≥ 50 % = 3, ≥ 20 % = 2, sonst 1; Regelbuch begrenzt auf 2. Trinkgeld = 2 Münzen je Stern.
+- Beförderungsprüfung freigeschaltet, wenn alle Regeln des Stockwerks eingeführt und mindestens 70 % auf Stufe 2 („Geselle“) sind.
+- Abstieg bei Fehler: Stufe −1 und Leitner-Box 0 (morgen wieder fällig).
+- Pause → „Zurück ins Büro“ hält den Tag offen („Schicht fortsetzen“), damit nichts verloren geht.
+- Schriften: „American Typewriter“ (iOS-Systemschrift) für Akten, SF Rounded für Bedienung; keine eingebetteten Fonts (offline sicher).

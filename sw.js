@@ -1,11 +1,13 @@
-// Service Worker: Cache-First mit Versionsstring. Bei Änderungen VERSION erhöhen (tools/bump_sw.mjs).
-const VERSION = 'sr-6b4a8bf40f';
+// Service Worker: Cache-First mit Versionsstring. VERSION setzt tools/bump_sw.mjs (Hash aller Dateien).
+// Löscht beim Aktivieren alle anderen Caches, auch die der Version 1 (Station Recht).
+const VERSION = 'bb-84e2483fa9';
 const DATEIEN = [
-  './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/cards.json',
-  'js/store.js', 'js/ui.js', 'js/items.js',
-  'js/screens/common.js', 'js/screens/station.js', 'js/screens/zimmer.js', 'js/screens/lernkarte.js',
-  'js/screens/visite.js', 'js/screens/triage.js', 'js/screens/luege.js', 'js/screens/bombe.js',
-  'js/screens/oberarzt.js', 'js/screens/schema.js', 'js/screens/einstellungen.js',
+  './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest',
+  'data/regeln.json', 'data/faelle.json', 'data/glossar.json',
+  'js/store.js', 'js/tag.js', 'js/ui.js', 'js/regelkarte.js',
+  'js/szenen/buero.js', 'js/szenen/morgen.js', 'js/szenen/schalter.js', 'js/szenen/feierabend.js',
+  'js/szenen/regelbuch.js', 'js/szenen/einstellungen.js',
+  'js/formate/index.js', 'js/formate/f1.js',
   'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-512-maskable.png',
 ];
 

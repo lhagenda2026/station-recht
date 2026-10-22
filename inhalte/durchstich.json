@@ -1,0 +1,180 @@
+{
+  "stockwerkOverride": 1,
+  "regeln": [
+    {
+      "id": "q38",
+      "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
+      "fachbegriff": "Rücknahme und Widerruf",
+      "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+      "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
+      "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
+      "erkennen": [
+        "Frage dich: War der Bescheid am ersten Tag schon falsch?",
+        "Ja, von Anfang an falsch: **Rücknahme**.",
+        "Nein, damals richtig: **Widerruf**.",
+        "Ein Widerruf gilt nur für die Zukunft."
+      ],
+      "merktrick": "Rücknahme repariert den Fehler. Widerruf winkt dem Richtigen zum Abschied.",
+      "bausteine": ["Entscheidend ist die Rechtmäßigkeit des VA bei Erlass.", "Rücknahme: Der VA war von Anfang an rechtswidrig.", "Widerruf: Der VA war rechtmäßig, wird aber aufgehoben.", "Der Widerruf wirkt grundsätzlich nur für die Zukunft."],
+      "fallenBausteine": ["Rücknahme: Der VA war rechtmäßig, wird aber aufgehoben.", "Entscheidend ist, ob der Bürger zustimmt."]
+    },
+    {
+      "id": "q54",
+      "titel": "Wie lange darf man sich wehren?",
+      "fachbegriff": "Widerspruchsfrist",
+      "einSatz": "Gegen einen [[Bescheid]] kannst du **einen Monat** lang [[Widerspruch]] einlegen. Die Uhr startet mit der [[Bekanntgabe]].",
+      "warum": "Die Kasse und der Bürger sollen irgendwann Klarheit haben. Ein Monat reicht zum Überlegen.",
+      "alltag": "Ein Online-Shop gibt dir 14 Tage, um eine Hose zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ein Monat.",
+      "erkennen": [
+        "Wann kam der Bescheid an? Bei Post im Inland gilt der **dritte Tag** nach dem Absenden.",
+        "Ab da läuft **ein Monat**.",
+        "Wohnt die Person im Ausland: **drei Monate**.",
+        "Ohne eigene Schuld zu spät? Dann gibt es eine zweite Chance: [[Wiedereinsetzung]]."
+      ],
+      "merktrick": "Drei Tage Post, dann ein Monat Zeit.",
+      "bausteine": ["Die Widerspruchsfrist beträgt einen Monat nach Bekanntgabe des VA (§ 84 I SGG).", "Bei Bekanntgabe im Ausland gilt eine Frist von drei Monaten.", "Bei Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).", "Bei unverschuldeter Versäumung ist Wiedereinsetzung möglich (§ 67 SGG)."],
+      "fallenBausteine": ["Die Widerspruchsfrist beträgt zwei Wochen nach Zugang.", "Die Frist beginnt erst mit dem Lesen des Bescheids."]
+    },
+    {
+      "id": "q50",
+      "titel": "Die Kasse hätte wählen dürfen, hat es aber nicht gemerkt",
+      "fachbegriff": "Ermessensnichtgebrauch (Ermessensausfall)",
+      "einSatz": "Das Gesetz gibt der Kasse eine Wahl. Die Kasse merkt das nicht oder nutzt die Wahl nicht. Das ist ein Fehler.",
+      "warum": "Wenn das Gesetz eine Wahl lässt, soll die Kasse den Einzelfall anschauen. Wer gar nicht abwägt, entscheidet blind.",
+      "alltag": "Der Trainer darf entscheiden, wer im Spiel mitspielt. Er stellt immer dieselben auf, weil er glaubt, das sei Vorschrift. Er hat seine Wahl verschenkt.",
+      "erkennen": [
+        "Steht im Gesetz „kann“ oder „darf“? Dann hat die Kasse [[Ermessen]].",
+        "Sagt die Kasse „wir müssen“ oder „wir haben keine Wahl“?",
+        "Hat sie den Einzelfall gar nicht angeschaut?",
+        "Dann liegt **Ermessensnichtgebrauch** vor."
+      ],
+      "merktrick": "Wahl gehabt, nicht gewählt: Ermessen verschlafen.",
+      "bausteine": ["Ermessensnichtgebrauch liegt vor, wenn die Behörde ihren Ermessensspielraum nicht erkennt oder nicht ausübt.", "Etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.", "Man spricht auch von Ermessensausfall."],
+      "fallenBausteine": ["Ermessensnichtgebrauch liegt vor, wenn die Behörde den gesetzlichen Rahmen überschreitet."]
+    }
+  ],
+  "faelle": [
+    {
+      "id": "f038-0", "regelId": "q38", "stufe": 0, "format": "F1",
+      "figur": { "name": "Frau Kowalski, Tischlerin", "emoji": "👩‍🔧" },
+      "akte": "Die Kasse hat Frau Kowalski Krankengeld bewilligt. Dabei hat sich jemand beim Einkommen verrechnet. Der [[Bescheid]] war also **von Anfang an** falsch.",
+      "frage": "Die Kasse will den Bescheid aufheben. Welcher Stempel passt?",
+      "optionen": [
+        { "text": "Rücknahme", "richtig": true, "warumNicht": null },
+        { "text": "Widerruf", "richtig": false, "warumNicht": "Widerruf passt nur, wenn der Bescheid am Anfang richtig war. Hier war er von Anfang an falsch." }
+      ],
+      "ergebnis": "Rücknahme, weil der Bescheid schon beim Erlass falsch war.",
+      "warum": "Der Fehler steckte schon im Bescheid, als er rausging. Einen Fehler von Anfang an repariert man mit der Rücknahme.",
+      "denkweg": ["1. Will die Kasse einen Bescheid aufheben? Ja.", "2. War er am ersten Tag schon falsch? Ja, verrechnet.", "3. Also: Rücknahme."],
+      "dauerSek": 22
+    },
+    {
+      "id": "f038-1", "regelId": "q38", "stufe": 1, "format": "F1",
+      "figur": { "name": "Herr Brückner, Marathonläufer", "emoji": "🏃" },
+      "akte": "Herr Brückner bekam vor einem Jahr eine Gehhilfe bewilligt. Damals war das völlig korrekt. Jetzt läuft er wieder Marathon. Die Kasse will die Bewilligung **ab sofort** aufheben.",
+      "frage": "Welcher Stempel passt?",
+      "optionen": [
+        { "text": "Widerruf", "richtig": true, "warumNicht": null },
+        { "text": "Rücknahme", "richtig": false, "warumNicht": "Rücknahme gibt es nur bei einem Bescheid, der von Anfang an falsch war. Hier war er damals richtig." }
+      ],
+      "ergebnis": "Widerruf, weil der Bescheid damals richtig war und nur für die Zukunft aufgehoben wird.",
+      "warum": "Der Bescheid war beim Erlass korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
+      "denkweg": ["1. War der Bescheid beim Erlass richtig? Ja.", "2. Hat sich danach etwas geändert? Ja, er ist wieder fit.", "3. Also: Widerruf für die Zukunft."],
+      "dauerSek": 20
+    },
+    {
+      "id": "f038-2", "regelId": "q38", "stufe": 2, "format": "F1",
+      "figur": { "name": "Oma Liesel mit Hörgerät", "emoji": "👵" },
+      "akte": "Oma Liesel ruft laut: „Die Kasse hat mir das Hörgerät bewilligt, aber eine falsche Rechtsgrundlage benutzt! Das stand schon so im Brief vom März.“ Die Kasse prüft: Stimmt. Sie will den [[Bescheid]] aufheben.",
+      "frage": "Was macht die Kasse?",
+      "optionen": [
+        { "text": "Rücknahme", "richtig": true, "warumNicht": null },
+        { "text": "Widerruf", "richtig": false, "warumNicht": "Widerruf wäre nur richtig, wenn der Bescheid im März korrekt gewesen wäre. Er war aber schon damals falsch." },
+        { "text": "Nichts, Bescheid bleibt", "richtig": false, "warumNicht": "Die Kasse will ihn ja aufheben. Gefragt ist nur, wie das heißt." }
+      ],
+      "ergebnis": "Rücknahme, weil der Fehler schon im Bescheid vom März steckte.",
+      "warum": "Es kommt nur auf den Zeitpunkt des Erlasses an. War der Bescheid da schon falsch, heißt das Aufheben Rücknahme.",
+      "denkweg": ["1. Wann entstand der Fehler? Schon im Brief vom März.", "2. Also war der Bescheid von Anfang an falsch.", "3. Aufheben heißt dann: Rücknahme."],
+      "dauerSek": 20
+    },
+    {
+      "id": "f038-3", "regelId": "q38", "stufe": 3, "format": "F1",
+      "figur": { "name": "Herr Demir, Pizzabäcker", "emoji": "👨‍🍳" },
+      "akte": "Herr Demir hatte eine Reha bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
+      "frage": "Welcher Stempel passt?",
+      "optionen": [
+        { "text": "Rücknahme", "richtig": true, "warumNicht": null },
+        { "text": "Widerruf", "richtig": false, "warumNicht": "Es wirkt nur so, als sei der Bescheid richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim Erlass falsch." }
+      ],
+      "ergebnis": "Rücknahme, denn der Bescheid war schon beim Erlass falsch, man wusste es nur nicht.",
+      "warum": "Entscheidend ist, wie es wirklich war, nicht was die Kasse damals wusste. Mit der wahren Lage war der Bescheid von Anfang an falsch.",
+      "denkweg": ["1. Fehler erst später entdeckt? Ja, aber das zählt nicht.", "2. War der Bescheid mit der wahren Lage richtig? Nein.", "3. Also von Anfang an falsch: Rücknahme."],
+      "dauerSek": 20
+    },
+    {
+      "id": "f050-0", "regelId": "q50", "stufe": 0, "format": "F1",
+      "figur": { "name": "Herr Okafor, Busfahrer", "emoji": "🧑🏿‍✈️" },
+      "akte": "Die Kasse nimmt einen falschen Bescheid von Herrn Okafor zurück. Im Brief steht: „Wir **müssen** das tun, wir haben keine Wahl.“ Das Gesetz sagt aber: Die Kasse **darf** zurücknehmen.",
+      "frage": "Hat die Kasse richtig gehandelt?",
+      "optionen": [
+        { "text": "Fehler: Ermessen verschlafen", "richtig": true, "warumNicht": null },
+        { "text": "Alles korrekt", "richtig": false, "warumNicht": "„Darf“ heißt: Die Kasse hat eine Wahl. Wer glaubt, er müsse, nutzt diese Wahl nicht. Das ist ein Fehler." }
+      ],
+      "ergebnis": "Fehler: Die Kasse hat ihr Ermessen nicht genutzt (Ermessensnichtgebrauch).",
+      "warum": "Das Gesetz sagt „darf“. Also hätte die Kasse abwägen müssen. Sie dachte aber, sie sei gezwungen.",
+      "denkweg": ["1. Was sagt das Gesetz? „Darf“, also eine Wahl.", "2. Was sagt die Kasse? „Wir müssen.“", "3. Wahl nicht genutzt: Ermessensnichtgebrauch."],
+      "dauerSek": 22
+    },
+    {
+      "id": "f050-1", "regelId": "q50", "stufe": 1, "format": "F1",
+      "figur": { "name": "Frau Petersen, Erzieherin", "emoji": "👩‍🏫" },
+      "akte": "Frau Petersen möchte eine Haushaltshilfe. Das Gesetz sagt: Die Kasse **kann** sie bezahlen. Der Sachbearbeiter lehnt ab: „Haushaltshilfen lehnen wir grundsätzlich immer ab.“",
+      "frage": "Was stimmt hier nicht?",
+      "optionen": [
+        { "text": "Ermessen nicht genutzt", "richtig": true, "warumNicht": null },
+        { "text": "Kein Fehler, „kann“ heißt nein", "richtig": false, "warumNicht": "„Kann“ heißt nicht nein. Es heißt: Die Kasse muss den Einzelfall abwägen." }
+      ],
+      "ergebnis": "Ermessensnichtgebrauch: „grundsätzlich immer“ heißt, der Einzelfall wurde nicht angeschaut.",
+      "warum": "Bei „kann“ muss die Kasse den Fall von Frau Petersen ansehen. Eine pauschale Absage ist keine Abwägung.",
+      "denkweg": ["1. Gesetz: „kann“, also Ermessen.", "2. Absage pauschal, ohne Blick auf den Fall.", "3. Ermessen nicht genutzt: Fehler."],
+      "dauerSek": 20
+    },
+    {
+      "id": "f054-0", "regelId": "q54", "stufe": 0, "format": "F1",
+      "figur": { "name": "Herr Lindqvist, Imker", "emoji": "🧑‍🌾" },
+      "akte": "Die Kasse schickt Herrn Lindqvist einen [[Bescheid]] per Post. Er wohnt in Hamburg. Er möchte [[Widerspruch]] einlegen und fragt, wie viel Zeit er hat.",
+      "frage": "Wie lang ist die Frist?",
+      "optionen": [
+        { "text": "Ein Monat", "richtig": true, "warumNicht": null },
+        { "text": "Zwei Wochen", "richtig": false, "warumNicht": "Zwei Wochen sind es beim Widerspruch nicht. Das Gesetz gibt einen Monat." },
+        { "text": "Drei Monate", "richtig": false, "warumNicht": "Drei Monate gelten nur, wenn der Bescheid im Ausland bekanntgegeben wird. Hamburg ist Inland." }
+      ],
+      "ergebnis": "Ein Monat ab Bekanntgabe des Bescheids.",
+      "warum": "Für den Widerspruch gilt im Inland immer ein Monat. Die Zeit startet, wenn der Bescheid als bekanntgegeben gilt.",
+      "denkweg": ["1. Geht es um einen Widerspruch gegen einen Bescheid? Ja.", "2. Wohnt er im Inland? Ja, Hamburg.", "3. Also: ein Monat."],
+      "dauerSek": 22
+    },
+    {
+      "id": "f054-1", "regelId": "q54", "stufe": 1, "format": "F1",
+      "figur": { "name": "Frau Rossi, Eisdielenbesitzerin", "emoji": "🍦" },
+      "akte": "Frau Rossi lebt seit Jahren in Italien. Die Kasse schickt ihr einen [[Bescheid]] dorthin. Sie will Widerspruch einlegen.",
+      "frage": "Wie viel Zeit hat sie?",
+      "optionen": [
+        { "text": "Drei Monate", "richtig": true, "warumNicht": null },
+        { "text": "Ein Monat", "richtig": false, "warumNicht": "Ein Monat gilt im Inland. Bei Bekanntgabe im Ausland sind es drei Monate." },
+        { "text": "Ein Jahr", "richtig": false, "warumNicht": "Ein Jahr gibt es nur bei einer fehlenden oder falschen Rechtsbehelfsbelehrung. Davon steht hier nichts." }
+      ],
+      "ergebnis": "Drei Monate, weil der Bescheid im Ausland bekanntgegeben wird.",
+      "warum": "Post ins Ausland dauert länger und man braucht mehr Zeit. Deshalb gibt das Gesetz dort drei Monate.",
+      "denkweg": ["1. Widerspruch gegen einen Bescheid? Ja.", "2. Bekanntgabe im Ausland? Ja, Italien.", "3. Also: drei Monate."],
+      "dauerSek": 20
+    }
+  ],
+  "glossar": [
+    { "begriff": "Bescheid", "aliase": ["Verwaltungsakt", "VA", "Bescheids"], "erklaerung": "Ein Brief einer Behörde, der für dich persönlich etwas verbindlich regelt.", "beispiel": "Die Kasse schreibt dir: „Ihre Brille wird bezahlt.“" },
+    { "begriff": "Widerspruch", "aliase": [], "erklaerung": "Damit sagst du der Behörde: Ich bin mit dem Bescheid nicht einverstanden, bitte prüft nochmal.", "beispiel": "Du schreibst der Kasse: „Ich lege Widerspruch gegen die Ablehnung ein.“" },
+    { "begriff": "Bekanntgabe", "aliase": [], "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt.", "beispiel": "Ein Brief mit der Post gilt am dritten Tag nach dem Absenden als angekommen." },
+    { "begriff": "Ermessen", "aliase": [], "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Sie muss den Einzelfall abwägen.", "beispiel": "„Die Kasse kann eine Haushaltshilfe bezahlen.“" },
+    { "begriff": "Wiedereinsetzung", "aliase": [], "erklaerung": "Eine zweite Chance, wenn du eine Frist ohne eigene Schuld verpasst hast.", "beispiel": "Du lagst im Krankenhaus und konntest den Brief nicht lesen." }
+  ]
+}

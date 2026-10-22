@@ -1,0 +1,36 @@
+[
+ {
+  "begriff": "Bescheid",
+  "aliase": [
+   "Verwaltungsakt",
+   "VA",
+   "Bescheids"
+  ],
+  "erklaerung": "Ein Brief einer Behörde, der für dich persönlich etwas verbindlich regelt.",
+  "beispiel": "Die Kasse schreibt dir: „Ihre Brille wird bezahlt.“"
+ },
+ {
+  "begriff": "Widerspruch",
+  "aliase": [],
+  "erklaerung": "Damit sagst du der Behörde: Ich bin mit dem Bescheid nicht einverstanden, bitte prüft nochmal.",
+  "beispiel": "Du schreibst der Kasse: „Ich lege Widerspruch gegen die Ablehnung ein.“"
+ },
+ {
+  "begriff": "Bekanntgabe",
+  "aliase": [],
+  "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt.",
+  "beispiel": "Ein Brief mit der Post gilt am dritten Tag nach dem Absenden als angekommen."
+ },
+ {
+  "begriff": "Ermessen",
+  "aliase": [],
+  "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Sie muss den Einzelfall abwägen.",
+  "beispiel": "„Die Kasse kann eine Haushaltshilfe bezahlen.“"
+ },
+ {
+  "begriff": "Wiedereinsetzung",
+  "aliase": [],
+  "erklaerung": "Eine zweite Chance, wenn du eine Frist ohne eigene Schuld verpasst hast.",
+  "beispiel": "Du lagst im Krankenhaus und konntest den Brief nicht lesen."
+ }
+]

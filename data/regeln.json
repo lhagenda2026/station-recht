@@ -1,0 +1,123 @@
+[
+ {
+  "id": "q38",
+  "nr": 38,
+  "stockwerk": 1,
+  "frage": "Was ist der entscheidende Unterschied zwischen der Rücknahme und dem Widerruf von Verwaltungsakten?",
+  "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
+  "fachbegriff": "Rücknahme und Widerruf",
+  "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+  "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
+  "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
+  "erkennen": [
+   "Frage dich: War der Bescheid am ersten Tag schon falsch?",
+   "Ja, von Anfang an falsch: **Rücknahme**.",
+   "Nein, damals richtig: **Widerruf**.",
+   "Ein Widerruf gilt nur für die Zukunft."
+  ],
+  "merktrick": "Rücknahme repariert den Fehler. Widerruf winkt dem Richtigen zum Abschied.",
+  "klausur": {
+   "kurzantwort": "Die **Rechtmäßigkeit des VA bei Erlass**: **Rücknahme** = der VA war von Anfang an **rechtswidrig**. **Widerruf** = der VA war **rechtmäßig**, wird aber aufgehoben (z. B. weil Voraussetzungen entfallen oder aus anderen gesetzlichen Gründen). Der Widerruf wirkt grundsätzlich nur für die **Zukunft**. Merke: **Rücknahme = rechtswidrig. Widerruf = rechtmäßig.**",
+   "normen": [],
+   "schluesselbegriffe": [
+    "rechtswidrig vs. rechtmäßig",
+    "ursprüngliche Rechtmäßigkeit",
+    "Widerruf nur Zukunft"
+   ],
+   "bausteine": [
+    "Entscheidend ist die Rechtmäßigkeit des VA bei Erlass.",
+    "Rücknahme: Der VA war von Anfang an rechtswidrig.",
+    "Widerruf: Der VA war rechtmäßig, wird aber aufgehoben.",
+    "Der Widerruf wirkt grundsätzlich nur für die Zukunft."
+   ],
+   "fallenBausteine": [
+    "Rücknahme: Der VA war rechtmäßig, wird aber aufgehoben.",
+    "Entscheidend ist, ob der Bürger zustimmt."
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": []
+ },
+ {
+  "id": "q50",
+  "nr": 50,
+  "stockwerk": 1,
+  "frage": "Was versteht man unter Ermessensnichtgebrauch? Geben Sie ein Beispiel.",
+  "titel": "Die Kasse hätte wählen dürfen, hat es aber nicht gemerkt",
+  "fachbegriff": "Ermessensnichtgebrauch (Ermessensausfall)",
+  "einSatz": "Das Gesetz gibt der Kasse eine Wahl. Die Kasse merkt das nicht oder nutzt die Wahl nicht. Das ist ein Fehler.",
+  "warum": "Wenn das Gesetz eine Wahl lässt, soll die Kasse den Einzelfall anschauen. Wer gar nicht abwägt, entscheidet blind.",
+  "alltag": "Der Trainer darf entscheiden, wer im Spiel mitspielt. Er stellt immer dieselben auf, weil er glaubt, das sei Vorschrift. Er hat seine Wahl verschenkt.",
+  "erkennen": [
+   "Steht im Gesetz „kann“ oder „darf“? Dann hat die Kasse [[Ermessen]].",
+   "Sagt die Kasse „wir müssen“ oder „wir haben keine Wahl“?",
+   "Hat sie den Einzelfall gar nicht angeschaut?",
+   "Dann liegt **Ermessensnichtgebrauch** vor."
+  ],
+  "merktrick": "Wahl gehabt, nicht gewählt: Ermessen verschlafen.",
+  "klausur": {
+   "kurzantwort": "Die Behörde **erkennt ihren Ermessensspielraum nicht** oder **übt ihn nicht aus**, etwa weil sie sich **irrtümlich gebunden** glaubt oder pauschal entscheidet. (Auch: **Ermessensausfall**.)",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Ermessensausfall",
+    "Spielraum nicht erkannt",
+    "irrtümlich gebunden"
+   ],
+   "bausteine": [
+    "Ermessensnichtgebrauch liegt vor, wenn die Behörde ihren Ermessensspielraum nicht erkennt oder nicht ausübt.",
+    "Etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.",
+    "Man spricht auch von Ermessensausfall."
+   ],
+   "fallenBausteine": [
+    "Ermessensnichtgebrauch liegt vor, wenn die Behörde den gesetzlichen Rahmen überschreitet."
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": []
+ },
+ {
+  "id": "q54",
+  "nr": 54,
+  "stockwerk": 1,
+  "frage": "Innerhalb welcher Frist ist grundsätzlich Widerspruch gegen einen Verwaltungsakt einzulegen?",
+  "titel": "Wie lange darf man sich wehren?",
+  "fachbegriff": "Widerspruchsfrist",
+  "einSatz": "Gegen einen [[Bescheid]] kannst du **einen Monat** lang [[Widerspruch]] einlegen. Die Uhr startet mit der [[Bekanntgabe]].",
+  "warum": "Die Kasse und der Bürger sollen irgendwann Klarheit haben. Ein Monat reicht zum Überlegen.",
+  "alltag": "Ein Online-Shop gibt dir 14 Tage, um eine Hose zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ein Monat.",
+  "erkennen": [
+   "Wann kam der Bescheid an? Bei Post im Inland gilt der **dritte Tag** nach dem Absenden.",
+   "Ab da läuft **ein Monat**.",
+   "Wohnt die Person im Ausland: **drei Monate**.",
+   "Ohne eigene Schuld zu spät? Dann gibt es eine zweite Chance: [[Wiedereinsetzung]]."
+  ],
+  "merktrick": "Drei Tage Post, dann ein Monat Zeit.",
+  "klausur": {
+   "kurzantwort": "**Ein Monat** nach **Bekanntgabe** des VA (**§ 84 I SGG**). Im **Ausland** drei Monate. Bei Übermittlung per Post im Inland gilt der VA am **dritten Tag nach Aufgabe zur Post** als bekanntgegeben (**§ 37 II SGB X**). Bei unverschuldeter Versäumung ist **Wiedereinsetzung** möglich (§ 67 SGG).",
+   "normen": [
+    "§ 84 SGG",
+    "§ 37 II SGB X"
+   ],
+   "schluesselbegriffe": [
+    "ein Monat",
+    "Bekanntgabe",
+    "Dreitagesfiktion",
+    "Wiedereinsetzung"
+   ],
+   "bausteine": [
+    "Die Widerspruchsfrist beträgt einen Monat nach Bekanntgabe des VA (§ 84 I SGG).",
+    "Bei Bekanntgabe im Ausland gilt eine Frist von drei Monaten.",
+    "Bei Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
+    "Bei unverschuldeter Versäumung ist Wiedereinsetzung möglich (§ 67 SGG)."
+   ],
+   "fallenBausteine": [
+    "Die Widerspruchsfrist beträgt zwei Wochen nach Zugang.",
+    "Die Frist beginnt erst mit dem Lesen des Bescheids."
+   ]
+  },
+  "verifiziert": false,
+  "hinweise": [
+   "Normprüfung: Nach der aktuellen Fassung von § 37 Abs. 2 SGB X gilt ein per Post im Inland übermittelter VA am vierten (nicht dritten) Tag nach Aufgabe zur Post als bekanntgegeben. Bitte mit Skript abgleichen."
+  ]
+ }
+]
