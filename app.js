@@ -1,51 +1,38 @@
-// Einstieg: Daten laden, Service Worker registrieren, Hash-Router.
-import { load, persistAnfragen } from './js/store.js';
+// Einstieg: Spielstand und Daten laden, Service Worker registrieren, Szenen wechseln.
+import { S, load, persistAnfragen } from './js/store.js';
+import { ladeDaten } from './js/daten.js';
 import { h } from './js/ui.js';
-import { station } from './js/screens/station.js';
-import { zimmer } from './js/screens/zimmer.js';
-import { lernkarteScreen } from './js/screens/lernkarte.js';
-import { visite } from './js/screens/visite.js';
-import { triage } from './js/screens/triage.js';
-import { luege } from './js/screens/luege.js';
-import { bombe } from './js/screens/bombe.js';
-import { oberarzt } from './js/screens/oberarzt.js';
-import { schema } from './js/screens/schema.js';
-import { einstellungen } from './js/screens/einstellungen.js';
+import { buero } from './js/szenen/buero.js';
+import { starteTag, weiterArbeiten, startePruefung } from './js/szenen/tag.js';
+import { einstellungen } from './js/szenen/einstellungen.js';
 
-const ROUTES = { station, zimmer, karte: lernkarteScreen, visite, triage, luege, bombe, oberarzt, schema, einstellungen };
 const app = document.getElementById('app');
-let aufraeumen = [];
 
-const ctx = {
-  data: null,
-  go: (pfad) => { location.hash = '#/' + pfad; },
-  zurueck: () => { if (history.length > 1) history.back(); else ctx.go('station'); },
-  onLeave: (fn) => aufraeumen.push(fn),
-  karte: (id) => ctx.data.karten.find((k) => k.id === id),
+const nav = {
+  buero: () => { aufraeumen(); buero(app, nav); },
+  tag: () => { aufraeumen(); starteTag(app, nav); },
+  weiter: () => { aufraeumen(); weiterArbeiten(app, nav); },
+  pruefung: (st) => { aufraeumen(); startePruefung(app, nav, st); },
+  einstellungen: () => { aufraeumen(); einstellungen(app, nav); },
+  schrift: () => document.documentElement.style.setProperty('--schrift', S.einstellungen.schrift),
 };
 
-function route() {
-  aufraeumen.forEach((fn) => fn());
-  aufraeumen = [];
-  const [name, ...params] = (location.hash.replace(/^#\/?/, '').split('?')[0] || 'station').split('/');
-  const screen = ROUTES[name] ?? station;
-  app.replaceChildren(screen(ctx, ...params.map(decodeURIComponent)));
-  app.dataset.screen = name in ROUTES ? name : 'station';
+function aufraeumen() {
+  document.querySelectorAll('.blatt-huelle, .glossar-huelle, .geist').forEach((e) => e.remove());
   window.scrollTo(0, 0);
 }
 
 async function start() {
   load();
+  nav.schrift();
   persistAnfragen();
   try {
-    const res = await fetch('data/cards.json');
-    ctx.data = await res.json();
+    await ladeDaten();
   } catch {
-    app.replaceChildren(h('p', { class: 'laden' }, 'Die Kartendaten konnten nicht geladen werden. Öffne die App einmal mit Internetverbindung.'));
+    app.replaceChildren(h('p', { class: 'laden' }, 'Die Spieldaten konnten nicht geladen werden. Öffne das Spiel einmal mit Internetverbindung.'));
     return;
   }
-  addEventListener('hashchange', route);
-  route();
+  nav.buero();
 }
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {

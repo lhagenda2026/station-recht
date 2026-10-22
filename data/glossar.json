@@ -1,0 +1,63 @@
+[
+ {
+  "id": "bescheid",
+  "begriff": "Bescheid",
+  "formen": [
+   "Bescheide",
+   "Bescheids",
+   "Bescheides"
+  ],
+  "erklaerung": "Ein Brief vom Amt, der für dich verbindlich etwas entscheidet. Fachwort: Verwaltungsakt.",
+  "beispiel": "Die Kasse schreibt dir: „Ihr Antrag auf eine Brille ist bewilligt.“"
+ },
+ {
+  "id": "behoerde",
+  "begriff": "Behörde",
+  "formen": [
+   "Behörden"
+  ],
+  "erklaerung": "Eine Stelle, die für den Staat Aufgaben erledigt. Auch eine gesetzliche Krankenkasse zählt dazu.",
+  "beispiel": "Das Bürgeramt, das Finanzamt oder die Krankenkasse."
+ },
+ {
+  "id": "ermessen",
+  "begriff": "Ermessen",
+  "formen": [
+   "Ermessens"
+  ],
+  "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Du erkennst es an Wörtern wie „kann“ oder „darf“.",
+  "beispiel": "„Die Kasse kann einen Zuschuss zahlen.“ Sie muss also nicht."
+ },
+ {
+  "id": "ermessensnichtgebrauch",
+  "begriff": "Ermessensnichtgebrauch",
+  "formen": [
+   "Ermessensausfall"
+  ],
+  "erklaerung": "Die Behörde hätte eine Wahl, nutzt sie aber nicht. Oft glaubt sie fälschlich, sie müsse.",
+  "beispiel": "Der Hausmeister sagt: „Ich muss die Halle abschließen.“ Dabei dürfte er sie offen lassen."
+ },
+ {
+  "id": "ermessensueberschreitung",
+  "begriff": "Ermessensüberschreitung",
+  "formen": [],
+  "erklaerung": "Die Behörde wählt etwas, das das Gesetz gar nicht erlaubt. Sie geht über den erlaubten Rahmen hinaus.",
+  "beispiel": "Erlaubt sind bis zu 30 Prozent Kürzung. Die Behörde kürzt 50 Prozent."
+ },
+ {
+  "id": "widerspruch",
+  "begriff": "Widerspruch",
+  "formen": [
+   "Widersprüche"
+  ],
+  "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss seine Entscheidung dann noch einmal prüfen.",
+  "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst zurück: „Ich lege Widerspruch ein.“"
+ },
+ {
+  "id": "bekanntgabe",
+  "begriff": "Bekanntgabe",
+  "formen": [],
+  "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
+  "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als bekanntgegeben."
+ }
+]

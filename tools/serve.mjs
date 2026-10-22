@@ -20,4 +20,4 @@ createServer(async (req, res) => {
   } catch {
     res.writeHead(404).end('Nicht gefunden');
   }
-}).listen(port, () => console.log(`Station Recht läuft auf http://localhost:${port}/`));
+}).listen(port, () => console.log(`Bescheid, bitte! läuft auf http://localhost:${port}/`));

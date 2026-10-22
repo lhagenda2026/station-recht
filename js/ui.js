@@ -1,103 +1,84 @@
-// Kleine DOM- und Darstellungshelfer.
+// Kleine DOM-Helfer, Textdarstellung mit Glossar-Wörtern, Blätter (Bottom-Sheets).
+import { D } from './daten.js';
 
 export function h(tag, attrs = {}, ...kinder) {
   const el = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs ?? {})) {
-    if (v === null || v === undefined || v === false) continue;
-    if (k === 'class') el.className = v;
-    else if (k === 'html') el.innerHTML = v;
-    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    if (v == null || v === false) continue;
+    if (k.startsWith('on')) el.addEventListener(k.slice(2).toLowerCase(), v);
+    else if (k === 'class') el.className = v;
+    else if (k === 'style' && typeof v === 'object') Object.assign(el.style, v);
     else el.setAttribute(k, v === true ? '' : v);
   }
-  for (const c of kinder.flat()) if (c !== null && c !== undefined && c !== false) el.append(c instanceof Node ? c : document.createTextNode(c));
+  for (const kind of kinder.flat(Infinity)) {
+    if (kind == null || kind === false) continue;
+    el.append(kind instanceof Node ? kind : document.createTextNode(String(kind)));
+  }
   return el;
 }
 
-const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const inline = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-
-// Minimal-Markdown: Absätze, **fett**, Listen (- / 1.), Tabellen
-export function md(src = '') {
-  const lines = src.split('\n');
-  let out = '';
-  let i = 0;
-  while (i < lines.length) {
-    const l = lines[i];
-    if (!l.trim()) { i++; continue; }
-    if (l.startsWith('|')) {
-      const rows = [];
-      while (i < lines.length && lines[i].startsWith('|')) rows.push(lines[i++]);
-      const cells = (r) => r.split('|').slice(1, -1).map((c) => c.trim());
-      const [kopf, , ...rest] = rows;
-      out += '<div class="tabelle"><table><thead><tr>' + cells(kopf).map((c) => `<th>${inline(c)}</th>`).join('') + '</tr></thead><tbody>'
-        + rest.map((r) => '<tr>' + cells(r).map((c) => `<td>${inline(c)}</td>`).join('') + '</tr>').join('') + '</tbody></table></div>';
-      continue;
+/**
+ * Text mit Auszeichnung: **fett** und [[Fachwort]] bzw. [[angezeigter Text|Glossar-ID]].
+ * Fachwörter werden zu antippbaren Knöpfen, die das Glossar-Fenster öffnen.
+ */
+export function txt(str = '') {
+  const frag = document.createDocumentFragment();
+  const re = /\*\*(.+?)\*\*|\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+  let pos = 0;
+  for (const m of str.matchAll(re)) {
+    if (m.index > pos) frag.append(str.slice(pos, m.index));
+    if (m[1] !== undefined) frag.append(h('strong', {}, txt(m[1])));
+    else {
+      const g = glossarEintrag(m[3] ?? m[2]);
+      frag.append(g ? h('button', { class: 'fw', type: 'button', 'data-g': g.id }, m[2]) : m[2]);
     }
-    if (/^(- |\d+\. )/.test(l)) {
-      const ordered = /^\d+\. /.test(l);
-      const items = [];
-      while (i < lines.length && /^(- |\d+\. )/.test(lines[i])) items.push(lines[i++].replace(/^(- |\d+\. )/, ''));
-      const tag = ordered ? 'ol' : 'ul';
-      out += `<${tag}>` + items.map((t) => `<li>${inline(t)}</li>`).join('') + `</${tag}>`;
-      continue;
-    }
-    const para = [];
-    while (i < lines.length && lines[i].trim() && !/^(- |\d+\. |\|)/.test(lines[i])) para.push(lines[i++]);
-    out += `<p>${para.map(inline).join('<br>')}</p>`;
+    pos = m.index + m[0].length;
   }
-  return out;
+  if (pos < str.length) frag.append(str.slice(pos));
+  return frag;
 }
 
-export function shuffle(arr) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
-  return a;
+/** Klartext ohne Auszeichnung (für Lesbarkeit, aria-Labels). */
+export const klar = (str = '') => str.replace(/\*\*(.+?)\*\*/g, '$1').replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, '$1');
+
+export const glossarEintrag = (wort) => D.glossarMap[wort] ?? D.glossarMap[wort.toLowerCase()];
+
+let offenesBlatt = null;
+
+/** Bottom-Sheet. Gibt {schliessen} zurück. */
+export function blatt(inhalt, { klasse = '', onClose, modal = true } = {}) {
+  const huelle = h('div', { class: `blatt-huelle ${modal ? 'modal' : ''}` });
+  const karte = h('section', { class: `blatt ${klasse}`, role: 'dialog', 'aria-modal': modal ? 'true' : 'false' }, inhalt);
+  huelle.append(karte);
+  const schliessen = () => {
+    if (!huelle.isConnected) return;
+    huelle.classList.add('zu');
+    setTimeout(() => huelle.remove(), 180);
+    if (offenesBlatt === huelle) offenesBlatt = null;
+    onClose?.();
+  };
+  if (modal) huelle.addEventListener('click', (e) => { if (e.target === huelle) schliessen(); });
+  document.body.append(huelle);
+  return { schliessen, el: karte };
 }
 
-export const ZUSTAND = {
-  kritisch: { label: 'kritisch', icon: '▲' },
-  wackelt: { label: 'wackelt', icon: '◆' },
-  stabil: { label: 'stabil', icon: '●' },
-  entlassen: { label: 'entlassen', icon: '✓' },
-  neu: { label: 'neu', icon: '○' },
-};
+// Glossar-Fenster: ein Satz Erklärung + Alltagsbeispiel
+document.addEventListener('click', (e) => {
+  const knopf = e.target.closest('.fw');
+  if (!knopf) return;
+  e.preventDefault();
+  e.stopPropagation();
+  const g = D.glossarMap[knopf.dataset.g];
+  if (!g) return;
+  document.querySelector('.glossar-huelle')?.remove();
+  const huelle = h('div', { class: 'glossar-huelle', onClick: (ev) => { if (ev.target === huelle) huelle.remove(); } },
+    h('aside', { class: 'glossar', role: 'dialog', 'aria-label': g.begriff },
+      h('h3', {}, g.begriff),
+      h('p', {}, txt(g.erklaerung)),
+      g.beispiel && h('p', { class: 'glossar-bsp' }, h('span', {}, 'Beispiel: '), txt(g.beispiel)),
+      h('button', { class: 'knopf klein', type: 'button', onClick: () => huelle.remove() }, 'Verstanden')));
+  document.body.append(huelle);
+}, true);
 
-export function toast(text) {
-  const t = h('div', { class: 'toast', role: 'status' }, text);
-  document.body.append(t);
-  setTimeout(() => t.classList.add('weg'), 1800);
-  setTimeout(() => t.remove(), 2300);
-}
-
-export function konfetti(n = 70) {
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  const box = h('div', { class: 'konfetti', 'aria-hidden': 'true' });
-  const farben = ['var(--hf)', 'var(--spo2)', 'var(--af)', 'var(--nibp)', 'var(--text)'];
-  for (let i = 0; i < n; i++) {
-    const s = h('i');
-    s.style.left = Math.random() * 100 + '%';
-    s.style.background = farben[i % farben.length];
-    s.style.animationDelay = Math.random() * 0.4 + 's';
-    s.style.setProperty('--dx', (Math.random() * 120 - 60) + 'px');
-    s.style.setProperty('--rot', (Math.random() * 720 - 360) + 'deg');
-    box.append(s);
-  }
-  document.body.append(box);
-  setTimeout(() => box.remove(), 2600);
-}
-
-// EKG-Kurve als SVG-Pfad; Puls/Amplitude spiegeln den Zustand
-export function ekgPfad(breite, hoehe, vital, phase = 0) {
-  const mitte = hoehe * 0.62;
-  if (vital === null) return `M0 ${mitte} L${breite} ${mitte}`;
-  const amp = (0.25 + 0.75 * vital / 100) * hoehe * 0.55;
-  const schlag = 64 - Math.round(vital / 100 * 18);
-  let d = `M0 ${mitte}`;
-  for (let x = -phase; x < breite; x += schlag) {
-    const p = (dx) => Math.max(0, Math.min(breite, x + dx)).toFixed(1);
-    d += ` L${p(schlag * 0.35)} ${mitte} L${p(schlag * 0.42)} ${mitte - amp * 0.12} L${p(schlag * 0.48)} ${mitte}`
-      + ` L${p(schlag * 0.55)} ${mitte + amp * 0.18} L${p(schlag * 0.6)} ${mitte - amp} L${p(schlag * 0.66)} ${mitte + amp * 0.32}`
-      + ` L${p(schlag * 0.72)} ${mitte} L${p(schlag * 0.84)} ${mitte - amp * 0.2} L${p(schlag * 0.94)} ${mitte}`;
-  }
-  return d + ` L${breite} ${mitte}`;
-}
+export const warte = (ms) => new Promise((r) => setTimeout(r, ms));
+export const wenigBewegung = () => matchMedia('(prefers-reduced-motion: reduce)').matches;

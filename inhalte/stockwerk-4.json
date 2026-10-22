@@ -1,0 +1,149 @@
+{
+  "regeln": [
+    {
+      "id": "q54",
+      "titel": "Gegen einen Bescheid wehren: Wie lange hast du Zeit?",
+      "fachbegriff": "Widerspruchsfrist",
+      "einSatz": "Gegen einen [[Bescheid]] kannst du [[Widerspruch]] einlegen. Dafür hast du **einen Monat** ab der [[Bekanntgabe]].",
+      "warum": "Wer sich wehren will, braucht Zeit zum Nachdenken. Die Kasse muss aber irgendwann wissen, ob ihre Entscheidung feststeht.",
+      "alltag": "Ein Onlineshop gibt dir 14 Tage, um etwas zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ähnlich, nur mit einem Monat.",
+      "erkennen": [
+        "Die Frist startet mit der Bekanntgabe, nicht mit dem Datum oben im Brief.",
+        "Kommt der Bescheid mit der Post, gilt er am dritten Tag nach dem Absenden als angekommen.",
+        "Von da an zählst du einen Monat weiter.",
+        "Wohnt die Person im Ausland, hat sie drei Monate."
+      ],
+      "merktrick": "Drei Tage Post, dann ein Monat Frist.",
+      "klausur": {
+        "bausteine": [
+          "Ein Monat nach Bekanntgabe des VA (§ 84 I SGG).",
+          "Im Ausland drei Monate.",
+          "Per Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
+          "Bei unverschuldeter Versäumung: Wiedereinsetzung (§ 67 SGG)."
+        ],
+        "fallenBausteine": [
+          {
+            "text": "Zwei Wochen nach dem Datum des Bescheids.",
+            "warumNicht": "Die Frist ist ein Monat, und sie startet mit der Bekanntgabe, nicht mit dem Datum im Brief."
+          }
+        ]
+      }
+    }
+  ],
+  "faelle": [
+    {
+      "id": "f054-0",
+      "regelId": "q54",
+      "stufe": 0,
+      "format": "F1",
+      "figur": {
+        "name": "Luca, Pizzabäcker",
+        "emoji": "🧑‍🍳"
+      },
+      "akte": "Die Kasse schickt Luca am 3. Februar einen [[Bescheid]] per Post. Luca legt am 20. Februar [[Widerspruch]] ein.",
+      "frage": "Ist der Widerspruch rechtzeitig?",
+      "optionen": [
+        {
+          "text": "Rechtzeitig",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Zu spät",
+          "richtig": false,
+          "warumNicht": "Luca hat einen Monat ab Bekanntgabe. Die Frist läuft bis zum 6. März. Der 20. Februar liegt weit davor."
+        }
+      ],
+      "ergebnis": "Lucas Widerspruch kommt rechtzeitig.",
+      "warum": "Der Bescheid gilt am dritten Tag nach dem Absenden als bekannt. Dann hat Luca einen Monat Zeit.",
+      "denkweg": [
+        "1. Abgeschickt am 3. Februar, plus drei Tage: [[Bekanntgabe]] am 6. Februar.",
+        "2. Ein Monat später endet die Frist: am 6. März.",
+        "3. Widerspruch am 20. Februar: rechtzeitig."
+      ],
+      "rechnung": "3. Februar + 3 Tage = 6. Februar. Plus ein Monat = 6. März. Der 20. Februar liegt davor."
+    },
+    {
+      "id": "f054-1",
+      "regelId": "q54",
+      "stufe": 1,
+      "format": "F1",
+      "figur": {
+        "name": "Jana, Fitnesstrainerin",
+        "emoji": "🏋️‍♀️"
+      },
+      "akte": "Jana bekommt einen [[Bescheid]]. Die Kasse hat ihn am 10. Juni zur Post gegeben. Jana war lange im Urlaub und legt am 2. August [[Widerspruch]] ein.",
+      "frage": "Ist der Widerspruch rechtzeitig?",
+      "optionen": [
+        {
+          "text": "Zu spät",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Rechtzeitig",
+          "richtig": false,
+          "warumNicht": "Die Frist lief am 13. Juli ab. Der 2. August ist danach. Der Urlaub allein verlängert die Frist nicht."
+        }
+      ],
+      "ergebnis": "Janas Widerspruch kommt zu spät.",
+      "warum": "Die Monatsfrist war schon im Juli vorbei. Ein Urlaub ändert die Frist nicht von selbst.",
+      "denkweg": [
+        "1. Abgeschickt am 10. Juni, plus drei Tage: [[Bekanntgabe]] am 13. Juni.",
+        "2. Ein Monat später endet die Frist: am 13. Juli.",
+        "3. Widerspruch am 2. August: zu spät."
+      ],
+      "rechnung": "10. Juni + 3 Tage = 13. Juni. Plus ein Monat = 13. Juli. Der 2. August liegt danach."
+    },
+    {
+      "id": "f054-2",
+      "regelId": "q54",
+      "stufe": 2,
+      "format": "F1",
+      "figur": {
+        "name": "Herr Petersen, Kapitän",
+        "emoji": "🧑‍✈️"
+      },
+      "akte": "Oben im [[Bescheid]] steht das Datum 1. September. Abgeschickt hat die Kasse ihn aber erst am 4. September. Herr Petersen legt am 5. Oktober [[Widerspruch]] ein.",
+      "frage": "Ist der Widerspruch rechtzeitig?",
+      "optionen": [
+        {
+          "text": "Rechtzeitig",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Zu spät",
+          "richtig": false,
+          "warumNicht": "Das Datum oben im Brief zählt nicht. Es zählt das Absenden am 4. September. Die Frist läuft bis zum 7. Oktober."
+        }
+      ],
+      "ergebnis": "Herr Petersen ist rechtzeitig.",
+      "warum": "Die Frist startet mit der [[Bekanntgabe]]. Das Datum oben im Brief ist eine Falle.",
+      "denkweg": [
+        "1. Abgeschickt am 4. September, plus drei Tage: Bekanntgabe am 7. September.",
+        "2. Ein Monat später endet die Frist: am 7. Oktober.",
+        "3. Widerspruch am 5. Oktober: rechtzeitig."
+      ],
+      "rechnung": "4. September + 3 Tage = 7. September. Plus ein Monat = 7. Oktober. Der 5. Oktober liegt davor."
+    }
+  ],
+  "glossar": [
+    {
+      "id": "widerspruch",
+      "begriff": "Widerspruch",
+      "formen": [
+        "Widersprüche"
+      ],
+      "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss seine Entscheidung dann noch einmal prüfen.",
+      "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst zurück: „Ich lege Widerspruch ein.“"
+    },
+    {
+      "id": "bekanntgabe",
+      "begriff": "Bekanntgabe",
+      "formen": [],
+      "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
+      "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als bekanntgegeben."
+    }
+  ]
+}

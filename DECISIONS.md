@@ -25,3 +25,29 @@
 - Safe-Area kann Playwright nicht emulieren; abgesichert über `env(safe-area-inset-*)` im CSS, geprüft per Screenshot im 390×844-Format.
 - Lighthouse nicht ausgeführt (braucht Chrome); PWA-Kriterien (Manifest, Icons, SW, Offline) per Playwright-Test geprüft.
 - GitHub Pages braucht bei kostenlosen Konten ein öffentliches Repo → Repo `station-recht` öffentlich angelegt (die App-Inhalte sind über die URL ohnehin öffentlich).
+
+# Version 2: „Bescheid, bitte!“ (je eine Zeile)
+
+- V1 im Branch `v1-karteikarten` gesichert; V2 neu auf eigenem Branch `v2` gebaut (Git-Worktree `.v2`), weil parallel ein zweiter, abgebrochener Lauf in den Hauptordner schrieb; am Ende ersetzt `v2` den Branch `main` (Freigabe des Nutzers: „überschreibe einfach das Spiel aus den ersten Anläufen“).
+- Meilensteine werden auf `v2` committet und gepusht; Live-Deployment (GitHub Pages aus `main`) einmal am Ende, damit der parallele Lauf nicht dazwischenfunkt.
+- Fragenwortlaut jetzt aus den Überschriften von ANTWORTEN.md (BRIEF.md ist obsolet); 📝-Zeichen entfernt.
+- Normen nur aus der Normen-Zeile von ANTWORTEN.md; fehlt sie, stehen die Normen im Kurzantwort-Text (keine eigene Extraktion mehr).
+- Design: Amtsstube der 70er (Mintwand #b9c9b6, Linoleum-Tisch, gelbe Aktenmappe, Stempelfarben Blau/Rot/Petrol/Violett/Ocker), Akten in „American Typewriter“, Stempel in „Avenir Next Condensed“ – alles iOS-Systemschriften, offline sicher.
+- „Tage“ im Leitner-System = Spieltage (nicht Kalendertage), damit man mehrere Tage am Stück spielen kann; Serie (Streak) zählt dagegen Kalendertage.
+- Geduld: Stufe 0 ohne Zeitdruck, Stufe 1 = 30 s, Stufe 2 = 22 s, Stufe 3 = 18 s (+ Zuschlag für aufwendige Formate, +5 s Kaffeemaschine). Läuft die Geduld ab, gibt es höchstens 1 Stern, aber keine Beschwerde (Zeit ist kein Rechtsfehler).
+- Sterne: ≥50 % Geduld übrig = 3, >15 % = 2, sonst 1; Regelbuch aufgeschlagen = höchstens 2 und Geduld sinkt 1,6-mal so schnell. Trinkgeld = 2 Münzen je Stern.
+- Regelbuch ist auf allen Stufen verfügbar (mit Kosten), damit man nie festhängt; „Tipp“ (kostenlos) nur auf Stufe 1.
+- Glossar-Fenster pausiert den Geduldsbalken, damit Nachschlagen von Wörtern nicht bestraft wird.
+- Neue Regel bekommt am Einführungstag zwei Plätze; heute schon gespielte Fälle werden nicht wiederholt (sonst Fall der nächsthöheren Stufe).
+- Fall-Feld `ergebnis` (ein Satz) ergänzt, damit das Feedback immer „✅/❌ + Ergebnis in einem Satz“ zeigen kann.
+- `fallenBausteine` sind Objekte `{text, warumNicht}` statt reiner Texte, damit auch die Chefin-Stichprobe ein „Warum nicht?“ zeigen kann.
+- Fachwörter werden im Text als `[[Wort]]` bzw. `[[Anzeige|glossar-id]]` ausgezeichnet; der Validator verlangt, dass jedes Glossarwort einer Leseeinheit mindestens einmal markiert ist.
+- Fristfälle zu q54 so datiert, dass „dritter Tag“ (ANTWORTEN.md) und „vierter Tag“ (aktuelles § 37 II SGB X) dasselbe Ergebnis liefern; Fristenden nie am Wochenende.
+- Stockwerke ohne Inhalte gelten bei der Freischaltung als durchlässig (nur für den Durchstich relevant).
+
+## Selbstkritik nach Meilenstein 1 (zwei Tage gespielt, Screenshots WebKit 390×844)
+- Nach 30 Sekunden klar, was zu tun ist? Ja: Frau Brandt erklärt in drei Sätzen, der Startknopf ist sofort sichtbar (nach ~0,3 s), die Stempel liegen in der Daumenzone.
+- Zeitdruck spannend statt stressig? Stufe 0 ohne Druck, ab Stufe 1 läuft der Balken, die Schlange wächst sichtbar; Glossar pausiert. Ja.
+- Feedback ein Belohnungsmoment? Stempelschlag, Gesicht reagiert, Münzen fliegen bzw. Beschwerdezettel; danach der Zettel mit Warum/Denkweg. Ja.
+- Spiel oder Formular? Spiel: Schalter mit Kunden und Schlange, Akte auf dem Tisch, physische Stempel.
+- Nachgeschärft: Akte vor die offene Regelkarte (Akte war unter dem Falz), kompakte Karte kleiner, Stempelleiste flacher, kein doppelter Fall am selben Tag, keine Linien quer durch die Schrift, keine Prüfung für leere Stockwerke.

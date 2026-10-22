@@ -1,0 +1,258 @@
+[
+ {
+  "id": "f038-0",
+  "regelId": "q38",
+  "stufe": 0,
+  "format": "F1",
+  "figur": {
+   "name": "Herr Yilmaz, Tischler",
+   "emoji": "🧑‍🔧"
+  },
+  "akte": "Die Kasse hat Herrn Yilmaz im Mai Krankengeld bewilligt. Jetzt fällt auf: Schon im Mai wurde sein Gehalt falsch abgetippt. Der [[Bescheid]] war also von Anfang an falsch.",
+  "frage": "Die Kasse hebt den Bescheid auf. Welcher Stempel passt?",
+  "optionen": [
+   {
+    "text": "Rücknahme",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Widerruf",
+    "richtig": false,
+    "warumNicht": "Widerruf passt nur, wenn der Bescheid beim Erlass richtig war. Dieser war schon im Mai falsch."
+   }
+  ],
+  "ergebnis": "Die Kasse nimmt den Bescheid zurück.",
+  "warum": "Rücknahme heißt: Der Bescheid war schon beim Erlass falsch. Hier war das Gehalt von Anfang an falsch eingetippt.",
+  "denkweg": [
+   "1. Wann ist der Fehler passiert? Schon beim Erlass im Mai.",
+   "2. War der Bescheid damals also falsch? Ja.",
+   "3. Also: Rücknahme."
+  ]
+ },
+ {
+  "id": "f038-1",
+  "regelId": "q38",
+  "stufe": 1,
+  "format": "F1",
+  "figur": {
+   "name": "Frau Okafor, Marathonläuferin",
+   "emoji": "🏃‍♀️"
+  },
+  "akte": "Frau Okafor konnte nach einer Operation nicht laufen. Die Kasse hat ihr deshalb eine Haushaltshilfe bewilligt. Das war richtig. Heute läuft sie wieder Marathon.",
+  "frage": "Die Kasse stoppt die Hilfe ab jetzt. Welcher Stempel?",
+  "optionen": [
+   {
+    "text": "Widerruf",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Rücknahme",
+    "richtig": false,
+    "warumNicht": "Für eine Rücknahme müsste der Bescheid schon beim Erlass falsch gewesen sein. Er war aber richtig."
+   }
+  ],
+  "ergebnis": "Die Kasse widerruft die Bewilligung für die Zukunft.",
+  "warum": "Der [[Bescheid]] war beim Erlass richtig. Nur die Lage hat sich später geändert. Das ist ein Widerruf.",
+  "denkweg": [
+   "1. War der Bescheid beim Erlass richtig? Ja, sie konnte nicht laufen.",
+   "2. Was hat sich geändert? Sie ist wieder gesund.",
+   "3. Richtig erlassen, später aufgehoben: Widerruf."
+  ]
+ },
+ {
+  "id": "f038-2",
+  "regelId": "q38",
+  "stufe": 2,
+  "format": "F1",
+  "figur": {
+   "name": "Oma Hildegard mit Hörgerät",
+   "emoji": "👵"
+  },
+  "akte": "Die Kasse hat Oma Hildegard im Januar ein Hörgerät bewilligt. Damals war alles richtig geprüft. Im Juni ändert ein neues Gesetz die Regeln. Oma Hildegard ruft: „Das war doch ein Fehler von Ihnen!“",
+  "frage": "Die Kasse hebt die Bewilligung für die Zukunft auf. Welcher Stempel?",
+  "optionen": [
+   {
+    "text": "Widerruf",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Rücknahme",
+    "richtig": false,
+    "warumNicht": "Oma Hildegard spricht von einem Fehler. Im Januar war aber alles richtig. Also keine Rücknahme."
+   }
+  ],
+  "ergebnis": "Die Kasse widerruft die Bewilligung.",
+  "warum": "Es zählt nur, ob der [[Bescheid]] im Januar richtig war. Das war er. Dass Oma Hildegard von einem Fehler spricht, ändert daran nichts.",
+  "denkweg": [
+   "1. War der Bescheid im Januar richtig? Ja, alles war geprüft.",
+   "2. Erst im Juni ändert sich das Gesetz.",
+   "3. Damals richtig, jetzt aufgehoben: Widerruf."
+  ]
+ },
+ {
+  "id": "f038-3",
+  "regelId": "q38",
+  "stufe": 3,
+  "format": "F1",
+  "figur": {
+   "name": "Herr Brandl, Busfahrer",
+   "emoji": "🚌"
+  },
+  "akte": "Im März hat die Kasse Herrn Brandl Geld für Zahnersatz bewilligt. Dabei wurde eine Rechnung doppelt gezählt. Im Oktober zieht Herr Brandl in eine andere Stadt.",
+  "frage": "Die Kasse hebt den [[Bescheid]] wegen der doppelten Rechnung auf. Welcher Stempel?",
+  "optionen": [
+   {
+    "text": "Rücknahme",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Widerruf",
+    "richtig": false,
+    "warumNicht": "Der Umzug ist eine spätere Änderung, aber er ist nicht der Grund. Der Grund ist die doppelte Rechnung, und die war schon im März falsch."
+   }
+  ],
+  "ergebnis": "Die Kasse nimmt den Bescheid zurück.",
+  "warum": "Die doppelte Rechnung war schon im März falsch. Der Umzug ist eine Falle: Er hat mit dem Fehler nichts zu tun.",
+  "denkweg": [
+   "1. Warum wird der Bescheid aufgehoben? Wegen der doppelten Rechnung.",
+   "2. Wann war das falsch? Schon beim Erlass im März.",
+   "3. Also: Rücknahme. Der Umzug spielt keine Rolle."
+  ]
+ },
+ {
+  "id": "f050-0",
+  "regelId": "q50",
+  "stufe": 0,
+  "format": "F1",
+  "figur": {
+   "name": "Kollege Kurt, Sachbearbeiter",
+   "emoji": "🧔"
+  },
+  "akte": "Im Gesetz steht: Die Kasse **kann** einen falschen [[Bescheid]] zurücknehmen. Sie hat also [[Ermessen]]. Kurt schreibt in die Akte: „Ich muss ihn zurücknehmen. Ich habe keine Wahl.“",
+  "frage": "Welcher Fehler steckt in Kurts Entscheidung?",
+  "optionen": [
+   {
+    "text": "Ermessensnichtgebrauch",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Ermessensüberschreitung",
+    "richtig": false,
+    "warumNicht": "[[Ermessensüberschreitung]] heißt: Die [[Behörde]] wählt etwas, das das Gesetz gar nicht erlaubt. Kurt hat aber gar nicht gewählt."
+   },
+   {
+    "text": "Kein Fehler",
+    "richtig": false,
+    "warumNicht": "Das Wort „kann“ gibt Kurt eine Wahl. Wer glaubt, er müsse, nutzt diese Wahl nicht. Das ist ein Fehler."
+   }
+  ],
+  "ergebnis": "Kurt hat sein Ermessen nicht gebraucht: [[Ermessensnichtgebrauch]].",
+  "warum": "„Kann“ heißt: Kurt darf wählen. Er glaubt aber, er müsse. So prüft er den Fall gar nicht richtig.",
+  "denkweg": [
+   "1. Was steht im Gesetz? „Kann“, also gibt es eine Wahl.",
+   "2. Was sagt Kurt? „Ich muss.“ Er sieht die Wahl nicht.",
+   "3. Wahl da, aber nicht genutzt: Ermessensnichtgebrauch."
+  ]
+ },
+ {
+  "id": "f054-0",
+  "regelId": "q54",
+  "stufe": 0,
+  "format": "F1",
+  "figur": {
+   "name": "Luca, Pizzabäcker",
+   "emoji": "🧑‍🍳"
+  },
+  "akte": "Die Kasse schickt Luca am 3. Februar einen [[Bescheid]] per Post. Luca legt am 20. Februar [[Widerspruch]] ein.",
+  "frage": "Ist der Widerspruch rechtzeitig?",
+  "optionen": [
+   {
+    "text": "Rechtzeitig",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Zu spät",
+    "richtig": false,
+    "warumNicht": "Luca hat einen Monat ab Bekanntgabe. Die Frist läuft bis zum 6. März. Der 20. Februar liegt weit davor."
+   }
+  ],
+  "ergebnis": "Lucas Widerspruch kommt rechtzeitig.",
+  "warum": "Der Bescheid gilt am dritten Tag nach dem Absenden als bekannt. Dann hat Luca einen Monat Zeit.",
+  "denkweg": [
+   "1. Abgeschickt am 3. Februar, plus drei Tage: [[Bekanntgabe]] am 6. Februar.",
+   "2. Ein Monat später endet die Frist: am 6. März.",
+   "3. Widerspruch am 20. Februar: rechtzeitig."
+  ],
+  "rechnung": "3. Februar + 3 Tage = 6. Februar. Plus ein Monat = 6. März. Der 20. Februar liegt davor."
+ },
+ {
+  "id": "f054-1",
+  "regelId": "q54",
+  "stufe": 1,
+  "format": "F1",
+  "figur": {
+   "name": "Jana, Fitnesstrainerin",
+   "emoji": "🏋️‍♀️"
+  },
+  "akte": "Jana bekommt einen [[Bescheid]]. Die Kasse hat ihn am 10. Juni zur Post gegeben. Jana war lange im Urlaub und legt am 2. August [[Widerspruch]] ein.",
+  "frage": "Ist der Widerspruch rechtzeitig?",
+  "optionen": [
+   {
+    "text": "Zu spät",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Rechtzeitig",
+    "richtig": false,
+    "warumNicht": "Die Frist lief am 13. Juli ab. Der 2. August ist danach. Der Urlaub allein verlängert die Frist nicht."
+   }
+  ],
+  "ergebnis": "Janas Widerspruch kommt zu spät.",
+  "warum": "Die Monatsfrist war schon im Juli vorbei. Ein Urlaub ändert die Frist nicht von selbst.",
+  "denkweg": [
+   "1. Abgeschickt am 10. Juni, plus drei Tage: [[Bekanntgabe]] am 13. Juni.",
+   "2. Ein Monat später endet die Frist: am 13. Juli.",
+   "3. Widerspruch am 2. August: zu spät."
+  ],
+  "rechnung": "10. Juni + 3 Tage = 13. Juni. Plus ein Monat = 13. Juli. Der 2. August liegt danach."
+ },
+ {
+  "id": "f054-2",
+  "regelId": "q54",
+  "stufe": 2,
+  "format": "F1",
+  "figur": {
+   "name": "Herr Petersen, Kapitän",
+   "emoji": "🧑‍✈️"
+  },
+  "akte": "Oben im [[Bescheid]] steht das Datum 1. September. Abgeschickt hat die Kasse ihn aber erst am 4. September. Herr Petersen legt am 5. Oktober [[Widerspruch]] ein.",
+  "frage": "Ist der Widerspruch rechtzeitig?",
+  "optionen": [
+   {
+    "text": "Rechtzeitig",
+    "richtig": true,
+    "warumNicht": null
+   },
+   {
+    "text": "Zu spät",
+    "richtig": false,
+    "warumNicht": "Das Datum oben im Brief zählt nicht. Es zählt das Absenden am 4. September. Die Frist läuft bis zum 7. Oktober."
+   }
+  ],
+  "ergebnis": "Herr Petersen ist rechtzeitig.",
+  "warum": "Die Frist startet mit der [[Bekanntgabe]]. Das Datum oben im Brief ist eine Falle.",
+  "denkweg": [
+   "1. Abgeschickt am 4. September, plus drei Tage: Bekanntgabe am 7. September.",
+   "2. Ein Monat später endet die Frist: am 7. Oktober.",
+   "3. Widerspruch am 5. Oktober: rechtzeitig."
+  ],
+  "rechnung": "4. September + 3 Tage = 7. September. Plus ein Monat = 7. Oktober. Der 5. Oktober liegt davor."
+ }
+]

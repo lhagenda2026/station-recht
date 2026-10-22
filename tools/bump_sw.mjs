@@ -10,6 +10,6 @@ const sw = readFileSync(swPfad, 'utf8');
 const dateien = [...sw.match(/const DATEIEN = \[([\s\S]*?)\];/)[1].matchAll(/'([^']+)'/g)].map((m) => m[1]).filter((f) => f !== './');
 const hash = createHash('sha256');
 for (const f of dateien) hash.update(readFileSync(join(root, f)));
-const version = 'sr-' + hash.digest('hex').slice(0, 10);
+const version = 'bb-' + hash.digest('hex').slice(0, 10);
 writeFileSync(swPfad, sw.replace(/const VERSION = '[^']*';/, `const VERSION = '${version}';`));
 console.log('SW-Version', version, `(${dateien.length} Dateien)`);

@@ -1,19 +1,13 @@
-// Liest ANTWORTEN.md (verbindliche Quelle) + Fragenwortlaut aus BRIEF.md
-// und schreibt data/base.json. Inhalte werden wörtlich übernommen.
+// Liest ANTWORTEN.md (verbindliche Quelle inkl. Fragenwortlaut) und schreibt data/base.json.
+// Kurzantwort, Normen und Schlüsselbegriffe werden wörtlich übernommen.
 import { readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const antworten = readFileSync(join(root, 'ANTWORTEN.md'), 'utf8');
-const brief = readFileSync(join(root, 'BRIEF.md'), 'utf8');
 
-const kapitelVon = (nr) => nr <= 11 ? 'allgemein' : nr <= 25 ? 'grundrechte' : nr <= 53 ? 'verwaltungsrecht' : 'sozialprozessrecht';
-
-// Fragenwortlaut aus dem Anhang von BRIEF.md (vollständiger als die Überschriften in ANTWORTEN.md)
-const anhang = brief.slice(brief.indexOf('## ANHANG'));
-const fragen = {};
-for (const m of anhang.matchAll(/^(\d+)\. (.+)$/gm)) fragen[+m[1]] = m[2].trim();
+const stockwerkVon = (nr) => nr <= 11 ? 1 : nr <= 25 ? 2 : nr <= 53 ? 3 : 4;
 
 // Normen-Zeile an Kommas trennen, aber Fortsetzungen ("II GG", "92") an den Vorgänger hängen
 function splitNormen(s) {
@@ -61,9 +55,9 @@ for (const block of blocks) {
 
   cards.push({
     id: `q${nr}`,
-    kapitel: kapitelVon(nr),
+    stockwerk: stockwerkVon(nr),
     nr,
-    frage: fragen[nr],
+    frage: heading.replace(/^\d+\.\s*/, '').replace('📝', '').trim(),
     kurzantwort: kurz.join('\n').trim(),
     details: body.join('\n').trim(),
     schluesselbegriffe: begriffe ?? [],

@@ -1,0 +1,274 @@
+{
+  "regeln": [
+    {
+      "id": "q38",
+      "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
+      "fachbegriff": "Rücknahme und Widerruf",
+      "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+      "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
+      "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
+      "erkennen": [
+        "Frage dich: War der Bescheid an dem Tag, als er rausging, schon falsch?",
+        "Ja, damals schon falsch: **Rücknahme**.",
+        "Nein, damals richtig: **Widerruf**.",
+        "Was später passiert, ändert nichts daran, ob er damals richtig war."
+      ],
+      "merktrick": "Rücknahme: Rückblick auf einen Fehler. Widerruf: Weiter geht's ab jetzt anders.",
+      "klausur": {
+        "bausteine": [
+          "Entscheidend ist die Rechtmäßigkeit des VA bei Erlass.",
+          "Rücknahme: Der VA war von Anfang an rechtswidrig.",
+          "Widerruf: Der VA war rechtmäßig, wird aber aufgehoben.",
+          "Der Widerruf wirkt grundsätzlich nur für die Zukunft."
+        ],
+        "fallenBausteine": [
+          {
+            "text": "Rücknahme: Der VA war rechtmäßig, wird aber aufgehoben.",
+            "warumNicht": "Vertauscht: Rücknahme gehört zum rechtswidrigen VA."
+          },
+          {
+            "text": "Entscheidend ist, ob sich die Lage später geändert hat.",
+            "warumNicht": "Es zählt der Zeitpunkt des Erlasses, nicht spätere Änderungen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "q50",
+      "titel": "Die Behörde merkt nicht, dass sie wählen darf",
+      "fachbegriff": "Ermessensnichtgebrauch",
+      "einSatz": "Das Gesetz lässt der [[Behörde]] eine Wahl. Sie wählt aber gar nicht, weil sie glaubt, sie hätte keine.",
+      "warum": "Wenn das Gesetz eine Wahl gibt, soll die Behörde den Einzelfall abwägen. Wer gar nicht abwägt, entscheidet blind.",
+      "alltag": "Der Kellner sagt: „Ich muss Ihnen die Pizza mit Pilzen bringen.“ Dabei dürfte er sie ohne Pilze bringen. Er hat nur nicht nachgesehen.",
+      "erkennen": [
+        "Im Gesetz steht „kann“ oder „darf“: Die Behörde hat [[Ermessen]].",
+        "Die Behörde sagt aber „ich muss“ oder „ich habe keine Wahl“.",
+        "Oder sie entscheidet pauschal, ohne den Fall anzusehen.",
+        "Dann ist es **Ermessensnichtgebrauch** (auch: Ermessensausfall)."
+      ],
+      "merktrick": "Nicht gebraucht ist wie nicht gemerkt: Die Wahl lag da, keiner hat sie genommen.",
+      "klausur": {
+        "bausteine": [
+          "Die Behörde erkennt ihren Ermessensspielraum nicht oder übt ihn nicht aus,",
+          "etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.",
+          "Auch: Ermessensausfall."
+        ],
+        "fallenBausteine": [
+          {
+            "text": "Die Behörde wählt eine Rechtsfolge, die der Rahmen nicht deckt.",
+            "warumNicht": "Das ist Ermessensüberschreitung, nicht Nichtgebrauch."
+          }
+        ]
+      }
+    }
+  ],
+  "faelle": [
+    {
+      "id": "f038-0",
+      "regelId": "q38",
+      "stufe": 0,
+      "format": "F1",
+      "figur": {
+        "name": "Herr Yilmaz, Tischler",
+        "emoji": "🧑‍🔧"
+      },
+      "akte": "Die Kasse hat Herrn Yilmaz im Mai Krankengeld bewilligt. Jetzt fällt auf: Schon im Mai wurde sein Gehalt falsch abgetippt. Der [[Bescheid]] war also von Anfang an falsch.",
+      "frage": "Die Kasse hebt den Bescheid auf. Welcher Stempel passt?",
+      "optionen": [
+        {
+          "text": "Rücknahme",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Widerruf",
+          "richtig": false,
+          "warumNicht": "Widerruf passt nur, wenn der Bescheid beim Erlass richtig war. Dieser war schon im Mai falsch."
+        }
+      ],
+      "ergebnis": "Die Kasse nimmt den Bescheid zurück.",
+      "warum": "Rücknahme heißt: Der Bescheid war schon beim Erlass falsch. Hier war das Gehalt von Anfang an falsch eingetippt.",
+      "denkweg": [
+        "1. Wann ist der Fehler passiert? Schon beim Erlass im Mai.",
+        "2. War der Bescheid damals also falsch? Ja.",
+        "3. Also: Rücknahme."
+      ]
+    },
+    {
+      "id": "f038-1",
+      "regelId": "q38",
+      "stufe": 1,
+      "format": "F1",
+      "figur": {
+        "name": "Frau Okafor, Marathonläuferin",
+        "emoji": "🏃‍♀️"
+      },
+      "akte": "Frau Okafor konnte nach einer Operation nicht laufen. Die Kasse hat ihr deshalb eine Haushaltshilfe bewilligt. Das war richtig. Heute läuft sie wieder Marathon.",
+      "frage": "Die Kasse stoppt die Hilfe ab jetzt. Welcher Stempel?",
+      "optionen": [
+        {
+          "text": "Widerruf",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Rücknahme",
+          "richtig": false,
+          "warumNicht": "Für eine Rücknahme müsste der Bescheid schon beim Erlass falsch gewesen sein. Er war aber richtig."
+        }
+      ],
+      "ergebnis": "Die Kasse widerruft die Bewilligung für die Zukunft.",
+      "warum": "Der [[Bescheid]] war beim Erlass richtig. Nur die Lage hat sich später geändert. Das ist ein Widerruf.",
+      "denkweg": [
+        "1. War der Bescheid beim Erlass richtig? Ja, sie konnte nicht laufen.",
+        "2. Was hat sich geändert? Sie ist wieder gesund.",
+        "3. Richtig erlassen, später aufgehoben: Widerruf."
+      ]
+    },
+    {
+      "id": "f038-2",
+      "regelId": "q38",
+      "stufe": 2,
+      "format": "F1",
+      "figur": {
+        "name": "Oma Hildegard mit Hörgerät",
+        "emoji": "👵"
+      },
+      "akte": "Die Kasse hat Oma Hildegard im Januar ein Hörgerät bewilligt. Damals war alles richtig geprüft. Im Juni ändert ein neues Gesetz die Regeln. Oma Hildegard ruft: „Das war doch ein Fehler von Ihnen!“",
+      "frage": "Die Kasse hebt die Bewilligung für die Zukunft auf. Welcher Stempel?",
+      "optionen": [
+        {
+          "text": "Widerruf",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Rücknahme",
+          "richtig": false,
+          "warumNicht": "Oma Hildegard spricht von einem Fehler. Im Januar war aber alles richtig. Also keine Rücknahme."
+        }
+      ],
+      "ergebnis": "Die Kasse widerruft die Bewilligung.",
+      "warum": "Es zählt nur, ob der [[Bescheid]] im Januar richtig war. Das war er. Dass Oma Hildegard von einem Fehler spricht, ändert daran nichts.",
+      "denkweg": [
+        "1. War der Bescheid im Januar richtig? Ja, alles war geprüft.",
+        "2. Erst im Juni ändert sich das Gesetz.",
+        "3. Damals richtig, jetzt aufgehoben: Widerruf."
+      ]
+    },
+    {
+      "id": "f038-3",
+      "regelId": "q38",
+      "stufe": 3,
+      "format": "F1",
+      "figur": {
+        "name": "Herr Brandl, Busfahrer",
+        "emoji": "🚌"
+      },
+      "akte": "Im März hat die Kasse Herrn Brandl Geld für Zahnersatz bewilligt. Dabei wurde eine Rechnung doppelt gezählt. Im Oktober zieht Herr Brandl in eine andere Stadt.",
+      "frage": "Die Kasse hebt den [[Bescheid]] wegen der doppelten Rechnung auf. Welcher Stempel?",
+      "optionen": [
+        {
+          "text": "Rücknahme",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Widerruf",
+          "richtig": false,
+          "warumNicht": "Der Umzug ist eine spätere Änderung, aber er ist nicht der Grund. Der Grund ist die doppelte Rechnung, und die war schon im März falsch."
+        }
+      ],
+      "ergebnis": "Die Kasse nimmt den Bescheid zurück.",
+      "warum": "Die doppelte Rechnung war schon im März falsch. Der Umzug ist eine Falle: Er hat mit dem Fehler nichts zu tun.",
+      "denkweg": [
+        "1. Warum wird der Bescheid aufgehoben? Wegen der doppelten Rechnung.",
+        "2. Wann war das falsch? Schon beim Erlass im März.",
+        "3. Also: Rücknahme. Der Umzug spielt keine Rolle."
+      ]
+    },
+    {
+      "id": "f050-0",
+      "regelId": "q50",
+      "stufe": 0,
+      "format": "F1",
+      "figur": {
+        "name": "Kollege Kurt, Sachbearbeiter",
+        "emoji": "🧔"
+      },
+      "akte": "Im Gesetz steht: Die Kasse **kann** einen falschen [[Bescheid]] zurücknehmen. Sie hat also [[Ermessen]]. Kurt schreibt in die Akte: „Ich muss ihn zurücknehmen. Ich habe keine Wahl.“",
+      "frage": "Welcher Fehler steckt in Kurts Entscheidung?",
+      "optionen": [
+        {
+          "text": "Ermessensnichtgebrauch",
+          "richtig": true,
+          "warumNicht": null
+        },
+        {
+          "text": "Ermessensüberschreitung",
+          "richtig": false,
+          "warumNicht": "[[Ermessensüberschreitung]] heißt: Die [[Behörde]] wählt etwas, das das Gesetz gar nicht erlaubt. Kurt hat aber gar nicht gewählt."
+        },
+        {
+          "text": "Kein Fehler",
+          "richtig": false,
+          "warumNicht": "Das Wort „kann“ gibt Kurt eine Wahl. Wer glaubt, er müsse, nutzt diese Wahl nicht. Das ist ein Fehler."
+        }
+      ],
+      "ergebnis": "Kurt hat sein Ermessen nicht gebraucht: [[Ermessensnichtgebrauch]].",
+      "warum": "„Kann“ heißt: Kurt darf wählen. Er glaubt aber, er müsse. So prüft er den Fall gar nicht richtig.",
+      "denkweg": [
+        "1. Was steht im Gesetz? „Kann“, also gibt es eine Wahl.",
+        "2. Was sagt Kurt? „Ich muss.“ Er sieht die Wahl nicht.",
+        "3. Wahl da, aber nicht genutzt: Ermessensnichtgebrauch."
+      ]
+    }
+  ],
+  "glossar": [
+    {
+      "id": "bescheid",
+      "begriff": "Bescheid",
+      "formen": [
+        "Bescheide",
+        "Bescheids",
+        "Bescheides"
+      ],
+      "erklaerung": "Ein Brief vom Amt, der für dich verbindlich etwas entscheidet. Fachwort: Verwaltungsakt.",
+      "beispiel": "Die Kasse schreibt dir: „Ihr Antrag auf eine Brille ist bewilligt.“"
+    },
+    {
+      "id": "behoerde",
+      "begriff": "Behörde",
+      "formen": [
+        "Behörden"
+      ],
+      "erklaerung": "Eine Stelle, die für den Staat Aufgaben erledigt. Auch eine gesetzliche Krankenkasse zählt dazu.",
+      "beispiel": "Das Bürgeramt, das Finanzamt oder die Krankenkasse."
+    },
+    {
+      "id": "ermessen",
+      "begriff": "Ermessen",
+      "formen": [
+        "Ermessens"
+      ],
+      "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Du erkennst es an Wörtern wie „kann“ oder „darf“.",
+      "beispiel": "„Die Kasse kann einen Zuschuss zahlen.“ Sie muss also nicht."
+    },
+    {
+      "id": "ermessensnichtgebrauch",
+      "begriff": "Ermessensnichtgebrauch",
+      "formen": [
+        "Ermessensausfall"
+      ],
+      "erklaerung": "Die Behörde hätte eine Wahl, nutzt sie aber nicht. Oft glaubt sie fälschlich, sie müsse.",
+      "beispiel": "Der Hausmeister sagt: „Ich muss die Halle abschließen.“ Dabei dürfte er sie offen lassen."
+    },
+    {
+      "id": "ermessensueberschreitung",
+      "begriff": "Ermessensüberschreitung",
+      "formen": [],
+      "erklaerung": "Die Behörde wählt etwas, das das Gesetz gar nicht erlaubt. Sie geht über den erlaubten Rahmen hinaus.",
+      "beispiel": "Erlaubt sind bis zu 30 Prozent Kürzung. Die Behörde kürzt 50 Prozent."
+    }
+  ]
+}
