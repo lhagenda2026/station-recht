@@ -42,3 +42,4 @@
 - Abstieg bei Fehler: Stufe −1 und Leitner-Box 0 (morgen wieder fällig).
 - Pause → „Zurück ins Büro“ hält den Tag offen („Schicht fortsetzen“), damit nichts verloren geht.
 - Schriften: „American Typewriter“ (iOS-Systemschrift) für Akten, SF Rounded für Bedienung; keine eingebetteten Fonts (offline sicher).
+- F6-Fälle (Chefin-Stichprobe) sind von der Wiener-Sachtextformel-Grenze ausgenommen, weil sie die Klausurformel in Fachsprache trainieren; die Satzlänge ≤ 22 Wörter gilt trotzdem.

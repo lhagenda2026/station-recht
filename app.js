@@ -1,6 +1,6 @@
 // Bescheid, bitte! – Ablauf: Büro → Morgenbesprechung → Schalter → Feierabend → Büro.
 import { load, persistAnfragen, getState } from './js/store.js';
-import { ladeDaten, planeTag, planePruefung } from './js/tag.js';
+import { ladeDaten, planeTag, planePruefung, getDaten } from './js/tag.js';
 import { el, zeige } from './js/ui.js';
 import { buero } from './js/szenen/buero.js';
 import { morgen } from './js/szenen/morgen.js';
@@ -45,6 +45,10 @@ async function start() {
     zeige(el('p', { class: 'laden' }, 'Die Akten konnten nicht geladen werden. Bitte einmal mit Internet öffnen.'));
     return;
   }
+  // Direkter Fall für Tests und Vorschau: ?fall=f038-2 (optional &stufe=2)
+  const q = new URLSearchParams(location.search);
+  const fall = q.get('fall') && getDaten().fallNach[q.get('fall')];
+  if (fall) return spiele({ art: 'tag', plaetze: [{ regelId: fall.regelId, fallId: fall.id, minStufe: +(q.get('stufe') ?? 0) }], neu: [] });
   zumBuero();
 }
 

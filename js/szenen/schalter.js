@@ -96,7 +96,7 @@ export function starteSchalter(plan, { onEnde, stand }) {
       stufe >= 2 ? el('span', { class: 'schublade__kosten' }, 'max. 2 ⭐') : null,
     );
 
-    const tisch = el('section', { class: 'tisch' }, akteKnoten, hilfen);
+    const tisch = el('section', { class: 'tisch' }, akteKnoten, teil.werkbank ?? null, hilfen);
     const unten = el('footer', { class: 'daumen' }, teil.unten ?? null, schublade);
     zeige(el('div', { class: `szene szene--schalter${stufe >= 2 ? '' : ' szene--lernen'}` }, kopf, fenster, tisch, unten));
 
