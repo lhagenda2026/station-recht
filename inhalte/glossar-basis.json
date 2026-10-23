@@ -49,11 +49,20 @@
       "formen": [
         "Bundestag",
         "Parlament",
-        "Parlamentsgesetz",
         "Gesetzgebers"
       ],
       "erklaerung": "Wer Gesetze beschließt. In Deutschland sind das vor allem der Bundestag und die Landtage.",
       "beispiel": "Der Bundestag stimmt über ein neues Gesetz ab."
+    },
+    {
+      "id": "parlamentsgesetz",
+      "begriff": "Parlamentsgesetz",
+      "formen": [
+        "Parlamentsgesetze",
+        "Parlamentsgesetzes"
+      ],
+      "erklaerung": "Ein Gesetz, über das das Parlament selbst abstimmt, also der Bundestag oder ein Landtag.",
+      "beispiel": "Wie ein Beschluss der ganzen Klassenversammlung, nicht nur des Klassensprechers."
     },
     {
       "id": "grundgesetz",
@@ -322,7 +331,7 @@
       "formen": [
         "Aufsicht"
       ],
-      "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Sie redet nicht in Zweckmäßigkeitsfragen hinein.",
+      "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Ob eine Entscheidung klug oder sinnvoll ist, prüft sie nicht.",
       "beispiel": "Das Ministerium prüft, ob der G-BA sich an die Gesetze hält."
     },
     {
@@ -372,6 +381,15 @@
       "formen": [],
       "erklaerung": "Wie stark eine Stelle vom Volk her abgesichert ist. Es muss insgesamt ausreichen.",
       "beispiel": "Ein Minister ist vom Parlament bestimmt, das Parlament vom Volk gewählt."
+    },
+    {
+      "id": "reha",
+      "begriff": "Reha",
+      "formen": [
+        "Rehabilitation"
+      ],
+      "erklaerung": "Kurz für Rehabilitation. Eine Behandlung nach Krankheit oder Unfall, damit du im Alltag und Beruf wieder klarkommst.",
+      "beispiel": "Nach der Knie-Operation übt Opa drei Wochen in einer Klinik wieder das Laufen."
     }
   ]
 }

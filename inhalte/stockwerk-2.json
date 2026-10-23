@@ -269,7 +269,7 @@
    "titel": "Wie hart trifft die Regel den Beruf?",
    "fachbegriff": "Drei-Stufen-Theorie (Apotheken-Urteil)",
    "einSatz": "Regeln zum Beruf haben **drei Stufen**. Je höher die Stufe, desto besser muss der Grund sein.",
-   "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund.",
+   "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund. Die Stufen stammen aus dem Apotheken-Urteil: Dort entschied das [[Bundesverfassungsgericht]] über die Eröffnung einer Apotheke.",
    "alltag": "Stufe 1: Der Bäcker darf erst ab 6 Uhr öffnen. Stufe 2: Er braucht einen Meisterbrief. Stufe 3: Es gibt schon genug Bäcker, keiner darf neu öffnen.",
    "erkennen": [
     "**Wie** du arbeitest (Zeiten, Werbung)? Stufe 1: [[Berufsausübung]].",
@@ -308,7 +308,7 @@
    "erkennen": [
     "Passt ein spezielles Grundrecht (Beruf, Glaube, Versammlung)? Dann gilt dieses.",
     "Passt keins? Dann Art. 2 I als [[Auffanggrundrecht]].",
-    "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz.",
+    "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz. Sittengesetz meint die Grundregeln des Anstands, die fast alle teilen.",
     "Ein verfassungswidriges Gesetz kannst du darüber immer angreifen."
    ],
    "merktrick": "Art. 2 I ist das Fangnetz unter allen anderen Grundrechten.",
@@ -376,7 +376,7 @@
    "erkennen": [
     "Geht es um Gruppen von Personen? Dann eher streng.",
     "Werden Freiheitsrechte spürbar berührt? Dann strenger.",
-    "Ähnelt das Merkmal denen aus Art. 3 III? Je ähnlicher, desto strenger.",
+    "Ähnelt das Merkmal den verbotenen aus Art. 3 III, etwa Geschlecht, Herkunft oder Glaube? Je ähnlicher, desto strenger.",
     "Nur Sache oder Verhalten? Dann reicht die [[Willkürformel|Willkürverbot]]. Dazwischen gilt eine [[gleitende Skala]]."
    ],
    "merktrick": "Je persönlicher der Unterschied, desto strenger der Blick.",
@@ -445,7 +445,7 @@
     "✔ 1: Ist die Krankheit lebensbedrohlich oder meist tödlich?",
     "✔ 2: Fehlt eine anerkannte Standard-Behandlung?",
     "✔ 3: Gibt es Hinweise, dass das Mittel nicht ganz aussichtslos hilft?",
-    "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]] (heute § 2 Ia [[SGB|sgb]] V)."
+    "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]]. Heute steht das auch im Gesetz zur Krankenkasse ([[SGB|sgb]] V)."
    ],
    "merktrick": "Drei Haken oder kein Geschenk vom Nikolaus.",
    "klausur": {
@@ -2200,7 +2200,7 @@
     {
      "text": "Nein, es schützt Kunden",
      "richtig": false,
-     "warumNicht": "Ole verwechselt Zweck und Ziel. Auch zum Schutz der Kunden regelt das Gesetz genau die Arbeit der Tätowierer."
+     "warumNicht": "Ole verwechselt den Schutzzweck mit dem, was geregelt wird: Das Gesetz regelt gezielt die Arbeit der Tätowierer."
     },
     {
      "text": "Ja, aber nur objektiv",
@@ -3480,7 +3480,7 @@
     "name": "Herr Lange, Schreiner mit Heuschnupfen",
     "emoji": "🤧"
    },
-   "akte": "Herr Lange hat Heuschnupfen. Er will ein teures Spray, das nicht im Leistungskatalog der Kasse steht. Es gibt gute Standardmittel. Er beruft sich auf seine [[Grundrechte|grundrecht]].",
+   "akte": "Herr Lange hat Heuschnupfen. Er will ein teures Spray, das nicht im [[Leistungskatalog]] der Kasse steht. Es gibt gute Standardmittel. Er beruft sich auf seine [[Grundrechte|grundrecht]].",
    "frage": "Hat er einen grundrechtlichen [[Anspruch|rechtsanspruch]]?",
    "optionen": [
     {
@@ -3512,7 +3512,7 @@
     "name": "Frau Roth, Grundschullehrerin",
     "emoji": "👩‍🏫"
    },
-   "akte": "Frau Roth hat eine lebensbedrohliche Krankheit. Es gibt eine anerkannte Standard-Behandlung. Sie will lieber ein anderes Mittel, das nicht im Katalog steht.",
+   "akte": "Frau Roth hat eine lebensbedrohliche Krankheit. Es gibt eine anerkannte Standard-Behandlung. Sie will lieber ein anderes Mittel, das nicht im [[Katalog|leistungskatalog]] steht.",
    "frage": "Muss die Kasse das andere Mittel zahlen?",
    "optionen": [
     {
@@ -3586,7 +3586,7 @@
     "name": "Frau Brandt",
     "emoji": "👩🏼‍💼"
    },
-   "akte": "Frau Brandt prüft einen Antrag auf ein Arzneimittel außerhalb des Katalogs. Bring ihre Prüfschritte in Reihenfolge.",
+   "akte": "Frau Brandt prüft einen Antrag auf ein Arzneimittel außerhalb des [[Katalogs|leistungskatalog]]. Bring ihre Prüfschritte in Reihenfolge.",
    "frage": "Wie prüft man richtig?",
    "reihenfolge": [
     "Gibt es einen Anspruch nach dem SGB V? Nein.",
@@ -3645,7 +3645,7 @@
    "regelId": "q25",
    "stufe": 3,
    "format": "F6",
-   "akte": "Erklären Sie mir, wann ein Versicherter ein Arzneimittel außerhalb des Katalogs bekommt. Drei Häkchen, bitte.",
+   "akte": "Erklären Sie mir, wann ein Versicherter ein Arzneimittel außerhalb des [[Katalogs|leistungskatalog]] bekommt. Drei Häkchen, bitte.",
    "frage": "Lege die Antwort aus den Bausteinen.",
    "ergebnis": "Grundsätzlich nein; Ausnahme bei lebensbedrohlicher Krankheit, ohne Standard, mit Indizien. Heute § 2 Ia [[SGB|sgb]] V.",
    "warum": "Erst der Grundsatz, dann die drei Häkchen in fester Reihenfolge, zum Schluss Grundlage und [[Norm|rechtsnorm]].",
@@ -3788,7 +3788,7 @@
    "id": "schrankentrias",
    "begriff": "Schrankentrias",
    "formen": [],
-   "erklaerung": "Die drei Grenzen von Art. 2 I: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+   "erklaerung": "Die drei Grenzen der allgemeinen Handlungsfreiheit: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz. Sittengesetz meint die Grundregeln des Anstands, die fast alle teilen.",
    "beispiel": "Du darfst frei handeln, aber nicht die Rechte deiner Nachbarn verletzen."
   },
   {
@@ -3892,8 +3892,18 @@
    "id": "nikolaus-beschluss",
    "begriff": "Nikolaus-Beschluss",
    "formen": [],
-   "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005 zu Behandlungen außerhalb des Katalogs.",
+   "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005. Sie sagt, wann die Kasse ausnahmsweise eine Behandlung zahlen muss, die nicht im Leistungskatalog steht.",
    "beispiel": "Bei tödlicher Krankheit ohne Standard-Behandlung kann die Kasse zahlen müssen."
+  },
+  {
+   "id": "leistungskatalog",
+   "begriff": "Leistungskatalog",
+   "formen": [
+    "Katalog",
+    "Katalogs"
+   ],
+   "erklaerung": "Die Liste der Leistungen, die die gesetzliche Krankenkasse bezahlt. Was nicht darauf steht, zahlt sie normalerweise nicht.",
+   "beispiel": "Wie die Speisekarte im Restaurant: Was nicht draufsteht, wird nicht gekocht."
   }
  ]
 }

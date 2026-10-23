@@ -1,5 +1,9 @@
 // F1 Stempeln: 2–4 Stempel, antippen oder auf die Akte ziehen.
 import { h, klar } from '../ui.js';
+import { mische } from '../lernen.js';
+
+/** Optionen in zufälliger Reihenfolge, mit Originalindex (data-option bleibt stabil). */
+const mischeMitIndex = (liste) => mische(liste.map((o, i) => [o, i]));
 
 const ROT = /abgelehnt|nein|zu spät|nichtig|unzulässig|verboten|kein |nicht /i;
 const BLAU = /bewilligt|^ja|rechtzeitig|zulässig|gültig|erlaubt/i;
@@ -14,8 +18,8 @@ export function stempelFarbe(text, i) {
 export function f1(fall, ctx) {
   if (fall.optionen.some((o) => o.text.split(/\s+/).length > 4)) return { steuerung: zettelAuswahl(fall.optionen, ctx) };
   const reihe = h('div', { class: `stempelreihe n${fall.optionen.length}` });
-  fall.optionen.forEach((o, i) => {
-    const farbe = stempelFarbe(o.text, i);
+  mischeMitIndex(fall.optionen).forEach(([o, i], pos) => {
+    const farbe = stempelFarbe(o.text, pos);
     const knopf = h('button', { class: `stempel farbe-${farbe}`, type: 'button', 'data-option': i },
       h('span', { class: 'stempel-griff', 'aria-hidden': 'true' }),
       h('span', { class: 'stempel-platte' }, o.text));
@@ -68,13 +72,13 @@ export function ziehbar(el, ziel, ausloesen) {
 /** Lange Antworten als Zettelstapel (statt Stempel). onWahl optional, sonst direkt ctx.antwort. */
 export function zettelAuswahl(optionen, ctx, onWahl) {
   const liste = h('div', { class: 'zettelstapel' });
-  optionen.forEach((o, i) => liste.append(h('button', { class: 'antwortzettel', type: 'button', 'data-option': i, onClick: (e) => {
+  mischeMitIndex(optionen).forEach(([o, i], pos) => liste.append(h('button', { class: 'antwortzettel', type: 'button', 'data-option': i, onClick: (e) => {
     if (ctx.gesperrt() || liste.dataset.fertig) return;
     liste.dataset.fertig = '1';
     e.currentTarget.classList.add('gewaehlt');
-    liste.querySelectorAll('.antwortzettel').forEach((z, j) => { if (optionen[j].richtig) z.classList.add('ist-richtig'); });
+    liste.querySelectorAll('.antwortzettel').forEach((z) => { if (optionen[z.dataset.option].richtig) z.classList.add('ist-richtig'); });
     if (onWahl) onWahl(o);
     else ctx.antwort({ richtig: o.richtig, gewaehlt: o.richtig ? [] : [o] });
-  } }, h('span', { class: 'zettel-buchstabe', 'aria-hidden': 'true' }, 'ABCD'[i]), h('span', {}, klar(o.text)))));
+  } }, h('span', { class: 'zettel-buchstabe', 'aria-hidden': 'true' }, 'ABCD'[pos]), h('span', {}, klar(o.text)))));
   return liste;
 }

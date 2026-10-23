@@ -9,8 +9,8 @@
    "alltag": "Ein Strafzettel ohne Absender und ohne Stadtwappen ist kein Strafzettel. Ein Strafzettel mit falscher Hausnummer gilt erst mal, du kannst dich aber wehren.",
    "erkennen": [
     "Ist der Fehler **sehr schwer** und **sofort sichtbar**? Dann nichtig.",
-    "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, sittenwidrig.",
-    "Nur falsche Stelle oder befangener Mitarbeiter? Dann **nicht** nichtig.",
+    "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, gegen die guten Sitten (also grob unanständig).",
+    "Hat nur eine [[Behörde]] am falschen Ort entschieden? Oder ein ausgeschlossener Mitarbeiter, z. B. ein Verwandter? Dann **nicht** nichtig.",
     "Meist ist der Bescheid nur [[rechtswidrig]]: Er gilt, ist aber angreifbar."
    ],
    "merktrick": "Nichtig ist nichts. Aber fast nie ist etwas nichtig.",
@@ -146,7 +146,7 @@
    "erkennen": [
     "Steht im Wenn-Teil ein weites Wort? Das ist ein [[unbestimmter Rechtsbegriff]].",
     "Regel: Das Gericht prüft voll, was das Wort hier bedeutet.",
-    "Ausnahme: Prüfungsnoten, Prognosen, Gremien mit vielen Gruppen.",
+    "Ausnahmen: Prüfungsnoten und Prognosen, also Vorhersagen über die Zukunft. Und Runden, in denen viele verschiedene Gruppen gemeinsam entscheiden.",
     "Nur dann gibt es einen [[Beurteilungsspielraum]]."
    ],
    "merktrick": "Schwammig heißt nicht beliebig.",
@@ -603,7 +603,7 @@
       "warumNicht": "Örtliche Zuständigkeit allein reicht nicht."
      },
      {
-      "text": "Befangener Mitarbeiter",
+      "text": "Ausgeschlossener Mitarbeiter (z. B. Ehemann der Antragstellerin)",
       "fach": "Nicht allein nichtig",
       "warumNicht": "Ein ausgeschlossener Mitarbeiter allein reicht nicht."
      },
@@ -614,7 +614,7 @@
      }
     ]
    },
-   "ergebnis": "Absender fehlt, Unmögliches und Sittenwidriges: nichtig. Falsche Stadt und befangener Mitarbeiter: nicht allein nichtig.",
+   "ergebnis": "Absender fehlt, Unmögliches und Sittenwidriges: nichtig. Falsche Stadt und ausgeschlossener Mitarbeiter: nicht allein nichtig.",
    "warum": "Das Gesetz hat eine Liste für „immer nichtig“ und eine für „allein nicht nichtig“. Die zweite Liste sind Fehler im Ablauf.",
    "denkweg": [
     "1. Ist es ein sehr schwerer, sichtbarer Fehler? Dann nichtig.",
@@ -2214,7 +2214,7 @@
     "name": "Herr Yilmaz, Elektriker",
     "emoji": "🧑‍🔧"
    },
-   "akte": "Herr Yilmaz legt dir den Brief der Kasse hin. Das Gesetz sagt: Die Kasse **kann** eine Reise-Reha bezahlen.",
+   "akte": "Herr Yilmaz legt dir den Brief der Kasse hin. Das Gesetz sagt: Die Kasse **kann** eine [[Reha]] im Ausland bezahlen.",
    "frage": "Wo steckt der Fehler im Brief? Tippe ihn an.",
    "markierbar": [
     "Sehr geehrter Herr Yilmaz, ",
@@ -2224,7 +2224,7 @@
      "warumNicht": "Den Eingang des Antrags zu bestätigen ist kein Fehler."
     },
     {
-     "text": " Eine Reise-Reha bezahlen wir nach unseren Regeln nie.",
+     "text": " Eine Reha im Ausland bezahlen wir nach unseren Regeln nie.",
      "fehler": true
     },
     {
@@ -2280,7 +2280,7 @@
     }
    ],
    "ergebnis": "Wahl gehabt, aber nicht genutzt: Ermessensnichtgebrauch.",
-   "warum": "Beim Nichtgebrauch fehlt die Abwägung ganz. Bei den anderen Fehlern wird abgewogen, aber falsch.",
+   "warum": "Beim Nichtgebrauch fehlt die Abwägung ganz. Bei den anderen Fehlern wird gewählt, aber außerhalb des Rahmens oder aus falschen Gründen.",
    "denkweg": [
     "1. Hat die Kasse überhaupt abgewogen?",
     "2. Nein, sie fühlte sich [[gebunden|gebundene-entscheidung]].",
@@ -2615,7 +2615,7 @@
     "name": "Herr Brinkmann, Postbote",
     "emoji": "📮"
    },
-   "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt bei Herrn Brinkmann ab. Grund: „Sie waren früher bei einer anderen Kasse.“",
+   "akte": "Die Kasse **kann** eine [[Reha]] bezahlen. Sie lehnt bei Herrn Brinkmann ab. Grund: „Sie waren früher bei einer anderen Kasse.“",
    "frage": "Welcher Fehler?",
    "optionen": [
     {
@@ -2739,7 +2739,7 @@
     "name": "Frau Zimmermann, Chorleiterin",
     "emoji": "🎼"
    },
-   "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt ab. Dabei schaut sie nur auf die Kosten. Dass Frau Zimmermann ohne Reha nicht mehr arbeiten kann, lässt sie ganz weg.",
+   "akte": "Die Kasse **kann** eine [[Reha]] bezahlen. Sie lehnt ab. Dabei schaut sie nur auf die Kosten. Dass Frau Zimmermann ohne Reha nicht mehr arbeiten kann, lässt sie ganz weg.",
    "frage": "Welcher Fehler?",
    "optionen": [
     {
@@ -2957,7 +2957,7 @@
      "warumNicht": "Das ist ein legitimer Zweck."
     },
     {
-     "text": " Deshalb beenden wir Ihre Mitgliedschaft sofort.",
+     "text": " Deshalb zahlen wir Ihnen bis zum Eingang des Nachweises gar keine Leistungen mehr.",
      "fehler": true
     }
    ],
@@ -2970,7 +2970,7 @@
     {
      "text": "Nicht geeignet",
      "richtig": false,
-     "warumNicht": "Eine Kündigung würde das Problem schon „lösen“. Es gibt aber ein milderes Mittel."
+     "warumNicht": "Der Stopp wirkt als Druckmittel, er bringt den Nachweis also herbei. Es gibt aber ein milderes Mittel."
     },
     {
      "text": "Kein legitimer Zweck",
@@ -2978,7 +2978,7 @@
      "warumNicht": "Vollständige Nachweise sind ein erlaubtes Ziel."
     }
    ],
-   "ergebnis": "Die sofortige Beendigung: Ein milderes Mittel, etwa eine Erinnerung, wäre genauso wirksam.",
+   "ergebnis": "Der komplette Leistungsstopp: Eine Erinnerung wäre milder und bringt den Nachweis genauso.",
    "warum": "Erforderlich heißt: das mildeste Mittel, das gleich gut wirkt. Eine Erinnerung bringt den Nachweis auch.",
    "denkweg": [
     "1. Zweck legitim? Ja.",

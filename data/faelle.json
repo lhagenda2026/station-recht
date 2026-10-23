@@ -1624,7 +1624,7 @@
    {
     "text": "Er beschließt Gesetze im [[Bundestag|gesetzgeber]], ohne gewählt zu sein.",
     "richtig": false,
-    "warumNicht": "Der G-BA sitzt nicht im Bundestag. Er macht [[Richtlinien|richtlinie]], keine Parlamentsgesetze."
+    "warumNicht": "Der G-BA sitzt nicht im Bundestag. Er macht [[Richtlinien|richtlinie]], keine [[Parlamentsgesetze|parlamentsgesetz]]."
    },
    {
     "text": "Die Versicherten wählen ihn, aber kaum jemand geht hin.",
@@ -1676,7 +1676,7 @@
     {
      "text": "Das Ministerium führt die Rechtsaufsicht",
      "fach": "Dafür",
-     "warumNicht": "Das BMG wacht nach § 94 [[SGB|sgb]] V über den G-BA."
+     "warumNicht": "Das Gesundheitsministerium wacht nach § 94 [[SGB|sgb]] V über den G-BA."
     },
     {
      "text": "Selbstverwaltung hat eigene Legitimation",
@@ -1862,11 +1862,11 @@
     {
      "text": "Bundesgesundheitsministerium (BMG)",
      "fach": "Aufsicht von außen",
-     "warumNicht": "Das BMG führt die [[Aufsicht|rechtsaufsicht]] nach § 94 [[SGB|sgb]] V."
+     "warumNicht": "Das Ministerium führt die [[Aufsicht|rechtsaufsicht]] nach § 94 [[SGB|sgb]] V."
     }
    ]
   },
-  "ergebnis": "Kassen, Leistungserbringer und Unparteiische stimmen ab. Patienten reden mit. Das BMG wacht von außen.",
+  "ergebnis": "Kassen, Leistungserbringer und Unparteiische stimmen ab. Patienten reden mit. Das Ministerium wacht von außen.",
   "warum": "Das Gremium hat 13 Stimmen. [[Patientenvertreter]] haben keine. Das Ministerium ist kein Mitglied, sondern Aufsicht.",
   "denkweg": [
    "1. Gehört die Person zu den 13? Dann stimmt sie ab.",
@@ -1915,7 +1915,7 @@
   "format": "F6",
   "akte": "Erklären Sie mir den [[G-BA|gba]]: Aufgaben, Zusammensetzung, Entscheidungen. Zahlen bitte korrekt.",
   "frage": "Lege die Antwort aus den Bausteinen.",
-  "ergebnis": "Er ist das oberste Gremium der gemeinsamen [[Selbstverwaltung]]. 13 Mitglieder stimmen ab. Er macht [[Richtlinien|richtlinie]], die alle binden. Das BMG führt die [[Aufsicht|rechtsaufsicht]].",
+  "ergebnis": "Er ist das oberste Gremium der gemeinsamen [[Selbstverwaltung]]. 13 Mitglieder stimmen ab. Er macht [[Richtlinien|richtlinie]], die alle binden. Das Gesundheitsministerium führt die [[Aufsicht|rechtsaufsicht]].",
   "warum": "Die Prüfung will in dieser Reihe: wer ihn trägt, wer abstimmt, die [[Patientenvertreter]], die Richtlinien und die Aufsicht.",
   "denkweg": [
    "1. Zuerst: was der G-BA ist und wer ihn trägt.",
@@ -2408,7 +2408,7 @@
    {
     "text": " Die Aufsicht führt das Gesundheitsministerium.",
     "fehler": false,
-    "warumNicht": "Das stimmt: Das BMG führt die [[Rechtsaufsicht]]."
+    "warumNicht": "Das stimmt: Das Gesundheitsministerium führt die [[Rechtsaufsicht]]."
    }
   ],
   "ergebnis": "Falsch ist: Die Richtlinien seien nur Empfehlungen.",
@@ -4150,7 +4150,7 @@
    {
     "text": "Nein, es schützt Kunden",
     "richtig": false,
-    "warumNicht": "Ole verwechselt Zweck und Ziel. Auch zum Schutz der Kunden regelt das Gesetz genau die Arbeit der Tätowierer."
+    "warumNicht": "Ole verwechselt den Schutzzweck mit dem, was geregelt wird: Das Gesetz regelt gezielt die Arbeit der Tätowierer."
    },
    {
     "text": "Ja, aber nur objektiv",
@@ -5430,7 +5430,7 @@
    "name": "Herr Lange, Schreiner mit Heuschnupfen",
    "emoji": "🤧"
   },
-  "akte": "Herr Lange hat Heuschnupfen. Er will ein teures Spray, das nicht im Leistungskatalog der Kasse steht. Es gibt gute Standardmittel. Er beruft sich auf seine [[Grundrechte|grundrecht]].",
+  "akte": "Herr Lange hat Heuschnupfen. Er will ein teures Spray, das nicht im [[Leistungskatalog]] der Kasse steht. Es gibt gute Standardmittel. Er beruft sich auf seine [[Grundrechte|grundrecht]].",
   "frage": "Hat er einen grundrechtlichen [[Anspruch|rechtsanspruch]]?",
   "optionen": [
    {
@@ -5462,7 +5462,7 @@
    "name": "Frau Roth, Grundschullehrerin",
    "emoji": "👩‍🏫"
   },
-  "akte": "Frau Roth hat eine lebensbedrohliche Krankheit. Es gibt eine anerkannte Standard-Behandlung. Sie will lieber ein anderes Mittel, das nicht im Katalog steht.",
+  "akte": "Frau Roth hat eine lebensbedrohliche Krankheit. Es gibt eine anerkannte Standard-Behandlung. Sie will lieber ein anderes Mittel, das nicht im [[Katalog|leistungskatalog]] steht.",
   "frage": "Muss die Kasse das andere Mittel zahlen?",
   "optionen": [
    {
@@ -5536,7 +5536,7 @@
    "name": "Frau Brandt",
    "emoji": "👩🏼‍💼"
   },
-  "akte": "Frau Brandt prüft einen Antrag auf ein Arzneimittel außerhalb des Katalogs. Bring ihre Prüfschritte in Reihenfolge.",
+  "akte": "Frau Brandt prüft einen Antrag auf ein Arzneimittel außerhalb des [[Katalogs|leistungskatalog]]. Bring ihre Prüfschritte in Reihenfolge.",
   "frage": "Wie prüft man richtig?",
   "reihenfolge": [
    "Gibt es einen Anspruch nach dem SGB V? Nein.",
@@ -5595,7 +5595,7 @@
   "regelId": "q25",
   "stufe": 3,
   "format": "F6",
-  "akte": "Erklären Sie mir, wann ein Versicherter ein Arzneimittel außerhalb des Katalogs bekommt. Drei Häkchen, bitte.",
+  "akte": "Erklären Sie mir, wann ein Versicherter ein Arzneimittel außerhalb des [[Katalogs|leistungskatalog]] bekommt. Drei Häkchen, bitte.",
   "frage": "Lege die Antwort aus den Bausteinen.",
   "ergebnis": "Grundsätzlich nein; Ausnahme bei lebensbedrohlicher Krankheit, ohne Standard, mit Indizien. Heute § 2 Ia [[SGB|sgb]] V.",
   "warum": "Erst der Grundsatz, dann die drei Häkchen in fester Reihenfolge, zum Schluss Grundlage und [[Norm|rechtsnorm]].",
@@ -5905,8 +5905,8 @@
    "name": "Lena, Studentin mit Gipsbein",
    "emoji": "🤕"
   },
-  "akte": "Lena wird in der Uniklinik behandelt. Dort gibt es Ärzte, Betten und Geräte. Lena ist Patientin, kein Mitglied. Mitbestimmen darf sie nicht.",
-  "frage": "Was ist die Uniklinik (je nach Land)?",
+  "akte": "Lena wird in der Uniklinik behandelt. Dort gibt es Ärzte, Betten und Geräte. Lena ist Patientin, kein Mitglied. Mitbestimmen darf sie nicht. In Lenas Bundesland ist die Klinik eine eigene Einrichtung des Landes.",
+  "frage": "Was ist die Uniklinik?",
   "optionen": [
    {
     "text": "Anstalt",
@@ -6033,7 +6033,7 @@
     {
      "text": "Patient der Uniklinik",
      "fach": "Nutzer",
-     "warumNicht": "Die Uniklinik ist je nach Land eine Anstalt."
+     "warumNicht": "Die Uniklinik ist in vielen Bundesländern eine Anstalt. Jedes Land regelt das selbst."
     },
     {
      "text": "Einwohnerin der Gemeinde",
@@ -6196,7 +6196,7 @@
    {
     "text": "Parlamentsgesetz",
     "richtig": false,
-    "warumNicht": "Ein solches Gesetz beschließt das [[Parlament|gesetzgeber]]. Hier hat ein Ministerium die Regel erlassen."
+    "warumNicht": "Ein [[Parlamentsgesetz]] beschließt das [[Parlament|gesetzgeber]] selbst. Hier hat ein Ministerium die Regel erlassen."
    }
   ],
   "ergebnis": "[[Rechtsverordnung]]: Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen.",
@@ -6311,7 +6311,7 @@
     {
      "text": "Der Bundestag beschließt es.",
      "fach": "Parlamentsgesetz",
-     "warumNicht": "Was das Parlament beschließt, ist ein [[Parlamentsgesetz|gesetzgeber]]."
+     "warumNicht": "Was das [[Parlament|gesetzgeber]] beschließt, ist ein [[Parlamentsgesetz]]."
     },
     {
      "text": "Ein Ministerium erlässt es mit Erlaubnis aus einem Gesetz.",
@@ -6698,7 +6698,7 @@
    {
     "text": "Parlamentsgesetz",
     "richtig": false,
-    "warumNicht": "Der Gemeinderat ist nicht der [[Bundestag|gesetzgeber]]. Er regelt die Sachen des Ortes selbst."
+    "warumNicht": "Ein [[Parlamentsgesetz]] beschließt der [[Bundestag|gesetzgeber]] oder ein Landtag. Der Gemeinderat regelt nur die Sachen des Ortes selbst."
    }
   ],
   "ergebnis": "Die Regel ist eine Satzung der Gemeinde.",
@@ -8497,7 +8497,7 @@
    "name": "Herr Demir, Pizzabäcker",
    "emoji": "👨‍🍳"
   },
-  "akte": "Herr Demir hatte eine Reha bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
+  "akte": "Herr Demir hatte eine [[Reha]] bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
   "frage": "Welcher Stempel passt?",
   "optionen": [
    {
@@ -8873,7 +8873,7 @@
    "name": "Frau Tanaka, Origami-Künstlerin",
    "emoji": "👩🏻‍🎨"
   },
-  "akte": "Frau Tanaka hat eine Reha beantragt. Die Kasse will ihr genau das bewilligen, was sie beantragt hat.",
+  "akte": "Frau Tanaka hat eine [[Reha]] beantragt. Die Kasse will ihr genau das bewilligen, was sie beantragt hat.",
   "frage": "Muss die Kasse sie vorher [[anhören|anhoerung]]?",
   "optionen": [
    {
@@ -9061,7 +9061,7 @@
    "name": "Frau Ebert, Sommelière",
    "emoji": "🍷"
   },
-  "akte": "Frau Ebert bekam eine Reha bewilligt. Der [[Bescheid]] war von Anfang an falsch. Die Kasse will ihn zurücknehmen. Der Sachbearbeiter meint: „Eine Rücknahme ist nur eine Korrektur. Anhören müssen wir nicht.“",
+  "akte": "Frau Ebert bekam eine [[Reha]] bewilligt. Der [[Bescheid]] war von Anfang an falsch. Die Kasse will ihn zurücknehmen. Der Sachbearbeiter meint: „Eine Rücknahme ist nur eine Korrektur. Anhören müssen wir nicht.“",
   "frage": "Hat er recht?",
   "optionen": [
    {
@@ -9263,7 +9263,7 @@
      "warumNicht": "Örtliche Zuständigkeit allein reicht nicht."
     },
     {
-     "text": "Befangener Mitarbeiter",
+     "text": "Ausgeschlossener Mitarbeiter (z. B. Ehemann der Antragstellerin)",
      "fach": "Nicht allein nichtig",
      "warumNicht": "Ein ausgeschlossener Mitarbeiter allein reicht nicht."
     },
@@ -9274,7 +9274,7 @@
     }
    ]
   },
-  "ergebnis": "Absender fehlt, Unmögliches und Sittenwidriges: nichtig. Falsche Stadt und befangener Mitarbeiter: nicht allein nichtig.",
+  "ergebnis": "Absender fehlt, Unmögliches und Sittenwidriges: nichtig. Falsche Stadt und ausgeschlossener Mitarbeiter: nicht allein nichtig.",
   "warum": "Das Gesetz hat eine Liste für „immer nichtig“ und eine für „allein nicht nichtig“. Die zweite Liste sind Fehler im Ablauf.",
   "denkweg": [
    "1. Ist es ein sehr schwerer, sichtbarer Fehler? Dann nichtig.",
@@ -10874,7 +10874,7 @@
    "name": "Herr Yilmaz, Elektriker",
    "emoji": "🧑‍🔧"
   },
-  "akte": "Herr Yilmaz legt dir den Brief der Kasse hin. Das Gesetz sagt: Die Kasse **kann** eine Reise-Reha bezahlen.",
+  "akte": "Herr Yilmaz legt dir den Brief der Kasse hin. Das Gesetz sagt: Die Kasse **kann** eine [[Reha]] im Ausland bezahlen.",
   "frage": "Wo steckt der Fehler im Brief? Tippe ihn an.",
   "markierbar": [
    "Sehr geehrter Herr Yilmaz, ",
@@ -10884,7 +10884,7 @@
     "warumNicht": "Den Eingang des Antrags zu bestätigen ist kein Fehler."
    },
    {
-    "text": " Eine Reise-Reha bezahlen wir nach unseren Regeln nie.",
+    "text": " Eine Reha im Ausland bezahlen wir nach unseren Regeln nie.",
     "fehler": true
    },
    {
@@ -10940,7 +10940,7 @@
    }
   ],
   "ergebnis": "Wahl gehabt, aber nicht genutzt: Ermessensnichtgebrauch.",
-  "warum": "Beim Nichtgebrauch fehlt die Abwägung ganz. Bei den anderen Fehlern wird abgewogen, aber falsch.",
+  "warum": "Beim Nichtgebrauch fehlt die Abwägung ganz. Bei den anderen Fehlern wird gewählt, aber außerhalb des Rahmens oder aus falschen Gründen.",
   "denkweg": [
    "1. Hat die Kasse überhaupt abgewogen?",
    "2. Nein, sie fühlte sich [[gebunden|gebundene-entscheidung]].",
@@ -11275,7 +11275,7 @@
    "name": "Herr Brinkmann, Postbote",
    "emoji": "📮"
   },
-  "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt bei Herrn Brinkmann ab. Grund: „Sie waren früher bei einer anderen Kasse.“",
+  "akte": "Die Kasse **kann** eine [[Reha]] bezahlen. Sie lehnt bei Herrn Brinkmann ab. Grund: „Sie waren früher bei einer anderen Kasse.“",
   "frage": "Welcher Fehler?",
   "optionen": [
    {
@@ -11399,7 +11399,7 @@
    "name": "Frau Zimmermann, Chorleiterin",
    "emoji": "🎼"
   },
-  "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt ab. Dabei schaut sie nur auf die Kosten. Dass Frau Zimmermann ohne Reha nicht mehr arbeiten kann, lässt sie ganz weg.",
+  "akte": "Die Kasse **kann** eine [[Reha]] bezahlen. Sie lehnt ab. Dabei schaut sie nur auf die Kosten. Dass Frau Zimmermann ohne Reha nicht mehr arbeiten kann, lässt sie ganz weg.",
   "frage": "Welcher Fehler?",
   "optionen": [
    {
@@ -11617,7 +11617,7 @@
     "warumNicht": "Das ist ein legitimer Zweck."
    },
    {
-    "text": " Deshalb beenden wir Ihre Mitgliedschaft sofort.",
+    "text": " Deshalb zahlen wir Ihnen bis zum Eingang des Nachweises gar keine Leistungen mehr.",
     "fehler": true
    }
   ],
@@ -11630,7 +11630,7 @@
    {
     "text": "Nicht geeignet",
     "richtig": false,
-    "warumNicht": "Eine Kündigung würde das Problem schon „lösen“. Es gibt aber ein milderes Mittel."
+    "warumNicht": "Der Stopp wirkt als Druckmittel, er bringt den Nachweis also herbei. Es gibt aber ein milderes Mittel."
    },
    {
     "text": "Kein legitimer Zweck",
@@ -11638,7 +11638,7 @@
     "warumNicht": "Vollständige Nachweise sind ein erlaubtes Ziel."
    }
   ],
-  "ergebnis": "Die sofortige Beendigung: Ein milderes Mittel, etwa eine Erinnerung, wäre genauso wirksam.",
+  "ergebnis": "Der komplette Leistungsstopp: Eine Erinnerung wäre milder und bringt den Nachweis genauso.",
   "warum": "Erforderlich heißt: das mildeste Mittel, das gleich gut wirkt. Eine Erinnerung bringt den Nachweis auch.",
   "denkweg": [
    "1. Zweck legitim? Ja.",
@@ -12495,7 +12495,7 @@
    "name": "Herr Brodersen, Leuchtturmwärter",
    "emoji": "🗼"
   },
-  "akte": "Die Kasse lehnt eine Reha für Herrn Brodersen ab. Er ist sauer. Er will **sofort** zum Gericht, ohne vorher [[Widerspruch]] einzulegen.",
+  "akte": "Die Kasse lehnt eine [[Reha]] für Herrn Brodersen ab. Er ist sauer. Er will **sofort** zum Gericht, ohne vorher [[Widerspruch]] einzulegen.",
   "frage": "Was rätst du ihm?",
   "optionen": [
    {
@@ -13434,7 +13434,7 @@
     {
      "text": "Kasse sagt Nein zur Reha, Tänzerin will sie machen",
      "fach": "Verpflichtungsklage",
-     "warumNicht": "Sie will die Bewilligung erzwingen."
+     "warumNicht": "Sie will die Bewilligung der [[Reha]] erzwingen."
     },
     {
      "text": "Antrag liegt seit Ewigkeiten unbearbeitet",

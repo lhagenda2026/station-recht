@@ -48,11 +48,20 @@
   "formen": [
    "Bundestag",
    "Parlament",
-   "Parlamentsgesetz",
    "Gesetzgebers"
   ],
   "erklaerung": "Wer Gesetze beschließt. In Deutschland sind das vor allem der Bundestag und die Landtage.",
   "beispiel": "Der Bundestag stimmt über ein neues Gesetz ab."
+ },
+ {
+  "id": "parlamentsgesetz",
+  "begriff": "Parlamentsgesetz",
+  "formen": [
+   "Parlamentsgesetze",
+   "Parlamentsgesetzes"
+  ],
+  "erklaerung": "Ein Gesetz, über das das Parlament selbst abstimmt, also der Bundestag oder ein Landtag.",
+  "beispiel": "Wie ein Beschluss der ganzen Klassenversammlung, nicht nur des Klassensprechers."
  },
  {
   "id": "grundgesetz",
@@ -321,7 +330,7 @@
   "formen": [
    "Aufsicht"
   ],
-  "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Sie redet nicht in Zweckmäßigkeitsfragen hinein.",
+  "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Ob eine Entscheidung klug oder sinnvoll ist, prüft sie nicht.",
   "beispiel": "Das Ministerium prüft, ob der G-BA sich an die Gesetze hält."
  },
  {
@@ -371,6 +380,15 @@
   "formen": [],
   "erklaerung": "Wie stark eine Stelle vom Volk her abgesichert ist. Es muss insgesamt ausreichen.",
   "beispiel": "Ein Minister ist vom Parlament bestimmt, das Parlament vom Volk gewählt."
+ },
+ {
+  "id": "reha",
+  "begriff": "Reha",
+  "formen": [
+   "Rehabilitation"
+  ],
+  "erklaerung": "Kurz für Rehabilitation. Eine Behandlung nach Krankheit oder Unfall, damit du im Alltag und Beruf wieder klarkommst.",
+  "beispiel": "Nach der Knie-Operation übt Opa drei Wochen in einer Klinik wieder das Laufen."
  },
  {
   "id": "oeffentliches-recht",
@@ -652,7 +670,7 @@
   "id": "schrankentrias",
   "begriff": "Schrankentrias",
   "formen": [],
-  "erklaerung": "Die drei Grenzen von Art. 2 I: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+  "erklaerung": "Die drei Grenzen der allgemeinen Handlungsfreiheit: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz. Sittengesetz meint die Grundregeln des Anstands, die fast alle teilen.",
   "beispiel": "Du darfst frei handeln, aber nicht die Rechte deiner Nachbarn verletzen."
  },
  {
@@ -756,8 +774,18 @@
   "id": "nikolaus-beschluss",
   "begriff": "Nikolaus-Beschluss",
   "formen": [],
-  "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005 zu Behandlungen außerhalb des Katalogs.",
+  "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005. Sie sagt, wann die Kasse ausnahmsweise eine Behandlung zahlen muss, die nicht im Leistungskatalog steht.",
   "beispiel": "Bei tödlicher Krankheit ohne Standard-Behandlung kann die Kasse zahlen müssen."
+ },
+ {
+  "id": "leistungskatalog",
+  "begriff": "Leistungskatalog",
+  "formen": [
+   "Katalog",
+   "Katalogs"
+  ],
+  "erklaerung": "Die Liste der Leistungen, die die gesetzliche Krankenkasse bezahlt. Was nicht darauf steht, zahlt sie normalerweise nicht.",
+  "beispiel": "Wie die Speisekarte im Restaurant: Was nicht draufsteht, wird nicht gekocht."
  },
  {
   "id": "mittelbare-staatsverwaltung",

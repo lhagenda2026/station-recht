@@ -7,7 +7,7 @@
   "titel": "Handelt hier der Staat als Staat, oder gilt die Regel für alle?",
   "fachbegriff": "Öffentliches Recht und Privatrecht (modifizierte Subjektstheorie)",
   "einSatz": "Eine Regel ist [[Öffentliches Recht]], wenn sie nur den Staat als Staat berechtigt oder verpflichtet. Sonst ist sie [[Privatrecht]].",
-  "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten.",
+  "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten. Die heute übliche Prüfung dafür heißt „modifizierte Subjektstheorie“.",
   "alltag": "Ein Fahrrad auf dem Flohmarkt kaufen darf jeder. Einen Strafzettel schreiben darf nur das Ordnungsamt.",
   "erkennen": [
    "Frage: Könnte nach dieser Regel auch jeder normale Bürger handeln?",
@@ -63,7 +63,7 @@
    "Gilt die Regel für viele Fälle und viele Menschen? Dann ist sie allgemein.",
    "Ist sie bindend, nicht nur ein Rat?",
    "Das Wenn ist der [[Tatbestand]]. Das Dann ist die [[Rechtsfolge]].",
-   "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung."
+   "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung. Gestaltung heißt: Die Regel ändert selbst etwas, etwa „Mit 18 bist du volljährig.“"
   ],
   "merktrick": "Wenn-Teil: Tatbestand. Dann-Teil: Rechtsfolge. Erst die Lage, dann die Folge.",
   "klausur": {
@@ -413,7 +413,7 @@
   "warum": "Wer Regeln für Millionen macht, braucht Rückhalt beim Volk. Beim G-BA ist dieser Rückhalt nur indirekt.",
   "alltag": "Der Elternrat legt die Hausaufgaben für alle Klassen fest. Die Kinder wählen ihn nicht. Ist das fair? Darüber kann man streiten.",
   "erkennen": [
-   "Dagegen: Verbände benennen die Mitglieder. Die Kette zum Volk ist dünn.",
+   "Dagegen: Die Mitglieder schicken die Verbände, also Zusammenschlüsse von Kassen, Ärzten und Kliniken. Die Kette zum Volk ist dünn.",
    "Dagegen: Versicherte haben keine Stimme, [[Patientenvertreter]] reden nur mit.",
    "Dafür: Das Gesetz gibt Aufgaben vor, das Ministerium führt die [[Rechtsaufsicht]].",
    "Das [[Bundessozialgericht]] (BSG) sagt: Die [[Legitimation|legitimationskette]] reicht."
@@ -469,10 +469,10 @@
   "warum": "Das Gesetz kann nicht jede Behandlung einzeln nennen. Diese Details regelt der G-BA für alle.",
   "alltag": "Die Schulkonferenz legt fest, welche Bücher alle Klassen bekommen. Eltern, Lehrer und Schulleitung sitzen dort zusammen.",
   "erkennen": [
-   "13 stimmen ab: 3 Unparteiische, 5 von den Kassen, 5 von Ärzten und Kliniken.",
+   "13 stimmen ab: 3 Unparteiische, die zu keiner Seite gehören, 5 von den Kassen, 5 von Ärzten und Kliniken.",
    "[[Patientenvertreter]] dürfen Anträge stellen und mitreden, aber nicht abstimmen.",
    "Der G-BA beschließt Richtlinien. Sie binden Kassen, Versicherte und Ärzte.",
-   "Das Gesundheitsministerium (BMG) führt die [[Aufsicht|rechtsaufsicht]]."
+   "Das Bundesgesundheitsministerium führt die [[Aufsicht|rechtsaufsicht]]."
   ],
   "merktrick": "Drei in der Mitte, fünf links, fünf rechts: dreizehn Hände heben sich.",
   "klausur": {
@@ -963,7 +963,7 @@
   "titel": "Wie hart trifft die Regel den Beruf?",
   "fachbegriff": "Drei-Stufen-Theorie (Apotheken-Urteil)",
   "einSatz": "Regeln zum Beruf haben **drei Stufen**. Je höher die Stufe, desto besser muss der Grund sein.",
-  "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund.",
+  "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund. Die Stufen stammen aus dem Apotheken-Urteil: Dort entschied das [[Bundesverfassungsgericht]] über die Eröffnung einer Apotheke.",
   "alltag": "Stufe 1: Der Bäcker darf erst ab 6 Uhr öffnen. Stufe 2: Er braucht einen Meisterbrief. Stufe 3: Es gibt schon genug Bäcker, keiner darf neu öffnen.",
   "erkennen": [
    "**Wie** du arbeitest (Zeiten, Werbung)? Stufe 1: [[Berufsausübung]].",
@@ -1018,7 +1018,7 @@
   "erkennen": [
    "Passt ein spezielles Grundrecht (Beruf, Glaube, Versammlung)? Dann gilt dieses.",
    "Passt keins? Dann Art. 2 I als [[Auffanggrundrecht]].",
-   "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz.",
+   "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz. Sittengesetz meint die Grundregeln des Anstands, die fast alle teilen.",
    "Ein verfassungswidriges Gesetz kannst du darüber immer angreifen."
   ],
   "merktrick": "Art. 2 I ist das Fangnetz unter allen anderen Grundrechten.",
@@ -1121,7 +1121,7 @@
   "erkennen": [
    "Geht es um Gruppen von Personen? Dann eher streng.",
    "Werden Freiheitsrechte spürbar berührt? Dann strenger.",
-   "Ähnelt das Merkmal denen aus Art. 3 III? Je ähnlicher, desto strenger.",
+   "Ähnelt das Merkmal den verbotenen aus Art. 3 III, etwa Geschlecht, Herkunft oder Glaube? Je ähnlicher, desto strenger.",
    "Nur Sache oder Verhalten? Dann reicht die [[Willkürformel|Willkürverbot]]. Dazwischen gilt eine [[gleitende Skala]]."
   ],
   "merktrick": "Je persönlicher der Unterschied, desto strenger der Blick.",
@@ -1222,7 +1222,7 @@
    "✔ 1: Ist die Krankheit lebensbedrohlich oder meist tödlich?",
    "✔ 2: Fehlt eine anerkannte Standard-Behandlung?",
    "✔ 3: Gibt es Hinweise, dass das Mittel nicht ganz aussichtslos hilft?",
-   "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]] (heute § 2 Ia [[SGB|sgb]] V)."
+   "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]]. Heute steht das auch im Gesetz zur Krankenkasse ([[SGB|sgb]] V)."
   ],
   "merktrick": "Drei Haken oder kein Geschenk vom Nikolaus.",
   "klausur": {
@@ -1475,8 +1475,8 @@
   "erkennen": [
    "Sagt das Grundgesetz nichts? Dann ist das **Land** dran (Art. 30).",
    "Ein Gesetz des Bundes führen die Länder aus (Art. 83).",
-   "Die gleiche Regel gilt für Gesetze (Art. 70) und Gerichte (Art. 92 ff.).",
-   "Ausnahmen für den Bund: Art. 86 ff., etwa Kassen über ein Land hinaus."
+   "Die gleiche Grundregel gilt für das Machen von Gesetzen und für die Gerichte: erst die Länder.",
+   "Ausnahmen für den Bund nennt das Grundgesetz einzeln, etwa Kassen, die über ein Land hinaus tätig sind."
   ],
   "merktrick": "Land zuerst, Bund nur mit Erlaubnis.",
   "klausur": {
@@ -1510,7 +1510,7 @@
   },
   "verifiziert": true,
   "hinweise": [],
-  "normhinweis": null
+  "normhinweis": "Normprüfung: Selbständige Bundesoberbehörden stehen in Art. 87 III GG. Art. 87 I GG regelt die bundeseigene Verwaltung mit eigenem Unterbau (z. B. Auswärtiger Dienst, Bundesfinanzverwaltung)."
  },
  {
   "id": "q32",
@@ -1571,7 +1571,7 @@
   "alltag": "Ein Fußballclub spielt nur in der Stadtliga. Dann ist der Stadtverband zuständig. Spielt er bundesweit, ist es der Bundesverband.",
   "erkennen": [
    "Nur in einem Land tätig? Dann **landesunmittelbar**, die [[Aufsicht]] hat das Land.",
-   "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat ein Bundesamt.",
+   "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat das Bundesamt für Soziale Sicherung.",
    "Bis zu drei Länder bleiben Landessache, wenn die Länder das vereinbaren.",
    "Immer gilt: Die Kasse ist [[mittelbare Staatsverwaltung]]."
   ],
@@ -1670,11 +1670,11 @@
   "titel": "Braucht die Behörde ein Gericht, um ihren Bescheid durchzusetzen?",
   "fachbegriff": "Selbsttitulierung und Verwaltungsvollstreckung",
   "einSatz": "Nein. Die [[Behörde]] kann ihren [[Bescheid]] selbst durchsetzen. Ein Gericht braucht sie dafür nicht.",
-  "warum": "Private Leute brauchen erst ein Urteil. Bei der Behörde ist der Bescheid selbst schon die Grundlage.",
-  "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er vor Gericht. Die Behörde schreibt sich den Titel selbst.",
+  "warum": "Private Leute brauchen erst ein Urteil, einen sogenannten Titel. Bei der Behörde ist der Bescheid selbst schon dieser Titel. Darum heißt das Selbsttitulierung.",
+  "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er erst vor Gericht. Die Behörde muss das nicht.",
   "erkennen": [
    "Gibt es einen Bescheid? Dann braucht die Behörde kein Urteil.",
-   "Mittel: Zwangsgeld, Ersatzvornahme oder direkter Zwang.",
+   "Mittel: Zwangsgeld, also zahlen, bis du gehorchst. Ersatzvornahme: Ein anderer erledigt es, du zahlst. Direkter Zwang: Die Behörde setzt es selbst durch, notfalls mit Gewalt.",
    "Aber: Der Bescheid muss schon durchsetzbar sein.",
    "Hat ein [[Widerspruch]] [[aufschiebende Wirkung]], muss sie warten."
   ],
@@ -1878,7 +1878,7 @@
   "erkennen": [
    "Geht es um den **Ablauf** oder die **Form**, nicht um den Inhalt?",
    "Nachholbar: Antrag, Begründung, [[Anhörung]], Beschluss eines Ausschusses, Mitwirkung einer anderen [[Behörde|verwaltung]].",
-   "Zeitgrenze: bis zur letzten Gerichtsstufe, die noch Tatsachen prüft.",
+   "Zeitgrenze: Nachholen geht noch im Gerichtsverfahren. Aber nur, solange ein Gericht noch prüft, was wirklich passiert ist.",
    "Nicht heilbar: ein [[nichtiger|Nichtigkeit]] Bescheid."
   ],
   "merktrick": "Vergessen? Nachholen! Dann heilt der Fehler wie ein Kratzer.",
@@ -1929,7 +1929,7 @@
   "erkennen": [
    "Wird etwas **gegen** die Person entschieden? Etwa eine Kürzung oder [[Rücknahme]].",
    "Dann darf sie sich vorher zu den wichtigen Tatsachen äußern.",
-   "Ausnahmen: etwa Gefahr im Verzug oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
+   "Ausnahmen: etwa Gefahr im Verzug, also Warten würde großen Schaden bringen. Oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
    "Vergessen? Ein Fehler im Ablauf. Er lässt sich durch Nachholen [[heilen|Heilung]]."
   ],
   "merktrick": "Erst hören, dann kürzen.",
@@ -1979,8 +1979,8 @@
   "alltag": "Ein Strafzettel ohne Absender und ohne Stadtwappen ist kein Strafzettel. Ein Strafzettel mit falscher Hausnummer gilt erst mal, du kannst dich aber wehren.",
   "erkennen": [
    "Ist der Fehler **sehr schwer** und **sofort sichtbar**? Dann nichtig.",
-   "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, sittenwidrig.",
-   "Nur falsche Stelle oder befangener Mitarbeiter? Dann **nicht** nichtig.",
+   "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, gegen die guten Sitten (also grob unanständig).",
+   "Hat nur eine [[Behörde]] am falschen Ort entschieden? Oder ein ausgeschlossener Mitarbeiter, z. B. ein Verwandter? Dann **nicht** nichtig.",
    "Meist ist der Bescheid nur [[rechtswidrig]]: Er gilt, ist aber angreifbar."
   ],
   "merktrick": "Nichtig ist nichts. Aber fast nie ist etwas nichtig.",
@@ -2177,7 +2177,7 @@
   "erkennen": [
    "Steht im Wenn-Teil ein weites Wort? Das ist ein [[unbestimmter Rechtsbegriff]].",
    "Regel: Das Gericht prüft voll, was das Wort hier bedeutet.",
-   "Ausnahme: Prüfungsnoten, Prognosen, Gremien mit vielen Gruppen.",
+   "Ausnahmen: Prüfungsnoten und Prognosen, also Vorhersagen über die Zukunft. Und Runden, in denen viele verschiedene Gruppen gemeinsam entscheiden.",
    "Nur dann gibt es einen [[Beurteilungsspielraum]]."
   ],
   "merktrick": "Schwammig heißt nicht beliebig.",
@@ -2757,7 +2757,7 @@
   "titel": "Kann man gegen ein Gesetz Widerspruch einlegen?",
   "fachbegriff": "Rechtsschutz gegen ein Gesetz",
   "einSatz": "**Nein.** [[Widerspruch]] und [[Anfechtungsklage]] gehen nur gegen einen [[Bescheid]]. Ein Gesetz ist kein Bescheid.",
-  "warum": "Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
+  "warum": "Mit einer Anfechtungsklage willst du vor Gericht einen Bescheid loswerden. Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
   "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
   "erkennen": [
    "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
@@ -2801,7 +2801,7 @@
   },
   "verifiziert": true,
   "hinweise": [],
-  "normhinweis": null
+  "normhinweis": "Normprüfung: „§ 54“ in der Normenzeile meint § 54 I SGG (Anfechtungsklage)."
  },
  {
   "id": "q58",

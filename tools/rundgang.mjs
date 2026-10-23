@@ -1,11 +1,12 @@
 // Selbsttest-Rundgang mit Screenshots (WebKit, iPhone 14). Aufruf: node tools/rundgang.mjs [ausgabeordner] [tage]
 import { webkit, devices } from '@playwright/test';
 import { mkdirSync } from 'node:fs';
+import { antworte } from '../tests/helfer.js';
 const out = process.argv[2] ?? 'tests/screenshots';
 const tage = +(process.argv[3] ?? 1);
 mkdirSync(out, { recursive: true });
 const browser = await webkit.launch();
-const ctx = await browser.newContext({ ...devices['iPhone 14'] });
+const ctx = await browser.newContext({ ...devices['iPhone 14'], viewport: { width: 390, height: 844 } });
 const page = await ctx.newPage();
 const fehler = [];
 page.on('console', (m) => { if (m.type() === 'error') fehler.push(m.text()); });
@@ -28,9 +29,7 @@ for (let tag = 1; tag <= tage; tag++) {
     await page.waitForTimeout(500);
     if (fall <= 2 || tag === 1) await shot(`t${tag}-fall${fall}`);
     // zufällige Antwort, damit auch Fehler vorkommen
-    const knoepfe = await page.$$('.stempel');
-    await knoepfe[Math.floor(Math.random() * knoepfe.length)].click();
-    await page.waitForSelector('.feedback [data-weiter]');
+    await antworte(page, Math.random() < 0.8);
     await page.waitForTimeout(400);
     if (fall <= 3 || tag === 1) await shot(`t${tag}-fall${fall}-feedback`);
     await page.click('.feedback [data-weiter]');

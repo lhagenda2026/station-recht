@@ -147,8 +147,8 @@
    "erkennen": [
     "Sagt das Grundgesetz nichts? Dann ist das **Land** dran (Art. 30).",
     "Ein Gesetz des Bundes führen die Länder aus (Art. 83).",
-    "Die gleiche Regel gilt für Gesetze (Art. 70) und Gerichte (Art. 92 ff.).",
-    "Ausnahmen für den Bund: Art. 86 ff., etwa Kassen über ein Land hinaus."
+    "Die gleiche Grundregel gilt für das Machen von Gesetzen und für die Gerichte: erst die Länder.",
+    "Ausnahmen für den Bund nennt das Grundgesetz einzeln, etwa Kassen, die über ein Land hinaus tätig sind."
    ],
    "merktrick": "Land zuerst, Bund nur mit Erlaubnis.",
    "klausur": {
@@ -212,7 +212,7 @@
    "alltag": "Ein Fußballclub spielt nur in der Stadtliga. Dann ist der Stadtverband zuständig. Spielt er bundesweit, ist es der Bundesverband.",
    "erkennen": [
     "Nur in einem Land tätig? Dann **landesunmittelbar**, die [[Aufsicht]] hat das Land.",
-    "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat ein Bundesamt.",
+    "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat das Bundesamt für Soziale Sicherung.",
     "Bis zu drei Länder bleiben Landessache, wenn die Länder das vereinbaren.",
     "Immer gilt: Die Kasse ist [[mittelbare Staatsverwaltung]]."
    ],
@@ -276,11 +276,11 @@
    "titel": "Braucht die Behörde ein Gericht, um ihren Bescheid durchzusetzen?",
    "fachbegriff": "Selbsttitulierung und Verwaltungsvollstreckung",
    "einSatz": "Nein. Die [[Behörde]] kann ihren [[Bescheid]] selbst durchsetzen. Ein Gericht braucht sie dafür nicht.",
-   "warum": "Private Leute brauchen erst ein Urteil. Bei der Behörde ist der Bescheid selbst schon die Grundlage.",
-   "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er vor Gericht. Die Behörde schreibt sich den Titel selbst.",
+   "warum": "Private Leute brauchen erst ein Urteil, einen sogenannten Titel. Bei der Behörde ist der Bescheid selbst schon dieser Titel. Darum heißt das Selbsttitulierung.",
+   "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er erst vor Gericht. Die Behörde muss das nicht.",
    "erkennen": [
     "Gibt es einen Bescheid? Dann braucht die Behörde kein Urteil.",
-    "Mittel: Zwangsgeld, Ersatzvornahme oder direkter Zwang.",
+    "Mittel: Zwangsgeld, also zahlen, bis du gehorchst. Ersatzvornahme: Ein anderer erledigt es, du zahlst. Direkter Zwang: Die Behörde setzt es selbst durch, notfalls mit Gewalt.",
     "Aber: Der Bescheid muss schon durchsetzbar sein.",
     "Hat ein [[Widerspruch]] [[aufschiebende Wirkung]], muss sie warten."
    ],
@@ -419,7 +419,7 @@
    "erkennen": [
     "Geht es um den **Ablauf** oder die **Form**, nicht um den Inhalt?",
     "Nachholbar: Antrag, Begründung, [[Anhörung]], Beschluss eines Ausschusses, Mitwirkung einer anderen [[Behörde|verwaltung]].",
-    "Zeitgrenze: bis zur letzten Gerichtsstufe, die noch Tatsachen prüft.",
+    "Zeitgrenze: Nachholen geht noch im Gerichtsverfahren. Aber nur, solange ein Gericht noch prüft, was wirklich passiert ist.",
     "Nicht heilbar: ein [[nichtiger|Nichtigkeit]] Bescheid."
    ],
    "merktrick": "Vergessen? Nachholen! Dann heilt der Fehler wie ein Kratzer.",
@@ -454,7 +454,7 @@
    "erkennen": [
     "Wird etwas **gegen** die Person entschieden? Etwa eine Kürzung oder [[Rücknahme]].",
     "Dann darf sie sich vorher zu den wichtigen Tatsachen äußern.",
-    "Ausnahmen: etwa Gefahr im Verzug oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
+    "Ausnahmen: etwa Gefahr im Verzug, also Warten würde großen Schaden bringen. Oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
     "Vergessen? Ein Fehler im Ablauf. Er lässt sich durch Nachholen [[heilen|Heilung]]."
    ],
    "merktrick": "Erst hören, dann kürzen.",
@@ -740,8 +740,8 @@
     "name": "Lena, Studentin mit Gipsbein",
     "emoji": "🤕"
    },
-   "akte": "Lena wird in der Uniklinik behandelt. Dort gibt es Ärzte, Betten und Geräte. Lena ist Patientin, kein Mitglied. Mitbestimmen darf sie nicht.",
-   "frage": "Was ist die Uniklinik (je nach Land)?",
+   "akte": "Lena wird in der Uniklinik behandelt. Dort gibt es Ärzte, Betten und Geräte. Lena ist Patientin, kein Mitglied. Mitbestimmen darf sie nicht. In Lenas Bundesland ist die Klinik eine eigene Einrichtung des Landes.",
+   "frage": "Was ist die Uniklinik?",
    "optionen": [
     {
      "text": "Anstalt",
@@ -868,7 +868,7 @@
      {
       "text": "Patient der Uniklinik",
       "fach": "Nutzer",
-      "warumNicht": "Die Uniklinik ist je nach Land eine Anstalt."
+      "warumNicht": "Die Uniklinik ist in vielen Bundesländern eine Anstalt. Jedes Land regelt das selbst."
      },
      {
       "text": "Einwohnerin der Gemeinde",
@@ -1031,7 +1031,7 @@
     {
      "text": "Parlamentsgesetz",
      "richtig": false,
-     "warumNicht": "Ein solches Gesetz beschließt das [[Parlament|gesetzgeber]]. Hier hat ein Ministerium die Regel erlassen."
+     "warumNicht": "Ein [[Parlamentsgesetz]] beschließt das [[Parlament|gesetzgeber]] selbst. Hier hat ein Ministerium die Regel erlassen."
     }
    ],
    "ergebnis": "[[Rechtsverordnung]]: Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen.",
@@ -1146,7 +1146,7 @@
      {
       "text": "Der Bundestag beschließt es.",
       "fach": "Parlamentsgesetz",
-      "warumNicht": "Was das Parlament beschließt, ist ein [[Parlamentsgesetz|gesetzgeber]]."
+      "warumNicht": "Was das [[Parlament|gesetzgeber]] beschließt, ist ein [[Parlamentsgesetz]]."
      },
      {
       "text": "Ein Ministerium erlässt es mit Erlaubnis aus einem Gesetz.",
@@ -1533,7 +1533,7 @@
     {
      "text": "Parlamentsgesetz",
      "richtig": false,
-     "warumNicht": "Der Gemeinderat ist nicht der [[Bundestag|gesetzgeber]]. Er regelt die Sachen des Ortes selbst."
+     "warumNicht": "Ein [[Parlamentsgesetz]] beschließt der [[Bundestag|gesetzgeber]] oder ein Landtag. Der Gemeinderat regelt nur die Sachen des Ortes selbst."
     }
    ],
    "ergebnis": "Die Regel ist eine Satzung der Gemeinde.",
@@ -3332,7 +3332,7 @@
     "name": "Herr Demir, Pizzabäcker",
     "emoji": "👨‍🍳"
    },
-   "akte": "Herr Demir hatte eine Reha bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
+   "akte": "Herr Demir hatte eine [[Reha]] bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
    "frage": "Welcher Stempel passt?",
    "optionen": [
     {
@@ -3708,7 +3708,7 @@
     "name": "Frau Tanaka, Origami-Künstlerin",
     "emoji": "👩🏻‍🎨"
    },
-   "akte": "Frau Tanaka hat eine Reha beantragt. Die Kasse will ihr genau das bewilligen, was sie beantragt hat.",
+   "akte": "Frau Tanaka hat eine [[Reha]] beantragt. Die Kasse will ihr genau das bewilligen, was sie beantragt hat.",
    "frage": "Muss die Kasse sie vorher [[anhören|anhoerung]]?",
    "optionen": [
     {
@@ -3896,7 +3896,7 @@
     "name": "Frau Ebert, Sommelière",
     "emoji": "🍷"
    },
-   "akte": "Frau Ebert bekam eine Reha bewilligt. Der [[Bescheid]] war von Anfang an falsch. Die Kasse will ihn zurücknehmen. Der Sachbearbeiter meint: „Eine Rücknahme ist nur eine Korrektur. Anhören müssen wir nicht.“",
+   "akte": "Frau Ebert bekam eine [[Reha]] bewilligt. Der [[Bescheid]] war von Anfang an falsch. Die Kasse will ihn zurücknehmen. Der Sachbearbeiter meint: „Eine Rücknahme ist nur eine Korrektur. Anhören müssen wir nicht.“",
    "frage": "Hat er recht?",
    "optionen": [
     {

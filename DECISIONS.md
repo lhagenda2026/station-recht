@@ -57,3 +57,6 @@
 - F2 kann einen zweiten Schritt „Fehlerart wählen“ haben (Brief 2.5: „und wählst ggf. die Fehlerart“); richtig nur, wenn Stelle und Fehlerart stimmen.
 - Agent-Hinweise zur Prüfung mit dem Skript: f019-5 (⚠ q19, Tätowierer-Hygieneregel als subjektiv berufsregelnd), f009-5 (⚠ q9, nur BSG bejaht), f003-5 (Tretroller als „Fahrzeug“ = eigene Deutung), f056-0/k056-1 (Jahresfrist beim Widerspruch beruht auf ⚠ q56).
 - F4-Fälle f054-4 und f055-2 liegen bewusst 2 Tage vor Fristende (Kniff „ab Posttag gerechnet wäre es zu spät“); mit 3. und 4. Tag gleiches Ergebnis geprüft.
+- Rechtstreue-Stichprobe (Agent, 20 Regeln/30 Fälle): 18/20 und 26/30 ohne Befund. Korrigiert: f053-2 (Kasse kann Pflichtmitgliedschaft nicht beenden → Leistungsstopp als Druckmittel; nur „nicht erforderlich“ richtig), q41/f041-4 („befangen“ → „ausgeschlossen“, § 40 III Nr. 2 SGB X), f019-5 und f050-3 präziser formuliert.
+- Normstichprobe (10 Regeln, gesetze-im-internet.de): nur Abweichung q31 – Bundesoberbehörden stehen in Art. 87 III, nicht Art. 87 I GG → Hinweis an der Karte, Kurzantwort unverändert. q57: „§ 54“ steht so in ANTWORTEN.md (gemeint § 54 I SGG) → Hinweis, unverändert.
+- Laien-Test Runde 1 ungültig: In allen 25 Fällen war die richtige Antwort A (Inhalte listen sie zuerst) → Antworten werden jetzt bei jeder Anzeige gemischt; Test wiederholt.

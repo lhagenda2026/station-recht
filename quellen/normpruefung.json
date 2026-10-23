@@ -1,7 +1,30 @@
 {
-  "q54": { "unverifiziert": true, "hinweis": "Normprüfung: Nach der aktuellen Fassung von § 37 Abs. 2 SGB X gilt ein per Post im Inland übermittelter VA am vierten (nicht dritten) Tag nach Aufgabe zur Post als bekanntgegeben. Bitte mit Skript abgleichen." },
-  "q39": { "unverifiziert": false, "hinweis": "Normprüfung: § 41 Abs. 1 SGB X nennt zusätzlich Nr. 6 (nachträgliche Hinzuziehung eines Beteiligten). Die Zeitgrenze des § 41 Abs. 2 gilt nach dem Wortlaut für Nr. 2–6." },
-  "q25": { "unverifiziert": false, "hinweis": "Normprüfung: § 2 Abs. 1a SGB V erfasst auch Erkrankungen, die einer lebensbedrohlichen „zumindest wertungsmäßig vergleichbar“ sind. „Auf Indizien gestützt“ stammt aus dem Nikolaus-Beschluss, nicht aus dem Gesetzeswortlaut." },
-  "q10": { "unverifiziert": false, "hinweis": "Normprüfung: § 91 Abs. 6 SGB V nimmt Beschlüsse nach § 136d von der Verbindlichkeit aus." },
-  "q56": { "unverifiziert": false, "hinweis": "Normprüfung: § 84 Abs. 2 SGG erklärt die §§ 66 und 67 SGG für den Widerspruch für entsprechend anwendbar – die ⚠-Vermutung ist damit bestätigt." }
+  "q54": {
+    "unverifiziert": true,
+    "hinweis": "Normprüfung: Nach der aktuellen Fassung von § 37 Abs. 2 SGB X gilt ein per Post im Inland übermittelter VA am vierten (nicht dritten) Tag nach Aufgabe zur Post als bekanntgegeben. Bitte mit Skript abgleichen."
+  },
+  "q39": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: § 41 Abs. 1 SGB X nennt zusätzlich Nr. 6 (nachträgliche Hinzuziehung eines Beteiligten). Die Zeitgrenze des § 41 Abs. 2 gilt nach dem Wortlaut für Nr. 2–6."
+  },
+  "q25": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: § 2 Abs. 1a SGB V erfasst auch Erkrankungen, die einer lebensbedrohlichen „zumindest wertungsmäßig vergleichbar“ sind. „Auf Indizien gestützt“ stammt aus dem Nikolaus-Beschluss, nicht aus dem Gesetzeswortlaut."
+  },
+  "q10": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: § 91 Abs. 6 SGB V nimmt Beschlüsse nach § 136d von der Verbindlichkeit aus."
+  },
+  "q56": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: § 84 Abs. 2 SGG erklärt die §§ 66 und 67 SGG für den Widerspruch für entsprechend anwendbar – die ⚠-Vermutung ist damit bestätigt."
+  },
+  "q31": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: Selbständige Bundesoberbehörden stehen in Art. 87 III GG. Art. 87 I GG regelt die bundeseigene Verwaltung mit eigenem Unterbau (z. B. Auswärtiger Dienst, Bundesfinanzverwaltung)."
+  },
+  "q57": {
+    "unverifiziert": false,
+    "hinweis": "Normprüfung: „§ 54“ in der Normenzeile meint § 54 I SGG (Anfechtungsklage)."
+  }
 }

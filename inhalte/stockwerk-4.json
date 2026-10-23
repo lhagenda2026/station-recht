@@ -103,7 +103,7 @@
    "titel": "Kann man gegen ein Gesetz Widerspruch einlegen?",
    "fachbegriff": "Rechtsschutz gegen ein Gesetz",
    "einSatz": "**Nein.** [[Widerspruch]] und [[Anfechtungsklage]] gehen nur gegen einen [[Bescheid]]. Ein Gesetz ist kein Bescheid.",
-   "warum": "Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
+   "warum": "Mit einer Anfechtungsklage willst du vor Gericht einen Bescheid loswerden. Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
    "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
    "erkennen": [
     "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
@@ -541,7 +541,7 @@
     "name": "Herr Brodersen, Leuchtturmwärter",
     "emoji": "🗼"
    },
-   "akte": "Die Kasse lehnt eine Reha für Herrn Brodersen ab. Er ist sauer. Er will **sofort** zum Gericht, ohne vorher [[Widerspruch]] einzulegen.",
+   "akte": "Die Kasse lehnt eine [[Reha]] für Herrn Brodersen ab. Er ist sauer. Er will **sofort** zum Gericht, ohne vorher [[Widerspruch]] einzulegen.",
    "frage": "Was rätst du ihm?",
    "optionen": [
     {
@@ -1480,7 +1480,7 @@
      {
       "text": "Kasse sagt Nein zur Reha, Tänzerin will sie machen",
       "fach": "Verpflichtungsklage",
-      "warumNicht": "Sie will die Bewilligung erzwingen."
+      "warumNicht": "Sie will die Bewilligung der [[Reha]] erzwingen."
      },
      {
       "text": "Antrag liegt seit Ewigkeiten unbearbeitet",

@@ -5,7 +5,7 @@
    "titel": "Handelt hier der Staat als Staat, oder gilt die Regel für alle?",
    "fachbegriff": "Öffentliches Recht und Privatrecht (modifizierte Subjektstheorie)",
    "einSatz": "Eine Regel ist [[Öffentliches Recht]], wenn sie nur den Staat als Staat berechtigt oder verpflichtet. Sonst ist sie [[Privatrecht]].",
-   "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten.",
+   "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten. Die heute übliche Prüfung dafür heißt „modifizierte Subjektstheorie“.",
    "alltag": "Ein Fahrrad auf dem Flohmarkt kaufen darf jeder. Einen Strafzettel schreiben darf nur das Ordnungsamt.",
    "erkennen": [
     "Frage: Könnte nach dieser Regel auch jeder normale Bürger handeln?",
@@ -46,7 +46,7 @@
     "Gilt die Regel für viele Fälle und viele Menschen? Dann ist sie allgemein.",
     "Ist sie bindend, nicht nur ein Rat?",
     "Das Wenn ist der [[Tatbestand]]. Das Dann ist die [[Rechtsfolge]].",
-    "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung."
+    "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung. Gestaltung heißt: Die Regel ändert selbst etwas, etwa „Mit 18 bist du volljährig.“"
    ],
    "merktrick": "Wenn-Teil: Tatbestand. Dann-Teil: Rechtsfolge. Erst die Lage, dann die Folge.",
    "klausur": {
@@ -281,7 +281,7 @@
    "warum": "Wer Regeln für Millionen macht, braucht Rückhalt beim Volk. Beim G-BA ist dieser Rückhalt nur indirekt.",
    "alltag": "Der Elternrat legt die Hausaufgaben für alle Klassen fest. Die Kinder wählen ihn nicht. Ist das fair? Darüber kann man streiten.",
    "erkennen": [
-    "Dagegen: Verbände benennen die Mitglieder. Die Kette zum Volk ist dünn.",
+    "Dagegen: Die Mitglieder schicken die Verbände, also Zusammenschlüsse von Kassen, Ärzten und Kliniken. Die Kette zum Volk ist dünn.",
     "Dagegen: Versicherte haben keine Stimme, [[Patientenvertreter]] reden nur mit.",
     "Dafür: Das Gesetz gibt Aufgaben vor, das Ministerium führt die [[Rechtsaufsicht]].",
     "Das [[Bundessozialgericht]] (BSG) sagt: Die [[Legitimation|legitimationskette]] reicht."
@@ -318,10 +318,10 @@
    "warum": "Das Gesetz kann nicht jede Behandlung einzeln nennen. Diese Details regelt der G-BA für alle.",
    "alltag": "Die Schulkonferenz legt fest, welche Bücher alle Klassen bekommen. Eltern, Lehrer und Schulleitung sitzen dort zusammen.",
    "erkennen": [
-    "13 stimmen ab: 3 Unparteiische, 5 von den Kassen, 5 von Ärzten und Kliniken.",
+    "13 stimmen ab: 3 Unparteiische, die zu keiner Seite gehören, 5 von den Kassen, 5 von Ärzten und Kliniken.",
     "[[Patientenvertreter]] dürfen Anträge stellen und mitreden, aber nicht abstimmen.",
     "Der G-BA beschließt Richtlinien. Sie binden Kassen, Versicherte und Ärzte.",
-    "Das Gesundheitsministerium (BMG) führt die [[Aufsicht|rechtsaufsicht]]."
+    "Das Bundesgesundheitsministerium führt die [[Aufsicht|rechtsaufsicht]]."
    ],
    "merktrick": "Drei in der Mitte, fünf links, fünf rechts: dreizehn Hände heben sich.",
    "klausur": {
@@ -2006,7 +2006,7 @@
     {
      "text": "Er beschließt Gesetze im [[Bundestag|gesetzgeber]], ohne gewählt zu sein.",
      "richtig": false,
-     "warumNicht": "Der G-BA sitzt nicht im Bundestag. Er macht [[Richtlinien|richtlinie]], keine Parlamentsgesetze."
+     "warumNicht": "Der G-BA sitzt nicht im Bundestag. Er macht [[Richtlinien|richtlinie]], keine [[Parlamentsgesetze|parlamentsgesetz]]."
     },
     {
      "text": "Die Versicherten wählen ihn, aber kaum jemand geht hin.",
@@ -2058,7 +2058,7 @@
      {
       "text": "Das Ministerium führt die Rechtsaufsicht",
       "fach": "Dafür",
-      "warumNicht": "Das BMG wacht nach § 94 [[SGB|sgb]] V über den G-BA."
+      "warumNicht": "Das Gesundheitsministerium wacht nach § 94 [[SGB|sgb]] V über den G-BA."
      },
      {
       "text": "Selbstverwaltung hat eigene Legitimation",
@@ -2244,11 +2244,11 @@
      {
       "text": "Bundesgesundheitsministerium (BMG)",
       "fach": "Aufsicht von außen",
-      "warumNicht": "Das BMG führt die [[Aufsicht|rechtsaufsicht]] nach § 94 [[SGB|sgb]] V."
+      "warumNicht": "Das Ministerium führt die [[Aufsicht|rechtsaufsicht]] nach § 94 [[SGB|sgb]] V."
      }
     ]
    },
-   "ergebnis": "Kassen, Leistungserbringer und Unparteiische stimmen ab. Patienten reden mit. Das BMG wacht von außen.",
+   "ergebnis": "Kassen, Leistungserbringer und Unparteiische stimmen ab. Patienten reden mit. Das Ministerium wacht von außen.",
    "warum": "Das Gremium hat 13 Stimmen. [[Patientenvertreter]] haben keine. Das Ministerium ist kein Mitglied, sondern Aufsicht.",
    "denkweg": [
     "1. Gehört die Person zu den 13? Dann stimmt sie ab.",
@@ -2297,7 +2297,7 @@
    "format": "F6",
    "akte": "Erklären Sie mir den [[G-BA|gba]]: Aufgaben, Zusammensetzung, Entscheidungen. Zahlen bitte korrekt.",
    "frage": "Lege die Antwort aus den Bausteinen.",
-   "ergebnis": "Er ist das oberste Gremium der gemeinsamen [[Selbstverwaltung]]. 13 Mitglieder stimmen ab. Er macht [[Richtlinien|richtlinie]], die alle binden. Das BMG führt die [[Aufsicht|rechtsaufsicht]].",
+   "ergebnis": "Er ist das oberste Gremium der gemeinsamen [[Selbstverwaltung]]. 13 Mitglieder stimmen ab. Er macht [[Richtlinien|richtlinie]], die alle binden. Das Gesundheitsministerium führt die [[Aufsicht|rechtsaufsicht]].",
    "warum": "Die Prüfung will in dieser Reihe: wer ihn trägt, wer abstimmt, die [[Patientenvertreter]], die Richtlinien und die Aufsicht.",
    "denkweg": [
     "1. Zuerst: was der G-BA ist und wer ihn trägt.",
@@ -2790,7 +2790,7 @@
     {
      "text": " Die Aufsicht führt das Gesundheitsministerium.",
      "fehler": false,
-     "warumNicht": "Das stimmt: Das BMG führt die [[Rechtsaufsicht]]."
+     "warumNicht": "Das stimmt: Das Gesundheitsministerium führt die [[Rechtsaufsicht]]."
     }
    ],
    "ergebnis": "Falsch ist: Die Richtlinien seien nur Empfehlungen.",
