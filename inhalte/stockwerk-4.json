@@ -107,7 +107,7 @@
    "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
    "erkennen": [
     "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
-    "Weg 1: Leistung beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
+    "Weg 1: [[Leistung]] beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
     "Weg 2: [[Verfassungsbeschwerde]]. Das geht, wenn dich das Gesetz selbst, jetzt und direkt trifft."
    ],
    "merktrick": "Gegen das Gesetz kein Widerspruch. Erst den Bescheid holen, dann streiten.",
@@ -1346,7 +1346,7 @@
     "name": "Frau Kühn, Kita-Leiterin",
     "emoji": "🧸"
    },
-   "akte": "Frau Kühn hat vor über einem Jahr eine Kur beantragt. Die Kasse hat nie geantwortet. Kein Ja, kein Nein, gar nichts.",
+   "akte": "Frau Kühn hat vor über einem Jahr eine [[Kur]] beantragt. Die Kasse hat nie geantwortet. Kein Ja, kein Nein, gar nichts.",
    "frage": "Welche [[Klage]] passt?",
    "optionen": [
     {
@@ -1855,7 +1855,7 @@
     }
    ],
    "ergebnis": "Ein [[Bescheid]]: Er stoppt verbindlich ihr Krankengeld.",
-   "warum": "Es zählt der Inhalt, nicht der Titel. Wer verbindlich etwas für dich festlegt, erlässt einen Bescheid. Dagegen kann sie sich wehren.",
+   "warum": "Es zählt der Inhalt, nicht der Titel. Wer verbindlich etwas für dich festlegt, [[erlässt|erlass]] einen Bescheid. Dagegen kann sie sich wehren.",
    "denkweg": [
     "1. Titel egal, Inhalt zählt.",
     "2. Legt der Brief etwas fest? Ja, kein Geld mehr.",

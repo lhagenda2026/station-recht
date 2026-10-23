@@ -310,7 +310,7 @@
    "Gibt es ein Gesetz, das genau das erlaubt? Das ist die [[Ermächtigung]].",
    "Greift das Amt in Freiheit oder Eigentum ein? Dann braucht es sicher ein Gesetz.",
    "Ist es wichtig für [[Grundrechte|grundrecht]]? Dann muss das Parlament selbst entscheiden.",
-   "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+   "Im Sozialrecht brauchen auch [[Leistungen|sozialleistung]] ein Gesetz."
   ],
   "merktrick": "[[Vorrang|vorrang-des-gesetzes]]: nicht gegen das Gesetz. Vorbehalt des Gesetzes: nicht ohne das Gesetz.",
   "klausur": {
@@ -575,7 +575,7 @@
   "alltag": "Ein Fahrradhelm schützt dich beim Sturz. Die Klingel warnt andere. Das Licht lässt dich gesehen werden. Ein Ding, mehrere Jobs.",
   "erkennen": [
    "Greift der Staat selbst ein? Dann [[Abwehrrecht]]. Das ist die wichtigste Funktion.",
-   "Willst du etwas vom Staat haben? Dann Leistung oder [[Teilhabe|Teilhaberecht]].",
+   "Willst du etwas vom Staat haben? Dann [[Leistung]] oder [[Teilhabe|Teilhaberecht]].",
    "Droht Gefahr von anderen Menschen? Dann [[Schutzpflicht]] des Staates.",
    "Dazu kommen: faire Verfahren, Gleichheit und Wirkung bis ins [[Privatrecht]]."
   ],
@@ -674,7 +674,7 @@
   "warum": "Der Staat kann nicht alles für alle schaffen. Was er aber anbietet, muss er fair verteilen.",
   "alltag": "Die Schule hat 20 Plätze in der Theater-AG. Du hast [[Anspruch|rechtsanspruch]] auf eine faire Chance. Eine zweite AG muss die Schule nicht gründen.",
   "erkennen": [
-   "Gibt es die Leistung schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
+   "Gibt es die [[Leistung]] schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
    "Soll der Staat etwas Neues schaffen? Dann **originär**. Das gibt es nur selten.",
    "Seltene Ausnahme für „originär“: das [[Existenzminimum]].",
    "Grundlage: Gleichheit (Art. 3 I) plus das passende Freiheitsrecht."
@@ -1367,12 +1367,12 @@
   "frage": "Was ist eine Rechtsverordnung?",
   "titel": "Regeln von der Regierung: Was ist eine Rechtsverordnung?",
   "fachbegriff": "Rechtsverordnung (Art. 80 GG)",
-  "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung erlässt sie, aber nur mit Erlaubnis aus einem Gesetz.",
+  "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung [[erlässt|erlass]] sie, aber nur mit Erlaubnis aus einem Gesetz.",
   "warum": "Das [[Parlament]] kann nicht jedes Detail selbst regeln. Es gibt Arbeit ab, legt aber den Rahmen genau fest.",
   "alltag": "Der Vorstand erlaubt der Platzwartin, die Platzordnung zu schreiben. Er sagt genau: worüber, wozu und wie weit. Oben auf dem Zettel steht, wer es erlaubt hat.",
   "erkennen": [
    "Wer erlässt die Regel? Regierung, Ministerium oder [[Behörde]].",
-   "Erlaubt ein Gesetz genau das? Inhalt, Zweck und Ausmaß müssen drinstehen.",
+   "Erlaubt ein Gesetz genau das? Es muss sagen, worum es geht, wozu und wie weit.",
    "In der Verordnung muss stehen, auf welches Gesetz sie sich stützt.",
    "Sie steht im Rang unter dem Gesetz."
   ],
@@ -1424,7 +1424,7 @@
   "warum": "Wer sich selbst verwaltet, soll seine eigenen Dinge auch selbst regeln. Das ist der Kern der [[Selbstverwaltung]].",
   "alltag": "Eine WG schreibt selbst ihren Putzplan. Niemand von außen hat ihn vorgegeben. Er gilt für alle, die dort wohnen.",
   "erkennen": [
-   "Wer erlässt die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
+   "Wer [[erlässt|erlass]] die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
    "Für wen gilt sie? Für ihre Mitglieder oder Angehörigen.",
    "Satzung: Man regelt sich selbst. [[Verordnung|Rechtsverordnung]]: Der Staat gibt Arbeit ab.",
    "Beispiele: Satzung der Krankenkasse, Berufsordnung der Ärztekammer."
@@ -1825,7 +1825,7 @@
   "frage": "Was ist der entscheidende Unterschied zwischen Rücknahme und Widerruf?",
   "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
   "fachbegriff": "Rücknahme und Widerruf",
-  "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+  "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim [[Erlass]] falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
   "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
   "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
   "erkennen": [
@@ -2029,7 +2029,7 @@
   "erkennen": [
    "Will die [[Behörde|verwaltung]] etwas tun, vor allem dir etwas nehmen?",
    "Frage: In welchem Gesetz steht, dass sie das darf?",
-   "Im Sozialrecht gilt das auch für Leistungen, also fürs Geben.",
+   "Im Sozialrecht gilt das auch für [[Leistungen|sozialleistung]], also fürs Geben.",
    "Kein Gesetz gefunden? Dann darf sie es nicht."
   ],
   "merktrick": "Ohne Gesetz kein Griff in die Tasche.",
@@ -2268,7 +2268,7 @@
   "titel": "Keine Wahl: Wenn es passt, muss die Kasse",
   "fachbegriff": "Gebundene Entscheidung",
   "einSatz": "Bei einer [[gebundenen Entscheidung]] hat die [[Behörde]] keine Wahl. Passt der Wenn-Teil, **muss** sie handeln.",
-  "warum": "Viele Leistungen sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
+  "warum": "Viele [[Leistungen|sozialleistung]] sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
   "alltag": "Der Automat: Münze rein, Schokoriegel raus. Er überlegt nicht, ob er dich mag.",
   "erkennen": [
    "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
@@ -2761,7 +2761,7 @@
   "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
   "erkennen": [
    "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
-   "Weg 1: Leistung beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
+   "Weg 1: [[Leistung]] beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
    "Weg 2: [[Verfassungsbeschwerde]]. Das geht, wenn dich das Gesetz selbst, jetzt und direkt trifft."
   ],
   "merktrick": "Gegen das Gesetz kein Widerspruch. Erst den Bescheid holen, dann streiten.",

@@ -214,7 +214,7 @@
     "Gibt es ein Gesetz, das genau das erlaubt? Das ist die [[Ermächtigung]].",
     "Greift das Amt in Freiheit oder Eigentum ein? Dann braucht es sicher ein Gesetz.",
     "Ist es wichtig für [[Grundrechte|grundrecht]]? Dann muss das Parlament selbst entscheiden.",
-    "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+    "Im Sozialrecht brauchen auch [[Leistungen|sozialleistung]] ein Gesetz."
    ],
    "merktrick": "[[Vorrang|vorrang-des-gesetzes]]: nicht gegen das Gesetz. Vorbehalt des Gesetzes: nicht ohne das Gesetz.",
    "klausur": {
@@ -1600,7 +1600,7 @@
      {
       "text": "Die Kasse zahlt eine Leistung ohne Gesetz",
       "fach": "Vorbehalt des Gesetzes",
-      "warumNicht": "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+      "warumNicht": "Im Sozialrecht brauchen auch [[Leistungen|sozialleistung]] ein Gesetz."
      },
      {
       "text": "Frage: Gibt es eine Erlaubnis?",
@@ -1675,7 +1675,7 @@
     {
      "text": "Ja: Geschenke sind erlaubt",
      "richtig": false,
-     "warumNicht": "Im Sozialrecht gilt der [[Vorbehalt|vorbehalt-des-gesetzes]] auch für Leistungen. So steht es in § 31 [[SGB|sgb]] I."
+     "warumNicht": "Im Sozialrecht gilt der [[Vorbehalt|vorbehalt-des-gesetzes]] auch für [[Leistungen|sozialleistung]]. So steht es in § 31 [[SGB|sgb]] I."
     }
    ],
    "ergebnis": "Nein, im Sozialrecht braucht auch eine Leistung ein Gesetz.",
@@ -1764,7 +1764,7 @@
    "format": "F6",
    "akte": "Erklären Sie mir den [[Vorbehalt des Gesetzes]]. Und wo er gilt.",
    "frage": "Lege die Antwort aus den Bausteinen.",
-   "ergebnis": "Die [[Verwaltung]] braucht ein Gesetz, das sie zum Handeln befugt. Das gilt bei Eingriffen und bei wichtigen Fragen. Im Sozialrecht gilt es auch für Leistungen.",
+   "ergebnis": "Die [[Verwaltung]] braucht ein Gesetz, das sie zum Handeln befugt. Das gilt bei Eingriffen und bei wichtigen Fragen. Im Sozialrecht gilt es auch für [[Leistungen|sozialleistung]].",
    "warum": "Die Prüfung will: was er ist, die Eingriffe, die [[Wesentlichkeitstheorie]] und § 31 [[SGB|sgb]] I.",
    "denkweg": [
     "1. Zuerst sagst du, was er ist.",
@@ -2519,7 +2519,7 @@
     {
      "text": "Ja: Sozialstaat reicht",
      "richtig": false,
-     "warumNicht": "Das Prinzip ist offen und muss durch Gesetze ausgefüllt werden. Leistungen brauchen ein Gesetz."
+     "warumNicht": "Das Prinzip ist offen und muss durch Gesetze ausgefüllt werden. [[Leistungen|sozialleistung]] brauchen ein Gesetz."
     },
     {
      "text": "Ja: Geben ist immer frei",
@@ -2672,7 +2672,7 @@
     {
      "text": "Ja: kein Eingriff",
      "richtig": false,
-     "warumNicht": "Bei Eingriffen braucht man sicher ein Gesetz. Im Sozialrecht brauchen aber auch Leistungen eins."
+     "warumNicht": "Bei Eingriffen braucht man sicher ein Gesetz. Im Sozialrecht brauchen aber auch [[Leistungen|sozialleistung]] eins."
     }
    ],
    "ergebnis": "Nein, auch für Leistungen braucht die Kasse ein Gesetz.",

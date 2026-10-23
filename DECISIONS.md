@@ -60,3 +60,11 @@
 - Rechtstreue-Stichprobe (Agent, 20 Regeln/30 Fälle): 18/20 und 26/30 ohne Befund. Korrigiert: f053-2 (Kasse kann Pflichtmitgliedschaft nicht beenden → Leistungsstopp als Druckmittel; nur „nicht erforderlich“ richtig), q41/f041-4 („befangen“ → „ausgeschlossen“, § 40 III Nr. 2 SGB X), f019-5 und f050-3 präziser formuliert.
 - Normstichprobe (10 Regeln, gesetze-im-internet.de): nur Abweichung q31 – Bundesoberbehörden stehen in Art. 87 III, nicht Art. 87 I GG → Hinweis an der Karte, Kurzantwort unverändert. q57: „§ 54“ steht so in ANTWORTEN.md (gemeint § 54 I SGG) → Hinweis, unverändert.
 - Laien-Test Runde 1 ungültig: In allen 25 Fällen war die richtige Antwort A (Inhalte listen sie zuerst) → Antworten werden jetzt bei jeder Anzeige gemischt; Test wiederholt.
+- Laien-Test Runde 2 (neuer Agent ohne Rechtswissen, 25 zufällige Stufe-0/1-Fälle, gemischte Antworten): 25/25 richtig (100 %). Gemeldete unklare Wörter (Erlass, Rechtsbehelf, Kur, Leistung, AöR, „Inhalt, Zweck und Ausmaß“, Geschäftsstelle) danach erklärt bzw. ersetzt; Runde 1 hatte bereits 25 weitere Wörter geliefert, die überarbeitet wurden.
+
+## Selbstkritik nach Meilenstein 4 (zwei Tage mit echten Inhalten, Screenshots)
+- Nach 30 Sekunden klar? Ja: Startknopf nach ~0,4 s, Tag 1 führt drei Regeln mit offener Karte ein.
+- Zeitdruck spannend, nicht stressig? Ja: Einarbeitung ohne Balken, danach 30/22/18 s plus Formatzuschlag; Zeitdruck in den Einstellungen abschaltbar.
+- Feedback ein Belohnungsmoment? Ja: Stempel, Münzen, Gesicht, Sterne; danach Warum, Denkweg, „Warum nicht“.
+- Spiel oder Formular? Spiel. Nachgeschärft: Antworten gemischt (vorher stand die richtige immer oben), F3-Fächer ohne verschachtelte Knöpfe, F2-Fehlerart untereinander, Ole-Etikett vor der Frage.
+- Ein Tag hat 9–10 Fälle; bei 15–25 s je Fall plus Morgen und Feierabend ergibt das 3–4 Minuten.

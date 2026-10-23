@@ -72,12 +72,12 @@
    "id": "q29",
    "titel": "Regeln von der Regierung: Was ist eine Rechtsverordnung?",
    "fachbegriff": "Rechtsverordnung (Art. 80 GG)",
-   "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung erlässt sie, aber nur mit Erlaubnis aus einem Gesetz.",
+   "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung [[erlässt|erlass]] sie, aber nur mit Erlaubnis aus einem Gesetz.",
    "warum": "Das [[Parlament]] kann nicht jedes Detail selbst regeln. Es gibt Arbeit ab, legt aber den Rahmen genau fest.",
    "alltag": "Der Vorstand erlaubt der Platzwartin, die Platzordnung zu schreiben. Er sagt genau: worüber, wozu und wie weit. Oben auf dem Zettel steht, wer es erlaubt hat.",
    "erkennen": [
     "Wer erlässt die Regel? Regierung, Ministerium oder [[Behörde]].",
-    "Erlaubt ein Gesetz genau das? Inhalt, Zweck und Ausmaß müssen drinstehen.",
+    "Erlaubt ein Gesetz genau das? Es muss sagen, worum es geht, wozu und wie weit.",
     "In der Verordnung muss stehen, auf welches Gesetz sie sich stützt.",
     "Sie steht im Rang unter dem Gesetz."
    ],
@@ -111,7 +111,7 @@
    "warum": "Wer sich selbst verwaltet, soll seine eigenen Dinge auch selbst regeln. Das ist der Kern der [[Selbstverwaltung]].",
    "alltag": "Eine WG schreibt selbst ihren Putzplan. Niemand von außen hat ihn vorgegeben. Er gilt für alle, die dort wohnen.",
    "erkennen": [
-    "Wer erlässt die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
+    "Wer [[erlässt|erlass]] die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
     "Für wen gilt sie? Für ihre Mitglieder oder Angehörigen.",
     "Satzung: Man regelt sich selbst. [[Verordnung|Rechtsverordnung]]: Der Staat gibt Arbeit ab.",
     "Beispiele: Satzung der Krankenkasse, Berufsordnung der Ärztekammer."
@@ -380,7 +380,7 @@
    "id": "q38",
    "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
    "fachbegriff": "Rücknahme und Widerruf",
-   "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+   "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim [[Erlass]] falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
    "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
    "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
    "erkennen": [
@@ -1020,7 +1020,7 @@
     "name": "Frau Kılıç, Medizinstudentin",
     "emoji": "👩‍🎓"
    },
-   "akte": "Frau Kılıçs Prüfungen regelt die Approbationsordnung für Ärzte. Ein Ministerium hat sie erlassen. Ein Gesetz hat das erlaubt.",
+   "akte": "Frau Kılıçs Prüfungen regelt die Approbationsordnung für Ärzte. Ein Ministerium hat sie [[erlassen|erlass]]. Ein Gesetz hat das erlaubt.",
    "frage": "Was ist die Approbationsordnung?",
    "optionen": [
     {
@@ -1052,7 +1052,7 @@
     "name": "Herr Brenner, Schornsteinfeger",
     "emoji": "🧑‍🏭"
    },
-   "akte": "Ein Ministerium will eine [[Verordnung|rechtsverordnung]] über das Fegen von Schornsteinen erlassen. Kein Gesetz erlaubt ihm das. Herr Brenner ist empört.",
+   "akte": "Ein Ministerium will eine [[Verordnung|rechtsverordnung]] über das Fegen von Schornsteinen [[erlassen|erlass]]. Kein Gesetz erlaubt ihm das. Herr Brenner ist empört.",
    "frage": "Darf das Ministerium das?",
    "optionen": [
     {
@@ -1161,7 +1161,7 @@
      {
       "text": "Die Approbationsordnung für Ärzte",
       "fach": "Rechtsverordnung",
-      "warumNicht": "Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen."
+      "warumNicht": "Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz [[erlassen|erlass]]."
      },
      {
       "text": "Die Berufsordnung der Ärztekammer",
@@ -1285,7 +1285,7 @@
     {
      "text": "Rechtsverordnung",
      "richtig": false,
-     "warumNicht": "Eine [[Verordnung|rechtsverordnung]] erlässt die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt die Kasse sich selbst."
+     "warumNicht": "Eine [[Verordnung|rechtsverordnung]] [[erlässt|erlass]] die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt die Kasse sich selbst."
     }
    ],
    "ergebnis": "[[Satzung]]: Die Kasse regelt selbst für ihre Mitglieder.",
@@ -1311,7 +1311,7 @@
      "warumNicht": null
     },
     {
-     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz erlässt.",
+     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz [[erlässt|erlass]].",
      "richtig": false,
      "warumNicht": "Das ist eine [[Rechtsverordnung]]. Bei ihr gibt der Staat Arbeit ab."
     },
@@ -1518,7 +1518,7 @@
     "emoji": "🐕"
    },
    "akte": "Herr Petrović hat einen Hund namens Keks. Der Gemeinderat beschließt eine Regel für alle Hundehalter im Ort. Keks findet das unfair.",
-   "frage": "Was hat die Gemeinde erlassen?",
+   "frage": "Was hat die Gemeinde [[erlassen|erlass]]?",
    "optionen": [
     {
      "text": "Satzung",
@@ -2038,7 +2038,7 @@
      "warumNicht": "Die gesetzliche Kasse ist nicht privat. Sie ist eine Körperschaft des öffentlichen Rechts."
     },
     {
-     "text": "Das Ministerium zahlt jede Leistung selbst direkt aus.",
+     "text": "Das Ministerium zahlt jede [[Leistung]] selbst direkt aus.",
      "richtig": false,
      "warumNicht": "Das wäre unmittelbare [[Verwaltung]]. Die Kasse ist aber eine eigene Körperschaft."
     }
@@ -2787,7 +2787,7 @@
      "warumNicht": null
     },
     {
-     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz für alle erlässt.",
+     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz für alle [[erlässt|erlass]].",
      "richtig": false,
      "warumNicht": "Das ist eine [[Rechtsverordnung]]. Sie gilt für alle, nicht nur intern."
     },
@@ -3245,7 +3245,7 @@
      "warumNicht": "[[Widerruf]] passt nur, wenn der Bescheid am Anfang richtig war. Hier war er von Anfang an falsch."
     }
    ],
-   "ergebnis": "[[Rücknahme]], weil der Bescheid schon beim Erlass falsch war.",
+   "ergebnis": "[[Rücknahme]], weil der Bescheid schon beim [[Erlass]] falsch war.",
    "warum": "Der Fehler steckte schon im Bescheid, als er rausging. Einen Fehler von Anfang an repariert man mit der Rücknahme.",
    "denkweg": [
     "1. Will die Kasse einen Bescheid aufheben? Ja.",
@@ -3278,7 +3278,7 @@
     }
    ],
    "ergebnis": "[[Widerruf]], weil der Bescheid damals richtig war und nur für die Zukunft aufgehoben wird.",
-   "warum": "Der Bescheid war beim Erlass korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
+   "warum": "Der Bescheid war beim [[Erlass]] korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
    "denkweg": [
     "1. War der Bescheid beim Erlass richtig? Ja.",
     "2. Hat sich danach etwas geändert? Ja, er ist wieder fit.",
@@ -3343,7 +3343,7 @@
     {
      "text": "Widerruf",
      "richtig": false,
-     "warumNicht": "Es wirkt nur so, als sei der [[Bescheid]] richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim Erlass falsch."
+     "warumNicht": "Es wirkt nur so, als sei der [[Bescheid]] richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim [[Erlass]] falsch."
     }
    ],
    "ergebnis": "[[Rücknahme]], denn der Bescheid war schon beim Erlass falsch, man wusste es nur nicht.",
@@ -3397,7 +3397,7 @@
    "ergebnis": "Fehler von Anfang an gehören zur Rücknahme, spätere Änderungen zum Widerruf.",
    "warum": "Entscheidend ist immer: War der Bescheid am ersten Tag richtig oder falsch?",
    "denkweg": [
-    "1. Frage bei jeder Notiz: Gab es den Fehler schon beim Erlass?",
+    "1. Frage bei jeder Notiz: Gab es den Fehler schon beim [[Erlass]]?",
     "2. Ja: Rücknahme.",
     "3. Nein: Widerruf."
    ],
@@ -3411,7 +3411,7 @@
    "akte": "Erklären Sie mir den Unterschied zwischen [[Rücknahme]] und [[Widerruf]]. Kurz und prüfungsfest, bitte.",
    "frage": "Lege die Antwort aus den Bausteinen.",
    "ergebnis": "Es kommt darauf an, ob der [[Bescheid]] am Anfang richtig war. Falsch: Rücknahme. Richtig: Widerruf.",
-   "warum": "Die Prüfung fragt nach dem einen Punkt: War der [[VA|verwaltungsakt]] beim Erlass [[rechtmäßig]] oder [[rechtswidrig]]?",
+   "warum": "Die Prüfung fragt nach dem einen Punkt: War der [[VA|verwaltungsakt]] beim [[Erlass]] [[rechtmäßig]] oder [[rechtswidrig]]?",
    "denkweg": [
     "1. Zuerst das Kriterium nennen.",
     "2. Dann Rücknahme und Widerruf zuordnen.",
@@ -3440,7 +3440,7 @@
     {
      "text": "Ja. Wenn er heute nicht passt, war er von Anfang an falsch.",
      "richtig": false,
-     "warumNicht": "Es zählt der Tag, an dem er erlassen wurde. Damals war er richtig."
+     "warumNicht": "Es zählt der Tag, an dem er [[erlassen|erlass]] wurde. Damals war er richtig."
     }
    ],
    "ergebnis": "Es ist ein Widerruf, weil der Bescheid beim Erlass richtig war.",
@@ -3461,7 +3461,7 @@
     "name": "Frau Petrov, Kita-Leiterin",
     "emoji": "🧸"
    },
-   "akte": "Die Kasse lehnt eine Kur für Frau Petrov ab. Im [[Bescheid]] fehlt die Begründung. Zwei Wochen später schickt die Kasse die Begründung nach.",
+   "akte": "Die Kasse lehnt eine [[Kur]] für Frau Petrov ab. Im [[Bescheid]] fehlt die Begründung. Zwei Wochen später schickt die Kasse die Begründung nach.",
    "frage": "Zählt der Fehler noch?",
    "optionen": [
     {
@@ -3876,7 +3876,7 @@
    "regelId": "q40",
    "stufe": 3,
    "format": "F6",
-   "akte": "Erklären Sie mir, wann eine [[Anhörung]] vor Erlass eines [[Verwaltungsakts|verwaltungsakt]] nötig ist. Und wo das steht.",
+   "akte": "Erklären Sie mir, wann eine [[Anhörung]] vor [[Erlass]] eines [[Verwaltungsakts|verwaltungsakt]] nötig ist. Und wo das steht.",
    "frage": "Lege die Antwort aus den Bausteinen.",
    "ergebnis": "§ 24 [[SGB|sgb]] X: Anhörung vor belastendem [[VA|bescheid]], Ausnahmen in § 24 II, Verstoß heilbar.",
    "warum": "Erst die [[Norm|rechtsnorm]], dann die Voraussetzung, dann Ausnahmen und Folge.",

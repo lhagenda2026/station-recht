@@ -1218,7 +1218,7 @@
     {
      "text": "Die Kasse zahlt eine Leistung ohne Gesetz",
      "fach": "Vorbehalt des Gesetzes",
-     "warumNicht": "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+     "warumNicht": "Im Sozialrecht brauchen auch [[Leistungen|sozialleistung]] ein Gesetz."
     },
     {
      "text": "Frage: Gibt es eine Erlaubnis?",
@@ -1293,7 +1293,7 @@
    {
     "text": "Ja: Geschenke sind erlaubt",
     "richtig": false,
-    "warumNicht": "Im Sozialrecht gilt der [[Vorbehalt|vorbehalt-des-gesetzes]] auch für Leistungen. So steht es in § 31 [[SGB|sgb]] I."
+    "warumNicht": "Im Sozialrecht gilt der [[Vorbehalt|vorbehalt-des-gesetzes]] auch für [[Leistungen|sozialleistung]]. So steht es in § 31 [[SGB|sgb]] I."
    }
   ],
   "ergebnis": "Nein, im Sozialrecht braucht auch eine Leistung ein Gesetz.",
@@ -1382,7 +1382,7 @@
   "format": "F6",
   "akte": "Erklären Sie mir den [[Vorbehalt des Gesetzes]]. Und wo er gilt.",
   "frage": "Lege die Antwort aus den Bausteinen.",
-  "ergebnis": "Die [[Verwaltung]] braucht ein Gesetz, das sie zum Handeln befugt. Das gilt bei Eingriffen und bei wichtigen Fragen. Im Sozialrecht gilt es auch für Leistungen.",
+  "ergebnis": "Die [[Verwaltung]] braucht ein Gesetz, das sie zum Handeln befugt. Das gilt bei Eingriffen und bei wichtigen Fragen. Im Sozialrecht gilt es auch für [[Leistungen|sozialleistung]].",
   "warum": "Die Prüfung will: was er ist, die Eingriffe, die [[Wesentlichkeitstheorie]] und § 31 [[SGB|sgb]] I.",
   "denkweg": [
    "1. Zuerst sagst du, was er ist.",
@@ -2137,7 +2137,7 @@
    {
     "text": "Ja: Sozialstaat reicht",
     "richtig": false,
-    "warumNicht": "Das Prinzip ist offen und muss durch Gesetze ausgefüllt werden. Leistungen brauchen ein Gesetz."
+    "warumNicht": "Das Prinzip ist offen und muss durch Gesetze ausgefüllt werden. [[Leistungen|sozialleistung]] brauchen ein Gesetz."
    },
    {
     "text": "Ja: Geben ist immer frei",
@@ -2290,7 +2290,7 @@
    {
     "text": "Ja: kein Eingriff",
     "richtig": false,
-    "warumNicht": "Bei Eingriffen braucht man sicher ein Gesetz. Im Sozialrecht brauchen aber auch Leistungen eins."
+    "warumNicht": "Bei Eingriffen braucht man sicher ein Gesetz. Im Sozialrecht brauchen aber auch [[Leistungen|sozialleistung]] eins."
    }
   ],
   "ergebnis": "Nein, auch für Leistungen braucht die Kasse ein Gesetz.",
@@ -2503,7 +2503,7 @@
     "warumNicht": null
    },
    {
-    "text": "Sie verpflichten den Staat, dir möglichst viele Leistungen zu geben.",
+    "text": "Sie verpflichten den Staat, dir möglichst viele [[Leistungen|sozialleistung]] zu geben.",
     "richtig": false,
     "warumNicht": "Leistungsrechte gibt es auch, aber nur selten. Am wichtigsten ist die Abwehr."
    },
@@ -2643,7 +2643,7 @@
    {
     "text": "Teilhaberecht",
     "richtig": false,
-    "warumNicht": "Frau Lindner will keine Leistung vom Staat. Es geht um einen Streit unter Privaten."
+    "warumNicht": "Frau Lindner will keine [[Leistung]] vom Staat. Es geht um einen Streit unter Privaten."
    }
   ],
   "ergebnis": "Ausstrahlung: Die Werte der Grundrechte wirken auch im Streit unter Privaten.",
@@ -2662,7 +2662,7 @@
   "format": "F6",
   "akte": "Erklären Sie mir die Funktionen der [[Grundrechte|grundrecht]]. Und sagen Sie mir, welche am wichtigsten ist.",
   "frage": "Lege die Antwort aus den Bausteinen.",
-  "ergebnis": "Abwehr, Leistung und [[Teilhabe|teilhaberecht]], [[Schutzpflichten|schutzpflicht]], Verfahren, Gleichheit, Werte. Am wichtigsten: Abwehr.",
+  "ergebnis": "Abwehr, [[Leistung]] und [[Teilhabe|teilhaberecht]], [[Schutzpflichten|schutzpflicht]], Verfahren, Gleichheit, Werte. Am wichtigsten: Abwehr.",
   "warum": "Die Prüfung will alle sechs hören. Der letzte Satz nennt die wichtigste. Das bringt Punkte.",
   "denkweg": [
    "1. Funktionen der Reihe nach nennen.",
@@ -2785,7 +2785,7 @@
    "name": "Herr Hoffmann, Hobby-Virologe",
    "emoji": "🦠"
   },
-  "akte": "Eine Seuche geht um. Der Staat hat schon Schutzregeln erlassen. Herr Hoffmann, Hobby-Virologe mit drei Mikroskopen, will **seine** Regeln: „Zehn Wochen alle zu Hause!“",
+  "akte": "Eine Seuche geht um. Der Staat hat schon Schutzregeln [[erlassen|erlass]]. Herr Hoffmann, Hobby-Virologe mit drei Mikroskopen, will **seine** Regeln: „Zehn Wochen alle zu Hause!“",
   "frage": "Muss der Staat genau seine Regel machen?",
   "optionen": [
    {
@@ -2970,7 +2970,7 @@
     {
      "text": "Der Staat soll eine Skihalle bauen",
      "fach": "Originär",
-     "warumNicht": "Auch das wäre eine neue Leistung."
+     "warumNicht": "Auch das wäre eine neue [[Leistung]]."
     },
     {
      "text": "Gleicher Zugang zur vorhandenen Stadtbücherei",
@@ -3013,7 +3013,7 @@
    }
   ],
   "ergebnis": "Derivativ heißt Teilhabe am Vorhandenen, originär heißt Schaffung von Neuem.",
-  "warum": "Beides sind Leistungsrechte. Der Unterschied ist nur: Gibt es die Leistung schon oder nicht?",
+  "warum": "Beides sind Leistungsrechte. Der Unterschied ist nur: Gibt es die [[Leistung]] schon oder nicht?",
   "denkweg": [
    "1. Beides will etwas vom Staat.",
    "2. Schon vorhanden? Derivativ.",
@@ -3066,7 +3066,7 @@
    }
   ],
   "ergebnis": "Originär: Jana will neue Plätze. Solche Ansprüche gibt es nur ausnahmsweise.",
-  "warum": "Das Wort „Teilhabe“ lenkt ab. Entscheidend ist, ob die Leistung schon da ist. Neue Plätze müsste der Staat erst schaffen.",
+  "warum": "Das Wort „Teilhabe“ lenkt ab. Entscheidend ist, ob die [[Leistung]] schon da ist. Neue Plätze müsste der Staat erst schaffen.",
   "denkweg": [
    "1. Was will Jana genau? 20 neue Plätze.",
    "2. Gibt es die schon? Nein.",
@@ -5441,7 +5441,7 @@
    {
     "text": "Ja, Gesundheit ist Grundrecht",
     "richtig": false,
-    "warumNicht": "Aus den Grundrechten folgt kein Anspruch auf jede gewünschte Leistung."
+    "warumNicht": "Aus den Grundrechten folgt kein Anspruch auf jede gewünschte [[Leistung]]."
    }
   ],
   "ergebnis": "Nein: Grundsätzlich gibt es keinen Anspruch auf jede Wunschleistung.",
@@ -5634,7 +5634,7 @@
     "warumNicht": "Auch mit Arzt reicht das nicht. Die Ausnahme verlangt eine lebensbedrohliche Krankheit."
    }
   ],
-  "ergebnis": "Nein: Gesundheit gehört zum Minimum, aber daraus folgt kein Anspruch auf jede gewünschte Leistung.",
+  "ergebnis": "Nein: Gesundheit gehört zum Minimum, aber daraus folgt kein Anspruch auf jede gewünschte [[Leistung]].",
   "warum": "Der [[Gesetzgeber]] hat [[Spielraum|gestaltungsspielraum]], und die Kasse muss wirtschaftlich sein. Eine Ausnahme gibt es nur bei lebensbedrohlicher Krankheit.",
   "denkweg": [
    "1. Existenzminimum: nur ein Minimum, Höhe regelt der Gesetzgeber.",
@@ -6185,7 +6185,7 @@
    "name": "Frau Kılıç, Medizinstudentin",
    "emoji": "👩‍🎓"
   },
-  "akte": "Frau Kılıçs Prüfungen regelt die Approbationsordnung für Ärzte. Ein Ministerium hat sie erlassen. Ein Gesetz hat das erlaubt.",
+  "akte": "Frau Kılıçs Prüfungen regelt die Approbationsordnung für Ärzte. Ein Ministerium hat sie [[erlassen|erlass]]. Ein Gesetz hat das erlaubt.",
   "frage": "Was ist die Approbationsordnung?",
   "optionen": [
    {
@@ -6217,7 +6217,7 @@
    "name": "Herr Brenner, Schornsteinfeger",
    "emoji": "🧑‍🏭"
   },
-  "akte": "Ein Ministerium will eine [[Verordnung|rechtsverordnung]] über das Fegen von Schornsteinen erlassen. Kein Gesetz erlaubt ihm das. Herr Brenner ist empört.",
+  "akte": "Ein Ministerium will eine [[Verordnung|rechtsverordnung]] über das Fegen von Schornsteinen [[erlassen|erlass]]. Kein Gesetz erlaubt ihm das. Herr Brenner ist empört.",
   "frage": "Darf das Ministerium das?",
   "optionen": [
    {
@@ -6326,7 +6326,7 @@
     {
      "text": "Die Approbationsordnung für Ärzte",
      "fach": "Rechtsverordnung",
-     "warumNicht": "Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen."
+     "warumNicht": "Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz [[erlassen|erlass]]."
     },
     {
      "text": "Die Berufsordnung der Ärztekammer",
@@ -6450,7 +6450,7 @@
    {
     "text": "Rechtsverordnung",
     "richtig": false,
-    "warumNicht": "Eine [[Verordnung|rechtsverordnung]] erlässt die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt die Kasse sich selbst."
+    "warumNicht": "Eine [[Verordnung|rechtsverordnung]] [[erlässt|erlass]] die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt die Kasse sich selbst."
    }
   ],
   "ergebnis": "[[Satzung]]: Die Kasse regelt selbst für ihre Mitglieder.",
@@ -6476,7 +6476,7 @@
     "warumNicht": null
    },
    {
-    "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz erlässt.",
+    "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz [[erlässt|erlass]].",
     "richtig": false,
     "warumNicht": "Das ist eine [[Rechtsverordnung]]. Bei ihr gibt der Staat Arbeit ab."
    },
@@ -6683,7 +6683,7 @@
    "emoji": "🐕"
   },
   "akte": "Herr Petrović hat einen Hund namens Keks. Der Gemeinderat beschließt eine Regel für alle Hundehalter im Ort. Keks findet das unfair.",
-  "frage": "Was hat die Gemeinde erlassen?",
+  "frage": "Was hat die Gemeinde [[erlassen|erlass]]?",
   "optionen": [
    {
     "text": "Satzung",
@@ -7203,7 +7203,7 @@
     "warumNicht": "Die gesetzliche Kasse ist nicht privat. Sie ist eine Körperschaft des öffentlichen Rechts."
    },
    {
-    "text": "Das Ministerium zahlt jede Leistung selbst direkt aus.",
+    "text": "Das Ministerium zahlt jede [[Leistung]] selbst direkt aus.",
     "richtig": false,
     "warumNicht": "Das wäre unmittelbare [[Verwaltung]]. Die Kasse ist aber eine eigene Körperschaft."
    }
@@ -7952,7 +7952,7 @@
     "warumNicht": null
    },
    {
-    "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz für alle erlässt.",
+    "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz für alle [[erlässt|erlass]].",
     "richtig": false,
     "warumNicht": "Das ist eine [[Rechtsverordnung]]. Sie gilt für alle, nicht nur intern."
    },
@@ -8410,7 +8410,7 @@
     "warumNicht": "[[Widerruf]] passt nur, wenn der Bescheid am Anfang richtig war. Hier war er von Anfang an falsch."
    }
   ],
-  "ergebnis": "[[Rücknahme]], weil der Bescheid schon beim Erlass falsch war.",
+  "ergebnis": "[[Rücknahme]], weil der Bescheid schon beim [[Erlass]] falsch war.",
   "warum": "Der Fehler steckte schon im Bescheid, als er rausging. Einen Fehler von Anfang an repariert man mit der Rücknahme.",
   "denkweg": [
    "1. Will die Kasse einen Bescheid aufheben? Ja.",
@@ -8443,7 +8443,7 @@
    }
   ],
   "ergebnis": "[[Widerruf]], weil der Bescheid damals richtig war und nur für die Zukunft aufgehoben wird.",
-  "warum": "Der Bescheid war beim Erlass korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
+  "warum": "Der Bescheid war beim [[Erlass]] korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
   "denkweg": [
    "1. War der Bescheid beim Erlass richtig? Ja.",
    "2. Hat sich danach etwas geändert? Ja, er ist wieder fit.",
@@ -8508,7 +8508,7 @@
    {
     "text": "Widerruf",
     "richtig": false,
-    "warumNicht": "Es wirkt nur so, als sei der [[Bescheid]] richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim Erlass falsch."
+    "warumNicht": "Es wirkt nur so, als sei der [[Bescheid]] richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim [[Erlass]] falsch."
    }
   ],
   "ergebnis": "[[Rücknahme]], denn der Bescheid war schon beim Erlass falsch, man wusste es nur nicht.",
@@ -8562,7 +8562,7 @@
   "ergebnis": "Fehler von Anfang an gehören zur Rücknahme, spätere Änderungen zum Widerruf.",
   "warum": "Entscheidend ist immer: War der Bescheid am ersten Tag richtig oder falsch?",
   "denkweg": [
-   "1. Frage bei jeder Notiz: Gab es den Fehler schon beim Erlass?",
+   "1. Frage bei jeder Notiz: Gab es den Fehler schon beim [[Erlass]]?",
    "2. Ja: Rücknahme.",
    "3. Nein: Widerruf."
   ],
@@ -8576,7 +8576,7 @@
   "akte": "Erklären Sie mir den Unterschied zwischen [[Rücknahme]] und [[Widerruf]]. Kurz und prüfungsfest, bitte.",
   "frage": "Lege die Antwort aus den Bausteinen.",
   "ergebnis": "Es kommt darauf an, ob der [[Bescheid]] am Anfang richtig war. Falsch: Rücknahme. Richtig: Widerruf.",
-  "warum": "Die Prüfung fragt nach dem einen Punkt: War der [[VA|verwaltungsakt]] beim Erlass [[rechtmäßig]] oder [[rechtswidrig]]?",
+  "warum": "Die Prüfung fragt nach dem einen Punkt: War der [[VA|verwaltungsakt]] beim [[Erlass]] [[rechtmäßig]] oder [[rechtswidrig]]?",
   "denkweg": [
    "1. Zuerst das Kriterium nennen.",
    "2. Dann Rücknahme und Widerruf zuordnen.",
@@ -8605,7 +8605,7 @@
    {
     "text": "Ja. Wenn er heute nicht passt, war er von Anfang an falsch.",
     "richtig": false,
-    "warumNicht": "Es zählt der Tag, an dem er erlassen wurde. Damals war er richtig."
+    "warumNicht": "Es zählt der Tag, an dem er [[erlassen|erlass]] wurde. Damals war er richtig."
    }
   ],
   "ergebnis": "Es ist ein Widerruf, weil der Bescheid beim Erlass richtig war.",
@@ -8626,7 +8626,7 @@
    "name": "Frau Petrov, Kita-Leiterin",
    "emoji": "🧸"
   },
-  "akte": "Die Kasse lehnt eine Kur für Frau Petrov ab. Im [[Bescheid]] fehlt die Begründung. Zwei Wochen später schickt die Kasse die Begründung nach.",
+  "akte": "Die Kasse lehnt eine [[Kur]] für Frau Petrov ab. Im [[Bescheid]] fehlt die Begründung. Zwei Wochen später schickt die Kasse die Begründung nach.",
   "frage": "Zählt der Fehler noch?",
   "optionen": [
    {
@@ -9041,7 +9041,7 @@
   "regelId": "q40",
   "stufe": 3,
   "format": "F6",
-  "akte": "Erklären Sie mir, wann eine [[Anhörung]] vor Erlass eines [[Verwaltungsakts|verwaltungsakt]] nötig ist. Und wo das steht.",
+  "akte": "Erklären Sie mir, wann eine [[Anhörung]] vor [[Erlass]] eines [[Verwaltungsakts|verwaltungsakt]] nötig ist. Und wo das steht.",
   "frage": "Lege die Antwort aus den Bausteinen.",
   "ergebnis": "§ 24 [[SGB|sgb]] X: Anhörung vor belastendem [[VA|bescheid]], Ausnahmen in § 24 II, Verstoß heilbar.",
   "warum": "Erst die [[Norm|rechtsnorm]], dann die Voraussetzung, dann Ausnahmen und Folge.",
@@ -9133,7 +9133,7 @@
    "name": "Frau Sörensen, Fährfrau",
    "emoji": "⛴️"
   },
-  "akte": "Frau Sörensen wohnt in Kiel. Ihr Antrag landet aus Versehen bei der Geschäftsstelle in Flensburg. Die Flensburger bewilligen ihr eine Kur.",
+  "akte": "Frau Sörensen wohnt in Kiel. Ihr Antrag landet aus Versehen bei der Zweigstelle in Flensburg. Die Flensburger bewilligen ihr eine [[Kur]].",
   "frage": "Ist der [[Bescheid]] nichtig?",
   "optionen": [
    {
@@ -9202,7 +9202,7 @@
    "name": "Frau Wendt, Feuerwerkerin",
    "emoji": "🎆"
   },
-  "akte": "Die Kasse schreibt Frau Wendt: „Die Kur gibt es nur, wenn Sie vorher ein Auto Ihres Nachbarn anzünden.“ Das ist eine Straftat.",
+  "akte": "Die Kasse schreibt Frau Wendt: „Die [[Kur]] gibt es nur, wenn Sie vorher ein Auto Ihres Nachbarn anzünden.“ Das ist eine Straftat.",
   "frage": "Was gilt?",
   "optionen": [
    {
@@ -9387,7 +9387,7 @@
    {
     "text": "Ja, Geschenke sind immer erlaubt",
     "richtig": false,
-    "warumNicht": "Im Sozialrecht braucht auch eine Leistung ein Gesetz. Geschenke ohne Grundlage gehen nicht."
+    "warumNicht": "Im Sozialrecht braucht auch eine [[Leistung]] ein Gesetz. Geschenke ohne Grundlage gehen nicht."
    },
    {
     "text": "Ja, nur Eingriffe brauchen Gesetz",
@@ -9444,7 +9444,7 @@
   "format": "F6",
   "akte": "Was ist eine [[Ermächtigungsgrundlage]]? Und warum braucht man sie? Sagen Sie es wie in der Prüfung.",
   "frage": "Lege die Antwort aus den Bausteinen.",
-  "ergebnis": "Ein Gesetz gibt die Befugnis. Grund ist der [[Vorbehalt des Gesetzes]]. Im Sozialrecht gilt das auch für Leistungen.",
+  "ergebnis": "Ein Gesetz gibt die Befugnis. Grund ist der [[Vorbehalt des Gesetzes]]. Im Sozialrecht gilt das auch für [[Leistungen|sozialleistung]].",
   "warum": "Erst sagst du, was es ist. Dann kommt der Grund. Zum Schluss das Sozialrecht und ein Beispiel.",
   "denkweg": [
    "1. Was ist es? Eine Erlaubnis im Gesetz.",
@@ -10277,7 +10277,7 @@
    "name": "Frau Abdi, Hebamme",
    "emoji": "🤱"
   },
-  "akte": "Frau Abdi erfüllt alle Voraussetzungen für eine Leistung mit [[Rechtsanspruch]]. Der Sachbearbeiter sagt: „Ich überlege mal, ob ich Lust habe.“",
+  "akte": "Frau Abdi erfüllt alle Voraussetzungen für eine [[Leistung]] mit [[Rechtsanspruch]]. Der Sachbearbeiter sagt: „Ich überlege mal, ob ich Lust habe.“",
   "frage": "Darf er das?",
   "optionen": [
    {
@@ -10366,7 +10366,7 @@
    "name": "Frau Graf, Gärtnerin",
    "emoji": "🌻"
   },
-  "akte": "Frau Graf klagt vor dem [[Sozialgericht]] auf eine Leistung mit „hat [[Anspruch|rechtsanspruch]]“. Die Kasse sagt dem Gericht: „Sie dürfen nur grobe Fehler prüfen.“ Draußen blühen ihre Sonnenblumen.",
+  "akte": "Frau Graf klagt vor dem [[Sozialgericht]] auf eine [[Leistung]] mit „hat [[Anspruch|rechtsanspruch]]“. Die Kasse sagt dem Gericht: „Sie dürfen nur grobe Fehler prüfen.“ Draußen blühen ihre Sonnenblumen.",
   "frage": "Wie weit prüft das Gericht?",
   "optionen": [
    {
@@ -10587,7 +10587,7 @@
    "name": "Herr Weber, Schäfer",
    "emoji": "🐑"
   },
-  "akte": "Das Gesetz sagt: Die Kasse **soll** eine Kur bezahlen. Herr Webers Fall ist ganz normal. Die Kasse lehnt ab: „Wir haben ja [[Ermessen]], und Kuren sind teuer.“",
+  "akte": "Das Gesetz sagt: Die Kasse **soll** eine Kur bezahlen. Herr Webers Fall ist ganz normal. Die Kasse lehnt ab: „Wir haben ja [[Ermessen]], und [[Kuren|kur]] sind teuer.“",
   "frage": "Was stimmt?",
   "optionen": [
    {
@@ -11065,7 +11065,7 @@
    "name": "Herr Kuhn, Bäcker",
    "emoji": "🥖"
   },
-  "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die [[Behörde]] kürzt Herrn Kuhns Leistung um **50 %**.",
+  "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die [[Behörde]] kürzt Herrn Kuhns [[Leistung]] um **50 %**.",
   "frage": "Welcher Fehler?",
   "optionen": [
    {
@@ -11544,7 +11544,7 @@
    "name": "Herr Rasmussen, Leuchtturmwärter",
    "emoji": "🗼"
   },
-  "akte": "Herr Rasmussen hat ein Formular eine Woche zu spät abgegeben. Die Kasse streicht ihm darum die Leistung für ein ganzes Jahr. Eine kurze Mahnung hätte auch gereicht.",
+  "akte": "Herr Rasmussen hat ein Formular eine Woche zu spät abgegeben. Die Kasse streicht ihm darum die [[Leistung]] für ein ganzes Jahr. Eine kurze Mahnung hätte auch gereicht.",
   "frage": "Ist das verhältnismäßig?",
   "optionen": [
    {
@@ -11657,7 +11657,7 @@
    "name": "Herr Okoro, Kinderarzt",
    "emoji": "🩺"
   },
-  "akte": "Die Kasse **kann** über eine Leistung entscheiden. Im Fall eines schwer kranken Kindes wäre aber jede Ablehnung [[unverhältnismäßig|verhaeltnismaessig]]. Nur die Zusage ist fair.",
+  "akte": "Die Kasse **kann** über eine [[Leistung]] entscheiden. Im Fall eines schwer kranken Kindes wäre aber jede Ablehnung [[unverhältnismäßig|verhaeltnismaessig]]. Nur die Zusage ist fair.",
   "frage": "Wie heißt das?",
   "optionen": [
    {
@@ -13300,7 +13300,7 @@
    "name": "Frau Kühn, Kita-Leiterin",
    "emoji": "🧸"
   },
-  "akte": "Frau Kühn hat vor über einem Jahr eine Kur beantragt. Die Kasse hat nie geantwortet. Kein Ja, kein Nein, gar nichts.",
+  "akte": "Frau Kühn hat vor über einem Jahr eine [[Kur]] beantragt. Die Kasse hat nie geantwortet. Kein Ja, kein Nein, gar nichts.",
   "frage": "Welche [[Klage]] passt?",
   "optionen": [
    {
@@ -13809,7 +13809,7 @@
    }
   ],
   "ergebnis": "Ein [[Bescheid]]: Er stoppt verbindlich ihr Krankengeld.",
-  "warum": "Es zählt der Inhalt, nicht der Titel. Wer verbindlich etwas für dich festlegt, erlässt einen Bescheid. Dagegen kann sie sich wehren.",
+  "warum": "Es zählt der Inhalt, nicht der Titel. Wer verbindlich etwas für dich festlegt, [[erlässt|erlass]] einen Bescheid. Dagegen kann sie sich wehren.",
   "denkweg": [
    "1. Titel egal, Inhalt zählt.",
    "2. Legt der Brief etwas fest? Ja, kein Geld mehr.",

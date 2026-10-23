@@ -9,7 +9,7 @@
    "alltag": "Ein Fahrradhelm schützt dich beim Sturz. Die Klingel warnt andere. Das Licht lässt dich gesehen werden. Ein Ding, mehrere Jobs.",
    "erkennen": [
     "Greift der Staat selbst ein? Dann [[Abwehrrecht]]. Das ist die wichtigste Funktion.",
-    "Willst du etwas vom Staat haben? Dann Leistung oder [[Teilhabe|Teilhaberecht]].",
+    "Willst du etwas vom Staat haben? Dann [[Leistung]] oder [[Teilhabe|Teilhaberecht]].",
     "Droht Gefahr von anderen Menschen? Dann [[Schutzpflicht]] des Staates.",
     "Dazu kommen: faire Verfahren, Gleichheit und Wirkung bis ins [[Privatrecht]]."
    ],
@@ -77,7 +77,7 @@
    "warum": "Der Staat kann nicht alles für alle schaffen. Was er aber anbietet, muss er fair verteilen.",
    "alltag": "Die Schule hat 20 Plätze in der Theater-AG. Du hast [[Anspruch|rechtsanspruch]] auf eine faire Chance. Eine zweite AG muss die Schule nicht gründen.",
    "erkennen": [
-    "Gibt es die Leistung schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
+    "Gibt es die [[Leistung]] schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
     "Soll der Staat etwas Neues schaffen? Dann **originär**. Das gibt es nur selten.",
     "Seltene Ausnahme für „originär“: das [[Existenzminimum]].",
     "Grundlage: Gleichheit (Art. 3 I) plus das passende Freiheitsrecht."
@@ -553,7 +553,7 @@
      "warumNicht": null
     },
     {
-     "text": "Sie verpflichten den Staat, dir möglichst viele Leistungen zu geben.",
+     "text": "Sie verpflichten den Staat, dir möglichst viele [[Leistungen|sozialleistung]] zu geben.",
      "richtig": false,
      "warumNicht": "Leistungsrechte gibt es auch, aber nur selten. Am wichtigsten ist die Abwehr."
     },
@@ -693,7 +693,7 @@
     {
      "text": "Teilhaberecht",
      "richtig": false,
-     "warumNicht": "Frau Lindner will keine Leistung vom Staat. Es geht um einen Streit unter Privaten."
+     "warumNicht": "Frau Lindner will keine [[Leistung]] vom Staat. Es geht um einen Streit unter Privaten."
     }
    ],
    "ergebnis": "Ausstrahlung: Die Werte der Grundrechte wirken auch im Streit unter Privaten.",
@@ -712,7 +712,7 @@
    "format": "F6",
    "akte": "Erklären Sie mir die Funktionen der [[Grundrechte|grundrecht]]. Und sagen Sie mir, welche am wichtigsten ist.",
    "frage": "Lege die Antwort aus den Bausteinen.",
-   "ergebnis": "Abwehr, Leistung und [[Teilhabe|teilhaberecht]], [[Schutzpflichten|schutzpflicht]], Verfahren, Gleichheit, Werte. Am wichtigsten: Abwehr.",
+   "ergebnis": "Abwehr, [[Leistung]] und [[Teilhabe|teilhaberecht]], [[Schutzpflichten|schutzpflicht]], Verfahren, Gleichheit, Werte. Am wichtigsten: Abwehr.",
    "warum": "Die Prüfung will alle sechs hören. Der letzte Satz nennt die wichtigste. Das bringt Punkte.",
    "denkweg": [
     "1. Funktionen der Reihe nach nennen.",
@@ -835,7 +835,7 @@
     "name": "Herr Hoffmann, Hobby-Virologe",
     "emoji": "🦠"
    },
-   "akte": "Eine Seuche geht um. Der Staat hat schon Schutzregeln erlassen. Herr Hoffmann, Hobby-Virologe mit drei Mikroskopen, will **seine** Regeln: „Zehn Wochen alle zu Hause!“",
+   "akte": "Eine Seuche geht um. Der Staat hat schon Schutzregeln [[erlassen|erlass]]. Herr Hoffmann, Hobby-Virologe mit drei Mikroskopen, will **seine** Regeln: „Zehn Wochen alle zu Hause!“",
    "frage": "Muss der Staat genau seine Regel machen?",
    "optionen": [
     {
@@ -1020,7 +1020,7 @@
      {
       "text": "Der Staat soll eine Skihalle bauen",
       "fach": "Originär",
-      "warumNicht": "Auch das wäre eine neue Leistung."
+      "warumNicht": "Auch das wäre eine neue [[Leistung]]."
      },
      {
       "text": "Gleicher Zugang zur vorhandenen Stadtbücherei",
@@ -1063,7 +1063,7 @@
     }
    ],
    "ergebnis": "Derivativ heißt Teilhabe am Vorhandenen, originär heißt Schaffung von Neuem.",
-   "warum": "Beides sind Leistungsrechte. Der Unterschied ist nur: Gibt es die Leistung schon oder nicht?",
+   "warum": "Beides sind Leistungsrechte. Der Unterschied ist nur: Gibt es die [[Leistung]] schon oder nicht?",
    "denkweg": [
     "1. Beides will etwas vom Staat.",
     "2. Schon vorhanden? Derivativ.",
@@ -1116,7 +1116,7 @@
     }
    ],
    "ergebnis": "Originär: Jana will neue Plätze. Solche Ansprüche gibt es nur ausnahmsweise.",
-   "warum": "Das Wort „Teilhabe“ lenkt ab. Entscheidend ist, ob die Leistung schon da ist. Neue Plätze müsste der Staat erst schaffen.",
+   "warum": "Das Wort „Teilhabe“ lenkt ab. Entscheidend ist, ob die [[Leistung]] schon da ist. Neue Plätze müsste der Staat erst schaffen.",
    "denkweg": [
     "1. Was will Jana genau? 20 neue Plätze.",
     "2. Gibt es die schon? Nein.",
@@ -3491,7 +3491,7 @@
     {
      "text": "Ja, Gesundheit ist Grundrecht",
      "richtig": false,
-     "warumNicht": "Aus den Grundrechten folgt kein Anspruch auf jede gewünschte Leistung."
+     "warumNicht": "Aus den Grundrechten folgt kein Anspruch auf jede gewünschte [[Leistung]]."
     }
    ],
    "ergebnis": "Nein: Grundsätzlich gibt es keinen Anspruch auf jede Wunschleistung.",
@@ -3684,7 +3684,7 @@
      "warumNicht": "Auch mit Arzt reicht das nicht. Die Ausnahme verlangt eine lebensbedrohliche Krankheit."
     }
    ],
-   "ergebnis": "Nein: Gesundheit gehört zum Minimum, aber daraus folgt kein Anspruch auf jede gewünschte Leistung.",
+   "ergebnis": "Nein: Gesundheit gehört zum Minimum, aber daraus folgt kein Anspruch auf jede gewünschte [[Leistung]].",
    "warum": "Der [[Gesetzgeber]] hat [[Spielraum|gestaltungsspielraum]], und die Kasse muss wirtschaftlich sein. Eine Ausnahme gibt es nur bei lebensbedrohlicher Krankheit.",
    "denkweg": [
     "1. Existenzminimum: nur ein Minimum, Höhe regelt der Gesetzgeber.",

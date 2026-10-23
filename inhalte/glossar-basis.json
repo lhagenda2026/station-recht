@@ -390,6 +390,48 @@
       ],
       "erklaerung": "Kurz für Rehabilitation. Eine Behandlung nach Krankheit oder Unfall, damit du im Alltag und Beruf wieder klarkommst.",
       "beispiel": "Nach der Knie-Operation übt Opa drei Wochen in einer Klinik wieder das Laufen."
+    },
+    {
+      "id": "erlass",
+      "begriff": "Erlass",
+      "formen": [
+        "erlassen",
+        "erlässt",
+        "erlassene",
+        "erlassenen"
+      ],
+      "erklaerung": "Wenn ein Amt einen Bescheid herausgibt, heißt das „erlassen“. Mit Schulden erlassen hat das nichts zu tun.",
+      "beispiel": "Die Kasse erlässt am 3. Mai einen Bescheid: Sie schickt ihre Entscheidung raus."
+    },
+    {
+      "id": "rechtsbehelf",
+      "begriff": "Rechtsbehelf",
+      "formen": [
+        "Rechtsbehelfe",
+        "Rechtsbehelfs"
+      ],
+      "erklaerung": "Ein Weg, sich gegen eine Entscheidung zu wehren, zum Beispiel Widerspruch oder Klage.",
+      "beispiel": "Du legst Widerspruch gegen den Bescheid ein."
+    },
+    {
+      "id": "kur",
+      "begriff": "Kur",
+      "formen": [
+        "Kuren"
+      ],
+      "erklaerung": "Ein Aufenthalt zur Erholung und Behandlung, oft an einem Kurort. Ähnlich wie eine Reha.",
+      "beispiel": "Drei Wochen an der Ostsee mit Bädern und Bewegung."
+    },
+    {
+      "id": "sozialleistung",
+      "begriff": "Leistung",
+      "formen": [
+        "Leistungen",
+        "Sozialleistung",
+        "Sozialleistungen"
+      ],
+      "erklaerung": "Im Sozialrecht: Geld oder Hilfe, die du vom Staat oder von der Kasse bekommst.",
+      "beispiel": "Krankengeld, eine Brille oder eine Haushaltshilfe."
     }
   ]
 }

@@ -43,7 +43,7 @@
    "erkennen": [
     "Will die [[Behörde|verwaltung]] etwas tun, vor allem dir etwas nehmen?",
     "Frage: In welchem Gesetz steht, dass sie das darf?",
-    "Im Sozialrecht gilt das auch für Leistungen, also fürs Geben.",
+    "Im Sozialrecht gilt das auch für [[Leistungen|sozialleistung]], also fürs Geben.",
     "Kein Gesetz gefunden? Dann darf sie es nicht."
    ],
    "merktrick": "Ohne Gesetz kein Griff in die Tasche.",
@@ -208,7 +208,7 @@
    "titel": "Keine Wahl: Wenn es passt, muss die Kasse",
    "fachbegriff": "Gebundene Entscheidung",
    "einSatz": "Bei einer [[gebundenen Entscheidung]] hat die [[Behörde]] keine Wahl. Passt der Wenn-Teil, **muss** sie handeln.",
-   "warum": "Viele Leistungen sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
+   "warum": "Viele [[Leistungen|sozialleistung]] sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
    "alltag": "Der Automat: Münze rein, Schokoriegel raus. Er überlegt nicht, ob er dich mag.",
    "erkennen": [
     "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
@@ -473,7 +473,7 @@
     "name": "Frau Sörensen, Fährfrau",
     "emoji": "⛴️"
    },
-   "akte": "Frau Sörensen wohnt in Kiel. Ihr Antrag landet aus Versehen bei der Geschäftsstelle in Flensburg. Die Flensburger bewilligen ihr eine Kur.",
+   "akte": "Frau Sörensen wohnt in Kiel. Ihr Antrag landet aus Versehen bei der Zweigstelle in Flensburg. Die Flensburger bewilligen ihr eine [[Kur]].",
    "frage": "Ist der [[Bescheid]] nichtig?",
    "optionen": [
     {
@@ -542,7 +542,7 @@
     "name": "Frau Wendt, Feuerwerkerin",
     "emoji": "🎆"
    },
-   "akte": "Die Kasse schreibt Frau Wendt: „Die Kur gibt es nur, wenn Sie vorher ein Auto Ihres Nachbarn anzünden.“ Das ist eine Straftat.",
+   "akte": "Die Kasse schreibt Frau Wendt: „Die [[Kur]] gibt es nur, wenn Sie vorher ein Auto Ihres Nachbarn anzünden.“ Das ist eine Straftat.",
    "frage": "Was gilt?",
    "optionen": [
     {
@@ -727,7 +727,7 @@
     {
      "text": "Ja, Geschenke sind immer erlaubt",
      "richtig": false,
-     "warumNicht": "Im Sozialrecht braucht auch eine Leistung ein Gesetz. Geschenke ohne Grundlage gehen nicht."
+     "warumNicht": "Im Sozialrecht braucht auch eine [[Leistung]] ein Gesetz. Geschenke ohne Grundlage gehen nicht."
     },
     {
      "text": "Ja, nur Eingriffe brauchen Gesetz",
@@ -784,7 +784,7 @@
    "format": "F6",
    "akte": "Was ist eine [[Ermächtigungsgrundlage]]? Und warum braucht man sie? Sagen Sie es wie in der Prüfung.",
    "frage": "Lege die Antwort aus den Bausteinen.",
-   "ergebnis": "Ein Gesetz gibt die Befugnis. Grund ist der [[Vorbehalt des Gesetzes]]. Im Sozialrecht gilt das auch für Leistungen.",
+   "ergebnis": "Ein Gesetz gibt die Befugnis. Grund ist der [[Vorbehalt des Gesetzes]]. Im Sozialrecht gilt das auch für [[Leistungen|sozialleistung]].",
    "warum": "Erst sagst du, was es ist. Dann kommt der Grund. Zum Schluss das Sozialrecht und ein Beispiel.",
    "denkweg": [
     "1. Was ist es? Eine Erlaubnis im Gesetz.",
@@ -1617,7 +1617,7 @@
     "name": "Frau Abdi, Hebamme",
     "emoji": "🤱"
    },
-   "akte": "Frau Abdi erfüllt alle Voraussetzungen für eine Leistung mit [[Rechtsanspruch]]. Der Sachbearbeiter sagt: „Ich überlege mal, ob ich Lust habe.“",
+   "akte": "Frau Abdi erfüllt alle Voraussetzungen für eine [[Leistung]] mit [[Rechtsanspruch]]. Der Sachbearbeiter sagt: „Ich überlege mal, ob ich Lust habe.“",
    "frage": "Darf er das?",
    "optionen": [
     {
@@ -1706,7 +1706,7 @@
     "name": "Frau Graf, Gärtnerin",
     "emoji": "🌻"
    },
-   "akte": "Frau Graf klagt vor dem [[Sozialgericht]] auf eine Leistung mit „hat [[Anspruch|rechtsanspruch]]“. Die Kasse sagt dem Gericht: „Sie dürfen nur grobe Fehler prüfen.“ Draußen blühen ihre Sonnenblumen.",
+   "akte": "Frau Graf klagt vor dem [[Sozialgericht]] auf eine [[Leistung]] mit „hat [[Anspruch|rechtsanspruch]]“. Die Kasse sagt dem Gericht: „Sie dürfen nur grobe Fehler prüfen.“ Draußen blühen ihre Sonnenblumen.",
    "frage": "Wie weit prüft das Gericht?",
    "optionen": [
     {
@@ -1927,7 +1927,7 @@
     "name": "Herr Weber, Schäfer",
     "emoji": "🐑"
    },
-   "akte": "Das Gesetz sagt: Die Kasse **soll** eine Kur bezahlen. Herr Webers Fall ist ganz normal. Die Kasse lehnt ab: „Wir haben ja [[Ermessen]], und Kuren sind teuer.“",
+   "akte": "Das Gesetz sagt: Die Kasse **soll** eine Kur bezahlen. Herr Webers Fall ist ganz normal. Die Kasse lehnt ab: „Wir haben ja [[Ermessen]], und [[Kuren|kur]] sind teuer.“",
    "frage": "Was stimmt?",
    "optionen": [
     {
@@ -2405,7 +2405,7 @@
     "name": "Herr Kuhn, Bäcker",
     "emoji": "🥖"
    },
-   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die [[Behörde]] kürzt Herrn Kuhns Leistung um **50 %**.",
+   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die [[Behörde]] kürzt Herrn Kuhns [[Leistung]] um **50 %**.",
    "frage": "Welcher Fehler?",
    "optionen": [
     {
@@ -2884,7 +2884,7 @@
     "name": "Herr Rasmussen, Leuchtturmwärter",
     "emoji": "🗼"
    },
-   "akte": "Herr Rasmussen hat ein Formular eine Woche zu spät abgegeben. Die Kasse streicht ihm darum die Leistung für ein ganzes Jahr. Eine kurze Mahnung hätte auch gereicht.",
+   "akte": "Herr Rasmussen hat ein Formular eine Woche zu spät abgegeben. Die Kasse streicht ihm darum die [[Leistung]] für ein ganzes Jahr. Eine kurze Mahnung hätte auch gereicht.",
    "frage": "Ist das verhältnismäßig?",
    "optionen": [
     {
@@ -2997,7 +2997,7 @@
     "name": "Herr Okoro, Kinderarzt",
     "emoji": "🩺"
    },
-   "akte": "Die Kasse **kann** über eine Leistung entscheiden. Im Fall eines schwer kranken Kindes wäre aber jede Ablehnung [[unverhältnismäßig|verhaeltnismaessig]]. Nur die Zusage ist fair.",
+   "akte": "Die Kasse **kann** über eine [[Leistung]] entscheiden. Im Fall eines schwer kranken Kindes wäre aber jede Ablehnung [[unverhältnismäßig|verhaeltnismaessig]]. Nur die Zusage ist fair.",
    "frage": "Wie heißt das?",
    "optionen": [
     {

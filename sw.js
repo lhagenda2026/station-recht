@@ -1,6 +1,6 @@
 // Service Worker: Cache-First mit Versionsstring. VERSION setzt tools/bump_sw.mjs (Hash aller Dateien).
 // Beim Aktivieren werden alle anderen Caches gelöscht, auch die der Version 1 („Station Recht“).
-const VERSION = 'bb-b768da20e4';
+const VERSION = 'bb-cb88d2952f';
 const DATEIEN = [
   './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest',
   'data/regeln.json', 'data/faelle.json', 'data/glossar.json',
