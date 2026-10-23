@@ -173,6 +173,7 @@ export function starteSchalter(plan, { onEnde, stand }) {
       gesicht.textContent = erg.richtig ? (fall.figur.froh ?? '😊') : '😤';
       stimmung.textContent = erg.richtig ? '✨' : '💢';
       if (erg.stempel) stempelAbdruck(akteKnoten, erg.stempel, erg.richtig);
+      fenster.append(el('span', { class: `flug${erg.richtig ? '' : ' flug--beschwerde'}`, 'aria-hidden': 'true' }, erg.richtig ? `+${trinkgeld} 🪙` : '📝'));
       unten.classList.add('daumen--fertig');
       const verzug = reducedMotion() ? 150 : 550;
       setTimeout(() => feedback(fall, r, erg, sterne, trinkgeld, g), verzug);

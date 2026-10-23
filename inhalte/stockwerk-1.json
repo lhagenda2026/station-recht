@@ -1,0 +1,1256 @@
+{
+ "regeln": [
+  {
+   "id": "q1",
+   "titel": "Handelt hier der Staat als Staat, oder gilt die Regel für alle?",
+   "fachbegriff": "Öffentliches Recht und Privatrecht (modifizierte Subjektstheorie)",
+   "einSatz": "Eine Regel ist [[Öffentliches Recht]], wenn sie nur den Staat als Staat berechtigt oder verpflichtet. Sonst ist sie [[Privatrecht]].",
+   "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten.",
+   "alltag": "Ein Fahrrad auf dem Flohmarkt kaufen darf jeder. Einen Strafzettel schreiben darf nur das Ordnungsamt.",
+   "erkennen": [
+    "Frage: Könnte nach dieser Regel auch jeder normale Bürger handeln?",
+    "Ja, jeder: **Privatrecht**. Das gilt auch, wenn die Stadt etwas kauft.",
+    "Nein, nur der Staat als Staat: **Öffentliches Recht**.",
+    "Streit aus dem [[SGB]] ist öffentliches Recht."
+   ],
+   "merktrick": "Darf das jeder? Privat. Darf das nur der Staat? Öffentlich.",
+   "bausteine": [
+    "Maßgeblich ist heute die modifizierte Subjektstheorie.",
+    "Öffentliches Recht: Die Norm berechtigt oder verpflichtet ausschließlich einen Träger hoheitlicher Gewalt in dieser Eigenschaft.",
+    "Berechtigt oder verpflichtet die Norm jedermann, ist sie Privatrecht.",
+    "Ältere Theorien sind die Interessentheorie und die Subordinationstheorie.",
+    "Gleichordnung allein beweist nichts: Auch im Öffentlichen Recht gibt es Verträge.",
+    "Im Sozialrecht gilt: Streitigkeiten aus dem SGB sind öffentlich-rechtlich."
+   ],
+   "fallenBausteine": [
+    "Öffentliches Recht liegt immer vor, wenn eine Behörde beteiligt ist.",
+    "Entscheidend ist allein, ob die Norm dem öffentlichen Interesse dient."
+   ]
+  },
+  {
+   "id": "q2",
+   "titel": "Was ist eine Rechtsregel, und wie ist sie gebaut?",
+   "fachbegriff": "Rechtsnorm: Tatbestand und Rechtsfolge",
+   "einSatz": "Eine [[Rechtsnorm]] ist eine feste Regel für viele Fälle und Menschen. Sie hat ein Wenn und ein Dann.",
+   "warum": "Gesetze sollen für alle gleich gelten. Das Wenn sagt, wann die Regel greift. Das Dann sagt, was dann passiert.",
+   "alltag": "Hausordnung im Freibad: Wenn du vom Turm springst, dann musst du vorher nach unten schauen.",
+   "erkennen": [
+    "Gilt die Regel für viele Fälle und viele Menschen? Dann ist sie allgemein.",
+    "Ist sie bindend, nicht nur ein Rat?",
+    "Das Wenn ist der [[Tatbestand]]. Das Dann ist die [[Rechtsfolge]].",
+    "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung."
+   ],
+   "merktrick": "Wenn-Teil: Tatbestand. Dann-Teil: Rechtsfolge. Erst die Lage, dann die Folge.",
+   "bausteine": [
+    "Eine Rechtsnorm ist eine abstrakt-generelle, verbindliche Regelung.",
+    "Sie gilt für eine unbestimmte Vielzahl von Fällen und Personen.",
+    "Der Tatbestand („wenn“) enthält die Voraussetzungen.",
+    "Die Rechtsfolge („dann“) ist ein Gebot, Verbot, eine Erlaubnis oder Gestaltung."
+   ],
+   "fallenBausteine": [
+    "Eine Rechtsnorm regelt einen konkreten Einzelfall einer bestimmten Person.",
+    "Der Tatbestand ist das „dann“, die Rechtsfolge das „wenn“."
+   ]
+  },
+  {
+   "id": "q3",
+   "titel": "Was meint dieses Wort im Gesetz genau?",
+   "fachbegriff": "Auslegung einer Norm",
+   "einSatz": "[[Auslegung]] heißt: Du klärst, was eine unklare Regel meint. Dabei bleibst du im Rahmen ihrer Wörter.",
+   "warum": "Gesetze sind kurz, das Leben ist bunt. Darum muss man oft klären, was ein Wort genau umfasst.",
+   "alltag": "Am Park steht: „Fahrzeuge verboten“. Ist ein Fahrrad ein Fahrzeug? Das Wort kann es umfassen. Das zu klären ist Auslegung.",
+   "erkennen": [
+    "Ist das Wort im Gesetz unklar? Dann musst du auslegen.",
+    "Passt dein Fall noch irgendwie zum Wort? Dann ist es Auslegung.",
+    "Passt er gar nicht mehr dazu? Dann ist die [[Wortlautgrenze]] überschritten."
+   ],
+   "merktrick": "Auslegen heißt: im Wort bleiben. Wer das Wort verlässt, legt nicht mehr aus.",
+   "bausteine": [
+    "Auslegung ist die Ermittlung des Sinngehalts einer Norm.",
+    "Sie ist nötig, wenn der Wortlaut nicht eindeutig ist.",
+    "Sie bleibt innerhalb des möglichen Wortsinns (Wortlautgrenze).",
+    "Jenseits davon beginnt die Rechtsfortbildung, z. B. durch Analogie."
+   ],
+   "fallenBausteine": [
+    "Auslegung darf über den möglichen Wortsinn hinausgehen.",
+    "Auslegung ist die Übertragung einer Rechtsfolge auf einen ungeregelten Fall."
+   ]
+  },
+  {
+   "id": "q4",
+   "titel": "Eine Regel auf einen ähnlichen Fall übertragen",
+   "fachbegriff": "Analogie",
+   "einSatz": "Bei einer [[Analogie]] fehlt eine Regel für einen Fall. Du nimmst dann die Folge einer Regel für einen ähnlichen Fall.",
+   "warum": "Kein Gesetz denkt an alles. Die Analogie füllt eine Lücke, die keiner wollte.",
+   "alltag": "Im Bus steht: „Kinderwagen bitte hier abstellen.“ Für Rollatoren steht nichts da. Der Fahrer lässt sie trotzdem dort stehen.",
+   "erkennen": [
+    "Erfasst kein Wort im Gesetz den Fall? Dann gibt es eine Lücke.",
+    "War die Lücke ungewollt? Das ist eine [[planwidrige Regelungslücke|Regelungslücke]].",
+    "Ist die Lage ähnlich wie im geregelten Fall?",
+    "Im [[Strafrecht]] gegen den Täter: Analogie verboten."
+   ],
+   "merktrick": "Lücke ungewollt plus Lage gleich: Dann darf die Regel rüber.",
+   "bausteine": [
+    "Analogie ist die Übertragung der Rechtsfolge einer Norm auf einen gesetzlich nicht geregelten, ähnlichen Fall.",
+    "Erste Voraussetzung ist eine planwidrige Regelungslücke.",
+    "Zweite Voraussetzung ist eine vergleichbare Interessenlage.",
+    "Anders als die Auslegung geht sie über den Wortlaut hinaus.",
+    "Im Strafrecht ist sie zulasten des Täters verboten (Art. 103 Abs. 2 GG).",
+    "Im Eingriffsrecht ist sie nur eingeschränkt zulässig (Vorbehalt des Gesetzes)."
+   ],
+   "fallenBausteine": [
+    "Voraussetzung ist eine bewusste Lücke, die der Gesetzgeber offen lassen wollte.",
+    "Die Analogie bleibt stets innerhalb des möglichen Wortsinns."
+   ]
+  },
+  {
+   "id": "q5",
+   "titel": "Vier Werkzeuge, um ein Gesetz zu verstehen",
+   "fachbegriff": "Methoden der Normauslegung",
+   "einSatz": "Du verstehst ein Gesetz über vier Fragen: Wort, Zusammenhang, Entstehung und Zweck.",
+   "warum": "Ein Wort allein ist oft unklar. Mit vier Blickwinkeln wird das Bild schärfer.",
+   "alltag": "Ein Rezept sagt: „Eine Prise Salz.“ Du schaust ins Wörterbuch, liest den Rest vom Rezept, fragst Oma und denkst an den Geschmack.",
+   "erkennen": [
+    "Was sagt das Wort? **Grammatisch**.",
+    "Wo steht die Regel, was steht daneben? **Systematisch**.",
+    "Was wollte der [[Gesetzgeber]] damals? **Historisch**.",
+    "Wozu ist die Regel da? **Teleologisch**. Keine Methode ist fest die erste."
+   ],
+   "merktrick": "Wort, Ort, damals, wozu: Vier Fragen, dann weißt du's.",
+   "bausteine": [
+    "Vier klassische Methoden (Savigny) wirken zusammen, ohne feste Rangfolge.",
+    "Grammatisch: Wortlaut und Wortsinn, Ausgangspunkt und Grenze.",
+    "Systematisch: Stellung der Norm im Gesetz und im Gesamtgefüge der Rechtsordnung.",
+    "Historisch: Entstehungsgeschichte, Materialien, Wille des Gesetzgebers.",
+    "Teleologisch: Sinn und Zweck der Norm (objektiv).",
+    "Dazu kommen die verfassungskonforme und die unionsrechtskonforme Auslegung."
+   ],
+   "fallenBausteine": [
+    "Teleologisch: Wortlaut und Wortsinn der Norm.",
+    "Die historische Auslegung hat stets Vorrang vor allen anderen Methoden."
+   ]
+  },
+  {
+   "id": "q6",
+   "titel": "Die Behörde darf nicht gegen ein Gesetz handeln",
+   "fachbegriff": "Vorrang des Gesetzes",
+   "einSatz": "[[Vorrang des Gesetzes]] heißt: Die [[Verwaltung]] darf nie gegen ein geltendes Gesetz verstoßen.",
+   "warum": "Ein Amt soll das Gesetz befolgen, nicht eigene Regeln machen. So wird jeder gleich behandelt.",
+   "alltag": "Der Schiedsrichter muss sich an die Spielregeln halten. Er darf kein Tor geben, das nach den Regeln keins ist.",
+   "erkennen": [
+    "Gibt es ein Gesetz, das genau das Gegenteil sagt?",
+    "Dann verletzt das Amt den Vorrang des Gesetzes.",
+    "Das gilt immer: beim Verbieten und beim Geben.",
+    "Oben steht die Verfassung, dann Gesetz, [[Rechtsverordnung]] und [[Satzung]]."
+   ],
+   "merktrick": "Das Gesetz fährt vorne. Die Verwaltung überholt nicht.",
+   "bausteine": [
+    "Vorrang des Gesetzes: Die Verwaltung darf nicht gegen geltendes Recht verstoßen.",
+    "Sie ist an Gesetz und Recht gebunden (Art. 20 III GG).",
+    "Der Vorrang gilt für jedes Verwaltungshandeln, in Eingriffs- und Leistungsverwaltung.",
+    "Er folgt aus der Normenhierarchie: Verfassung, Gesetz, Rechtsverordnung, Satzung."
+   ],
+   "fallenBausteine": [
+    "Der Vorrang des Gesetzes gilt nur für belastende Eingriffe.",
+    "Die Verwaltung darf nur tätig werden, wenn ein Gesetz sie dazu ermächtigt."
+   ]
+  },
+  {
+   "id": "q7",
+   "titel": "Ohne Erlaubnis im Gesetz darf das Amt nicht handeln",
+   "fachbegriff": "Vorbehalt des Gesetzes",
+   "einSatz": "[[Vorbehalt des Gesetzes]] heißt: Die Verwaltung braucht ein Gesetz, das ihr das Handeln erlaubt.",
+   "warum": "Greift der Staat in deine Freiheit oder dein Geld ein, soll das Parlament das vorher erlaubt haben.",
+   "alltag": "Der Hausmeister darf dein Fahrrad nicht einfach wegsperren. Dafür braucht er eine Regel, die ihm das erlaubt.",
+   "erkennen": [
+    "Gibt es ein Gesetz, das genau das erlaubt? Das ist die [[Ermächtigung]].",
+    "Greift das Amt in Freiheit oder Eigentum ein? Dann braucht es sicher ein Gesetz.",
+    "Ist es wichtig für Grundrechte? Dann muss das Parlament selbst entscheiden.",
+    "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+   ],
+   "merktrick": "Vorrang: nicht gegen das Gesetz. Vorbehalt: nicht ohne das Gesetz.",
+   "bausteine": [
+    "Vorbehalt des Gesetzes: Die Verwaltung darf nur tätig werden, wenn ein Gesetz sie ermächtigt.",
+    "Das gilt sicher für Eingriffe in Freiheit und Eigentum.",
+    "Nach der Wesentlichkeitstheorie (BVerfG) muss der Gesetzgeber alle wesentlichen Entscheidungen selbst treffen.",
+    "Wesentlich sind vor allem grundrechtsrelevante Entscheidungen.",
+    "Im Sozialrecht gilt der Vorbehalt auch für Leistungen (§ 31 SGB I)."
+   ],
+   "fallenBausteine": [
+    "Vorbehalt des Gesetzes: Die Verwaltung darf nur nicht gegen ein Gesetz verstoßen.",
+    "Für Leistungen gilt der Vorbehalt im Sozialrecht nicht."
+   ]
+  },
+  {
+   "id": "q8",
+   "titel": "Warum darf eine Sachbearbeiterin für den Staat entscheiden?",
+   "fachbegriff": "Personelle demokratische Legitimation (Legitimationskette)",
+   "einSatz": "Alle Staatsmacht kommt vom Volk. Über eine lückenlose [[Legitimationskette]] reicht sie bis zur Sachbearbeiterin.",
+   "warum": "Wer für den Staat entscheidet, braucht Rückhalt beim Volk. Gewählt sein muss aber nicht jeder.",
+   "alltag": "Der Verein wählt den Vorstand. Der Vorstand stellt die Trainerin ein. Die Trainerin wählt den Kapitän. Jeder hat seinen Auftrag von oben.",
+   "erkennen": [
+    "Die Kette: Volk, Parlament, Regierung, Behördenleiter, Sachbearbeiter.",
+    "Wurde jede Person von jemandem bestellt, der selbst in der Kette steht?",
+    "Fehlt ein Glied, ist die Kette unterbrochen.",
+    "Es zählt ein ausreichendes Niveau, nicht die Wahl jeder Person."
+   ],
+   "merktrick": "Vom Volk zum Amt: Glied an Glied, keins fehlt.",
+   "bausteine": [
+    "Alle Staatsgewalt geht vom Volk aus (Art. 20 II GG).",
+    "Personelle Legitimation entsteht durch eine ununterbrochene Legitimationskette.",
+    "Die Kette lautet: Volk, Parlament, Regierung/Minister, Behördenleiter, Amtswalter.",
+    "Jeder Amtsträger muss von einem legitimierten Organ oder verantwortlichen Amtsträger bestellt sein.",
+    "Entscheidend ist ein ausreichendes Legitimationsniveau, nicht die Volkswahl jedes Amtsträgers."
+   ],
+   "fallenBausteine": [
+    "Jeder Amtsträger muss direkt vom Volk gewählt werden.",
+    "Es genügt, dass der Amtsträger fachlich gut ausgebildet ist."
+   ],
+   "verifiziert": false,
+   "hinweis": "Die ergänzend diskutierte autonome Legitimation der Selbstverwaltung ist bewusst nicht in den Fällen abgefragt."
+  },
+  {
+   "id": "q9",
+   "titel": "Hat der G-BA genug Rückhalt beim Volk?",
+   "fachbegriff": "Demokratische Legitimation des Gemeinsamen Bundesausschusses",
+   "einSatz": "Das ist umstritten. Der [[G-BA]] macht feste Regeln für alle Versicherten. Seine Mitglieder wählt aber nicht das Volk.",
+   "warum": "Wer Regeln für Millionen macht, braucht Rückhalt beim Volk. Beim G-BA ist dieser Rückhalt nur indirekt.",
+   "alltag": "Der Elternrat legt die Hausaufgaben für alle Klassen fest. Die Kinder wählen ihn nicht. Ist das fair? Darüber kann man streiten.",
+   "erkennen": [
+    "Dagegen: Verbände benennen die Mitglieder. Die Kette zum Volk ist dünn.",
+    "Dagegen: Versicherte haben keine Stimme, [[Patientenvertreter]] reden nur mit.",
+    "Dafür: Das Gesetz gibt Aufgaben vor, das Ministerium führt die [[Rechtsaufsicht]].",
+    "Das Bundessozialgericht (BSG) sagt: Die Legitimation reicht."
+   ],
+   "merktrick": "Dünne Kette, aber Aufsicht und Gesetz: Das BSG sagt ja.",
+   "bausteine": [
+    "Die Legitimation des G-BA ist umstritten.",
+    "Er erlässt verbindliche Richtlinien für Versicherte, Krankenkassen und Leistungserbringer.",
+    "Dagegen: Die Mitglieder werden von Verbänden benannt, nicht vom Volk gewählt.",
+    "Dagegen: Versicherte haben kein Stimmrecht, Patientenvertreter nur ein Mitberatungsrecht.",
+    "Dafür: gesetzliche Vorgaben, Rechtsaufsicht des BMG (§ 94 SGB V), Selbstverwaltung als autonome Legitimation.",
+    "Das BSG bejaht die Legitimation."
+   ],
+   "fallenBausteine": [
+    "Die Versicherten wählen die Mitglieder des G-BA direkt.",
+    "Das BSG verneint die Legitimation des G-BA."
+   ],
+   "verifiziert": false,
+   "hinweis": "Die Fälle stellen die Frage bewusst als umstritten dar und nennen nur das BSG-Ergebnis, kein BVerfG-Urteil."
+  },
+  {
+   "id": "q10",
+   "titel": "Wer sitzt im G-BA am Tisch, und was beschließt er?",
+   "fachbegriff": "Gemeinsamer Bundesausschuss: Aufgaben, Zusammensetzung, Richtlinien",
+   "einSatz": "Im [[G-BA]] beschließen Kassen, Ärzte und Kliniken zusammen [[Richtlinien]]. Sie legen fest, was die Kasse zahlt.",
+   "warum": "Das Gesetz kann nicht jede Behandlung einzeln nennen. Diese Details regelt der G-BA für alle.",
+   "alltag": "Die Schulkonferenz legt fest, welche Bücher alle Klassen bekommen. Eltern, Lehrer und Schulleitung sitzen dort zusammen.",
+   "erkennen": [
+    "13 stimmen ab: 3 Unparteiische, 5 von den Kassen, 5 von Ärzten und Kliniken.",
+    "Patientenvertreter dürfen Anträge stellen und mitreden, aber nicht abstimmen.",
+    "Der G-BA beschließt Richtlinien. Sie binden Kassen, Versicherte und Ärzte.",
+    "Das Gesundheitsministerium (BMG) führt die Aufsicht."
+   ],
+   "merktrick": "Drei in der Mitte, fünf links, fünf rechts: dreizehn Hände heben sich.",
+   "bausteine": [
+    "Der G-BA ist das oberste Beschlussgremium der gemeinsamen Selbstverwaltung (§ 91 SGB V).",
+    "Träger sind KBV, KZBV, DKG und GKV-Spitzenverband; der G-BA ist rechtsfähig.",
+    "Das Beschlussgremium hat 13 Mitglieder: 3 unparteiische, 5 vom GKV-Spitzenverband, 5 von den Leistungserbringern.",
+    "Patientenvertreter sind antrags- und mitberatungsberechtigt, haben aber kein Stimmrecht (§ 140f SGB V).",
+    "Er erlässt Richtlinien zur Sicherung der ärztlichen Versorgung (§ 92 SGB V).",
+    "Sie sind untergesetzliche Rechtsnormen und verbindlich (§ 91 VI); Aufsicht führt das BMG (§ 94)."
+   ],
+   "fallenBausteine": [
+    "Patientenvertreter haben im Beschlussgremium volles Stimmrecht.",
+    "Der G-BA erlässt formelle Bundesgesetze."
+   ]
+  },
+  {
+   "id": "q11",
+   "titel": "Sozialstaat: Wer entscheidet, wie viel Hilfe es gibt?",
+   "fachbegriff": "Sozialstaatsprinzip und Rolle des Gesetzgebers",
+   "einSatz": "Das [[Sozialstaatsprinzip]] ist ein Ziel im Grundgesetz. Wie es umgesetzt wird, entscheidet der [[Gesetzgeber]].",
+   "warum": "Das Grundgesetz will soziale Sicherheit, sagt aber nicht, wie genau. Das soll das gewählte Parlament entscheiden.",
+   "alltag": "Die Schule sagt: „Bei uns soll keiner hungern.“ Ob es Frühstück, Mittagessen oder Obst gibt, legt der Förderverein fest.",
+   "erkennen": [
+    "Das Prinzip ist ein [[Staatsziel]], offen im Inhalt.",
+    "Das Parlament füllt es mit Gesetzen, etwa dem [[SGB]]. Es hat viel Spielraum.",
+    "Aus dem Prinzip allein kannst du kein Geld einklagen.",
+    "Grenze: Das [[Existenzminimum]] muss gesichert sein."
+   ],
+   "merktrick": "Das Grundgesetz zeigt die Richtung, das Parlament baut die Straße.",
+   "bausteine": [
+    "Das Sozialstaatsprinzip (Art. 20 I, 28 I GG) ist ein Staatsziel.",
+    "Es zielt auf soziale Gerechtigkeit und soziale Sicherheit und ist inhaltlich offen.",
+    "Der Gesetzgeber konkretisiert es mit weitem Gestaltungsspielraum, etwa durch das SGB.",
+    "Aus dem Prinzip allein folgen keine einklagbaren Einzelansprüche.",
+    "Eine Mindestsicherung (Existenzminimum) muss der Gesetzgeber aber gewährleisten."
+   ],
+   "fallenBausteine": [
+    "Aus dem Sozialstaatsprinzip kann jeder direkt konkrete Leistungen einklagen.",
+    "Die Höhe der Sozialleistungen legt das Grundgesetz genau fest."
+   ]
+  }
+ ],
+ "faelle": [
+  {
+   "id": "f001-0", "regelId": "q1", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Bauer, Lieferfahrer", "emoji": "🚚" },
+   "akte": "Herr Bauer parkt im Halteverbot. Das Ordnungsamt verlangt dafür ein Bußgeld. Die Regel dafür darf nur eine Behörde anwenden.",
+   "frage": "Welches Recht gilt hier?",
+   "optionen": [
+    { "text": "Öffentliches Recht", "richtig": true, "warumNicht": null },
+    { "text": "Privatrecht", "richtig": false, "warumNicht": "Ein Bußgeld verlangen darf kein Bürger. Die Regel gibt dieses Recht nur dem Amt." }
+   ],
+   "ergebnis": "Öffentliches Recht, weil nur das Amt nach dieser Regel ein Bußgeld verlangen darf.",
+   "warum": "Die Regel berechtigt nur den Staat, und zwar als Staat. Genau das macht [[Öffentliches Recht]] aus.",
+   "denkweg": ["1. Wer handelt? Das Ordnungsamt.", "2. Könnte ein Bürger das auch? Nein.", "3. Also: Öffentliches Recht."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f001-1", "regelId": "q1", "stufe": 1, "format": "F1",
+   "figur": { "name": "Frau Yıldız, Floristin", "emoji": "💐" },
+   "akte": "Frau Yıldız verkauft ihrem Nachbarn ihr altes Lastenrad. Er holt es ab, zahlt aber nicht. Sie will ihr Geld.",
+   "frage": "Welches Recht gilt hier?",
+   "optionen": [
+    { "text": "Privatrecht", "richtig": true, "warumNicht": null },
+    { "text": "Öffentliches Recht", "richtig": false, "warumNicht": "Hier handelt kein Staat. Die Regeln zum Kaufen gelten für jeden." }
+   ],
+   "ergebnis": "Privatrecht, weil die Regeln zum Kauf für jeden Menschen gelten.",
+   "warum": "Zwei Bürger schließen einen Kauf. Die Kaufregeln berechtigen jeden, nicht nur den Staat.",
+   "denkweg": ["1. Wer handelt? Zwei Nachbarn.", "2. Gilt die Kaufregel für jeden? Ja.", "3. Also: Privatrecht."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f001-2", "regelId": "q1", "stufe": 2, "format": "F1",
+   "figur": { "name": "Bürgermeisterin Haas", "emoji": "🏛️" },
+   "akte": "Die Stadt kauft zwanzig Liegestühle für das Freibad. Sie schließt einen normalen Kaufvertrag mit einem Möbelhaus. Die Stühle sind knallgelb. Das Freibad dient ja allen Bürgern.",
+   "frage": "Welches Recht gilt für den Kauf?",
+   "optionen": [
+    { "text": "Privatrecht", "richtig": true, "warumNicht": null },
+    { "text": "Öffentliches Recht", "richtig": false, "warumNicht": "Dass die Stadt kauft, reicht nicht. Die Kaufregeln gelten für jeden, also auch für die Stadt." },
+    { "text": "Öffentlich: Es nützt allen", "richtig": false, "warumNicht": "Das ist die alte Interessentheorie. Heute zählt, wen die Regel berechtigt. Kaufen darf jeder." }
+   ],
+   "ergebnis": "Privatrecht: Die Stadt kauft wie jeder andere Kunde.",
+   "warum": "Es kommt nicht darauf an, wer handelt. Es zählt, ob die Regel nur den Staat als Staat berechtigt.",
+   "denkweg": ["1. Welche Regel gilt? Die Regeln zum Kauf.", "2. Gelten sie nur für den Staat? Nein, für jeden.", "3. Also: Privatrecht, trotz Stadt."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f001-3", "regelId": "q1", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was ist eigentlich Öffentliches Recht?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Regeln, die nur den Staat als Staat berechtigen oder verpflichten, zum Beispiel ein Bußgeld zu verlangen.", "richtig": true, "warumNicht": null },
+    { "text": "Alle Regeln, bei denen irgendwie eine Behörde mitmacht, zum Beispiel beim Kauf von Bürostühlen.", "richtig": false, "warumNicht": "Kauft das Amt Stühle, gelten die Regeln für jeden. Das ist Privatrecht." },
+    { "text": "Alle Regeln, die dem Wohl der Allgemeinheit dienen.", "richtig": false, "warumNicht": "Das ist die alte Interessentheorie. Heute fragt man: Berechtigt die Regel nur den Staat?" }
+   ],
+   "ergebnis": "Öffentliches Recht sind Regeln nur für den Staat in seiner Rolle als Staat.",
+   "warum": "Heute gilt die Subjektstheorie: Wen berechtigt oder verpflichtet die Regel? Nur den Staat als Staat heißt öffentlich.",
+   "denkweg": ["1. Schau auf die Regel, nicht auf die Person.", "2. Darf nach ihr nur der Staat handeln?", "3. Ja: Öffentliches Recht."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f001-4", "regelId": "q1", "stufe": 2, "format": "F3",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Frau Brandt legt dir fünf Notizen hin. Sortiere sie.",
+   "frage": "Öffentliches Recht oder Privatrecht?",
+   "fachfaecher": {
+    "faecher": ["Öffentliches Recht", "Privatrecht"],
+    "karten": [
+     { "text": "Die Polizei sperrt eine Straße", "fach": "Öffentliches Recht", "warum": "Eine Straße sperren darf nur der Staat als Staat." },
+     { "text": "Eine Bäckerin mietet einen Laden", "fach": "Privatrecht", "warum": "Mieten darf jeder. Kein Staat ist dabei." },
+     { "text": "Die Stadt kauft Druckerpapier", "fach": "Privatrecht", "warum": "Die Kaufregeln gelten für jeden, auch für die Stadt." },
+     { "text": "Die Kasse fordert Beiträge nach dem SGB", "fach": "Öffentliches Recht", "warum": "Streit aus dem Sozialgesetzbuch ist öffentliches Recht." },
+     { "text": "Zwei Freunde leihen sich ein Zelt", "fach": "Privatrecht", "warum": "Verleihen darf jeder. Das ist Privatrecht." }
+    ]
+   },
+   "ergebnis": "Nur Straßensperre und Beiträge nach dem SGB sind öffentlich. Der Rest gilt für jeden.",
+   "warum": "Entscheidend ist die Regel, nach der gehandelt wird. Darf sie jeder nutzen, ist es Privatrecht.",
+   "denkweg": ["1. Frage bei jeder Notiz: Darf das jeder?", "2. Ja: Privatrecht, auch bei der Stadt.", "3. Nein, nur der Staat: Öffentliches Recht."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f001-5", "regelId": "q1", "stufe": 3, "format": "F1",
+   "figur": { "name": "Frau Novak, Physiotherapeutin", "emoji": "💆‍♀️" },
+   "akte": "Die Kasse und Frau Novak schließen einen Vertrag über Preise. Grundlage ist das [[SGB]]. Beide verhandeln auf Augenhöhe. Später streiten sie über den Vertrag.",
+   "frage": "Welches Recht gilt für den Streit?",
+   "optionen": [
+    { "text": "Öffentliches Recht", "richtig": true, "warumNicht": null },
+    { "text": "Privatrecht: Vertrag auf Augenhöhe", "richtig": false, "warumNicht": "Gleiche Augenhöhe beweist nichts. Auch im Öffentlichen Recht gibt es Verträge." }
+   ],
+   "ergebnis": "Öffentliches Recht, weil der Streit aus dem SGB kommt.",
+   "warum": "Ein Vertrag auf Augenhöhe sieht privat aus. Im Sozialrecht gilt aber: Streit aus dem SGB ist öffentliches Recht.",
+   "denkweg": ["1. Vertrag unter Gleichen? Ja, aber das entscheidet nichts.", "2. Woraus kommt der Streit? Aus dem SGB.", "3. Also: Öffentliches Recht."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f001-6", "regelId": "q1", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir, wie man Öffentliches Recht und Privatrecht trennt. Ohne Ausflüchte, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Modifizierte Subjektstheorie: öffentlich nur, wenn die Norm allein einen Hoheitsträger als solchen berechtigt oder verpflichtet.",
+   "warum": "Die Prüfung will die herrschende Theorie zuerst, dann die Abgrenzung, dann die älteren Theorien.",
+   "denkweg": ["1. Zuerst die herrschende Theorie nennen.", "2. Dann öffentlich und privat abgrenzen.", "3. Zum Schluss alte Theorien und das SGB."],
+   "dauerSek": 45
+  },
+  {
+   "id": "f002-0", "regelId": "q2", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Pohl, Schornsteinfeger", "emoji": "🎩" },
+   "akte": "Zwei Zettel liegen auf dem Tisch. Zettel A: „Wer im Stadtpark grillt, muss den Grill danach löschen.“ Zettel B: „Herr Pohl, schneiden Sie bis Freitag Ihre Hecke.“",
+   "frage": "Welcher Zettel ist eine [[Rechtsnorm]]?",
+   "optionen": [
+    { "text": "Zettel A", "richtig": true, "warumNicht": null },
+    { "text": "Zettel B", "richtig": false, "warumNicht": "Zettel B gilt nur für Herrn Pohl und nur für eine Hecke. Eine Norm gilt für viele." }
+   ],
+   "ergebnis": "Zettel A, weil er für alle Griller und jeden Grillabend gilt.",
+   "warum": "Eine Norm gilt für viele Fälle und viele Menschen. Zettel B meint nur eine Person und einen Fall.",
+   "denkweg": ["1. Für wen gilt der Zettel? A: alle. B: Herr Pohl.", "2. Für wie viele Fälle? A: jeden Grillabend.", "3. Also ist A die Norm."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f002-1", "regelId": "q2", "stufe": 1, "format": "F2",
+   "figur": { "name": "Frau Lange, Hundesitterin", "emoji": "🐕" },
+   "akte": "Frau Lange liest die Parkordnung ihrer Stadt. Ein Satz lautet so:",
+   "frage": "Tippe das Wenn an, also den [[Tatbestand]].",
+   "markierbar": [
+    { "text": "§ 3 Parkordnung: ", "tappbar": false },
+    { "text": "Wer mehr als drei Hunde ausführt,", "ziel": true },
+    { "text": " muss alle Hunde an der Leine führen.", "warumNicht": "Das ist das Dann, also die Rechtsfolge." }
+   ],
+   "ergebnis": "Der Tatbestand ist: „Wer mehr als drei Hunde ausführt“.",
+   "warum": "Der Tatbestand nennt die Voraussetzung, also das Wenn. Erst danach kommt, was du tun musst.",
+   "denkweg": ["1. Welcher Teil beschreibt die Lage? Mehr als drei Hunde.", "2. Welcher Teil sagt, was zu tun ist? Die Leine.", "3. Die Lage ist der Tatbestand."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f002-2", "regelId": "q2", "stufe": 2, "format": "F2",
+   "figur": { "name": "Bademeister Kalle", "emoji": "🏊" },
+   "akte": "Kalle hängt eine neue Regel an den Sprungturm. Er hat sie dreimal laminiert.",
+   "frage": "Tippe die [[Rechtsfolge]] an, also das Dann. Wähle dann die Art.",
+   "markierbar": [
+    { "text": "§ 7 Bäderordnung: ", "tappbar": false },
+    { "text": "Wer vom Dreimeterbrett springen will", "warumNicht": "Das ist ein Teil vom Wenn, also vom Tatbestand." },
+    { "text": " und älter als zehn Jahre ist,", "warumNicht": "Auch das ist eine Voraussetzung. Es gehört zum Tatbestand." },
+    { "text": " darf ohne Begleitung springen.", "ziel": true }
+   ],
+   "optionen": [
+    { "text": "Erlaubnis", "richtig": true, "warumNicht": null },
+    { "text": "Gebot", "richtig": false, "warumNicht": "Ein Gebot sagt „du musst“. Hier steht „darf“." },
+    { "text": "Verbot", "richtig": false, "warumNicht": "Ein Verbot sagt „du darfst nicht“. Hier wird etwas erlaubt." }
+   ],
+   "ergebnis": "Die Rechtsfolge ist „darf ohne Begleitung springen“, also eine Erlaubnis.",
+   "warum": "Beide ersten Teile sind Bedingungen. Erst der letzte Teil sagt, was dann gilt: Du darfst.",
+   "denkweg": ["1. Sammle die Bedingungen: Sprung und Alter.", "2. Der Rest ist das Dann: darf springen.", "3. „Darf“ heißt Erlaubnis."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f002-3", "regelId": "q2", "stufe": 3, "format": "F1",
+   "figur": { "name": "Herr Kunze, Radsportler", "emoji": "🚴" },
+   "akte": "Im Amtsblatt steht: „Die Stadt empfiehlt allen Radfahrern, einen Helm zu tragen.“ Herr Kunze fragt: Ist das jetzt Gesetz für mich?",
+   "frage": "Ist der Satz eine Rechtsnorm?",
+   "optionen": [
+    { "text": "Nein: nicht verbindlich", "richtig": true, "warumNicht": null },
+    { "text": "Ja: gilt für alle Radfahrer", "richtig": false, "warumNicht": "Er meint zwar viele Menschen. Aber ein Rat bindet niemanden. Eine Norm muss verbindlich sein." }
+   ],
+   "ergebnis": "Keine Rechtsnorm, weil eine Empfehlung niemanden bindet.",
+   "warum": "Eine Norm ist allgemein und verbindlich. Hier fehlt die feste Folge: Wer keinen Helm trägt, muss nichts befürchten.",
+   "denkweg": ["1. Gilt der Satz für viele? Ja.", "2. Ist er verbindlich? Nein, nur ein Rat.", "3. Also keine Norm."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f002-4", "regelId": "q2", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir, was eine Rechtsnorm ist und wie sie aufgebaut ist. In zwei Atemzügen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Eine abstrakt-generelle, verbindliche Regelung aus Tatbestand („wenn“) und Rechtsfolge („dann“).",
+   "warum": "Erst kommt die Definition, dann der Aufbau. Tatbestand und Rechtsfolge nie vertauschen.",
+   "denkweg": ["1. Zuerst: abstrakt-generell und verbindlich.", "2. Dann: viele Fälle, viele Personen.", "3. Zum Schluss: Tatbestand, dann Rechtsfolge."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f003-0", "regelId": "q3", "stufe": 0, "format": "F1",
+   "figur": { "name": "Jule, Fahrradkurierin", "emoji": "🚴‍♀️" },
+   "akte": "Am Parktor hängt ein Schild: „Fahrzeuge verboten“. Jule fragt: Gilt das auch für mein Rad? Das Wort Fahrzeug kann ein Rad umfassen.",
+   "frage": "Was machst du, wenn du das klärst?",
+   "optionen": [
+    { "text": "Auslegung", "richtig": true, "warumNicht": null },
+    { "text": "Analogie", "richtig": false, "warumNicht": "Eine Analogie brauchst du erst, wenn das Wort den Fall gar nicht erfasst. Ein Rad kann aber ein Fahrzeug sein." }
+   ],
+   "ergebnis": "Auslegung, weil du den Sinn eines unklaren Worts klärst.",
+   "warum": "Das Wort Fahrzeug ist unklar. Ein Rad passt noch dazu. Du bleibst also im Rahmen der Wörter.",
+   "denkweg": ["1. Ist das Wort unklar? Ja.", "2. Passt das Rad noch zum Wort? Ja.", "3. Also: Auslegung."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f003-1", "regelId": "q3", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was ist eigentlich Auslegung?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Du findest heraus, was eine unklare Regel meint. Dabei bleibst du im Rahmen ihrer Wörter.", "richtig": true, "warumNicht": null },
+    { "text": "Du nimmst eine Regel und wendest sie auf einen Fall an, den sie gar nicht nennt.", "richtig": false, "warumNicht": "Das ist die Analogie. Sie geht über die Wörter hinaus." },
+    { "text": "Du schreibst eine Regel um, damit sie besser passt.", "richtig": false, "warumNicht": "Auslegung ändert keinen Text. Sie fragt nur, was der Text bedeutet." }
+   ],
+   "ergebnis": "Auslegung klärt den Sinn einer Regel, ohne den Wortsinn zu verlassen.",
+   "warum": "Auslegen heißt verstehen, nicht erweitern. Die Grenze ist der mögliche Sinn der Wörter.",
+   "denkweg": ["1. Wird der Text geändert? Nein.", "2. Wird er auf ganz andere Fälle übertragen? Nein.", "3. Er wird nur verstanden: Auslegung."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f003-2", "regelId": "q3", "stufe": 2, "format": "F3",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Frau Brandt hat Schilder fotografiert und Fälle notiert. Sortiere die Fälle.",
+   "frage": "Passt der Fall noch zum Wort, oder nicht mehr?",
+   "fachfaecher": {
+    "faecher": ["Noch im Wortsinn", "Über den Wortsinn hinaus"],
+    "karten": [
+     { "text": "Fahrrad bei „Fahrzeuge verboten“", "fach": "Noch im Wortsinn", "warum": "Ein Rad kann ein Fahrzeug sein." },
+     { "text": "Katze bei „Hunde verboten“", "fach": "Über den Wortsinn hinaus", "warum": "Eine Katze ist auf keinen Fall ein Hund." },
+     { "text": "Motorrad bei „Fahrzeuge verboten“", "fach": "Noch im Wortsinn", "warum": "Ein Motorrad ist klar ein Fahrzeug." },
+     { "text": "Pony bei „Hunde verboten“", "fach": "Über den Wortsinn hinaus", "warum": "Ein Pony ist kein Hund, egal wie klein." },
+     { "text": "Dackel bei „Hunde verboten“", "fach": "Noch im Wortsinn", "warum": "Ein Dackel ist ein Hund." }
+    ]
+   },
+   "ergebnis": "Fahrrad, Motorrad und Dackel passen zum Wort. Katze und Pony nicht.",
+   "warum": "Auslegung endet an der Grenze der Wörter. Was das Wort nicht mehr umfasst, liegt jenseits davon.",
+   "denkweg": ["1. Lies das Wort auf dem Schild.", "2. Kann der Fall damit gemeint sein?", "3. Nein: Die Wortlautgrenze ist überschritten."],
+   "dauerSek": 35
+  },
+  {
+   "id": "f003-3", "regelId": "q3", "stufe": 2, "format": "F1",
+   "figur": { "name": "Herr Sommer, Katzenfreund", "emoji": "🐈" },
+   "akte": "Am Spielplatz steht: „Hunde verboten“. Herr Sommer kommt mit seiner Katze an der Leine. Der Hausmeister sagt: Das Schild meint auch Katzen. Es soll ja Tiere fernhalten.",
+   "frage": "Ist das noch Auslegung?",
+   "optionen": [
+    { "text": "Nein: über den Wortsinn hinaus", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Zweck ist Tiere fernhalten", "richtig": false, "warumNicht": "Der Zweck allein reicht nicht. Eine Katze ist kein Hund. Die Grenze der Wörter ist überschritten." },
+    { "text": "Ja: Schilder gelten immer weit", "richtig": false, "warumNicht": "Auch Schilder legt man nur im Rahmen ihrer Wörter aus." }
+   ],
+   "ergebnis": "Keine Auslegung mehr, weil eine Katze nicht unter das Wort Hund fällt.",
+   "warum": "Auslegung bleibt im möglichen Wortsinn. Wer Katzen dazunimmt, macht schon Rechtsfortbildung, etwa per Analogie.",
+   "denkweg": ["1. Was sagt das Wort? Hunde.", "2. Ist eine Katze ein Hund? Nein.", "3. Also jenseits der Wortlautgrenze."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f003-4", "regelId": "q3", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir, was Auslegung ist. Und wo sie aufhört.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Auslegung ermittelt den Sinngehalt einer Norm und endet an der Wortlautgrenze.",
+   "warum": "Wichtig ist die Grenze: Danach beginnt die Rechtsfortbildung, nicht mehr die Auslegung.",
+   "denkweg": ["1. Zuerst die Definition.", "2. Dann die Grenze: möglicher Wortsinn.", "3. Zum Schluss: Danach kommt Rechtsfortbildung."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f004-0", "regelId": "q4", "stufe": 0, "format": "F1",
+   "figur": { "name": "Bauer Henning mit Minischwein", "emoji": "🐖" },
+   "akte": "Im Stadtpark gilt: „Hunde an die Leine.“ Bauer Henning lässt sein Minischwein frei laufen. Die Regel nennt aber nur Hunde. Die Stadt will die Hunde-Regel auf das Schwein übertragen.",
+   "frage": "Was wäre das?",
+   "optionen": [
+    { "text": "Analogie", "richtig": true, "warumNicht": null },
+    { "text": "Auslegung", "richtig": false, "warumNicht": "Ein Schwein ist kein Hund. Das Wort erfasst es nicht. Das geht über die Wörter hinaus." }
+   ],
+   "ergebnis": "Analogie, weil die Folge einer Regel auf einen nicht geregelten Fall übertragen wird.",
+   "warum": "Die Regel nennt nur Hunde. Für Schweine fehlt eine Regel. Man nimmt die Folge von einem ähnlichen Fall.",
+   "denkweg": ["1. Erfasst das Wort Hund ein Schwein? Nein.", "2. Soll die Folge trotzdem gelten? Ja.", "3. Also: Analogie."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f004-1", "regelId": "q4", "stufe": 1, "format": "F3",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Ole hat einen Zettel mit Voraussetzungen der Analogie. Leider hat er auch Unsinn notiert.",
+   "frage": "Was braucht eine Analogie wirklich?",
+   "fachfaecher": {
+    "faecher": ["Nötig", "Nicht nötig"],
+    "karten": [
+     { "text": "Das Gesetz regelt den Fall nicht", "fach": "Nötig", "warum": "Ohne Lücke gibt es nichts zu füllen." },
+     { "text": "Die Lücke ist ungewollt", "fach": "Nötig", "warum": "Die Lücke muss planwidrig sein." },
+     { "text": "Die Lage ist ähnlich wie im geregelten Fall", "fach": "Nötig", "warum": "Es braucht eine vergleichbare Interessenlage." },
+     { "text": "Der Betroffene ist einverstanden", "fach": "Nicht nötig", "warum": "Auf die Zustimmung kommt es nicht an." },
+     { "text": "Die Regel ist schon recht alt", "fach": "Nicht nötig", "warum": "Das Alter der Regel spielt keine Rolle." }
+    ]
+   },
+   "ergebnis": "Nötig sind eine ungewollte Lücke und eine ähnliche Lage.",
+   "warum": "Die zwei Voraussetzungen sind: planwidrige Lücke und vergleichbare Interessenlage. Alles andere zählt nicht.",
+   "denkweg": ["1. Gibt es eine Lücke? Nötig.", "2. Ist sie ungewollt und die Lage ähnlich? Nötig.", "3. Zustimmung und Alter: egal."],
+   "dauerSek": 35
+  },
+  {
+   "id": "f004-2", "regelId": "q4", "stufe": 2, "format": "F1",
+   "figur": { "name": "Frau Marić, Bäckerin", "emoji": "🥐" },
+   "akte": "Die Gemeinde zahlt einen Zuschuss für Lastenräder. Im Protokoll steht: E-Scooter wollten wir **bewusst nicht** fördern. Frau Marić will den Zuschuss für ihren E-Scooter, per Analogie. Ihr Scooter ist rosa.",
+   "frage": "Klappt die Analogie?",
+   "optionen": [
+    { "text": "Nein: Lücke war gewollt", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Der Fall ist ähnlich", "richtig": false, "warumNicht": "Ähnlich reicht nicht. Die Lücke muss auch ungewollt sein. Hier war sie gewollt." },
+    { "text": "Auslegung: Scooter ist ein Rad", "richtig": false, "warumNicht": "Ein E-Scooter ist kein Lastenrad. Das Wort gibt das nicht her." }
+   ],
+   "ergebnis": "Keine Analogie, weil die Gemeinde die Lücke bewusst gelassen hat.",
+   "warum": "Eine Analogie braucht eine planwidrige Lücke. Wer etwas bewusst weglässt, hat keine ungewollte Lücke.",
+   "denkweg": ["1. Gibt es eine Lücke? Ja, für Scooter.", "2. War sie ungewollt? Nein, bewusst.", "3. Also keine Analogie."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f004-3", "regelId": "q4", "stufe": 3, "format": "F1",
+   "figur": { "name": "Staatsanwältin Dr. Wolff", "emoji": "👩‍⚖️" },
+   "akte": "Ein erfundenes Strafgesetz bestraft, wer ohne Ticket Bus fährt. Herr Kurz fährt ohne zu zahlen Tretboot. Die Lücke ist ungewollt, die Lage ähnlich. Dr. Wolff will die Bus-Regel übertragen.",
+   "frage": "Darf sie das?",
+   "optionen": [
+    { "text": "Nein: Strafrecht", "richtig": true, "warumNicht": null },
+    { "text": "Ja: beide Voraussetzungen da", "richtig": false, "warumNicht": "Die Voraussetzungen stimmen zwar. Im Strafrecht ist Analogie gegen den Täter aber verboten." },
+    { "text": "Ja: Boot ist auch ein Bus", "richtig": false, "warumNicht": "Ein Tretboot ist kein Bus. Das wäre auch keine Auslegung mehr." }
+   ],
+   "ergebnis": "Nein, im Strafrecht ist Analogie zulasten des Täters verboten.",
+   "warum": "Strafe nur, wenn das Gesetz die Tat genau nennt. Das sagt das Grundgesetz in Art. 103 Abs. 2.",
+   "denkweg": ["1. Lücke ungewollt und Lage ähnlich? Ja.", "2. Geht es um Strafe gegen den Täter? Ja.", "3. Dann ist Analogie verboten."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f004-4", "regelId": "q4", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir die Analogie. Mit Voraussetzungen und Grenzen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Übertragung der Rechtsfolge auf einen ungeregelten ähnlichen Fall: planwidrige Lücke plus vergleichbare Interessenlage.",
+   "warum": "Erst die Definition, dann zwei Voraussetzungen, dann der Unterschied zur Auslegung und die Grenzen.",
+   "denkweg": ["1. Definition nennen.", "2. Dann die zwei Voraussetzungen.", "3. Zum Schluss Wortlaut und Grenzen."],
+   "dauerSek": 45
+  },
+  {
+   "id": "k004-1", "regelId": "q4", "stufe": 3, "format": "F1", "kombiRegeln": ["q7"],
+   "figur": { "name": "Herr Albers, Eisverkäufer", "emoji": "🍦" },
+   "akte": "Ein Gesetz erlaubt der Stadt eine Gebühr für Marktstände. Eiswagen nennt es nicht. Die Stadt will die Gebühr per Analogie auch von Herrn Albers verlangen.",
+   "frage": "Wie siehst du die Analogie?",
+   "optionen": [
+    { "text": "Nur eingeschränkt: Eingriff", "richtig": true, "warumNicht": null },
+    { "text": "Klar erlaubt: ähnlicher Fall", "richtig": false, "warumNicht": "Die Stadt nimmt Geld. Das ist ein Eingriff. Dafür verlangt der Vorbehalt des Gesetzes ein Gesetz." },
+    { "text": "Streng verboten wie Strafrecht", "richtig": false, "warumNicht": "Das strenge Verbot gilt im Strafrecht. Bei Eingriffen ist Analogie nur eingeschränkt zulässig." }
+   ],
+   "ergebnis": "Nur eingeschränkt zulässig, weil die Stadt in sein Eigentum eingreift.",
+   "warum": "Für Eingriffe braucht das Amt eine [[Ermächtigung]] im Gesetz. Eine Analogie ersetzt das nur in engen Grenzen.",
+   "denkweg": ["1. Geht es um eine Gebühr, also Geld? Ja, ein Eingriff.", "2. Eingriffe brauchen ein Gesetz.", "3. Analogie hier nur eingeschränkt."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f005-0", "regelId": "q5", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Krause, Bibliothekar", "emoji": "📚" },
+   "akte": "Herr Krause schlägt im Wörterbuch nach, was „Fahrzeug“ heißt. Er will wissen, was das Wort umfasst.",
+   "frage": "Welche Methode nutzt er?",
+   "optionen": [
+    { "text": "Grammatisch: Wortlaut", "richtig": true, "warumNicht": null },
+    { "text": "Historisch: Entstehung", "richtig": false, "warumNicht": "Historisch fragt, was der Gesetzgeber damals wollte. Herr Krause schaut nur auf das Wort." }
+   ],
+   "ergebnis": "Grammatisch, weil er nach dem Sinn des Worts fragt.",
+   "warum": "Die grammatische Methode schaut auf Wortlaut und Wortsinn. Sie ist der Start jeder Auslegung.",
+   "denkweg": ["1. Worauf schaut er? Auf das Wort.", "2. Wort und Wortsinn heißt grammatisch.", "3. Also: grammatisch."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f005-1", "regelId": "q5", "stufe": 1, "format": "F1",
+   "figur": { "name": "Frau Nguyen, Yogalehrerin", "emoji": "🧘" },
+   "akte": "Das Schild „Fahrzeuge verboten“ soll Spaziergänger schützen. Frau Nguyen sagt: Ein Bobbycar gefährdet niemanden. Also meint das Schild es nicht.",
+   "frage": "Welche Methode nutzt sie?",
+   "optionen": [
+    { "text": "Teleologisch: Sinn und Zweck", "richtig": true, "warumNicht": null },
+    { "text": "Grammatisch: Wortlaut", "richtig": false, "warumNicht": "Sie fragt nicht, was das Wort heißt. Sie fragt, wozu das Schild da ist." },
+    { "text": "Systematisch: Zusammenhang", "richtig": false, "warumNicht": "Sie schaut nicht auf andere Regeln daneben. Sie schaut auf das Ziel." }
+   ],
+   "ergebnis": "Teleologisch, weil sie nach dem Zweck des Schilds fragt.",
+   "warum": "Teleologisch heißt: Wozu gibt es die Regel? Hier: Schutz der Spaziergänger.",
+   "denkweg": ["1. Worauf schaut sie? Auf das Ziel des Schilds.", "2. Ziel heißt Zweck.", "3. Also: teleologisch."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f005-2", "regelId": "q5", "stufe": 2, "format": "F1",
+   "figur": { "name": "Frau Becker, frühere Stadträtin", "emoji": "👵" },
+   "akte": "Frau Becker saß vor 20 Jahren im Stadtrat. Sie holt das alte Protokoll: Damals wollten alle die Mopeds aus dem Park haben. Nebenbei erzählt sie, dass es an dem Tag hagelte.",
+   "frage": "Welche Methode ist das?",
+   "optionen": [
+    { "text": "Historisch: Wille von damals", "richtig": true, "warumNicht": null },
+    { "text": "Teleologisch: Zweck", "richtig": false, "warumNicht": "Teleologisch fragt nach dem Zweck, wie er sich aus der Regel ergibt. Hier zählt das Protokoll von damals." },
+    { "text": "Grammatisch: Wortlaut", "richtig": false, "warumNicht": "Sie liest nicht das Wort, sondern alte Unterlagen." }
+   ],
+   "ergebnis": "Historisch, weil sie die Entstehung und den Willen von damals prüft.",
+   "warum": "Protokolle und Unterlagen zeigen, was der Gesetzgeber wollte. Das ist die historische Methode. Das Wetter ist egal.",
+   "denkweg": ["1. Was nutzt sie? Ein altes Protokoll.", "2. Das zeigt den Willen von damals.", "3. Also: historisch."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f005-3", "regelId": "q5", "stufe": 2, "format": "F3",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Ole hat Fragen zu einem Gesetz aufgeschrieben. Ordne jede Frage einer Methode zu.",
+   "frage": "Welche Methode steckt in der Frage?",
+   "fachfaecher": {
+    "faecher": ["Grammatisch", "Systematisch", "Teleologisch"],
+    "karten": [
+     { "text": "Was steht im Wörterbuch?", "fach": "Grammatisch", "warum": "Es geht um den Wortsinn." },
+     { "text": "Was steht im Paragrafen davor?", "fach": "Systematisch", "warum": "Es geht um die Stellung im Gesetz." },
+     { "text": "Wozu gibt es die Regel?", "fach": "Teleologisch", "warum": "Es geht um Sinn und Zweck." },
+     { "text": "Wie nutzt das Gesetz das Wort an anderer Stelle?", "fach": "Systematisch", "warum": "Es geht um den Zusammenhang im Gesetz." },
+     { "text": "Was soll die Regel verhindern?", "fach": "Teleologisch", "warum": "Es geht um das Ziel der Regel." }
+    ]
+   },
+   "ergebnis": "Wort: grammatisch. Stellung im Gesetz: systematisch. Ziel: teleologisch.",
+   "warum": "Jede Methode stellt eine eigene Frage. Wer die Frage erkennt, kennt die Methode.",
+   "denkweg": ["1. Geht es um das Wort? Grammatisch.", "2. Um den Ort im Gesetz? Systematisch.", "3. Um das Ziel? Teleologisch."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f005-4", "regelId": "q5", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Welche Methode ist eigentlich die wichtigste?",
+   "frage": "Welche Antwort gibst du Ole?",
+   "optionen": [
+    { "text": "Keine feste Rangfolge. Die Methoden wirken zusammen. Der Wortlaut ist aber Start und Grenze.", "richtig": true, "warumNicht": null },
+    { "text": "Immer der Wille des Gesetzgebers. Der steht über allem.", "richtig": false, "warumNicht": "Die historische Methode ist eine von vier. Sie steht nicht fest über den anderen." },
+    { "text": "Immer der Zweck. Was gemeint ist, schlägt alles.", "richtig": false, "warumNicht": "Auch der Zweck hat keinen festen Vorrang. Und die Grenze bleibt der Wortlaut." }
+   ],
+   "ergebnis": "Es gibt keine feste Rangfolge, die vier Methoden wirken zusammen.",
+   "warum": "Die vier Methoden ergänzen sich. Der Wortlaut ist der Anfang und zugleich die Grenze.",
+   "denkweg": ["1. Wie viele Methoden gibt es? Vier.", "2. Gibt es eine feste Reihe? Nein.", "3. Sie wirken zusammen."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f005-5", "regelId": "q5", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir die Methoden der Auslegung. Alle vier, und was noch dazugehört.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Grammatisch, systematisch, historisch, teleologisch, ohne feste Rangfolge, dazu verfassungs- und unionsrechtskonforme Auslegung.",
+   "warum": "Die Prüfung will alle vier Methoden mit kurzer Erklärung und die zwei Ergänzungen.",
+   "denkweg": ["1. Zuerst: vier Methoden, keine Rangfolge.", "2. Dann jede Methode kurz.", "3. Zum Schluss die zwei Ergänzungen."],
+   "dauerSek": 45
+  },
+  {
+   "id": "k005-1", "regelId": "q5", "stufe": 3, "format": "F1", "kombiRegeln": ["q3"],
+   "figur": { "name": "Richterin Holm", "emoji": "🧑‍⚖️" },
+   "akte": "Eine Regel lässt zwei Lesarten zu. Lesart A passt zum [[Grundgesetz]]. Lesart B würde gegen das Grundgesetz verstoßen. Lesart C wäre am schönsten, passt aber nicht zum Text.",
+   "frage": "Welche Lesart nimmt die Richterin?",
+   "optionen": [
+    { "text": "Lesart A", "richtig": true, "warumNicht": null },
+    { "text": "Lesart C: die schönste", "richtig": false, "warumNicht": "Auch die verfassungskonforme Auslegung endet am Wortlaut. C passt nicht zum Text." },
+    { "text": "Frei wählbar: A oder B", "richtig": false, "warumNicht": "Sind mehrere Lesarten möglich, gilt die, die zum Grundgesetz passt." }
+   ],
+   "ergebnis": "Lesart A: Sie passt zum Grundgesetz und bleibt im Wortlaut.",
+   "warum": "Bei mehreren Lesarten gilt die verfassungsgemäße. Die Grenze bleibt aber der Wortlaut.",
+   "denkweg": ["1. Welche Lesarten erlaubt der Text? A und B.", "2. Welche passt zum Grundgesetz? A.", "3. C fällt raus: Wortlautgrenze."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f006-0", "regelId": "q6", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Schulz, Taxifahrer", "emoji": "🚕" },
+   "akte": "Ein Gesetz sagt: Der Antrag ist kostenlos. Das Bürgeramt verlangt von Herrn Schulz trotzdem 20 Euro Gebühr.",
+   "frage": "Darf das Amt das?",
+   "optionen": [
+    { "text": "Nein: gegen das Gesetz", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Das Amt legt Gebühren fest", "richtig": false, "warumNicht": "Das Gesetz sagt ausdrücklich: kostenlos. Dagegen darf das Amt nicht handeln." }
+   ],
+   "ergebnis": "Nein, das Amt verstößt gegen das Gesetz.",
+   "warum": "Die Verwaltung ist an das Gesetz gebunden. Sagt es kostenlos, darf das Amt kein Geld nehmen.",
+   "denkweg": ["1. Was sagt das Gesetz? Kostenlos.", "2. Was macht das Amt? Es nimmt Geld.", "3. Verstoß: Vorrang des Gesetzes verletzt."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f006-1", "regelId": "q6", "stufe": 1, "format": "F1",
+   "figur": { "name": "Frau Adeyemi, Hebamme", "emoji": "👩🏾‍⚕️" },
+   "akte": "Ein Gesetz sagt: Den Zuschuss bekommt nur, wer in der Stadt wohnt. Frau Adeyemi wohnt im Nachbarort. Die Stadt zahlt ihr den Zuschuss trotzdem. Sie freut sich.",
+   "frage": "Durfte die Stadt das?",
+   "optionen": [
+    { "text": "Nein: Vorrang gilt auch hier", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Geld geben ist immer okay", "richtig": false, "warumNicht": "Der Vorrang gilt für jedes Handeln der Verwaltung. Auch wenn sie etwas gibt." }
+   ],
+   "ergebnis": "Nein, auch beim Geben darf die Stadt nicht gegen das Gesetz handeln.",
+   "warum": "Der Vorrang des Gesetzes gilt beim Verbieten und beim Leisten. Das Gesetz verlangt den Wohnsitz in der Stadt.",
+   "denkweg": ["1. Was sagt das Gesetz? Nur für Einwohner.", "2. Wohnt sie dort? Nein.", "3. Zahlung gegen das Gesetz: nicht erlaubt."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f006-2", "regelId": "q6", "stufe": 1, "format": "F3",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Ole soll die Arten von Regeln nach Rang stapeln. Ganz oben steht die stärkste.",
+   "frage": "Bring die Regeln in die richtige Reihenfolge, von oben nach unten.",
+   "reihenfolge": ["Verfassung (Grundgesetz)", "Gesetz des Parlaments", "Rechtsverordnung", "Satzung"],
+   "ergebnis": "Verfassung, dann Gesetz, dann Rechtsverordnung, dann Satzung.",
+   "warum": "Die untere Regel darf der oberen nicht widersprechen. Daraus folgt der Vorrang des Gesetzes.",
+   "denkweg": ["1. Ganz oben steht das Grundgesetz.", "2. Darunter das Gesetz.", "3. Dann Verordnung und Satzung."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f006-3", "regelId": "q6", "stufe": 2, "format": "F1",
+   "figur": { "name": "Herr Vogel, Schäfer", "emoji": "🐑" },
+   "akte": "Ein Gesetz erlaubt Schafherden auf dem Deich. Die [[Satzung]] der Gemeinde verbietet sie. Der Bürgermeister sagt: Unsere Satzung ist doch neuer. Herr Vogel zählt derweil seine Schafe.",
+   "frage": "Was gilt?",
+   "optionen": [
+    { "text": "Das Gesetz geht vor", "richtig": true, "warumNicht": null },
+    { "text": "Die Satzung: Sie ist neuer", "richtig": false, "warumNicht": "Die Satzung steht unter dem Gesetz. Sie darf ihm nicht widersprechen." },
+    { "text": "Beide gelten je zur Hälfte", "richtig": false, "warumNicht": "Bei einem Widerspruch setzt sich die höhere Regel durch." }
+   ],
+   "ergebnis": "Das Gesetz geht vor, weil es über der Satzung steht.",
+   "warum": "Es gilt die [[Normenhierarchie]]: Verfassung, Gesetz, Verordnung, Satzung. Die untere Regel muss sich fügen.",
+   "denkweg": ["1. Welche Regeln streiten? Gesetz gegen Satzung.", "2. Welche steht höher? Das Gesetz.", "3. Also gilt das Gesetz."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f006-4", "regelId": "q6", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir den Vorrang des Gesetzes. Und verwechseln Sie ihn bitte nicht mit dem Vorbehalt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Die Verwaltung darf nicht gegen geltendes Recht verstoßen, bei jedem Handeln, nach Art. 20 III GG.",
+   "warum": "Achtung Falle: „nur mit Ermächtigung“ ist der Vorbehalt, nicht der Vorrang.",
+   "denkweg": ["1. Zuerst: kein Verstoß gegen Recht.", "2. Dann: gilt für jedes Handeln.", "3. Zum Schluss: Normenhierarchie."],
+   "dauerSek": 40
+  },
+  {
+   "id": "k006-1", "regelId": "q6", "stufe": 3, "format": "F3", "kombiRegeln": ["q7"],
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Frau Brandt legt dir sechs Notizen hin. Sie sagt: Diese zwei verwechselt jeder Neue.",
+   "frage": "Vorrang oder Vorbehalt des Gesetzes?",
+   "fachfaecher": {
+    "faecher": ["Vorrang", "Vorbehalt"],
+    "karten": [
+     { "text": "Das Amt handelt gegen ein Gesetz", "fach": "Vorrang", "warum": "Gegen das Gesetz: Das verbietet der Vorrang." },
+     { "text": "Das Amt verbietet etwas ohne jedes Gesetz", "fach": "Vorbehalt", "warum": "Ohne Gesetz: Es fehlt die Erlaubnis." },
+     { "text": "Eine Satzung widerspricht einem Gesetz", "fach": "Vorrang", "warum": "Die untere Regel darf der oberen nicht widersprechen." },
+     { "text": "Die Kasse zahlt eine Leistung ohne Gesetz", "fach": "Vorbehalt", "warum": "Im Sozialrecht brauchen auch Leistungen ein Gesetz." },
+     { "text": "Frage: Gibt es eine Erlaubnis?", "fach": "Vorbehalt", "warum": "Der Vorbehalt fragt nach der Erlaubnis im Gesetz." },
+     { "text": "Frage: Gibt es einen Verstoß?", "fach": "Vorrang", "warum": "Der Vorrang fragt, ob das Amt gegen ein Gesetz handelt." }
+    ]
+   },
+   "ergebnis": "Gegen das Gesetz: Vorrang. Ohne Gesetz: Vorbehalt.",
+   "warum": "Der Vorrang verbietet den Verstoß. Der Vorbehalt verlangt eine Erlaubnis im Gesetz.",
+   "denkweg": ["1. Gibt es ein Gesetz, gegen das das Amt handelt? Vorrang.", "2. Fehlt ein erlaubendes Gesetz? Vorbehalt.", "3. Merke: gegen oder ohne."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f007-0", "regelId": "q7", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Brenner, DJ", "emoji": "🎧" },
+   "akte": "Das Bürgeramt will von Herrn Brenner 50 Euro „Lautsprecher-Abgabe“. Ein Gesetz dafür gibt es nicht.",
+   "frage": "Darf das Amt das?",
+   "optionen": [
+    { "text": "Nein: Es fehlt ein Gesetz", "richtig": true, "warumNicht": null },
+    { "text": "Ja: kein Gesetz verbietet es", "richtig": false, "warumNicht": "Für einen Eingriff reicht das nicht. Das Amt braucht ein Gesetz, das ihn erlaubt." }
+   ],
+   "ergebnis": "Nein, für die Abgabe fehlt eine Erlaubnis im Gesetz.",
+   "warum": "Geld zu nehmen ist ein Eingriff ins Eigentum. Dafür braucht das Amt eine [[Ermächtigung]].",
+   "denkweg": ["1. Greift das Amt in sein Geld ein? Ja.", "2. Gibt es ein Gesetz, das das erlaubt? Nein.", "3. Also verboten: Vorbehalt des Gesetzes."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f007-1", "regelId": "q7", "stufe": 1, "format": "F1",
+   "figur": { "name": "Frau Kaya, Gärtnerin", "emoji": "🌻" },
+   "akte": "Die Kasse will allen Mitgliedern einen Gutschein für Wellness schenken. Kein Gesetz sieht das vor. Frau Kaya fände das super.",
+   "frage": "Darf die Kasse das?",
+   "optionen": [
+    { "text": "Nein: Leistung braucht Gesetz", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Geschenke sind erlaubt", "richtig": false, "warumNicht": "Im Sozialrecht gilt der Vorbehalt auch für Leistungen. So steht es in § 31 SGB I." }
+   ],
+   "ergebnis": "Nein, im Sozialrecht braucht auch eine Leistung ein Gesetz.",
+   "warum": "Nach § 31 SGB I gibt es Leistungen nur, wenn ein Gesetz sie vorsieht. Auch nette Geschenke brauchen das.",
+   "denkweg": ["1. Will die Kasse etwas geben? Ja.", "2. Gibt es dafür ein Gesetz? Nein.", "3. Im Sozialrecht also nicht erlaubt."],
+   "dauerSek": 22
+  },
+  {
+   "id": "f007-2", "regelId": "q7", "stufe": 2, "format": "F1",
+   "figur": { "name": "Herr Petrov, Kita-Leiter", "emoji": "🧸" },
+   "akte": "Ein Ministerium will per Rundschreiben eine Impfpflicht für alle Kita-Kinder einführen. Ein Gesetz dazu gibt es nicht. Herr Petrov hat schon 30 Elternbriefe gedruckt. (Der Fall ist erfunden.)",
+   "frage": "Reicht das Rundschreiben?",
+   "optionen": [
+    { "text": "Nein: Parlament muss ran", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Das Ministerium weiß es", "richtig": false, "warumNicht": "Fachwissen ersetzt kein Gesetz. Wesentliches muss das Parlament selbst entscheiden." },
+    { "text": "Ja: Briefe sind schon gedruckt", "richtig": false, "warumNicht": "Gedruckte Briefe sind kein Gesetz. Das ist nur ein Ablenkungsdetail." }
+   ],
+   "ergebnis": "Nein, so eine wichtige Frage für Grundrechte muss das Parlament selbst regeln.",
+   "warum": "Nach der [[Wesentlichkeitstheorie]] trifft der Gesetzgeber wesentliche Entscheidungen selbst. Eine Impfpflicht berührt Grundrechte.",
+   "denkweg": ["1. Ist die Frage wichtig für Grundrechte? Ja.", "2. Wer muss das entscheiden? Das Parlament.", "3. Ein Rundschreiben reicht nicht."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f007-3", "regelId": "q7", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was ist eigentlich der Vorbehalt des Gesetzes?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Das Amt braucht ein Gesetz, das ihm das Handeln erlaubt. Ohne Erlaubnis kein Eingriff.", "richtig": true, "warumNicht": null },
+    { "text": "Das Amt darf nur nicht gegen ein Gesetz verstoßen.", "richtig": false, "warumNicht": "Das ist der Vorrang des Gesetzes. Der Vorbehalt verlangt mehr: eine Erlaubnis." },
+    { "text": "Das Parlament beschließt Gesetze nur unter Vorbehalt, also vorläufig.", "richtig": false, "warumNicht": "Das Wort täuscht. Es geht um die Verwaltung, nicht um vorläufige Gesetze." }
+   ],
+   "ergebnis": "Vorbehalt heißt: Ohne Erlaubnis im Gesetz darf das Amt nicht handeln.",
+   "warum": "Der Vorbehalt fragt: Gibt es ein Gesetz, das genau das erlaubt? Ohne dieses Gesetz geht es nicht.",
+   "denkweg": ["1. Reicht es, kein Gesetz zu brechen? Nein.", "2. Es braucht eine Erlaubnis.", "3. Das ist der Vorbehalt."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f007-4", "regelId": "q7", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir den Vorbehalt des Gesetzes. Und wo er gilt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Verwaltung nur mit gesetzlicher Ermächtigung: sicher bei Eingriffen, bei wesentlichen Fragen, im Sozialrecht auch bei Leistungen.",
+   "warum": "Die Prüfung will die Definition, die Eingriffe, die Wesentlichkeitstheorie und § 31 SGB I.",
+   "denkweg": ["1. Zuerst die Definition.", "2. Dann Eingriffe und Wesentlichkeit.", "3. Zum Schluss § 31 SGB I."],
+   "dauerSek": 45
+  },
+  {
+   "id": "f008-0", "regelId": "q8", "stufe": 0, "format": "F1",
+   "figur": { "name": "Frau Lindner, Sachbearbeiterin", "emoji": "👩‍💼" },
+   "akte": "Ein Bürger ruft Frau Lindner an. Er sagt: Sie sind gar nicht vom Volk gewählt! Also dürfen Sie nichts entscheiden!",
+   "frage": "Hat der Bürger recht?",
+   "optionen": [
+    { "text": "Nein: Die Kette reicht", "richtig": true, "warumNicht": null },
+    { "text": "Ja: nur Gewählte dürfen", "richtig": false, "warumNicht": "Nicht jeder muss gewählt sein. Es reicht eine lückenlose Kette bis zum Volk." }
+   ],
+   "ergebnis": "Nein, sie ist über eine Kette bis zum Volk legitimiert.",
+   "warum": "Das Volk wählt das Parlament. Von dort geht es über Regierung und Behördenleitung bis zu ihr.",
+   "denkweg": ["1. Muss jeder gewählt sein? Nein.", "2. Gibt es eine Kette bis zum Volk? Ja.", "3. Also darf sie entscheiden."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f008-1", "regelId": "q8", "stufe": 1, "format": "F3",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Ole soll die [[Legitimationskette]] an die Pinnwand hängen. Die Kärtchen sind durcheinander.",
+   "frage": "Bau die Kette, vom Anfang bis zum Ende.",
+   "reihenfolge": ["Volk", "Parlament", "Regierung und Minister", "Behördenleiter", "Sachbearbeiterin im Amt"],
+   "ergebnis": "Volk, Parlament, Regierung, Behördenleiter, Sachbearbeiterin.",
+   "warum": "Jedes Glied wird vom vorigen bestellt. So reicht die Macht des Volks bis ins Amt.",
+   "denkweg": ["1. Am Anfang steht das Volk.", "2. Es wählt das Parlament, das trägt die Regierung.", "3. Dann Leitung und Sachbearbeiterin."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f008-2", "regelId": "q8", "stufe": 2, "format": "F1",
+   "figur": { "name": "Herr Ferreira, Schachspieler", "emoji": "♟️" },
+   "akte": "Ein Landesamt braucht eine neue Leitung. Nicht der Minister bestimmt sie, sondern ein Schachverein per Los. Herr Ferreira hat das Los gezogen. Er spielt übrigens Sizilianisch.",
+   "frage": "Ist die neue Leitung legitimiert?",
+   "optionen": [
+    { "text": "Nein: Kette unterbrochen", "richtig": true, "warumNicht": null },
+    { "text": "Ja, wenn sie kompetent ist", "richtig": false, "warumNicht": "Fachwissen ersetzt keine Bestellung. Es zählt, wer die Person bestellt hat." },
+    { "text": "Ja: Vereine bestehen aus Volk", "richtig": false, "warumNicht": "Ein Verein ist kein vom Volk legitimiertes Organ. Die Kette läuft über Parlament und Regierung." }
+   ],
+   "ergebnis": "Nein, ein Verein ist kein Glied der Kette.",
+   "warum": "Jede Person muss von einem legitimierten Organ bestellt sein. Ein Schachverein ist das nicht.",
+   "denkweg": ["1. Wer bestellt die Leitung? Ein Verein.", "2. Steht der Verein in der Kette? Nein.", "3. Also ist die Kette unterbrochen."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f008-3", "regelId": "q8", "stufe": 2, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was heißt eigentlich Legitimationskette?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Jeder im Amt wird von jemandem bestellt, der selbst auf das Volk zurückgeht. So reicht die Kette bis zum Volk.", "richtig": true, "warumNicht": null },
+    { "text": "Jeder Beamte muss alle paar Jahre vom Volk gewählt werden.", "richtig": false, "warumNicht": "Nicht jeder muss gewählt sein. Es reicht eine lückenlose Kette." },
+    { "text": "Eine Liste der Gesetze, an die sich ein Amt halten muss.", "richtig": false, "warumNicht": "Das ist die Bindung an Gesetze, also die sachliche Seite. Die Kette fragt: Wer hat die Person bestellt?" }
+   ],
+   "ergebnis": "Die Kette verbindet jeden Amtsträger über Bestellungen mit dem Volk.",
+   "warum": "Personelle Legitimation fragt nach der Person: Wer hat sie ins Amt gebracht? Jedes Glied muss legitimiert sein.",
+   "denkweg": ["1. Geht es um Personen oder um Gesetze? Um Personen.", "2. Muss jeder gewählt sein? Nein.", "3. Kette aus Bestellungen bis zum Volk."],
+   "dauerSek": 30
+  },
+  {
+   "id": "f008-4", "regelId": "q8", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir, wie personelle demokratische Legitimation vermittelt wird. Glied für Glied.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ununterbrochene Legitimationskette vom Volk bis zum Amtswalter, mit ausreichendem Legitimationsniveau.",
+   "warum": "Erst Art. 20 II GG, dann die Kette, dann die Bestellung und das Niveau.",
+   "denkweg": ["1. Zuerst: Alle Staatsgewalt geht vom Volk aus.", "2. Dann die Kette und die Bestellung.", "3. Zum Schluss: Niveau statt Volkswahl."],
+   "dauerSek": 45
+  },
+  {
+   "id": "k008-1", "regelId": "q8", "stufe": 3, "format": "F1", "kombiRegeln": ["q9"],
+   "figur": { "name": "Dr. Kühn, Hausarzt", "emoji": "👨‍⚕️" },
+   "akte": "Die Mitglieder des [[G-BA]] werden von Verbänden benannt. Vom Volk gewählt sind sie nicht. Dr. Kühn fragt: Fehlt da nicht ein Glied der Kette?",
+   "frage": "Was antwortest du?",
+   "optionen": [
+    { "text": "Die Kette ist dünn: umstritten", "richtig": true, "warumNicht": null },
+    { "text": "Kein Thema: alles geklärt", "richtig": false, "warumNicht": "Die Frage ist umstritten. Kritiker halten die Kette für dünn." },
+    { "text": "Klar: ganz ohne Legitimation", "richtig": false, "warumNicht": "Das ist zu einfach. Das BSG bejaht die Legitimation sogar." }
+   ],
+   "ergebnis": "Die Kette ist dünn, deshalb ist die Legitimation des G-BA umstritten.",
+   "warum": "Verbände sind kein Glied der klassischen Kette. Dafür gibt es Gesetz und Aufsicht. Das BSG hält das für genug.",
+   "denkweg": ["1. Wer benennt die Mitglieder? Verbände.", "2. Ist die Kette damit stark? Nein, dünn.", "3. Aber andere Gründe helfen: umstritten."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f009-0", "regelId": "q9", "stufe": 0, "format": "F1",
+   "figur": { "name": "Frau Roth, Studentin", "emoji": "📖" },
+   "akte": "Frau Roth schreibt eine Hausarbeit über den [[G-BA]]. Sie fragt: Was sagt das Bundessozialgericht (BSG) zu seiner Legitimation?",
+   "frage": "Was sagt das BSG?",
+   "optionen": [
+    { "text": "Legitimation reicht", "richtig": true, "warumNicht": null },
+    { "text": "Legitimation fehlt", "richtig": false, "warumNicht": "Das sagen Kritiker. Das BSG bejaht die Legitimation." }
+   ],
+   "ergebnis": "Das BSG bejaht die Legitimation des G-BA.",
+   "warum": "Das BSG verweist auf Gesetz, Aufsicht und Selbstverwaltung. Die Frage bleibt trotzdem umstritten.",
+   "denkweg": ["1. Wer ist gefragt? Das BSG.", "2. Was sagt es? Ja, reicht.", "3. Streit gibt es trotzdem."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f009-1", "regelId": "q9", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Warum streiten die Leute eigentlich über den G-BA?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Er macht feste Regeln für Millionen Versicherte. Seine Mitglieder wählt aber nicht das Volk.", "richtig": true, "warumNicht": null },
+    { "text": "Er beschließt Gesetze im Bundestag, ohne gewählt zu sein.", "richtig": false, "warumNicht": "Der G-BA sitzt nicht im Bundestag. Er macht Richtlinien, keine Parlamentsgesetze." },
+    { "text": "Die Versicherten wählen ihn, aber kaum jemand geht hin.", "richtig": false, "warumNicht": "Die Versicherten wählen ihn gerade nicht. Das ist ja ein Kritikpunkt." }
+   ],
+   "ergebnis": "Streitpunkt: feste Regeln für alle, aber keine Wahl durch das Volk.",
+   "warum": "Wer bindende Regeln macht, braucht Rückhalt beim Volk. Beim G-BA ist die Kette dünn.",
+   "denkweg": ["1. Was macht der G-BA? Feste Regeln.", "2. Wer wählt ihn? Nicht das Volk.", "3. Daher der Streit."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f009-2", "regelId": "q9", "stufe": 2, "format": "F3",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Frau Brandt bereitet eine Diskussion vor. Sie hat Argumente auf Karten geschrieben.",
+   "frage": "Spricht das Argument für oder gegen genug Legitimation?",
+   "fachfaecher": {
+    "faecher": ["Dafür", "Dagegen"],
+    "karten": [
+     { "text": "Verbände benennen die Mitglieder", "fach": "Dagegen", "warum": "Das Volk wählt sie nicht. Die Kette ist dünn." },
+     { "text": "Versicherte haben kein Stimmrecht", "fach": "Dagegen", "warum": "Die Betroffenen entscheiden nicht mit." },
+     { "text": "Das Gesetz gibt Aufgaben und Vorgaben", "fach": "Dafür", "warum": "So lenkt das Gesetz den G-BA inhaltlich." },
+     { "text": "Das Ministerium führt die Rechtsaufsicht", "fach": "Dafür", "warum": "Das BMG wacht nach § 94 SGB V über den G-BA." },
+     { "text": "Selbstverwaltung hat eigene Legitimation", "fach": "Dafür", "warum": "Die Selbstverwaltung hat eigenen Rückhalt." },
+     { "text": "Patientenvertreter dürfen nur mitreden", "fach": "Dagegen", "warum": "Sie haben kein Stimmrecht." }
+    ]
+   },
+   "ergebnis": "Dagegen: Benennung, kein Stimmrecht. Dafür: Gesetz, Aufsicht, Selbstverwaltung.",
+   "warum": "Kritiker schauen auf die dünne Kette. Befürworter schauen auf Gesetz und Aufsicht.",
+   "denkweg": ["1. Schwächt die Karte den Bezug zum Volk? Dagegen.", "2. Stärkt sie Kontrolle oder Gesetz? Dafür.", "3. So entstehen beide Seiten."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f009-3", "regelId": "q9", "stufe": 2, "format": "F1",
+   "figur": { "name": "Herr Okoro, Patientenvertreter", "emoji": "🧑🏾" },
+   "akte": "Herr Okoro sitzt als [[Patientenvertreter]] im G-BA. Er trägt immer eine Fliege. Er sagt: Wir Patienten stimmen doch mit ab. Also sind die Betroffenen beteiligt.",
+   "frage": "Stimmt sein Argument?",
+   "optionen": [
+    { "text": "Nein: nur mitberaten", "richtig": true, "warumNicht": null },
+    { "text": "Ja: volles Stimmrecht", "richtig": false, "warumNicht": "Patientenvertreter dürfen Anträge stellen und mitberaten. Abstimmen dürfen sie nicht." },
+    { "text": "Ja: Versicherte wählen ihn", "richtig": false, "warumNicht": "Die Versicherten wählen die Mitglieder nicht. Das ist gerade ein Kritikpunkt." }
+   ],
+   "ergebnis": "Nein, Patientenvertreter haben kein Stimmrecht.",
+   "warum": "Genau das kritisieren viele: Die Betroffenen haben nur ein Recht zum Mitberaten.",
+   "denkweg": ["1. Was dürfen Patientenvertreter? Anträge und Mitreden.", "2. Dürfen sie abstimmen? Nein.", "3. Also stimmt sein Argument nicht."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f009-4", "regelId": "q9", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir, ob der G-BA genug demokratische Legitimation hat. Beide Seiten, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Umstritten: Dagegen dünne Kette und kein Stimmrecht, dafür Gesetz, Rechtsaufsicht und Selbstverwaltung; das BSG bejaht.",
+   "warum": "Eine gute Antwort nennt erst den Streit, dann beide Seiten, dann das BSG.",
+   "denkweg": ["1. Zuerst: umstritten, und warum es wichtig ist.", "2. Dann die Argumente dagegen und dafür.", "3. Zum Schluss: Das BSG bejaht."],
+   "dauerSek": 45
+  },
+  {
+   "id": "f010-0", "regelId": "q10", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Jansen, Zahnarzt", "emoji": "🦷" },
+   "akte": "Herr Jansen zählt gern nach, auch Zähne. Er fragt: Wie viele Mitglieder stimmen im [[G-BA]] ab?",
+   "frage": "Wie viele sind es?",
+   "optionen": [
+    { "text": "13 Mitglieder", "richtig": true, "warumNicht": null },
+    { "text": "5 Mitglieder", "richtig": false, "warumNicht": "Fünf kommen allein von den Kassen. Dazu kommen fünf von Ärzten und Kliniken und drei Unparteiische." }
+   ],
+   "ergebnis": "13: drei Unparteiische, fünf von den Kassen, fünf von Ärzten und Kliniken.",
+   "warum": "Das Gremium ist ausgewogen gebaut. Kassen und Leistungserbringer haben gleich viele Stimmen.",
+   "denkweg": ["1. Unparteiische: 3.", "2. Kassen: 5, Ärzte und Kliniken: 5.", "3. Zusammen 13."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f010-1", "regelId": "q10", "stufe": 1, "format": "F1",
+   "figur": { "name": "Frau Weber, Apothekerin", "emoji": "💊" },
+   "akte": "Frau Weber hört, der G-BA hat etwas Neues zu Arzneimitteln beschlossen. Sie fragt: Was beschließt der G-BA eigentlich?",
+   "frage": "Was beschließt der G-BA?",
+   "optionen": [
+    { "text": "Richtlinien", "richtig": true, "warumNicht": null },
+    { "text": "Bundesgesetze", "richtig": false, "warumNicht": "Gesetze macht das Parlament. Die Richtlinien des G-BA stehen unter dem Gesetz." }
+   ],
+   "ergebnis": "Richtlinien, zum Beispiel die Arzneimittel-Richtlinie.",
+   "warum": "Der G-BA beschließt [[Richtlinien]] für die Versorgung. Sie füllen den Anspruch der Versicherten aus.",
+   "denkweg": ["1. Ist der G-BA ein Parlament? Nein.", "2. Was macht er? Richtlinien.", "3. Also: Richtlinien."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f010-2", "regelId": "q10", "stufe": 2, "format": "F3",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Ole plant die Sitzordnung für den G-BA. Er hat Namensschilder, aber keine Ahnung.",
+   "frage": "Wer sitzt wie am Tisch?",
+   "fachfaecher": {
+    "faecher": ["Stimmt mit ab", "Redet nur mit", "Aufsicht von außen"],
+    "karten": [
+     { "text": "Unparteiischer Vorsitzender", "fach": "Stimmt mit ab", "warum": "Er ist einer der drei Unparteiischen mit Stimme." },
+     { "text": "Vertreter der Kassen (GKV-Spitzenverband)", "fach": "Stimmt mit ab", "warum": "Die Kassen haben fünf Stimmen." },
+     { "text": "Vertreterin der Krankenhäuser (DKG)", "fach": "Stimmt mit ab", "warum": "Die Kliniken haben zwei der fünf Stimmen der Leistungserbringer." },
+     { "text": "Vertreter der Zahnärzte (KZBV)", "fach": "Stimmt mit ab", "warum": "Die Zahnärzte haben eine Stimme." },
+     { "text": "Patientenvertreterin", "fach": "Redet nur mit", "warum": "Sie darf Anträge stellen und mitberaten, aber nicht abstimmen." },
+     { "text": "Bundesgesundheitsministerium (BMG)", "fach": "Aufsicht von außen", "warum": "Das BMG führt die Aufsicht nach § 94 SGB V." }
+    ]
+   },
+   "ergebnis": "Kassen, Leistungserbringer und Unparteiische stimmen ab. Patienten reden mit. Das BMG wacht von außen.",
+   "warum": "Das Gremium hat 13 Stimmen. Patientenvertreter haben keine. Das Ministerium ist kein Mitglied, sondern Aufsicht.",
+   "denkweg": ["1. Gehört die Person zu den 13? Dann stimmt sie ab.", "2. Patientenvertreter? Nur mitreden.", "3. Ministerium? Aufsicht."],
+   "dauerSek": 40
+  },
+  {
+   "id": "f010-3", "regelId": "q10", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was ist eigentlich der G-BA?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Das oberste Gremium, in dem Ärzte, Kliniken und Kassen zusammen Regeln für die Versorgung beschließen.", "richtig": true, "warumNicht": null },
+    { "text": "Ein Ausschuss im Bundestag, der Gesetze zur Gesundheit schreibt.", "richtig": false, "warumNicht": "Der G-BA gehört nicht zum Bundestag. Er macht Richtlinien, keine Gesetze." },
+    { "text": "Ein Verein der Patienten, der für sie abstimmt.", "richtig": false, "warumNicht": "Patientenvertreter reden nur mit. Abstimmen dürfen sie nicht." }
+   ],
+   "ergebnis": "Der G-BA ist das oberste Gremium der gemeinsamen [[Selbstverwaltung]].",
+   "warum": "Kassen und Leistungserbringer regeln dort gemeinsam Details der Versorgung. Der Staat führt nur die Aufsicht.",
+   "denkweg": ["1. Wer sitzt drin? Kassen, Ärzte, Kliniken.", "2. Was machen sie? Richtlinien.", "3. Also: oberstes Gremium der Selbstverwaltung."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f010-4", "regelId": "q10", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir den G-BA: Aufgaben, Zusammensetzung, Entscheidungen. Zahlen bitte korrekt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Oberstes Beschlussgremium der gemeinsamen Selbstverwaltung, 13 Stimmen, Richtlinien als verbindliche untergesetzliche Normen, Aufsicht BMG.",
+   "warum": "Die Prüfung will Träger, Sitze, Patientenvertreter, Richtlinien und Aufsicht in dieser Reihenfolge.",
+   "denkweg": ["1. Zuerst: was der G-BA ist und wer ihn trägt.", "2. Dann die Sitze und die Patientenvertreter.", "3. Zum Schluss Richtlinien und Aufsicht."],
+   "dauerSek": 45
+  },
+  {
+   "id": "k010-1", "regelId": "q10", "stufe": 3, "format": "F1", "kombiRegeln": ["q2"],
+   "figur": { "name": "Dr. Seidel, Orthopädin", "emoji": "👩‍⚕️" },
+   "akte": "Dr. Seidel sagt: Die Richtlinie des G-BA ist doch nur ein guter Rat. Daran muss ich mich nicht halten. Ich behandle nach Gefühl.",
+   "frage": "Hat sie recht?",
+   "optionen": [
+    { "text": "Nein: verbindliche Rechtsnorm", "richtig": true, "warumNicht": null },
+    { "text": "Ja: nur eine Empfehlung", "richtig": false, "warumNicht": "Die Richtlinien sind keine Ratschläge. Sie sind verbindliche Regeln unter dem Gesetz." },
+    { "text": "Sie bindet nur die Kassen", "richtig": false, "warumNicht": "Die Richtlinien binden Kassen, Versicherte und Leistungserbringer, also auch Ärzte." }
+   ],
+   "ergebnis": "Nein, die Richtlinie ist eine verbindliche Rechtsnorm, auch für Ärzte.",
+   "warum": "Die Richtlinien gelten für viele Fälle und sind verbindlich. Damit sind sie [[Rechtsnormen|Rechtsnorm]] unter dem Gesetz.",
+   "denkweg": ["1. Gilt die Richtlinie für viele? Ja.", "2. Ist sie verbindlich? Ja, nach § 91 VI SGB V.", "3. Also eine Rechtsnorm, auch für sie."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f011-0", "regelId": "q11", "stufe": 0, "format": "F1",
+   "figur": { "name": "Herr Zimmermann, Zirkusclown", "emoji": "🤡" },
+   "akte": "Herr Zimmermann klagt: Wir sind ein Sozialstaat! Ich will direkt aus dem Grundgesetz 300 Euro mehr im Monat. Ein Gesetz dafür nennt er nicht.",
+   "frage": "Bekommt er das Geld?",
+   "optionen": [
+    { "text": "Nein: Prinzip gibt keinen Anspruch", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Sozialstaat ist Sozialstaat", "richtig": false, "warumNicht": "Das Prinzip ist nur ein Ziel. Konkrete Ansprüche gibt es erst durch Gesetze." }
+   ],
+   "ergebnis": "Nein, aus dem Sozialstaatsprinzip allein kann man kein Geld einklagen.",
+   "warum": "Das Prinzip ist ein offenes Ziel. Erst der Gesetzgeber macht daraus konkrete Ansprüche.",
+   "denkweg": ["1. Worauf stützt er sich? Nur auf das Prinzip.", "2. Gibt das Prinzip allein Ansprüche? Nein.", "3. Also kein Geld."],
+   "dauerSek": 20
+  },
+  {
+   "id": "f011-1", "regelId": "q11", "stufe": 1, "format": "F5",
+   "figur": { "name": "Ole, Praktikant", "emoji": "🧑‍🎓" },
+   "akte": "Was ist eigentlich das Sozialstaatsprinzip?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    { "text": "Ein Ziel im Grundgesetz: soziale Gerechtigkeit und Sicherheit. Wie genau, regelt das Parlament per Gesetz.", "richtig": true, "warumNicht": null },
+    { "text": "Eine Liste im Grundgesetz, wer wie viel Geld bekommt.", "richtig": false, "warumNicht": "Das Prinzip ist inhaltlich offen. Die Details stehen in Gesetzen wie dem SGB." },
+    { "text": "Ein Versprechen der Kassen, alles zu bezahlen.", "richtig": false, "warumNicht": "Es richtet sich an den Staat, vor allem an den Gesetzgeber. Und es verspricht nicht alles." }
+   ],
+   "ergebnis": "Ein offenes Staatsziel, das der Gesetzgeber mit Leben füllt.",
+   "warum": "Das Grundgesetz nennt das Ziel. Wie es erreicht wird, entscheidet das Parlament mit viel Spielraum.",
+   "denkweg": ["1. Wo steht es? Im Grundgesetz.", "2. Ist es genau? Nein, offen.", "3. Der Gesetzgeber füllt es aus."],
+   "dauerSek": 28
+  },
+  {
+   "id": "f011-2", "regelId": "q11", "stufe": 2, "format": "F1",
+   "figur": { "name": "Frau Hoffmann, Postbotin", "emoji": "📮" },
+   "akte": "Frau Hoffmann findet das Pflegegeld zu niedrig. Ihr Nachbar meint: Die Höhe steht genau im Grundgesetz. Ihre Tante sagt: Das bestimmt die Kasse nach Laune.",
+   "frage": "Wer legt die Höhe fest?",
+   "optionen": [
+    { "text": "Gesetzgeber: viel Spielraum", "richtig": true, "warumNicht": null },
+    { "text": "Das Grundgesetz, ganz genau", "richtig": false, "warumNicht": "Das Grundgesetz nennt nur das Ziel. Es ist inhaltlich offen." },
+    { "text": "Die Kasse, nach Laune", "richtig": false, "warumNicht": "Die Kasse wendet das Gesetz an. Den Rahmen setzt der Gesetzgeber." }
+   ],
+   "ergebnis": "Der Gesetzgeber legt die Höhe fest und hat dabei weiten Spielraum.",
+   "warum": "Das Sozialstaatsprinzip ist offen. Der Gesetzgeber füllt es mit [[Gestaltungsspielraum]] aus, etwa im SGB.",
+   "denkweg": ["1. Sagt das Grundgesetz eine Zahl? Nein.", "2. Wer füllt das Ziel aus? Der Gesetzgeber.", "3. Die Kasse wendet nur an."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f011-3", "regelId": "q11", "stufe": 3, "format": "F1",
+   "figur": { "name": "Herr Lorenz, Abgeordneter", "emoji": "🎤" },
+   "akte": "Herr Lorenz sagt im Parlament: Wir haben weiten Spielraum. Also streichen wir jede Hilfe für Menschen ohne Einkommen. Ganz und ohne Ersatz.",
+   "frage": "Geht das?",
+   "optionen": [
+    { "text": "Nein: Mindestsicherung bleibt", "richtig": true, "warumNicht": null },
+    { "text": "Ja: weiter Spielraum", "richtig": false, "warumNicht": "Der Spielraum ist weit, aber nicht grenzenlos. Das Existenzminimum muss gesichert bleiben." }
+   ],
+   "ergebnis": "Nein, das Existenzminimum muss der Gesetzgeber immer sichern.",
+   "warum": "Der Gesetzgeber hat viel Spielraum. Eine Mindestsicherung muss er aber gewährleisten.",
+   "denkweg": ["1. Hat das Parlament Spielraum? Ja, weiten.", "2. Gibt es eine Grenze? Ja, das Existenzminimum.", "3. Alles streichen geht nicht."],
+   "dauerSek": 25
+  },
+  {
+   "id": "f011-4", "regelId": "q11", "stufe": 3, "format": "F6",
+   "figur": { "name": "Frau Brandt", "emoji": "👩🏼‍💼" },
+   "akte": "Erklären Sie mir die Rolle des Gesetzgebers beim Sozialstaatsprinzip. Mit Grenze, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Offenes Staatsziel, Konkretisierung durch den Gesetzgeber mit weitem Spielraum, keine Einzelansprüche, aber Mindestsicherung.",
+   "warum": "Die Prüfung will Staatsziel, Offenheit, Gesetzgeber, keine Einzelansprüche und das Existenzminimum.",
+   "denkweg": ["1. Zuerst: Staatsziel, offen.", "2. Dann: Gesetzgeber mit Spielraum.", "3. Zum Schluss: kein Anspruch, aber Mindestsicherung."],
+   "dauerSek": 45
+  },
+  {
+   "id": "k011-1", "regelId": "q11", "stufe": 3, "format": "F1", "kombiRegeln": ["q7"],
+   "figur": { "name": "Frau Esser, Kollegin", "emoji": "👩🏽‍💼" },
+   "akte": "Frau Esser will einer netten Familie 200 Euro zahlen. Ein Gesetz dafür gibt es nicht. Sie sagt: Das Sozialstaatsprinzip reicht als Grundlage.",
+   "frage": "Darf sie zahlen?",
+   "optionen": [
+    { "text": "Nein: braucht ein Gesetz", "richtig": true, "warumNicht": null },
+    { "text": "Ja: Sozialstaat reicht", "richtig": false, "warumNicht": "Das Prinzip ist offen und muss durch Gesetze ausgefüllt werden. Leistungen brauchen ein Gesetz." },
+    { "text": "Ja: Geben ist immer frei", "richtig": false, "warumNicht": "Im Sozialrecht gilt der Vorbehalt auch für Leistungen, nach § 31 SGB I." }
+   ],
+   "ergebnis": "Nein, im Sozialrecht braucht jede Leistung ein Gesetz.",
+   "warum": "Das Sozialstaatsprinzip muss erst der Gesetzgeber ausfüllen. Und § 31 SGB I verlangt für Leistungen ein Gesetz.",
+   "denkweg": ["1. Gibt es ein Gesetz? Nein.", "2. Reicht das Prinzip allein? Nein.", "3. Leistungen brauchen ein Gesetz."],
+   "dauerSek": 28
+  }
+ ],
+ "glossar": [
+  { "begriff": "Öffentliches Recht", "aliase": ["Öffentlichen Recht", "öffentlich-rechtlich"], "erklaerung": "Regeln, nach denen nur der Staat als Staat handeln darf.", "beispiel": "Das Ordnungsamt verlangt ein Bußgeld fürs Falschparken." },
+  { "begriff": "Privatrecht", "aliase": [], "erklaerung": "Regeln, die für alle Menschen gleich gelten.", "beispiel": "Du kaufst auf dem Flohmarkt ein Fahrrad." },
+  { "begriff": "Träger hoheitlicher Gewalt", "aliase": ["Hoheitsträger"], "erklaerung": "Jemand, der Staatsmacht ausübt, zum Beispiel ein Amt.", "beispiel": "Die Polizei, die eine Straße sperrt." },
+  { "begriff": "Rechtsnorm", "aliase": ["Norm", "Normen", "Rechtsnormen"], "erklaerung": "Eine feste Regel, die für viele Fälle und Menschen gilt.", "beispiel": "„Wer Rad fährt, braucht nachts Licht.“" },
+  { "begriff": "Tatbestand", "aliase": [], "erklaerung": "Der Wenn-Teil einer Regel: Was muss vorliegen?", "beispiel": "„Wenn du im Park grillst …“" },
+  { "begriff": "Rechtsfolge", "aliase": [], "erklaerung": "Der Dann-Teil einer Regel: Was passiert dann?", "beispiel": "„… dann musst du den Grill löschen.“" },
+  { "begriff": "Auslegung", "aliase": [], "erklaerung": "Du klärst, was eine unklare Regel meint.", "beispiel": "Ist ein Fahrrad ein Fahrzeug?" },
+  { "begriff": "Wortlautgrenze", "aliase": ["Wortlaut", "Wortsinn"], "erklaerung": "Weiter als die Wörter reicht, darf Auslegung nicht gehen.", "beispiel": "Eine Katze ist nie ein Hund." },
+  { "begriff": "Rechtsfortbildung", "aliase": [], "erklaerung": "Das Recht wird über den Text hinaus weitergedacht.", "beispiel": "Eine Regel für Hunde gilt am Ende auch für Schweine." },
+  { "begriff": "Analogie", "aliase": [], "erklaerung": "Eine Regel wird auf einen ähnlichen, nicht geregelten Fall übertragen.", "beispiel": "Die Kinderwagen-Ecke im Bus gilt auch für Rollatoren." },
+  { "begriff": "Regelungslücke", "aliase": ["planwidrige Regelungslücke", "Lücke"], "erklaerung": "Das Gesetz sagt zu einem Fall nichts. Planwidrig heißt: ungewollt.", "beispiel": "Die Hausordnung vergisst einfach die Roller." },
+  { "begriff": "Strafrecht", "aliase": [], "erklaerung": "Regeln, die sagen, wofür man bestraft wird.", "beispiel": "Wer klaut, kann bestraft werden." },
+  { "begriff": "Grundgesetz", "aliase": ["GG", "Verfassung"], "erklaerung": "Die Verfassung von Deutschland. Sie steht über allen Gesetzen.", "beispiel": "Dort steht: Alle Menschen sind vor dem Gesetz gleich." },
+  { "begriff": "Gesetzgeber", "aliase": ["Parlament"], "erklaerung": "Wer Gesetze macht, vor allem das gewählte Parlament.", "beispiel": "Der Bundestag beschließt ein neues Gesetz." },
+  { "begriff": "Verwaltung", "aliase": ["Behörde", "Amt"], "erklaerung": "Die Ämter, die Gesetze im Alltag anwenden.", "beispiel": "Das Bürgeramt stellt dir einen Ausweis aus." },
+  { "begriff": "Vorrang des Gesetzes", "aliase": ["Vorrang"], "erklaerung": "Die Verwaltung darf nicht gegen ein Gesetz handeln.", "beispiel": "Sagt das Gesetz „kostenlos“, darf das Amt kein Geld nehmen." },
+  { "begriff": "Vorbehalt des Gesetzes", "aliase": ["Vorbehalt"], "erklaerung": "Die Verwaltung braucht ein Gesetz, das ihr das Handeln erlaubt.", "beispiel": "Ohne Gesetz darf das Amt keine Abgabe verlangen." },
+  { "begriff": "Ermächtigung", "aliase": ["Ermächtigungsgrundlage"], "erklaerung": "Ein Gesetz, das dem Amt etwas ausdrücklich erlaubt.", "beispiel": "„Das Amt darf für Marktstände eine Gebühr nehmen.“" },
+  { "begriff": "Wesentlichkeitstheorie", "aliase": [], "erklaerung": "Wichtige Fragen, vor allem für Grundrechte, muss das Parlament selbst regeln.", "beispiel": "Eine Impfpflicht regelt kein Ministerium per Brief." },
+  { "begriff": "Normenhierarchie", "aliase": [], "erklaerung": "Die Rangfolge der Regeln: Verfassung, Gesetz, Verordnung, Satzung.", "beispiel": "Die Satzung der Gemeinde darf dem Gesetz nicht widersprechen." },
+  { "begriff": "Rechtsverordnung", "aliase": ["Verordnung"], "erklaerung": "Eine Regel der Regierung oder eines Ministeriums, erlaubt durch ein Gesetz.", "beispiel": "Ein Ministerium legt Details fest, die das Gesetz offen lässt." },
+  { "begriff": "Satzung", "aliase": ["Satzungen"], "erklaerung": "Eine Regel, die sich zum Beispiel eine Gemeinde selbst gibt.", "beispiel": "Die Gemeinde regelt, wann der Friedhof offen ist." },
+  { "begriff": "Legitimationskette", "aliase": ["Legitimation", "demokratische Legitimation"], "erklaerung": "Die Kette vom Volk bis zum Amt, über die Staatsmacht ihren Rückhalt bekommt.", "beispiel": "Volk wählt Parlament, Parlament trägt Regierung, Regierung bestellt Amtsleitung." },
+  { "begriff": "G-BA", "aliase": ["Gemeinsamer Bundesausschuss", "Gemeinsamen Bundesausschuss", "Gemeinsame Bundesausschuss"], "erklaerung": "Gremium aus Kassen, Ärzten und Kliniken, das Regeln für die Versorgung beschließt.", "beispiel": "Der G-BA legt fest, welche Behandlungen die Kasse zahlt." },
+  { "begriff": "Richtlinie", "aliase": ["Richtlinien"], "erklaerung": "Eine verbindliche Regel des G-BA unter dem Gesetz.", "beispiel": "Die Arzneimittel-Richtlinie sagt, welche Mittel die Kasse zahlt." },
+  { "begriff": "Rechtsaufsicht", "aliase": ["Aufsicht"], "erklaerung": "Ein Amt prüft, ob ein anderes sich an das Recht hält.", "beispiel": "Das Gesundheitsministerium schaut dem G-BA auf die Finger." },
+  { "begriff": "Selbstverwaltung", "aliase": ["gemeinsame Selbstverwaltung"], "erklaerung": "Betroffene regeln ihre Dinge selbst, unter Aufsicht des Staats.", "beispiel": "Ärzte und Kassen einigen sich selbst auf Regeln." },
+  { "begriff": "Patientenvertreter", "aliase": ["Patientenvertreterin", "Patientenvertreterinnen"], "erklaerung": "Sie sprechen im G-BA für die Patienten, dürfen aber nicht abstimmen.", "beispiel": "Eine Patientenvertreterin stellt einen Antrag und redet mit." },
+  { "begriff": "Leistungserbringer", "aliase": [], "erklaerung": "Wer Kranke behandelt oder versorgt, zum Beispiel Ärzte und Kliniken.", "beispiel": "Deine Hausärztin ist eine Leistungserbringerin." },
+  { "begriff": "Sozialstaatsprinzip", "aliase": ["Sozialstaat"], "erklaerung": "Das Ziel im Grundgesetz, für soziale Sicherheit und Gerechtigkeit zu sorgen.", "beispiel": "Es gibt eine Krankenkasse und Hilfe für Menschen ohne Geld." },
+  { "begriff": "Staatsziel", "aliase": [], "erklaerung": "Ein Ziel, das der Staat verfolgen muss. Wie, ist offen.", "beispiel": "„Für soziale Sicherheit sorgen“ ohne genaue Zahlen." },
+  { "begriff": "Existenzminimum", "aliase": ["Mindestsicherung"], "erklaerung": "Das, was ein Mensch mindestens zum Leben braucht.", "beispiel": "Essen, Wohnung, Kleidung und ein wenig Teilhabe." },
+  { "begriff": "Gestaltungsspielraum", "aliase": ["Spielraum"], "erklaerung": "Freiheit, selbst zu entscheiden, wie man ein Ziel erreicht.", "beispiel": "Das Parlament wählt, wie hoch eine Hilfe sein soll." },
+  { "begriff": "Sozialgesetzbuch", "aliase": ["SGB"], "erklaerung": "Das große Gesetz für Sozialrecht, zum Beispiel Kranken- und Pflegekasse.", "beispiel": "Im SGB steht, was die Krankenkasse zahlt." }
+ ]
+}

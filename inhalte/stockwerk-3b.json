@@ -1,0 +1,3433 @@
+{
+ "regeln": [
+  {
+   "id": "q41",
+   "titel": "Ist der Bescheid so kaputt, dass er gar nicht gilt?",
+   "fachbegriff": "Nichtigkeit (§ 40 SGB X)",
+   "einSatz": "Ein [[nichtiger|Nichtigkeit]] [[Bescheid]] gilt gar nicht. Das passiert nur bei sehr schweren Fehlern, die jeder sofort sieht.",
+   "warum": "Ein Bescheid soll gelten, auch wenn er Fehler hat. Nur wenn er völlig daneben ist, wäre das unzumutbar.",
+   "alltag": "Ein Strafzettel ohne Absender und ohne Stadtwappen ist kein Strafzettel. Ein Strafzettel mit falscher Hausnummer gilt erst mal, du kannst dich aber wehren.",
+   "erkennen": [
+    "Ist der Fehler **sehr schwer** und **sofort sichtbar**? Dann nichtig.",
+    "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, sittenwidrig.",
+    "Nur falsche Stelle oder befangener Mitarbeiter? Dann **nicht** nichtig.",
+    "Meist ist der Bescheid nur [[rechtswidrig]]: Er gilt, ist aber angreifbar."
+   ],
+   "merktrick": "Nichtig ist nichts. Aber fast nie ist etwas nichtig.",
+   "bausteine": [
+    "§ 40 I: Nichtig ist ein VA mit besonders schwerwiegendem Fehler, der bei verständiger Würdigung offensichtlich ist.",
+    "§ 40 II nennt absolute Nichtigkeitsgründe, z. B. Behörde nicht erkennbar oder Straftat verlangt.",
+    "§ 40 III: Örtliche Unzuständigkeit oder ein ausgeschlossener Amtsträger machen den VA nicht allein nichtig.",
+    "Nichtigkeit ist die Ausnahme; meist ist der VA nur rechtswidrig."
+   ],
+   "fallenBausteine": [
+    "Jeder Fehler bei der Zuständigkeit macht den VA nichtig.",
+    "Ein VA ist schon dann nichtig, wenn er rechtswidrig ist."
+   ]
+  },
+  {
+   "id": "q42",
+   "titel": "Wo steht, dass die Kasse das darf?",
+   "fachbegriff": "Ermächtigungsgrundlage",
+   "einSatz": "Eine [[Ermächtigungsgrundlage]] ist ein Gesetz, das der Behörde ein bestimmtes Handeln erlaubt.",
+   "warum": "Der Staat darf nicht einfach in dein Leben eingreifen. Das Parlament muss es vorher im Gesetz erlauben. Das heißt [[Vorbehalt des Gesetzes]].",
+   "alltag": "Der Hausmeister darf dein Fahrrad nicht einfach wegschließen. Er braucht eine Regel in der Hausordnung, die ihm das erlaubt.",
+   "erkennen": [
+    "Will die Behörde etwas tun, vor allem dir etwas nehmen?",
+    "Frage: In welchem Gesetz steht, dass sie das darf?",
+    "Im Sozialrecht gilt das auch für Leistungen, also fürs Geben.",
+    "Kein Gesetz gefunden? Dann darf sie es nicht."
+   ],
+   "merktrick": "Ohne Gesetz kein Griff in die Tasche.",
+   "bausteine": [
+    "Eine Ermächtigungsgrundlage ist eine Rechtsnorm, die der Verwaltung die Befugnis zu einem bestimmten Handeln verleiht.",
+    "Das gilt insbesondere für Eingriffe.",
+    "Sie ist notwendig wegen des Vorbehalts des Gesetzes (Art. 20 III GG).",
+    "Dieser folgt aus Rechtsstaats- und Demokratieprinzip sowie dem Grundrechtsschutz.",
+    "Im Sozialrecht gilt das auch für Leistungen (§ 31 SGB I).",
+    "Beispiel: § 45 SGB X für die Rücknahme eines begünstigenden VA."
+   ],
+   "fallenBausteine": [
+    "Die Verwaltung darf alles, was kein Gesetz ausdrücklich verbietet.",
+    "Sie ist nur für Leistungen nötig, nicht für Eingriffe."
+   ]
+  },
+  {
+   "id": "q43",
+   "titel": "Wenn das passiert, dann folgt das",
+   "fachbegriff": "Tatbestand und Rechtsfolge",
+   "einSatz": "Der [[Tatbestand]] sagt, **wann** eine Regel greift. Die [[Rechtsfolge]] sagt, **was** dann passiert.",
+   "warum": "Jede Regel hat diesen Aufbau. Wer ihn erkennt, kann jedes Gesetz Stück für Stück prüfen.",
+   "alltag": "Im Freibad steht: „Wer vom Rand springt, muss das Becken verlassen.“ Vom Rand springen ist das Wenn. Becken verlassen ist das Dann.",
+   "erkennen": [
+    "Wenn-Teil mit „wenn“, „sofern“, „soweit“: Tatbestand.",
+    "Dann-Teil mit „hat Anspruch“, „muss“, „ist zu“: Rechtsfolge.",
+    "Auch „kann“, „darf“, „soll“ gehören zur Rechtsfolge.",
+    "Bei „kann“ oder „darf“ steckt das [[Ermessen]] in der Rechtsfolge."
+   ],
+   "merktrick": "Erst das Wenn, dann das Dann.",
+   "bausteine": [
+    "Tatbestand sind die abstrakt beschriebenen Voraussetzungen der Norm.",
+    "Signalwörter: „wenn“, „sofern“, „soweit“.",
+    "Rechtsfolge ist, was bei Erfüllung geschehen muss, darf oder kann.",
+    "Signalwörter: „hat Anspruch“, „ist zu gewähren“, „darf“, „kann“, „soll“.",
+    "Ermessen sitzt in der Rechtsfolge, z. B. § 45 I SGB X: „darf zurückgenommen werden“."
+   ],
+   "fallenBausteine": [
+    "Ermessen sitzt im Tatbestand.",
+    "Tatbestand ist das, was bei Erfüllung geschehen muss."
+   ]
+  },
+  {
+   "id": "q44",
+   "titel": "Welche Freiräume gibt das Gesetz der Behörde?",
+   "fachbegriff": "Ermessen, Beurteilungsspielraum, Planungsspielraum",
+   "einSatz": "Es gibt drei Freiräume: [[Ermessen]] beim Dann-Teil, [[Beurteilungsspielraum]] beim Wenn-Teil, [[Planungsspielraum]] bei Plänen.",
+   "warum": "Nicht alles lässt sich vorab genau regeln. Deshalb lässt das Gesetz der Behörde manchmal Luft. Man muss aber wissen, wo diese Luft sitzt.",
+   "alltag": "Beim Elternabend darf die Lehrerin wählen: Ausflug in den Zoo oder ins Museum. Das ist wie Ermessen. Ob ein Aufsatz „gut“ ist, bewertet nur sie selbst. Das ist wie Beurteilung.",
+   "erkennen": [
+    "„Kann“, „darf“, „ist berechtigt“: Ermessen, sitzt in der [[Rechtsfolge]].",
+    "Wertung im Wenn-Teil, z. B. Prüfungsnote: Beurteilungsspielraum, sitzt im [[Tatbestand]].",
+    "Der Beurteilungsspielraum ist eine seltene Ausnahme.",
+    "Plan für viele, z. B. Krankenhausplan: Planungsspielraum."
+   ],
+   "merktrick": "Ermessen am Ende, Beurteilung am Anfang, Planung im Großen.",
+   "bausteine": [
+    "Ermessen liegt auf der Rechtsfolgenseite: Wahl zwischen mehreren Rechtsfolgen.",
+    "Signalwörter für Ermessen: „kann“, „darf“, „ist berechtigt“.",
+    "Beurteilungsspielraum liegt auf der Tatbestandsseite, bei unbestimmten Rechtsbegriffen.",
+    "Er besteht nur in Ausnahmefällen, z. B. Prüfungsentscheidungen, Prognosen, pluralistische Gremien.",
+    "Planungs- bzw. Gestaltungsspielraum besteht bei Planungsentscheidungen, z. B. Bedarfs- oder Krankenhausplanung."
+   ],
+   "fallenBausteine": [
+    "Ermessen liegt auf der Tatbestandsseite, Beurteilungsspielraum auf der Rechtsfolgenseite.",
+    "Jeder unbestimmte Rechtsbegriff gibt einen Beurteilungsspielraum."
+   ]
+  },
+  {
+   "id": "q45",
+   "titel": "Gibt ein schwammiges Wort der Behörde freie Hand?",
+   "fachbegriff": "Unbestimmter Rechtsbegriff",
+   "einSatz": "Schwammige Wörter wie „notwendig“ geben der Behörde **grundsätzlich keinen** Freiraum. Ein Gericht prüft sie voll nach.",
+   "warum": "Was ein Gesetz meint, ist eine Rechtsfrage. Die klären am Ende die Gerichte, nicht die Behörde.",
+   "alltag": "Im Mietvertrag steht „angemessene Lautstärke“. Der Vermieter legt das nicht allein fest. Im Streit entscheidet der Richter, was angemessen ist.",
+   "erkennen": [
+    "Steht im Wenn-Teil ein weites Wort? Das ist ein [[unbestimmter Rechtsbegriff]].",
+    "Regel: Das Gericht prüft voll, was das Wort hier bedeutet.",
+    "Ausnahme: Prüfungsnoten, Prognosen, Gremien mit vielen Gruppen.",
+    "Nur dann gibt es einen [[Beurteilungsspielraum]]."
+   ],
+   "merktrick": "Schwammig heißt nicht beliebig.",
+   "bausteine": [
+    "Grundsätzlich nein.",
+    "Die Auslegung unbestimmter Rechtsbegriffe ist eine Rechtsfrage.",
+    "Gerichte überprüfen sie voll (Art. 19 IV GG, Gewaltenteilung).",
+    "Ausnahme: anerkannte Beurteilungsspielräume, z. B. Prüfungsentscheidungen, Prognosen, pluralistische Gremien.",
+    "Beispiel: „notwendig“ in § 27 SGB V ist voll überprüfbar."
+   ],
+   "fallenBausteine": [
+    "Ja, unbestimmte Rechtsbegriffe geben der Verwaltung immer Ermessen.",
+    "Gerichte prüfen unbestimmte Rechtsbegriffe nur auf grobe Fehler."
+   ]
+  },
+  {
+   "id": "q46",
+   "titel": "Ob überhaupt oder wie genau?",
+   "fachbegriff": "Entschließungs- und Auswahlermessen",
+   "einSatz": "[[Entschließungsermessen]]: **Ob** die Behörde handelt. [[Auswahlermessen]]: **Wie** sie handelt, also welches Mittel sie wählt.",
+   "warum": "Ermessen hat zwei Stufen. Erst kommt die Frage, ob man etwas tut. Dann die Frage, was genau man tut.",
+   "alltag": "Du überlegst: Gehe ich heute essen? Das ist das Ob. Dann: Pizza oder Sushi? Das ist das Wie.",
+   "erkennen": [
+    "Geht es darum, ob die Behörde überhaupt handelt? Entschließung.",
+    "Geht es um das Mittel, den Umfang oder den Zeitraum? Auswahl.",
+    "Beispiel Rücknahme: Ob sie zurücknimmt, ist das Ob.",
+    "Ganz oder teilweise, für früher oder nur für später: Das ist das Wie."
+   ],
+   "merktrick": "Ob vor Wie: erst entschließen, dann auswählen.",
+   "bausteine": [
+    "Entschließungsermessen: Ob die Behörde überhaupt tätig wird.",
+    "Auswahlermessen: Wie sie tätig wird, also welche Rechtsfolge oder welches Mittel sie wählt.",
+    "Beispiel § 45 SGB X: Ob ein rechtswidriger VA zurückgenommen wird, ist Entschließung.",
+    "Ob ganz oder teilweise, für Zukunft oder Vergangenheit, ist Auswahl."
+   ],
+   "fallenBausteine": [
+    "Entschließungsermessen: Welches Mittel die Behörde wählt.",
+    "Auswahlermessen: Ob die Behörde überhaupt tätig wird."
+   ]
+  },
+  {
+   "id": "q47",
+   "titel": "Keine Wahl: Wenn es passt, muss die Kasse",
+   "fachbegriff": "Gebundene Entscheidung",
+   "einSatz": "Bei einer [[gebundenen Entscheidung]] hat die Behörde keine Wahl. Passt der Wenn-Teil, **muss** sie handeln.",
+   "warum": "Viele Leistungen sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
+   "alltag": "Der Automat: Münze rein, Schokoriegel raus. Er überlegt nicht, ob er dich mag.",
+   "erkennen": [
+    "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
+    "Kein „kann“, kein „darf“ im Dann-Teil.",
+    "Im Sozialrecht ist das der Normalfall bei einem [[Rechtsanspruch]].",
+    "Ein Gericht kann alles voll prüfen."
+   ],
+   "merktrick": "Hat Anspruch heißt: Hand drauf, kein Abwägen.",
+   "bausteine": [
+    "Bei einer gebundenen Entscheidung hat die Verwaltung keinen Entscheidungsspielraum.",
+    "Sind die Tatbestandsvoraussetzungen erfüllt, muss die Rechtsfolge eintreten.",
+    "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
+    "Im Sozialrecht ist das der Regelfall bei Rechtsansprüchen (§ 38 SGB I).",
+    "Gebundene Entscheidungen sind vollständig gerichtlich überprüfbar."
+   ],
+   "fallenBausteine": [
+    "Die Behörde darf auch bei erfüllten Voraussetzungen nach Zweckmäßigkeit entscheiden.",
+    "Gerichte prüfen gebundene Entscheidungen nur auf Ermessensfehler."
+   ]
+  },
+  {
+   "id": "q48",
+   "titel": "„Soll“ heißt: normalerweise ja",
+   "fachbegriff": "Sollvorschrift (intendiertes Ermessen)",
+   "einSatz": "Bei einer [[Sollvorschrift]] muss die Behörde **im Normalfall** so handeln. Nur im seltenen Ausnahmefall darf sie abweichen.",
+   "warum": "Das Gesetz will eine klare Linie. Es lässt aber eine Tür offen für Fälle, die ganz anders liegen.",
+   "alltag": "Die Kita-Regel: „Kinder sollen um 9 Uhr da sein.“ Normal heißt das: 9 Uhr. Nur bei einem besonderen Grund, etwa einem Arzttermin, ist später okay.",
+   "erkennen": [
+    "Signalwort: „soll“.",
+    "Normalfall: Die Behörde folgt der Regel, ohne lange Begründung.",
+    "Ganz untypischer Fall ([[atypischer Fall]])? Dann darf sie abweichen.",
+    "Wer abweicht, muss das begründen."
+   ],
+   "merktrick": "Soll ist fast Muss, nur mit Notausgang.",
+   "bausteine": [
+    "Eine Sollvorschrift verpflichtet die Verwaltung im Regelfall zu einer bestimmten Rechtsfolge.",
+    "Nur in atypischen Ausnahmefällen darf sie abweichen.",
+    "Man spricht von intendiertem (gebundenem) Ermessen.",
+    "Sie steht zwischen gebundener Entscheidung und freiem Ermessen.",
+    "Eine Begründung ist nur bei der Abweichung nötig."
+   ],
+   "fallenBausteine": [
+    "„Soll“ bedeutet freies Ermessen wie „kann“.",
+    "Eine Begründung ist gerade dann nötig, wenn die Behörde der Regel folgt."
+   ]
+  },
+  {
+   "id": "q49",
+   "titel": "Schaut das Gericht immer ganz genau hin?",
+   "fachbegriff": "Gerichtliche Kontrolldichte",
+   "einSatz": "Meist ja: Das Gericht prüft den Wenn-Teil voll. Ausnahmen sind [[Beurteilungsspielraum]], [[Ermessen]] und Planungen.",
+   "warum": "Du sollst dich vor Gericht wirksam wehren können. Wo das Gesetz der Behörde aber bewusst Freiraum gibt, hält sich das Gericht zurück.",
+   "alltag": "Der Schiedsrichter achtet auf jede Regel. Ob der Trainer lieber Paul oder Ali einwechselt, ist nicht seine Sache.",
+   "erkennen": [
+    "Regel: volle Prüfung, auch bei schwammigen Wörtern.",
+    "Beurteilungsspielraum: Das Gericht prüft nur eingeschränkt.",
+    "Ermessen: Das Gericht sucht nur Fehler, nicht die beste Lösung.",
+    "Planung und Prognose: ebenfalls nur eingeschränkt."
+   ],
+   "merktrick": "Recht prüft der Richter, Geschmack nicht.",
+   "bausteine": [
+    "Nein, nicht immer.",
+    "Grundsatz: volle Prüfung des Tatbestands (Art. 19 IV GG), auch der unbestimmten Rechtsbegriffe.",
+    "Ausnahme: Beurteilungsspielraum, dann nur eingeschränkte Kontrolle.",
+    "Bei Ermessen prüft das Gericht nur Ermessensfehler, nicht die Zweckmäßigkeit (§ 54 II 2 SGG).",
+    "Auch Prognose- und Planungsentscheidungen werden nur eingeschränkt geprüft."
+   ],
+   "fallenBausteine": [
+    "Das Gericht prüft immer auch, ob die Entscheidung zweckmäßig war.",
+    "Unbestimmte Rechtsbegriffe prüft das Gericht grundsätzlich nicht."
+   ]
+  },
+  {
+   "id": "q50",
+   "titel": "Die Kasse hätte wählen dürfen, hat es aber nicht gemerkt",
+   "fachbegriff": "Ermessensnichtgebrauch (Ermessensausfall)",
+   "einSatz": "Das Gesetz gibt der Kasse eine Wahl. Die Kasse merkt das nicht oder nutzt die Wahl nicht. Das ist ein Fehler.",
+   "warum": "Wenn das Gesetz eine Wahl lässt, soll die Kasse den Einzelfall anschauen. Wer gar nicht abwägt, entscheidet blind.",
+   "alltag": "Der Trainer darf entscheiden, wer im Spiel mitspielt. Er stellt immer dieselben auf, weil er glaubt, das sei Vorschrift. Er hat seine Wahl verschenkt.",
+   "erkennen": [
+    "Steht im Gesetz „kann“ oder „darf“? Dann hat die Kasse [[Ermessen]].",
+    "Sagt die Kasse „wir müssen“ oder „wir haben keine Wahl“?",
+    "Hat sie den Einzelfall gar nicht angeschaut?",
+    "Dann liegt **Ermessensnichtgebrauch** vor."
+   ],
+   "merktrick": "Wahl gehabt, nicht gewählt: Ermessen verschlafen.",
+   "bausteine": [
+    "Ermessensnichtgebrauch liegt vor, wenn die Behörde ihren Ermessensspielraum nicht erkennt oder nicht ausübt.",
+    "Etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.",
+    "Man spricht auch von Ermessensausfall."
+   ],
+   "fallenBausteine": [
+    "Ermessensnichtgebrauch liegt vor, wenn die Behörde den gesetzlichen Rahmen überschreitet."
+   ]
+  },
+  {
+   "id": "q51",
+   "titel": "Die Kasse geht weiter, als das Gesetz erlaubt",
+   "fachbegriff": "Ermessensüberschreitung",
+   "einSatz": "Die Behörde wählt eine Folge, die außerhalb des erlaubten Rahmens liegt. Das ist eine [[Ermessensüberschreitung]].",
+   "warum": "Das Gesetz gibt der Behörde einen Spielraum, aber mit Zaun. Wer über den Zaun springt, handelt ohne Erlaubnis.",
+   "alltag": "Die Eltern sagen: „Du darfst bis 22 Uhr wegbleiben.“ Du kommst um Mitternacht. Du hattest eine Wahl, aber nicht bis Mitternacht.",
+   "erkennen": [
+    "Welchen Rahmen setzt das Gesetz, z. B. „bis zu 30 %“?",
+    "Liegt die Entscheidung außerhalb, z. B. 50 %?",
+    "Oder wählt die Behörde eine Folge, die das Gesetz gar nicht kennt?",
+    "Dann ist der Rahmen überschritten."
+   ],
+   "merktrick": "Über den Zaun ist zu weit.",
+   "bausteine": [
+    "Ermessensüberschreitung: Die Behörde wählt eine Rechtsfolge, die vom gesetzlichen Ermessensrahmen nicht gedeckt ist.",
+    "Beispiel: Das Gesetz erlaubt eine Kürzung um bis zu 30 %.",
+    "Die Behörde kürzt aber um 50 %."
+   ],
+   "fallenBausteine": [
+    "Ermessensüberschreitung: Die Behörde erkennt ihren Spielraum nicht.",
+    "Ermessensüberschreitung: Die Behörde entscheidet aus sachfremden Gründen."
+   ]
+  },
+  {
+   "id": "q52",
+   "titel": "Die Kasse wählt aus den falschen Gründen",
+   "fachbegriff": "Ermessensfehlgebrauch (Ermessensmissbrauch)",
+   "einSatz": "Die Behörde nutzt ihre Wahl, aber aus Gründen, die nicht zum Zweck des Gesetzes passen. Das ist [[Ermessensfehlgebrauch]].",
+   "warum": "Jede Wahl, die das Gesetz erlaubt, hat einen Zweck. Persönliche Abneigung oder Rache gehören nicht dazu.",
+   "alltag": "Die Lehrerin darf entscheiden, wer die Klassenfahrt plant. Sie nimmt nur Kinder, deren Eltern ihr Kuchen backen. Das ist ein falscher Grund.",
+   "erkennen": [
+    "Hat die Behörde abgewogen, aber mit sachfremden Gründen?",
+    "Hat sie Wichtiges vergessen oder schief gewichtet?",
+    "Verletzt die Wahl Grundrechte, Gleichbehandlung oder [[Verhältnismäßigkeit]]?",
+    "Dann: Ermessensfehlgebrauch."
+   ],
+   "merktrick": "Richtig gewählt, falsch gezielt.",
+   "bausteine": [
+    "Ermessensfehlgebrauch: Die Behörde übt das Ermessen nicht entsprechend dem Zweck der Ermächtigung aus (§ 39 I SGB I).",
+    "Etwa wegen sachfremder Erwägungen oder Abwägungsdefiziten.",
+    "Oder wegen Verstoßes gegen Grundrechte, Gleichbehandlung oder Verhältnismäßigkeit.",
+    "Man spricht auch von Ermessensmissbrauch.",
+    "Beispiel: Reha abgelehnt, weil der Antragsteller die Krankenkasse gewechselt hat."
+   ],
+   "fallenBausteine": [
+    "Ermessensfehlgebrauch: Die Behörde wählt eine Rechtsfolge außerhalb des gesetzlichen Rahmens."
+   ]
+  },
+  {
+   "id": "q53",
+   "titel": "Nicht mit Kanonen auf Spatzen schießen",
+   "fachbegriff": "Verhältnismäßigkeit beim Ermessen",
+   "einSatz": "Auch mit [[Ermessen]] muss die Behörde fair bleiben. Ihre Maßnahme muss zum Ziel passen und darf nicht zu hart sein.",
+   "warum": "Eine Wahl ist kein Freibrief. Die [[Verhältnismäßigkeit]] begrenzt jede Entscheidung mit Spielraum.",
+   "alltag": "Dein Kind kleckert beim Essen. Ein Lätzchen hilft. Drei Wochen Hausarrest wären zu hart, obwohl auch das Kleckern aufhören würde.",
+   "erkennen": [
+    "Vier Fragen: Gutes Ziel? Hilft das Mittel?",
+    "Gibt es ein milderes Mittel, das genauso gut hilft?",
+    "Steht der Schaden im Verhältnis zum Nutzen?",
+    "Bleibt nur eine faire Lösung übrig? Dann ist das Ermessen auf Null geschrumpft."
+   ],
+   "merktrick": "Ein Ziel, drei Hürden: geeignet, erforderlich, angemessen.",
+   "bausteine": [
+    "Die Verhältnismäßigkeit ist eine Schranke der Ermessensausübung (§ 39 SGB I).",
+    "Die Maßnahme muss einen legitimen Zweck verfolgen und geeignet sein.",
+    "Sie muss erforderlich sein, also das mildeste gleich wirksame Mittel.",
+    "Und sie muss angemessen sein.",
+    "Eine unverhältnismäßige Entscheidung ist ein Ermessensfehler.",
+    "Ist nur eine Entscheidung rechtmäßig, liegt Ermessensreduzierung auf Null vor; die Entscheidung ist dann gebunden."
+   ],
+   "fallenBausteine": [
+    "Erforderlich ist die Maßnahme, wenn sie den Zweck am stärksten fördert.",
+    "Bei Ermessensreduzierung auf Null darf die Behörde frei wählen."
+   ]
+  }
+ ],
+ "faelle": [
+  {
+   "id": "f041-0",
+   "regelId": "q41",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Albers, Hufschmied",
+    "emoji": "🧑‍🏭"
+   },
+   "akte": "Herr Albers bekommt einen Brief. Kein Absender, kein Logo, keine Unterschrift. Niemand kann sagen, welche Behörde ihn geschickt hat.",
+   "frage": "Gilt dieser [[Bescheid]]?",
+   "optionen": [
+    {
+     "text": "Nichtig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Gilt, ist aber angreifbar",
+     "richtig": false,
+     "warumNicht": "Ein Bescheid ohne erkennbare Behörde ist ein fester Fall der Nichtigkeit. Er gilt gar nicht."
+    }
+   ],
+   "ergebnis": "Nichtig, weil man die Behörde nicht erkennen kann.",
+   "warum": "Das Gesetz nennt das ausdrücklich als Grund für [[Nichtigkeit]]. Wer nicht weiß, wer schreibt, kann sich auch nicht wehren.",
+   "denkweg": [
+    "1. Ist die Behörde erkennbar? Nein.",
+    "2. Das ist ein fester Nichtig-Fall.",
+    "3. Also: nichtig."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f041-1",
+   "regelId": "q41",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Sörensen, Fährfrau",
+    "emoji": "⛴️"
+   },
+   "akte": "Frau Sörensen wohnt in Kiel. Ihr Antrag landet aus Versehen bei der Geschäftsstelle in Flensburg. Die Flensburger bewilligen ihr eine Kur.",
+   "frage": "Ist der Bescheid nichtig?",
+   "optionen": [
+    {
+     "text": "Nicht nichtig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nichtig",
+     "richtig": false,
+     "warumNicht": "Eine falsche örtliche Stelle reicht allein nicht für Nichtigkeit. Das sagt das Gesetz ausdrücklich."
+    }
+   ],
+   "ergebnis": "Nicht nichtig: Die falsche örtliche Stelle allein reicht nicht.",
+   "warum": "Das Gesetz zählt diesen Fehler zu denen, die allein keine [[Nichtigkeit]] auslösen. Der Bescheid gilt also.",
+   "denkweg": [
+    "1. Fehler: falsche Stadt, also falsche örtliche Stelle.",
+    "2. Das macht einen Bescheid nicht allein nichtig.",
+    "3. Also: nicht nichtig."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f041-2",
+   "regelId": "q41",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brezina, Sachbearbeiter S",
+    "emoji": "🧑‍💼"
+   },
+   "akte": "Sachbearbeiter Brezina bewilligt seinem eigenen Bruder ein teures Hörgerät. Eigentlich durfte er an diesem Fall nicht arbeiten. Der Bruder freut sich, die Kollegen weniger.",
+   "frage": "Ist der [[Bescheid]] nichtig?",
+   "optionen": [
+    {
+     "text": "Nein, aber rechtswidrig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, nichtig",
+     "richtig": false,
+     "warumNicht": "Ein ausgeschlossener Mitarbeiter macht den Bescheid nicht allein nichtig. So steht es im Gesetz."
+    },
+    {
+     "text": "Nein, alles in Ordnung",
+     "richtig": false,
+     "warumNicht": "Ganz in Ordnung ist es nicht. Der Bruder hätte den Fall nicht bearbeiten dürfen."
+    }
+   ],
+   "ergebnis": "Nicht nichtig, aber [[rechtswidrig]]: Ein ausgeschlossener Mitarbeiter reicht allein nicht.",
+   "warum": "Ein Verfahrensfehler macht einen Bescheid meist nur angreifbar. Nichtig ist er nur bei ganz schweren, offensichtlichen Fehlern.",
+   "denkweg": [
+    "1. Fehler: Der Mitarbeiter war befangen.",
+    "2. Das ist laut Gesetz allein kein Nichtig-Grund.",
+    "3. Also: gilt, ist aber rechtswidrig."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f041-3",
+   "regelId": "q41",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Wendt, Feuerwerkerin",
+    "emoji": "🎆"
+   },
+   "akte": "Die Kasse schreibt Frau Wendt: „Die Kur gibt es nur, wenn Sie vorher ein Auto Ihres Nachbarn anzünden.“ Das ist eine Straftat.",
+   "frage": "Was gilt?",
+   "optionen": [
+    {
+     "text": "Nichtig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rechtswidrig, aber gültig",
+     "richtig": false,
+     "warumNicht": "Ein Bescheid, der eine Straftat verlangt, ist ein fester Nichtig-Fall. Er gilt gar nicht."
+    },
+    {
+     "text": "Gültig, die Kasse darf das",
+     "richtig": false,
+     "warumNicht": "Keine Behörde darf eine Straftat verlangen."
+    }
+   ],
+   "ergebnis": "Nichtig, weil der Bescheid eine Straftat verlangt.",
+   "warum": "Das Gesetz nennt diesen Fall ausdrücklich. So ein Bescheid ist offensichtlich völlig daneben.",
+   "denkweg": [
+    "1. Verlangt der Bescheid eine Straftat? Ja.",
+    "2. Das ist ein fester Nichtig-Fall.",
+    "3. Also: nichtig."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f041-4",
+   "regelId": "q41",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat fünf Fehler-Notizen gesammelt. Sortiere sie.",
+   "frage": "Nichtig oder nicht allein nichtig?",
+   "fachfaecher": {
+    "faecher": [
+     "Nichtig",
+     "Nicht allein nichtig"
+    ],
+    "karten": [
+     {
+      "text": "Absender nicht erkennbar",
+      "fach": "Nichtig",
+      "warum": "Fester Nichtig-Fall im Gesetz."
+     },
+     {
+      "text": "Verlangt etwas Unmögliches",
+      "fach": "Nichtig",
+      "warum": "Was niemand ausführen kann, ist nichtig."
+     },
+     {
+      "text": "Falsche Stadt bearbeitet",
+      "fach": "Nicht allein nichtig",
+      "warum": "Örtliche Zuständigkeit allein reicht nicht."
+     },
+     {
+      "text": "Befangener Mitarbeiter",
+      "fach": "Nicht allein nichtig",
+      "warum": "Ein ausgeschlossener Mitarbeiter allein reicht nicht."
+     },
+     {
+      "text": "Verstößt gegen die guten Sitten",
+      "fach": "Nichtig",
+      "warum": "Fester Nichtig-Fall im Gesetz."
+     }
+    ]
+   },
+   "ergebnis": "Absender fehlt, Unmögliches und Sittenwidriges: nichtig. Falsche Stadt und befangener Mitarbeiter: nicht allein nichtig.",
+   "warum": "Das Gesetz hat eine Liste für „immer nichtig“ und eine für „allein nicht nichtig“. Die zweite Liste sind Fehler im Ablauf.",
+   "denkweg": [
+    "1. Ist es ein sehr schwerer, sichtbarer Fehler? Dann nichtig.",
+    "2. Ist es nur ein Fehler im Ablauf? Dann nicht allein nichtig."
+   ],
+   "dauerSek": 40,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f041-5",
+   "regelId": "q41",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, wann ein Bescheid nichtig ist. Mit allen drei Absätzen, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Generalklausel, Liste der Nichtig-Gründe, Liste der Nicht-Gründe, dann: Nichtigkeit ist die Ausnahme.",
+   "warum": "Die Prüfung läuft wie das Gesetz: Absatz 1, Absatz 2, Absatz 3. Am Ende steht die Grundregel.",
+   "denkweg": [
+    "1. Erst die allgemeine Regel nennen.",
+    "2. Dann die beiden Listen.",
+    "3. Zum Schluss: meist nur rechtswidrig."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f042-0",
+   "regelId": "q42",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Mutlu, Taxifahrer",
+    "emoji": "🚕"
+   },
+   "akte": "Die Kasse will Herrn Mutlu 50 Euro abziehen, weil er unfreundlich am Telefon war. Kein Gesetz erlaubt das.",
+   "frage": "Darf die Kasse das?",
+   "optionen": [
+    {
+     "text": "Nein, kein Gesetz erlaubt es",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, die Kasse ist die Chefin",
+     "richtig": false,
+     "warumNicht": "Die Kasse ist eine Behörde. Sie braucht für einen Eingriff ein Gesetz."
+    }
+   ],
+   "ergebnis": "Nein: Ohne [[Ermächtigungsgrundlage]] darf die Kasse nicht eingreifen.",
+   "warum": "Wer dir etwas nimmt, braucht dafür ein Gesetz. Hier gibt es keins.",
+   "denkweg": [
+    "1. Nimmt die Kasse ihm etwas? Ja, Geld.",
+    "2. Gibt es ein Gesetz dafür? Nein.",
+    "3. Also: verboten."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f042-1",
+   "regelId": "q42",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Haddad, Goldschmiedin",
+    "emoji": "💍"
+   },
+   "akte": "Die Kasse hebt einen falschen Bescheid von Frau Haddad auf. Sie stützt sich auf § 45 SGB X (Sozialgesetzbuch, Teil 10). Dieser Paragraf erlaubt das Aufheben.",
+   "frage": "Was ist § 45 SGB X hier?",
+   "optionen": [
+    {
+     "text": "Ermächtigungsgrundlage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur eine Empfehlung",
+     "richtig": false,
+     "warumNicht": "Ein Paragraf im Gesetz ist keine Empfehlung. Er gibt der Kasse die Erlaubnis."
+    },
+    {
+     "text": "Der Widerspruch",
+     "richtig": false,
+     "warumNicht": "Den Widerspruch legt die Bürgerin ein. Hier geht es um die Erlaubnis für die Kasse."
+    }
+   ],
+   "ergebnis": "§ 45 SGB X ist die [[Ermächtigungsgrundlage]] für das Aufheben.",
+   "warum": "Die Kasse braucht ein Gesetz, das ihr das Aufheben erlaubt. Genau das liefert § 45.",
+   "denkweg": [
+    "1. Was tut die Kasse? Sie hebt auf.",
+    "2. Welche Norm erlaubt das? § 45 SGB X.",
+    "3. Also ist das die Ermächtigungsgrundlage."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f042-2",
+   "regelId": "q42",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lorenz, Kitaleiter",
+    "emoji": "🧑‍🍼"
+   },
+   "akte": "Die Kasse ist gut drauf. Sie will allen Kita-Leitern ein Wellness-Wochenende schenken. Herr Lorenz jubelt schon. Leider steht dazu nichts im Gesetz.",
+   "frage": "Darf die Kasse das?",
+   "optionen": [
+    {
+     "text": "Nein, auch Geben braucht Gesetz",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Geschenke sind immer erlaubt",
+     "richtig": false,
+     "warumNicht": "Im Sozialrecht braucht auch eine Leistung ein Gesetz. Geschenke ohne Grundlage gehen nicht."
+    },
+    {
+     "text": "Ja, nur Eingriffe brauchen Gesetz",
+     "richtig": false,
+     "warumNicht": "Außerhalb des Sozialrechts mag das so sein. Im Sozialrecht gilt der Vorbehalt auch für Leistungen."
+    }
+   ],
+   "ergebnis": "Nein: Im Sozialrecht braucht auch eine Leistung eine gesetzliche Grundlage.",
+   "warum": "Das steht in § 31 SGB I (Sozialgesetzbuch, Teil 1). Die Kasse verteilt Geld der Versicherten, nicht ihr eigenes.",
+   "denkweg": [
+    "1. Gibt die Kasse etwas? Ja, eine Leistung.",
+    "2. Im Sozialrecht gilt auch dafür der [[Vorbehalt des Gesetzes]].",
+    "3. Kein Gesetz, also nein."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f042-3",
+   "regelId": "q42",
+   "stufe": 3,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Was ist eigentlich eine Ermächtigungsgrundlage? Und warum brauchen wir die?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Ein Gesetz, das der Behörde ein Handeln erlaubt. Nötig, weil die Verwaltung nur mit gesetzlicher Erlaubnis handeln darf.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein Gesetz, das der Behörde etwas verbietet. Die Behörde darf alles, was nicht verboten ist.",
+     "richtig": false,
+     "warumNicht": "Das verwechselt Erlaubnis und Verbot. Die Behörde braucht eine Erlaubnis, nicht bloß kein Verbot."
+    },
+    {
+     "text": "Ein Antrag des Bürgers. Ohne Antrag darf die Behörde nichts tun.",
+     "richtig": false,
+     "warumNicht": "Ein Antrag kommt vom Bürger. Die Ermächtigung kommt aus dem Gesetz."
+    }
+   ],
+   "ergebnis": "Ein Gesetz, das der Behörde ein Handeln erlaubt, nötig wegen des [[Vorbehalts des Gesetzes|Vorbehalt des Gesetzes]].",
+   "warum": "Die Verwaltung darf nur tätig werden, wenn ein Gesetz es erlaubt. Die Erlaubnis selbst heißt Ermächtigungsgrundlage.",
+   "denkweg": [
+    "1. Wer erlaubt? Das Gesetz.",
+    "2. Warum nötig? Vorbehalt des Gesetzes.",
+    "3. Also: Erlaubnis, nicht nur kein Verbot."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f042-4",
+   "regelId": "q42",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, was eine Ermächtigungsgrundlage ist und woraus ihre Notwendigkeit folgt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Rechtsnorm mit Befugnis, nötig wegen des Vorbehalts des Gesetzes, im Sozialrecht auch für Leistungen.",
+   "warum": "Erst die Definition, dann der Grund, dann die Besonderheit im Sozialrecht und ein Beispiel.",
+   "denkweg": [
+    "1. Was ist es? Eine Befugnisnorm.",
+    "2. Warum? Vorbehalt des Gesetzes.",
+    "3. Sozialrecht: auch für Leistungen."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f043-0",
+   "regelId": "q43",
+   "stufe": 0,
+   "format": "F2",
+   "figur": {
+    "name": "Frau Ostrowski, Bademeisterin",
+    "emoji": "🏊"
+   },
+   "akte": "Am Freibad hängt ein Schild. Frau Ostrowski fragt, welcher Teil das Dann ist.",
+   "frage": "Tippe die [[Rechtsfolge]] an.",
+   "markierbar": [
+    {
+     "text": "Wer vom Beckenrand springt,",
+     "warumNicht": "Das ist das Wenn, also der Tatbestand."
+    },
+    {
+     "text": " muss das Becken verlassen.",
+     "ziel": true
+    }
+   ],
+   "ergebnis": "„Muss das Becken verlassen“ ist die Rechtsfolge.",
+   "warum": "Die Rechtsfolge sagt, was passiert. Das Signalwort ist hier „muss“.",
+   "denkweg": [
+    "1. Wo steht das Wenn? „Wer vom Rand springt“.",
+    "2. Wo steht, was dann passiert? „Muss verlassen“.",
+    "3. Das ist die Rechtsfolge."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f043-1",
+   "regelId": "q43",
+   "stufe": 1,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Kaya, Fußballtrainer",
+    "emoji": "⚽"
+   },
+   "akte": "Herr Kaya hat sich eine Vorschrift ausgedruckt. Sie lautet: „Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen oder zu heilen.“",
+   "frage": "Tippe den [[Tatbestand]] an.",
+   "markierbar": [
+    {
+     "text": "Versicherte haben Anspruch auf Krankenbehandlung,",
+     "warumNicht": "„Hat Anspruch“ ist ein Signal für die Rechtsfolge."
+    },
+    {
+     "text": " wenn sie notwendig ist, um eine Krankheit zu erkennen oder zu heilen.",
+     "ziel": true
+    }
+   ],
+   "ergebnis": "Der Teil mit „wenn“ ist der Tatbestand: Krankheit und Notwendigkeit.",
+   "warum": "„Wenn“ leitet die Voraussetzungen ein. „Hat Anspruch“ ist die Folge.",
+   "denkweg": [
+    "1. Suche das Signalwort „wenn“.",
+    "2. Dahinter stehen die Voraussetzungen.",
+    "3. Das ist der Tatbestand."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f043-2",
+   "regelId": "q43",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Frau Lehmann, Vereinskassiererin",
+    "emoji": "🧮"
+   },
+   "akte": "Frau Lehmann liest eine Vorschrift vor. Sie sagt: „Darf ist doch nur ein Füllwort.“ Die Vorschrift lautet:",
+   "frage": "Wo sitzt das [[Ermessen]]? Tippe es an.",
+   "markierbar": [
+    {
+     "text": "Ist ein begünstigender Bescheid rechtswidrig,",
+     "warumNicht": "Das ist der Tatbestand, also das Wenn. Ermessen sitzt dort nicht."
+    },
+    {
+     "text": " darf er ganz oder teilweise zurückgenommen werden.",
+     "ziel": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Rechtsfolge, Signal „darf“",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Tatbestand, Signal „ist“",
+     "richtig": false,
+     "warumNicht": "„Ist rechtswidrig“ beschreibt nur die Voraussetzung. Die Wahl steckt im „darf“."
+    }
+   ],
+   "ergebnis": "Im Teil mit „darf“: Das Ermessen sitzt in der Rechtsfolge.",
+   "warum": "„Darf“ ist kein Füllwort. Es gibt der Behörde eine Wahl, und die steckt immer im Dann-Teil.",
+   "denkweg": [
+    "1. Wenn-Teil: rechtswidriger Bescheid.",
+    "2. Dann-Teil: „darf zurückgenommen werden“.",
+    "3. „Darf“ heißt Ermessen, also in der Rechtsfolge."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f043-3",
+   "regelId": "q43",
+   "stufe": 3,
+   "format": "F3",
+   "figur": {
+    "name": "Herr Nguyen, Imbissbesitzer",
+    "emoji": "🥡"
+   },
+   "akte": "Herr Nguyen hat Satzteile aus mehreren Vorschriften ausgeschnitten. Er will sie ordnen.",
+   "frage": "Tatbestand oder Rechtsfolge?",
+   "fachfaecher": {
+    "faecher": [
+     "Tatbestand",
+     "Rechtsfolge"
+    ],
+    "karten": [
+     {
+      "text": "sofern der Antrag rechtzeitig kommt",
+      "fach": "Tatbestand",
+      "warum": "„Sofern“ leitet eine Voraussetzung ein."
+     },
+     {
+      "text": "kann eine Haushaltshilfe bezahlen",
+      "fach": "Rechtsfolge",
+      "warum": "„Kann“ beschreibt, was passieren darf."
+     },
+     {
+      "text": "soweit das Einkommen niedrig ist",
+      "fach": "Tatbestand",
+      "warum": "„Soweit“ leitet eine Voraussetzung ein."
+     },
+     {
+      "text": "soll die Kosten erstatten",
+      "fach": "Rechtsfolge",
+      "warum": "„Soll“ steht für die Folge, nicht für die Voraussetzung."
+     },
+     {
+      "text": "ist das Geld zu zahlen",
+      "fach": "Rechtsfolge",
+      "warum": "„Ist zu“ ist ein Signal für die Folge."
+     }
+    ]
+   },
+   "ergebnis": "„Sofern“ und „soweit“ sind Tatbestand. „Kann“, „soll“ und „ist zu“ sind Rechtsfolge.",
+   "warum": "Der Tatbestand nennt die Bedingungen. Die Rechtsfolge sagt, was dann gilt, egal ob „muss“, „kann“ oder „soll“.",
+   "denkweg": [
+    "1. Bedingung? Dann Tatbestand.",
+    "2. Folge mit muss, kann, soll? Dann Rechtsfolge."
+   ],
+   "dauerSek": 40,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f043-4",
+   "regelId": "q43",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, was bei einer Norm zum Tatbestand und was zur Rechtsfolge gehört.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Tatbestand sind die Voraussetzungen, Rechtsfolge ist, was dann geschehen muss, darf oder kann.",
+   "warum": "Zu jedem Teil gehören die Signalwörter. Am Ende kommt der Hinweis, wo das Ermessen sitzt.",
+   "denkweg": [
+    "1. Tatbestand und seine Signalwörter.",
+    "2. Rechtsfolge und ihre Signalwörter.",
+    "3. Ermessen sitzt in der Rechtsfolge."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-0",
+   "regelId": "q44",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Pohl, Bienenzüchterin",
+    "emoji": "🐝"
+   },
+   "akte": "Im Gesetz steht: „Die Kasse **kann** einen Zuschuss für Schutzkleidung zahlen.“ Frau Pohl fragt, welcher Freiraum das ist.",
+   "frage": "Welcher Freiraum?",
+   "optionen": [
+    {
+     "text": "Ermessen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Beurteilungsspielraum",
+     "richtig": false,
+     "warumNicht": "Der Beurteilungsspielraum sitzt im Wenn-Teil. „Kann“ steht im Dann-Teil und heißt Ermessen."
+    }
+   ],
+   "ergebnis": "[[Ermessen]], denn „kann“ steht in der Rechtsfolge.",
+   "warum": "„Kann“ ist das klassische Signalwort für Ermessen. Die Kasse darf zwischen Ja und Nein wählen.",
+   "denkweg": [
+    "1. Signalwort? „Kann“.",
+    "2. Das steht im Dann-Teil.",
+    "3. Also: Ermessen."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-1",
+   "regelId": "q44",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brandl, Prüfling",
+    "emoji": "📝"
+   },
+   "akte": "Herr Brandl hat seine mündliche Prüfung mit „ausreichend“ bestanden. Er findet, er war „gut“. Die Note ist eine fachliche Wertung der Prüfer.",
+   "frage": "Welcher Freiraum liegt hier bei den Prüfern?",
+   "optionen": [
+    {
+     "text": "Beurteilungsspielraum",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen",
+     "richtig": false,
+     "warumNicht": "Ermessen ist eine Wahl im Dann-Teil. Eine Prüfungsnote ist eine Wertung im Wenn-Teil."
+    },
+    {
+     "text": "Planungsspielraum",
+     "richtig": false,
+     "warumNicht": "Planungsspielraum gibt es bei großen Plänen, etwa für Krankenhäuser, nicht bei Noten."
+    }
+   ],
+   "ergebnis": "[[Beurteilungsspielraum]], denn Prüfungsnoten sind eine anerkannte Ausnahme.",
+   "warum": "Prüfungsentscheidungen sind ein typischer Fall. Nur die Prüfer haben die Prüfung selbst erlebt.",
+   "denkweg": [
+    "1. Geht es um eine Wertung? Ja, eine Note.",
+    "2. Prüfungen sind eine anerkannte Ausnahme.",
+    "3. Also: Beurteilungsspielraum."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-2",
+   "regelId": "q44",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dr. Engel, Klinikchefin",
+    "emoji": "👩‍⚕️"
+   },
+   "akte": "Das Land stellt einen Plan auf: Wie viele Krankenhausbetten braucht die Region in zehn Jahren? Frau Dr. Engel will mehr Betten für ihre Klinik. Sie hat einen schicken Kittel an.",
+   "frage": "Welcher Freiraum liegt beim Land?",
+   "optionen": [
+    {
+     "text": "Planungsspielraum",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen",
+     "richtig": false,
+     "warumNicht": "Ermessen ist eine Wahl im Einzelfall. Hier geht es um einen großen Plan für eine ganze Region."
+    },
+    {
+     "text": "Kein Freiraum",
+     "richtig": false,
+     "warumNicht": "Bei Planungen lässt das Gesetz Freiraum, etwa bei der Krankenhausplanung."
+    }
+   ],
+   "ergebnis": "[[Planungsspielraum]], weil es um die Krankenhausplanung geht.",
+   "warum": "Bei Planungen muss die Behörde viele Dinge in die Zukunft abwägen. Deshalb hat sie dort Gestaltungsfreiraum.",
+   "denkweg": [
+    "1. Einzelfall oder großer Plan? Großer Plan.",
+    "2. Krankenhausplanung ist ein Planungsfall.",
+    "3. Also: Planungsspielraum."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-3",
+   "regelId": "q44",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat Beispiele auf Zettel geschrieben. Er weiß nicht, wohin damit.",
+   "frage": "Wo gehört der Zettel hin?",
+   "fachfaecher": {
+    "faecher": [
+     "Ermessen",
+     "Beurteilung",
+     "Planung"
+    ],
+    "karten": [
+     {
+      "text": "„Die Kasse darf …“",
+      "fach": "Ermessen",
+      "warum": "Das Wort „darf“ steht für eine Wahl im Dann-Teil."
+     },
+     {
+      "text": "Note in der Prüfung",
+      "fach": "Beurteilung",
+      "warum": "Bei Noten darf der Prüfer selbst werten. Das ist eine der Ausnahmen."
+     },
+     {
+      "text": "Plan, wo wie viele Ärzte sein sollen",
+      "fach": "Planung",
+      "warum": "Ein Plan für die ganze Region: Das ist Planung."
+     },
+     {
+      "text": "„… ist berechtigt, zu …“",
+      "fach": "Ermessen",
+      "warum": "Auch „ist berechtigt“ heißt: Die Kasse hat die Wahl."
+     },
+     {
+      "text": "Fachleute schätzen, was in zehn Jahren ist",
+      "fach": "Beurteilung",
+      "warum": "Ein Blick in die Zukunft ist eine der Ausnahmen."
+     }
+    ]
+   },
+   "ergebnis": "„Darf“ und „ist berechtigt“ sind Ermessen. Note und Blick in die Zukunft sind Beurteilung. Der Ärzte-Plan ist Planung.",
+   "warum": "Ermessen erkennst du am Wort im Dann-Teil. Beurteilung gibt es nur in den Ausnahmen. Planung gibt es bei großen Plänen.",
+   "denkweg": [
+    "1. Steht da „kann“ oder „darf“? Dann Ermessen.",
+    "2. Note oder Blick in die Zukunft? Dann Beurteilung.",
+    "3. Ein Plan für alle? Dann Planung."
+   ],
+   "dauerSek": 40,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-4",
+   "regelId": "q44",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Szabo, Rätselautor",
+    "emoji": "🧩"
+   },
+   "akte": "Herr Szabo will es genau wissen. „Ermessen und [[Beurteilungsspielraum]]: Wo stehen die im Gesetzessatz?“",
+   "frage": "Was antwortest du?",
+   "optionen": [
+    {
+     "text": "Ermessen Dann, Beurteilung Wenn",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen Wenn, Beurteilung Dann",
+     "richtig": false,
+     "warumNicht": "Genau verdreht. Die Wahl sitzt im Dann-Teil, die Wertung im Wenn-Teil."
+    },
+    {
+     "text": "Beide im Wenn-Teil",
+     "richtig": false,
+     "warumNicht": "Ermessen sitzt nie im Wenn-Teil. Es ist eine Wahl bei der Folge."
+    }
+   ],
+   "ergebnis": "Ermessen sitzt in der [[Rechtsfolge]], der Beurteilungsspielraum im [[Tatbestand]].",
+   "warum": "Ermessen ist die Wahl, was passiert. Beurteilung ist die Wertung, ob die Bedingung erfüllt ist.",
+   "denkweg": [
+    "1. Ermessen: Was soll nun passieren? Das ist der Dann-Teil.",
+    "2. Beurteilung: Ist die Bedingung da? Das ist der Wenn-Teil."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f044-5",
+   "regelId": "q44",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir die Handlungsspielräume der Verwaltung und wo sie im Normaufbau sitzen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ermessen auf der Rechtsfolgenseite, Beurteilungsspielraum auf der Tatbestandsseite, dazu der Planungsspielraum.",
+   "warum": "Zu jedem Spielraum gehört sein Ort in der Norm. Beim Beurteilungsspielraum kommt dazu: nur Ausnahmefälle.",
+   "denkweg": [
+    "1. Ermessen mit Signalwörtern.",
+    "2. Beurteilungsspielraum mit Ausnahmen.",
+    "3. Planungsspielraum."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f045-0",
+   "regelId": "q45",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Iwanowa, Balletttänzerin",
+    "emoji": "🩰"
+   },
+   "akte": "Frau Iwanowa will eine Behandlung. Die Kasse sagt: „Nicht notwendig. Und was notwendig ist, bestimmen nur wir.“",
+   "frage": "Stimmt das mit dem „nur wir“?",
+   "optionen": [
+    {
+     "text": "Nein, Gericht prüft voll",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, das bestimmt die Kasse",
+     "richtig": false,
+     "warumNicht": "„Notwendig“ ist ein schwammiges Wort. Was es bedeutet, prüft ein Gericht voll."
+    }
+   ],
+   "ergebnis": "Nein: „Notwendig“ ist ein [[unbestimmter Rechtsbegriff]], den ein Gericht voll prüft.",
+   "warum": "Die Bedeutung eines Gesetzesworts ist eine Rechtsfrage. Die entscheidet am Ende das Gericht.",
+   "denkweg": [
+    "1. Wort im Gesetz: „notwendig“, also schwammig.",
+    "2. Regel: Gericht prüft voll.",
+    "3. Also hat die Kasse keinen Freiraum."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f045-1",
+   "regelId": "q45",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Okonkwo, Hausmeister",
+    "emoji": "🧹"
+   },
+   "akte": "Ein Gesetz verlangt eine „angemessene“ Wohnung. Herr Okonkwo fragt: „Darf die Behörde jetzt frei entscheiden, was angemessen ist?“",
+   "frage": "Was sagst du?",
+   "optionen": [
+    {
+     "text": "Grundsätzlich nein",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, schwammige Wörter = freie Hand",
+     "richtig": false,
+     "warumNicht": "Weite Wörter geben in der Regel keinen Freiraum. Das Gericht prüft sie voll."
+    },
+    {
+     "text": "Ja, das ist Ermessen",
+     "richtig": false,
+     "warumNicht": "Ermessen sitzt im Dann-Teil. „Angemessen“ steht im Wenn-Teil."
+    }
+   ],
+   "ergebnis": "Grundsätzlich nein: Das Gericht prüft, was „angemessen“ hier heißt.",
+   "warum": "Weite Wörter muss man auslegen. Das ist eine Frage des Rechts. Die prüft das Gericht ganz.",
+   "denkweg": [
+    "1. „Angemessen“ ist ein weites Wort.",
+    "2. Was es heißt, ist eine Frage des Rechts.",
+    "3. Also: kein Freiraum."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f045-2",
+   "regelId": "q45",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Becker, Fahrlehrerin",
+    "emoji": "🚗"
+   },
+   "akte": "Frau Becker ist bei der Theorieprüfung als Prüferin eingeteilt. Sie bewertet einen Vortrag als „nicht ausreichend“. Der Prüfling sagt: „Ein Gericht muss das Wort ausreichend voll prüfen!“",
+   "frage": "Hat er recht?",
+   "optionen": [
+    {
+     "text": "Nein, Prüfung ist Ausnahme",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, alles wird voll geprüft",
+     "richtig": false,
+     "warumNicht": "Meist schon. Aber Noten sind eine der wenigen Ausnahmen."
+    },
+    {
+     "text": "Ja, „ausreichend“ ist schwammig",
+     "richtig": false,
+     "warumNicht": "Schwammig ist es. Bei Prüfungen gibt es aber einen Beurteilungsspielraum."
+    }
+   ],
+   "ergebnis": "Nein: Bei Noten gibt es als Ausnahme einen [[Beurteilungsspielraum]].",
+   "warum": "Meist prüft das Gericht weite Wörter voll. Bei Noten macht das Recht eine enge Ausnahme.",
+   "denkweg": [
+    "1. Ein weites Wort? Ja.",
+    "2. Liegt eine Ausnahme vor? Ja, eine Prüfung.",
+    "3. Also hat die Prüferin Freiraum."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f045-3",
+   "regelId": "q45",
+   "stufe": 3,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Was ist eigentlich ein unbestimmter Rechtsbegriff? Hat die Behörde dann freie Hand?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Ein weites Wort im Gesetz, wie „notwendig“. Was es heißt, prüft das Gericht grundsätzlich voll.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein weites Wort im Gesetz. Die Behörde darf es frei füllen, das Gericht schaut nicht hin.",
+     "richtig": false,
+     "warumNicht": "Das ist die typische Verwechslung. Freiraum gibt es nur in engen Ausnahmen, etwa bei Prüfungen."
+    },
+    {
+     "text": "Ein Wort wie „kann“. Es gibt der Behörde eine Wahl bei der Folge.",
+     "richtig": false,
+     "warumNicht": "Das beschreibt Ermessen im Dann-Teil. Unbestimmte Begriffe stehen im Wenn-Teil."
+    }
+   ],
+   "ergebnis": "Ein weites Wort, das grundsätzlich voll gerichtlich geprüft wird.",
+   "warum": "Auslegung ist eine Rechtsfrage. Nur in anerkannten Ausnahmen bekommt die Behörde einen Beurteilungsspielraum.",
+   "denkweg": [
+    "1. Wo steht das Wort? Im Wenn-Teil.",
+    "2. Wer legt es aus? Am Ende das Gericht.",
+    "3. Ausnahmen nur eng."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f045-4",
+   "regelId": "q45",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, ob aus unbestimmten Rechtsbegriffen ein Handlungsspielraum folgt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Grundsätzlich nein: Rechtsfrage, volle Kontrolle; Ausnahme anerkannte Beurteilungsspielräume.",
+   "warum": "Erst die klare Antwort, dann der Grund, dann die Ausnahme und ein Beispiel.",
+   "denkweg": [
+    "1. Antwort: grundsätzlich nein.",
+    "2. Grund: Rechtsfrage, Art. 19 IV GG.",
+    "3. Ausnahme: Beurteilungsspielräume."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-0",
+   "regelId": "q46",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Klein, Kioskbesitzerin",
+    "emoji": "🗞️"
+   },
+   "akte": "Die Kasse überlegt: Nehmen wir den falschen Bescheid von Frau Klein überhaupt zurück? Oder lassen wir ihn stehen?",
+   "frage": "Welches Ermessen nutzt die Kasse hier?",
+   "optionen": [
+    {
+     "text": "Entschließungsermessen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Auswahlermessen",
+     "richtig": false,
+     "warumNicht": "Beim Auswahlermessen geht es um das Wie. Hier geht es darum, ob die Kasse überhaupt handelt."
+    }
+   ],
+   "ergebnis": "[[Entschließungsermessen]], denn es geht um das Ob.",
+   "warum": "Ob die Kasse überhaupt tätig wird, ist die erste Stufe des Ermessens.",
+   "denkweg": [
+    "1. Frage der Kasse: überhaupt oder nicht?",
+    "2. Das ist das Ob.",
+    "3. Also: Entschließungsermessen."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-1",
+   "regelId": "q46",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Vogt, Dachdecker",
+    "emoji": "🏠"
+   },
+   "akte": "Die Kasse hat beschlossen: Der Bescheid von Herrn Vogt wird aufgehoben. Jetzt überlegt sie: nur für die Zukunft oder auch rückwirkend?",
+   "frage": "Welches Ermessen?",
+   "optionen": [
+    {
+     "text": "Auswahlermessen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Entschließungsermessen",
+     "richtig": false,
+     "warumNicht": "Das Ob ist schon entschieden. Jetzt geht es um das Wie, also den Zeitraum."
+    },
+    {
+     "text": "Gar kein Ermessen",
+     "richtig": false,
+     "warumNicht": "Das Gesetz lässt beim Aufheben die Wahl, ob für Zukunft oder Vergangenheit."
+    }
+   ],
+   "ergebnis": "[[Auswahlermessen]], denn es geht um das Wie: welcher Zeitraum.",
+   "warum": "Ob die Kasse handelt, steht fest. Nun wählt sie, wie weit die Aufhebung reicht.",
+   "denkweg": [
+    "1. Ob? Schon entschieden.",
+    "2. Jetzt: Zukunft oder auch Vergangenheit?",
+    "3. Das ist das Wie: Auswahl."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-2",
+   "regelId": "q46",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Schulte, Hundetrainerin",
+    "emoji": "🐕"
+   },
+   "akte": "Frau Schultes Bescheid ist falsch. Die Kasse will ihn zurücknehmen. Frau Schulte bringt ihren Pudel mit und bittet: „Wenigstens nicht alles!“ Die Kasse prüft, ob ganz oder nur zum Teil.",
+   "frage": "Um welches Ermessen geht es bei „ganz oder zum Teil“?",
+   "optionen": [
+    {
+     "text": "Auswahlermessen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Entschließungsermessen",
+     "richtig": false,
+     "warumNicht": "Die Kasse will ja schon zurücknehmen. „Ganz oder teilweise“ ist das Wie."
+    },
+    {
+     "text": "Beurteilungsspielraum",
+     "richtig": false,
+     "warumNicht": "Beurteilung gehört zum Wenn-Teil. Hier geht es um die Wahl der Folge."
+    }
+   ],
+   "ergebnis": "Auswahlermessen: „Ganz oder teilweise“ betrifft das Wie.",
+   "warum": "Bei der Rücknahme ist „ganz oder teilweise“ das Standardbeispiel für das Auswahlermessen.",
+   "denkweg": [
+    "1. Will die Kasse überhaupt handeln? Ja.",
+    "2. Offen ist nur der Umfang.",
+    "3. Umfang ist das Wie: Auswahl."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-3",
+   "regelId": "q46",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt Fragen aus einer Akte auf den Tisch. Sortiere sie.",
+   "frage": "Ob oder Wie?",
+   "fachfaecher": {
+    "faecher": [
+     "Entschließung (Ob)",
+     "Auswahl (Wie)"
+    ],
+    "karten": [
+     {
+      "text": "Nehmen wir überhaupt zurück?",
+      "fach": "Entschließung (Ob)",
+      "warum": "Es geht darum, ob die Kasse handelt."
+     },
+     {
+      "text": "Ganz oder nur teilweise?",
+      "fach": "Auswahl (Wie)",
+      "warum": "Es geht um den Umfang."
+     },
+     {
+      "text": "Nur für die Zukunft oder auch rückwirkend?",
+      "fach": "Auswahl (Wie)",
+      "warum": "Es geht um den Zeitraum."
+     },
+     {
+      "text": "Werden wir hier tätig oder nicht?",
+      "fach": "Entschließung (Ob)",
+      "warum": "Tätig werden oder nicht ist das Ob."
+     },
+     {
+      "text": "Welches Mittel nehmen wir?",
+      "fach": "Auswahl (Wie)",
+      "warum": "Die Wahl des Mittels ist das Wie."
+     }
+    ]
+   },
+   "ergebnis": "Ob überhaupt: Entschließung. Umfang, Zeitraum, Mittel: Auswahl.",
+   "warum": "Die erste Frage ist immer, ob gehandelt wird. Alles danach ist die Auswahl.",
+   "denkweg": [
+    "1. Geht es um Ja oder Nein zum Handeln? Ob.",
+    "2. Geht es um Art, Umfang oder Zeit? Wie."
+   ],
+   "dauerSek": 40,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-4",
+   "regelId": "q46",
+   "stufe": 3,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Was ist eigentlich der Unterschied zwischen Entschließung und Auswahl beim Ermessen?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Entschließung: ob die Behörde überhaupt handelt. Auswahl: wie, also mit welchem Mittel oder welcher Folge.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Entschließung: mit welchem Mittel. Auswahl: ob die Behörde es tut.",
+     "richtig": false,
+     "warumNicht": "Genau verdreht. Entschließen heißt sich für das Ob entscheiden, auswählen heißt das Wie bestimmen."
+    },
+    {
+     "text": "Entschließung sitzt im Wenn-Teil, Auswahl im Dann-Teil.",
+     "richtig": false,
+     "warumNicht": "Beide sind Ermessen und sitzen im Dann-Teil."
+    }
+   ],
+   "ergebnis": "Entschließung ist das Ob, Auswahl ist das Wie.",
+   "warum": "Beide sind Ermessen und sitzen im Dann-Teil. Sie fragen nur etwas anderes: ob oder wie.",
+   "denkweg": [
+    "1. Ob sie handelt? Das ist die Entschließung.",
+    "2. Wie sie handelt? Das ist die Auswahl.",
+    "3. Beides ist Ermessen."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f046-5",
+   "regelId": "q46",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir den Unterschied zwischen Entschließungs- und Auswahlermessen, mit Beispiel.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Entschließung = Ob, Auswahl = Wie; Beispiel Rücknahme nach § 45 SGB X.",
+   "warum": "Erst die beiden Begriffe, dann das Beispiel in derselben Reihenfolge.",
+   "denkweg": [
+    "1. Entschließung: Ob.",
+    "2. Auswahl: Wie.",
+    "3. Beispiel § 45 SGB X."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-0",
+   "regelId": "q47",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Petrović, Kranführer",
+    "emoji": "🏗️"
+   },
+   "akte": "Herr Petrović ist krank und braucht eine Behandlung. Im Gesetz steht: „Versicherte **haben Anspruch** auf Krankenbehandlung.“",
+   "frage": "Hat die Kasse eine Wahl?",
+   "optionen": [
+    {
+     "text": "Nein, gebunden",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Ermessen",
+     "richtig": false,
+     "warumNicht": "„Hat Anspruch“ heißt: Die Kasse muss leisten. Ermessen erkennt man an „kann“ oder „darf“."
+    }
+   ],
+   "ergebnis": "Nein: „Hat Anspruch“ zeigt eine [[gebundene Entscheidung]].",
+   "warum": "Passt der Wenn-Teil, muss die Folge eintreten. Die Kasse darf nicht abwägen.",
+   "denkweg": [
+    "1. Signalwort: „hat Anspruch“.",
+    "2. Das heißt: Folge zwingend.",
+    "3. Also: gebunden."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-1",
+   "regelId": "q47",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Abdi, Hebamme",
+    "emoji": "🤱"
+   },
+   "akte": "Frau Abdi erfüllt alle Voraussetzungen für eine Leistung mit [[Rechtsanspruch]]. Der Sachbearbeiter sagt: „Ich überlege mal, ob ich Lust habe.“",
+   "frage": "Darf er das?",
+   "optionen": [
+    {
+     "text": "Nein, er muss leisten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er hat Ermessen",
+     "richtig": false,
+     "warumNicht": "Bei einem Rechtsanspruch gibt es kein Ermessen. Die Folge muss eintreten."
+    },
+    {
+     "text": "Ja, wenn er es begründet",
+     "richtig": false,
+     "warumNicht": "Eine Begründung macht keine Wahl möglich, wo das Gesetz keine gibt."
+    }
+   ],
+   "ergebnis": "Nein: Bei einem Rechtsanspruch muss die Kasse leisten.",
+   "warum": "Im Sozialrecht ist der Rechtsanspruch der Normalfall. Er lässt keinen Spielraum.",
+   "denkweg": [
+    "1. Liegen alle Voraussetzungen vor? Ja.",
+    "2. Rechtsanspruch heißt gebunden.",
+    "3. Also: Er muss leisten."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-2",
+   "regelId": "q47",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Herr Jansen, Gesetzessammler",
+    "emoji": "📚"
+   },
+   "akte": "Herr Jansen sammelt Sätze aus Gesetzen wie andere Leute Briefmarken. Sortiere seine Sammlung.",
+   "frage": "Muss die Kasse, oder hat sie die Wahl?",
+   "fachfaecher": {
+    "faecher": [
+     "Gebunden",
+     "Ermessen"
+    ],
+    "karten": [
+     {
+      "text": "… hat Anspruch auf …",
+      "fach": "Gebunden",
+      "warum": "„Hat Anspruch“ heißt: Folge zwingend."
+     },
+     {
+      "text": "… kann bezahlen …",
+      "fach": "Ermessen",
+      "warum": "„Kann“ ist ein Signalwort für Ermessen."
+     },
+     {
+      "text": "… ist zu gewähren …",
+      "fach": "Gebunden",
+      "warum": "„Ist zu“ heißt: Die Behörde muss."
+     },
+     {
+      "text": "… darf zurücknehmen …",
+      "fach": "Ermessen",
+      "warum": "„Darf“ gibt eine Wahl."
+     },
+     {
+      "text": "… muss erstatten …",
+      "fach": "Gebunden",
+      "warum": "„Muss“ lässt keine Wahl."
+     }
+    ]
+   },
+   "ergebnis": "„Hat Anspruch“, „ist zu“, „muss“: gebunden. „Kann“ und „darf“: Ermessen.",
+   "warum": "Die Wörter im Dann-Teil verraten, ob die Kasse wählen darf.",
+   "denkweg": [
+    "1. Steht da „muss“ oder „hat Anspruch“? Dann gebunden.",
+    "2. Steht da „kann“ oder „darf“? Dann Ermessen."
+   ],
+   "dauerSek": 35,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-3",
+   "regelId": "q47",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Graf, Gärtnerin",
+    "emoji": "🌻"
+   },
+   "akte": "Frau Graf klagt vor dem [[Sozialgericht]] auf eine Leistung mit „hat Anspruch“. Die Kasse sagt dem Gericht: „Sie dürfen nur grobe Fehler prüfen.“ Draußen blühen ihre Sonnenblumen.",
+   "frage": "Wie weit prüft das Gericht?",
+   "optionen": [
+    {
+     "text": "Vollständig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur Ermessensfehler",
+     "richtig": false,
+     "warumNicht": "Nur Fehler prüft das Gericht bei Ermessen. Hier ist die Entscheidung gebunden."
+    },
+    {
+     "text": "Gar nicht",
+     "richtig": false,
+     "warumNicht": "Gerichte prüfen Entscheidungen der Kasse. Bei gebundenen sogar ganz."
+    }
+   ],
+   "ergebnis": "Vollständig: Gebundene Entscheidungen prüft das Gericht ganz.",
+   "warum": "Ohne Spielraum gibt es nur eine richtige Lösung. Die kann das Gericht selbst feststellen.",
+   "denkweg": [
+    "1. „Hat Anspruch“: gebunden.",
+    "2. Gebunden heißt: voll überprüfbar.",
+    "3. Also: vollständig."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-4",
+   "regelId": "q47",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Moreau, Konditor",
+    "emoji": "🎂"
+   },
+   "akte": "Herr Moreau hat einen Anspruch auf Hilfsmittel. Die Kasse lehnt trotzdem ab: „Wir finden die Ausgabe gerade nicht sinnvoll.“ Sie hält das für gute Abwägung.",
+   "frage": "Was stimmt?",
+   "optionen": [
+    {
+     "text": "Fehler: Kasse ist gebunden",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Korrekt: gute Abwägung",
+     "richtig": false,
+     "warumNicht": "Abwägen darf die Kasse nur bei Ermessen. Bei einem Anspruch zählt nur, ob die Voraussetzungen vorliegen."
+    },
+    {
+     "text": "Fehler: Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Ermessen hatte die Kasse gar nicht. Ihr Fehler ist, dass sie trotz Bindung abwägt."
+    }
+   ],
+   "ergebnis": "Fehler: Bei einer gebundenen Entscheidung darf die Kasse nicht nach Sinn oder Nutzen abwägen.",
+   "warum": "Die Kasse tut so, als hätte sie eine Wahl. Bei „hat Anspruch“ muss sie aber leisten, wenn alles passt.",
+   "denkweg": [
+    "1. Anspruch: gebunden.",
+    "2. Die Kasse wägt trotzdem ab.",
+    "3. Das darf sie nicht."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f047-5",
+   "regelId": "q47",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, was eine gebundene Entscheidung ist.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Kein Spielraum; bei erfüllten Voraussetzungen muss die Rechtsfolge eintreten; Regelfall bei Rechtsansprüchen.",
+   "warum": "Definition, Folge, Signalwörter, Bedeutung im Sozialrecht und Kontrolle durch Gerichte.",
+   "denkweg": [
+    "1. Kein Spielraum.",
+    "2. Folge zwingend, Signalwörter.",
+    "3. § 38 SGB I und volle Kontrolle."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-0",
+   "regelId": "q48",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Hartmann, Tagesmutter",
+    "emoji": "🧸"
+   },
+   "akte": "Im Gesetz steht: Die Kasse **soll** die Kosten übernehmen. Bei Frau Hartmann ist alles ganz normal, nichts Besonderes.",
+   "frage": "Was macht die Kasse?",
+   "optionen": [
+    {
+     "text": "Kosten übernehmen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Frei wählen wie bei „kann“",
+     "richtig": false,
+     "warumNicht": "„Soll“ ist strenger als „kann“. Im Normalfall muss die Kasse so handeln."
+    }
+   ],
+   "ergebnis": "Kosten übernehmen: Im Normalfall bindet „soll“ die Kasse.",
+   "warum": "Eine [[Sollvorschrift]] lässt nur im seltenen Ausnahmefall eine Abweichung zu. Hier ist ein Normalfall.",
+   "denkweg": [
+    "1. Signalwort: „soll“.",
+    "2. Normalfall? Ja.",
+    "3. Also: so handeln, wie das Gesetz es sagt."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-1",
+   "regelId": "q48",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lindner, Tubaspieler",
+    "emoji": "🎺"
+   },
+   "akte": "Das Gesetz sagt: Die Kasse **soll** Zuschüsse zahlen. Herr Lindner hat aber schon von einer anderen Stelle genau dieselbe Summe bekommen. So einen Fall hatte die Kasse noch nie.",
+   "frage": "Darf die Kasse abweichen?",
+   "optionen": [
+    {
+     "text": "Ja, atypischer Fall",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, „soll“ heißt immer",
+     "richtig": false,
+     "warumNicht": "„Soll“ heißt im Regelfall. In einem ganz untypischen Fall darf die Kasse abweichen."
+    },
+    {
+     "text": "Ja, „soll“ heißt freie Wahl",
+     "richtig": false,
+     "warumNicht": "Freie Wahl ist „kann“. Bei „soll“ braucht es einen Ausnahmefall."
+    }
+   ],
+   "ergebnis": "Ja: Ein [[atypischer Fall]] erlaubt eine Abweichung.",
+   "warum": "Doppelt bezahlt zu werden ist kein Normalfall. Für solche Ausnahmen lässt „soll“ eine Tür offen.",
+   "denkweg": [
+    "1. Signalwort: „soll“.",
+    "2. Ist der Fall ganz untypisch? Ja.",
+    "3. Also darf sie abweichen, mit Begründung."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-2",
+   "regelId": "q48",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Krüger, Zirkusartistin",
+    "emoji": "🤹"
+   },
+   "akte": "Die Kasse zahlt Frau Krüger den Zuschuss, wie es die Sollvorschrift vorsieht. Frau Krüger jongliert vor Freude. Ole fragt: „Muss die Kasse das jetzt lang begründen?“",
+   "frage": "Was sagst du Ole?",
+   "optionen": [
+    {
+     "text": "Nein, nur bei Abweichung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, jede Entscheidung",
+     "richtig": false,
+     "warumNicht": "Bei „soll“ braucht nur die Abweichung eine Begründung. Wer der Regel folgt, muss das nicht erklären."
+    },
+    {
+     "text": "Ja, weil es Ermessen ist",
+     "richtig": false,
+     "warumNicht": "Es ist intendiertes Ermessen. Begründen muss man nur das Abweichen."
+    }
+   ],
+   "ergebnis": "Nein: Begründen muss die Kasse nur, wenn sie von der Regel abweicht.",
+   "warum": "Die Regel selbst steht schon im Gesetz. Nur wer davon abweicht, muss erklären, warum.",
+   "denkweg": [
+    "1. Folgt die Kasse der Regel? Ja.",
+    "2. Begründung nötig nur bei Abweichung.",
+    "3. Also: keine lange Begründung."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-3",
+   "regelId": "q48",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat drei Wörter auf Zettel geschrieben. Ordne sie von „keine Wahl“ bis „freie Wahl“.",
+   "frage": "Bring sie in die richtige Reihenfolge.",
+   "reihenfolge": [
+    "„muss“: gebunden",
+    "„soll“: im Regelfall gebunden",
+    "„kann“: freies Ermessen"
+   ],
+   "ergebnis": "„Muss“, dann „soll“, dann „kann“.",
+   "warum": "„Soll“ steht genau zwischen gebundener Entscheidung und freiem Ermessen.",
+   "denkweg": [
+    "1. Keine Wahl: muss.",
+    "2. Fast keine Wahl: soll.",
+    "3. Freie Wahl: kann."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-4",
+   "regelId": "q48",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Weber, Schäfer",
+    "emoji": "🐑"
+   },
+   "akte": "Das Gesetz sagt: Die Kasse **soll** eine Kur bezahlen. Herr Webers Fall ist ganz normal. Die Kasse lehnt ab: „Wir haben ja Ermessen, und Kuren sind teuer.“",
+   "frage": "Was stimmt?",
+   "optionen": [
+    {
+     "text": "Fehler: Normalfall bindet",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Korrekt: „soll“ ist Ermessen",
+     "richtig": false,
+     "warumNicht": "Es ist intendiertes Ermessen. Im Normalfall muss die Kasse der Regel folgen."
+    },
+    {
+     "text": "Korrekt: teuer ist atypisch",
+     "richtig": false,
+     "warumNicht": "Teuer sind Kuren immer. Das macht den Fall nicht untypisch."
+    }
+   ],
+   "ergebnis": "Fehler: Im Normalfall muss die Kasse der Sollvorschrift folgen.",
+   "warum": "Abweichen darf sie nur bei einem atypischen Fall. Hohe Kosten sind bei Kuren normal, kein Ausnahmefall.",
+   "denkweg": [
+    "1. „Soll“: Regelfall bindet.",
+    "2. Ist der Fall untypisch? Nein.",
+    "3. Also: Sie hätte zahlen müssen."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f048-5",
+   "regelId": "q48",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, was eine Sollvorschrift ist.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Im Regelfall verpflichtend, Abweichung nur im atypischen Fall, intendiertes Ermessen, Begründung nur bei Abweichung.",
+   "warum": "Vom Regelfall zur Ausnahme, dann die Einordnung zwischen gebunden und frei.",
+   "denkweg": [
+    "1. Regelfall: Pflicht.",
+    "2. Ausnahme: atypischer Fall.",
+    "3. Einordnung und Begründungspflicht."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f049-0",
+   "regelId": "q49",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Yıldız, Architektin",
+    "emoji": "📐"
+   },
+   "akte": "Die Kasse lehnt eine Behandlung ab: „nicht notwendig“. Frau Yıldız klagt. Das Gesetz sagt: Wer krank ist und Behandlung braucht, hat Anspruch.",
+   "frage": "Prüft das Gericht „notwendig“ voll?",
+   "optionen": [
+    {
+     "text": "Ja, voll",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, nur grobe Fehler",
+     "richtig": false,
+     "warumNicht": "Grundsätzlich prüft das Gericht den Wenn-Teil voll, auch schwammige Wörter."
+    }
+   ],
+   "ergebnis": "Ja: Den [[Tatbestand]] prüft das Gericht grundsätzlich voll.",
+   "warum": "Du hast ein Recht auf wirksamen Schutz vor Gericht. Deshalb prüft das Gericht genau.",
+   "denkweg": [
+    "1. Wenn-Teil mit „notwendig“.",
+    "2. Grundsatz: volle Prüfung.",
+    "3. Keine Ausnahme erkennbar."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f049-1",
+   "regelId": "q49",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Hoffmann, Gemüsehändler",
+    "emoji": "🥕"
+   },
+   "akte": "Die Kasse **kann** eine Haushaltshilfe zahlen. Sie hat sorgfältig abgewogen und abgelehnt. Herr Hoffmann sagt vor Gericht: „Eine Zusage wäre sinnvoller gewesen!“",
+   "frage": "Prüft das Gericht, was sinnvoller wäre?",
+   "optionen": [
+    {
+     "text": "Nein, nur Ermessensfehler",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, es sucht die beste Lösung",
+     "richtig": false,
+     "warumNicht": "Bei Ermessen prüft das Gericht nur Fehler, nicht die Zweckmäßigkeit."
+    },
+    {
+     "text": "Ja, alles wird voll geprüft",
+     "richtig": false,
+     "warumNicht": "Volle Prüfung gilt für den Tatbestand. Beim Ermessen nur auf Fehler."
+    }
+   ],
+   "ergebnis": "Nein: Bei [[Ermessen]] prüft das Gericht nur Fehler, nicht ob es sinnvoller ginge.",
+   "warum": "Das Gesetz hat der Kasse die Wahl gegeben. Das Gericht setzt nicht seine eigene Wahl an ihre Stelle.",
+   "denkweg": [
+    "1. „Kann“: Ermessen.",
+    "2. Gerichte prüfen nur Ermessensfehler.",
+    "3. Keine Prüfung, was zweckmäßiger wäre."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f049-2",
+   "regelId": "q49",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Richterin Adebayo",
+    "emoji": "👩🏾‍⚖️"
+   },
+   "akte": "Frau Richterin Adebayo sortiert ihre Akten. Wie genau muss sie jeweils prüfen?",
+   "frage": "Prüft sie voll oder nur zum Teil?",
+   "fachfaecher": {
+    "faecher": [
+     "Voll",
+     "Nur zum Teil"
+    ],
+    "karten": [
+     {
+      "text": "Was heißt „notwendig“?",
+      "fach": "Voll",
+      "warum": "Auch weite Wörter prüft das Gericht in der Regel ganz."
+     },
+     {
+      "text": "Note in einer Prüfung",
+      "fach": "Nur zum Teil",
+      "warum": "Bei Noten gibt es einen Freiraum. Das Gericht prüft nur zum Teil."
+     },
+     {
+      "text": "„Kann“-Wahl der Kasse",
+      "fach": "Nur zum Teil",
+      "warum": "Bei Ermessen sucht das Gericht nur Fehler."
+     },
+     {
+      "text": "Krankenhausplan des Landes",
+      "fach": "Nur zum Teil",
+      "warum": "Pläne prüft das Gericht nur zum Teil."
+     },
+     {
+      "text": "Anspruch: Ist sie krank?",
+      "fach": "Voll",
+      "warum": "Den Wenn-Teil prüft das Gericht voll."
+     }
+    ]
+   },
+   "ergebnis": "Wenn-Teil und weite Wörter: voll. Noten, Ermessen und Pläne: nur zum Teil.",
+   "warum": "Die volle Prüfung ist die Regel. Nur zum Teil prüft das Gericht dort, wo das Gesetz bewusst Freiraum gibt.",
+   "denkweg": [
+    "1. Normaler Wenn-Teil? Dann voll.",
+    "2. Note, Wahl oder Plan? Dann nur zum Teil."
+   ],
+   "dauerSek": 40,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f049-3",
+   "regelId": "q49",
+   "stufe": 3,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Prüfen die Gerichte eigentlich immer alles ganz genau?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Meist ja, den Wenn-Teil voll. Ausnahmen sind Noten und Prognosen, Ermessen und Pläne. Die prüft es nur zum Teil.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, immer. Das Gericht prüft auch, ob die Kasse die sinnvollste Lösung gewählt hat.",
+     "richtig": false,
+     "warumNicht": "Die Zweckmäßigkeit prüft das Gericht beim Ermessen gerade nicht, nur Fehler."
+    },
+    {
+     "text": "Nein, schwammige Wörter prüft das Gericht nie, die legt die Kasse fest.",
+     "richtig": false,
+     "warumNicht": "Weite Wörter prüft das Gericht in der Regel voll. Nur wenige Fälle sind Ausnahmen."
+    }
+   ],
+   "ergebnis": "In der Regel prüft das Gericht voll. Bei Noten, Ermessen und Plänen nur zum Teil.",
+   "warum": "Gerichte sichern deine Rechte. Wo das Gesetz der Behörde Freiraum gibt, prüfen sie nur auf Fehler.",
+   "denkweg": [
+    "1. Regel: Das Gericht prüft voll.",
+    "2. Ausnahmen: Noten, Ermessen, Pläne.",
+    "3. Beim Ermessen prüft es nie, was klüger wäre."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f049-4",
+   "regelId": "q49",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, ob die Gerichte den Tatbestand immer vollständig prüfen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Nein, nicht immer: Grundsatz volle Prüfung; Ausnahmen Beurteilungsspielraum, Ermessen, Prognose und Planung.",
+   "warum": "Erst die Antwort, dann der Grundsatz, dann die Ausnahmen mit Norm.",
+   "denkweg": [
+    "1. Antwort: nicht immer.",
+    "2. Grundsatz: Art. 19 IV GG.",
+    "3. Ausnahmen, § 54 II 2 SGG."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-0",
+   "regelId": "q50",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Okafor, Busfahrer",
+    "emoji": "🧑🏿‍✈️"
+   },
+   "akte": "Die Kasse nimmt einen falschen Bescheid von Herrn Okafor zurück. Im Brief steht: „Wir **müssen** das tun, wir haben keine Wahl.“ Das Gesetz sagt aber: Die Kasse **darf** zurücknehmen.",
+   "frage": "Hat die Kasse richtig gehandelt?",
+   "optionen": [
+    {
+     "text": "Fehler: Ermessen verschlafen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Alles korrekt",
+     "richtig": false,
+     "warumNicht": "„Darf“ heißt: Die Kasse hat eine Wahl. Wer glaubt, er müsse, nutzt diese Wahl nicht. Das ist ein Fehler."
+    }
+   ],
+   "ergebnis": "Fehler: Die Kasse hat ihr Ermessen nicht genutzt (Ermessensnichtgebrauch).",
+   "warum": "Das Gesetz sagt „darf“. Also hätte die Kasse abwägen müssen. Sie dachte aber, sie sei gezwungen.",
+   "denkweg": [
+    "1. Was sagt das Gesetz? „Darf“, also eine Wahl.",
+    "2. Was sagt die Kasse? „Wir müssen.“",
+    "3. Wahl nicht genutzt: Ermessensnichtgebrauch."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-1",
+   "regelId": "q50",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Petersen, Erzieherin",
+    "emoji": "👩‍🏫"
+   },
+   "akte": "Frau Petersen möchte eine Haushaltshilfe. Das Gesetz sagt: Die Kasse **kann** sie bezahlen. Der Sachbearbeiter lehnt ab: „Haushaltshilfen lehnen wir grundsätzlich immer ab.“",
+   "frage": "Was stimmt hier nicht?",
+   "optionen": [
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Kein Fehler, „kann“ heißt nein",
+     "richtig": false,
+     "warumNicht": "„Kann“ heißt nicht nein. Es heißt: Die Kasse muss den Einzelfall abwägen."
+    }
+   ],
+   "ergebnis": "Ermessensnichtgebrauch: „grundsätzlich immer“ heißt, der Einzelfall wurde nicht angeschaut.",
+   "warum": "Bei „kann“ muss die Kasse den Fall von Frau Petersen ansehen. Eine pauschale Absage ist keine Abwägung.",
+   "denkweg": [
+    "1. Gesetz: „kann“, also Ermessen.",
+    "2. Absage pauschal, ohne Blick auf den Fall.",
+    "3. Ermessen nicht genutzt: Fehler."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-2",
+   "regelId": "q50",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Yilmaz, Elektriker",
+    "emoji": "🧑‍🔧"
+   },
+   "akte": "Herr Yilmaz legt dir den Brief der Kasse hin. Das Gesetz sagt: Die Kasse **kann** eine Reise-Reha bezahlen.",
+   "frage": "Wo steckt der Fehler im Brief? Tippe ihn an.",
+   "markierbar": [
+    {
+     "text": "Sehr geehrter Herr Yilmaz, ",
+     "tappbar": false
+    },
+    {
+     "text": "wir haben Ihren Antrag vom 4. Mai erhalten.",
+     "warumNicht": "Den Eingang des Antrags zu bestätigen ist kein Fehler."
+    },
+    {
+     "text": " Eine Reise-Reha bezahlen wir nach unseren Regeln nie.",
+     "ziel": true
+    },
+    {
+     "text": " Gegen diesen Bescheid können Sie Widerspruch einlegen.",
+     "warumNicht": "Der Hinweis auf den Widerspruch ist richtig und wichtig."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Frist falsch",
+     "richtig": false,
+     "warumNicht": "In diesem Satz steht keine Frist. Das Problem ist das Wort „nie“."
+    }
+   ],
+   "ergebnis": "Der Satz mit „nie“: Die Kasse hat ihr Ermessen nicht genutzt.",
+   "warum": "Bei „kann“ muss die Kasse den Einzelfall abwägen. „Nie“ heißt: Sie hat gar nicht abgewogen.",
+   "denkweg": [
+    "1. Gesetz sagt „kann“: Ermessen.",
+    "2. Brief sagt „nie“: keine Abwägung.",
+    "3. Ermessen nicht genutzt: Fehler."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-3",
+   "regelId": "q50",
+   "stufe": 1,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Was ist eigentlich ein Ermessensnichtgebrauch?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die Kasse hatte eine Wahl, hat sie aber nicht genutzt, zum Beispiel weil sie dachte, sie müsse so entscheiden.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Kasse wählt eine Folge, die das Gesetz gar nicht erlaubt, zum Beispiel eine zu hohe Kürzung.",
+     "richtig": false,
+     "warumNicht": "Das ist die Ermessensüberschreitung: Die Kasse geht über den Rahmen hinaus."
+    },
+    {
+     "text": "Die Kasse entscheidet aus sachfremden Gründen, zum Beispiel weil sie jemanden nicht mag.",
+     "richtig": false,
+     "warumNicht": "Das ist der Ermessensfehlgebrauch: falsche Gründe für die Wahl."
+    }
+   ],
+   "ergebnis": "Wahl gehabt, aber nicht genutzt: Ermessensnichtgebrauch.",
+   "warum": "Beim Nichtgebrauch fehlt die Abwägung ganz. Bei den anderen Fehlern wird abgewogen, aber falsch.",
+   "denkweg": [
+    "1. Hat die Kasse überhaupt abgewogen?",
+    "2. Nein, sie fühlte sich gebunden.",
+    "3. Also Nichtgebrauch."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-4",
+   "regelId": "q50",
+   "stufe": 3,
+   "format": "F2",
+   "figur": {
+    "name": "Frau Novak, Hochzeitsplanerin",
+    "emoji": "💐"
+   },
+   "akte": "Frau Novak hat einen Zuschuss zu viel bekommen. Das Gesetz sagt: Die Kasse **darf** den falschen Bescheid zurücknehmen. Der Brief der Kasse lautet:",
+   "frage": "Tippe den Satz mit dem Fehler an.",
+   "markierbar": [
+    {
+     "text": "Liebe Frau Novak, ",
+     "tappbar": false
+    },
+    {
+     "text": "Ihr Bescheid vom Juni war leider falsch.",
+     "warumNicht": "Dass der Bescheid falsch war, darf die Kasse feststellen."
+    },
+    {
+     "text": " Nach dem Gesetz sind wir deshalb gezwungen, ihn zurückzunehmen.",
+     "ziel": true
+    },
+    {
+     "text": " Bitte melden Sie sich bei Fragen.",
+     "warumNicht": "Ein freundlicher Hinweis ist kein Fehler."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rahmen überschritten",
+     "richtig": false,
+     "warumNicht": "Die Kasse wählt keine verbotene Folge. Sie übersieht, dass sie überhaupt wählen darf."
+    },
+    {
+     "text": "Falsche Gründe",
+     "richtig": false,
+     "warumNicht": "Die Kasse wägt gar nicht ab. Falsche Gründe setzen ein Abwägen voraus."
+    }
+   ],
+   "ergebnis": "Der Satz „wir sind gezwungen“: Die Kasse glaubt sich irrtümlich gebunden.",
+   "warum": "Das Gesetz sagt „darf“. Wer sich trotzdem gezwungen fühlt, nutzt sein Ermessen nicht.",
+   "denkweg": [
+    "1. Gesetz: „darf“, also Ermessen.",
+    "2. Brief: „gezwungen“.",
+    "3. Irrtümlich gebunden: Ermessensnichtgebrauch."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f050-5",
+   "regelId": "q50",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, was ein Ermessensnichtgebrauch ist.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Die Behörde erkennt ihren Ermessensspielraum nicht oder übt ihn nicht aus; auch Ermessensausfall.",
+   "warum": "Definition, typische Ursache, anderer Name. Mehr will die Prüfung nicht hören.",
+   "denkweg": [
+    "1. Spielraum nicht erkannt oder nicht genutzt.",
+    "2. Etwa irrtümlich gebunden.",
+    "3. Auch: Ermessensausfall."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-0",
+   "regelId": "q51",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Kuhn, Bäcker",
+    "emoji": "🥖"
+   },
+   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die Behörde kürzt Herrn Kuhns Leistung um **50 %**.",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Rahmen überschritten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Die Behörde hat gewählt. Sie hat nur mehr genommen, als erlaubt war."
+    }
+   ],
+   "ergebnis": "[[Ermessensüberschreitung]]: 50 % liegen außerhalb des Rahmens von 30 %.",
+   "warum": "Das Gesetz zieht eine Grenze. Die Behörde ist darüber hinausgegangen.",
+   "denkweg": [
+    "1. Rahmen: bis 30 %.",
+    "2. Entscheidung: 50 %.",
+    "3. Außerhalb: Überschreitung."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-1",
+   "regelId": "q51",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Mertens, Floristin",
+    "emoji": "🌷"
+   },
+   "akte": "Das Gesetz erlaubt bei Verspätung eine **Mahnung oder eine Kürzung**. Die Behörde sperrt Frau Mertens stattdessen das Konto.",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Rahmen überschritten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Falsche Gründe",
+     "richtig": false,
+     "warumNicht": "Über Gründe sagt der Fall nichts. Die Folge selbst ist im Gesetz nicht vorgesehen."
+    },
+    {
+     "text": "Kein Fehler",
+     "richtig": false,
+     "warumNicht": "Eine Kontosperre steht nicht in der Liste der erlaubten Folgen."
+    }
+   ],
+   "ergebnis": "Ermessensüberschreitung: Eine Kontosperre ist nicht vorgesehen.",
+   "warum": "Die Behörde darf nur aus den erlaubten Folgen wählen. Eine andere Folge geht über den Rahmen hinaus.",
+   "denkweg": [
+    "1. Erlaubt: Mahnung oder Kürzung.",
+    "2. Gewählt: Kontosperre.",
+    "3. Nicht vorgesehen: Überschreitung."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-2",
+   "regelId": "q51",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Seidel, Sportlehrer",
+    "emoji": "🏐"
+   },
+   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Herr Seidel zeigt dir den Brief.",
+   "frage": "Tippe die fehlerhafte Stelle an.",
+   "markierbar": [
+    {
+     "text": "Sehr geehrter Herr Seidel, ",
+     "tappbar": false
+    },
+    {
+     "text": "Sie haben den Termin dreimal verpasst.",
+     "warumNicht": "Das ist die Begründung. Ein Grund für eine Kürzung kann das sein."
+    },
+    {
+     "text": " Wir haben Ihre Lage genau geprüft.",
+     "warumNicht": "Abwägen ist gerade richtig."
+    },
+    {
+     "text": " Ihre Leistung kürzen wir deshalb um 40 %.",
+     "ziel": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Rahmen überschritten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Die Behörde hat abgewogen. Sie hat nur zu viel gekürzt."
+    },
+    {
+     "text": "Falsche Gründe",
+     "richtig": false,
+     "warumNicht": "Verpasste Termine sind ein sachlicher Grund. Das Problem ist die Höhe."
+    }
+   ],
+   "ergebnis": "Die Kürzung um 40 %: Sie liegt über dem Rahmen von 30 %.",
+   "warum": "Die Abwägung war in Ordnung. Aber das Ergebnis liegt außerhalb dessen, was das Gesetz erlaubt.",
+   "denkweg": [
+    "1. Rahmen: höchstens 30 %.",
+    "2. Brief: 40 %.",
+    "3. Zu viel: Überschreitung."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-3",
+   "regelId": "q51",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Albrecht, Kletterlehrerin",
+    "emoji": "🧗"
+   },
+   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die Behörde prüft Frau Albrechts Lage genau. Sie kürzt um **20 %**. Frau Albrecht findet das ungerecht.",
+   "frage": "Liegt eine Ermessensüberschreitung vor?",
+   "optionen": [
+    {
+     "text": "Nein, im Rahmen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, jede Kürzung ist zu viel",
+     "richtig": false,
+     "warumNicht": "Das Gesetz erlaubt bis zu 30 %. 20 % liegen darunter."
+    },
+    {
+     "text": "Ja, ungerecht ist überschritten",
+     "richtig": false,
+     "warumNicht": "Ob es ungerecht wirkt, ist eine andere Frage. Überschreitung heißt: außerhalb des Rahmens."
+    }
+   ],
+   "ergebnis": "Nein: 20 % liegen innerhalb des Rahmens von 30 %.",
+   "warum": "Eine Überschreitung gibt es nur, wenn die Folge außerhalb des Rahmens liegt. Hier bleibt die Behörde darunter.",
+   "denkweg": [
+    "1. Rahmen: bis 30 %.",
+    "2. Entscheidung: 20 %.",
+    "3. Innerhalb: keine Überschreitung."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-4",
+   "regelId": "q51",
+   "stufe": 3,
+   "format": "F5",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Was ist eigentlich eine Ermessensüberschreitung?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die Behörde wählt eine Folge außerhalb des Rahmens, den das Gesetz erlaubt. Etwa 50 % Kürzung, wo höchstens 30 % gehen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Behörde merkt nicht, dass sie eine Wahl hat, und entscheidet pauschal.",
+     "richtig": false,
+     "warumNicht": "Das ist der Ermessensnichtgebrauch."
+    },
+    {
+     "text": "Die Behörde bleibt im Rahmen, wählt aber aus persönlicher Abneigung.",
+     "richtig": false,
+     "warumNicht": "Das ist der Ermessensfehlgebrauch: falsche Gründe."
+    }
+   ],
+   "ergebnis": "Folge außerhalb des Rahmens: Ermessensüberschreitung.",
+   "warum": "Bei der Überschreitung stimmt das Ergebnis nicht mit dem Rahmen. Bei den anderen Fehlern hakt es beim Abwägen.",
+   "denkweg": [
+    "1. Wo liegt das Problem? Beim Ergebnis.",
+    "2. Liegt es außerhalb des Rahmens? Ja.",
+    "3. Also Überschreitung."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f051-5",
+   "regelId": "q51",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir die Ermessensüberschreitung, mit Beispiel.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Rechtsfolge nicht vom gesetzlichen Ermessensrahmen gedeckt, etwa 50 % statt höchstens 30 % Kürzung.",
+   "warum": "Definition und das Prozent-Beispiel genügen.",
+   "denkweg": [
+    "1. Definition: Rahmen nicht gedeckt.",
+    "2. Beispiel: erlaubt 30 %.",
+    "3. Gekürzt 50 %."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-0",
+   "regelId": "q52",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brinkmann, Postbote",
+    "emoji": "📮"
+   },
+   "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt bei Herrn Brinkmann ab. Grund: „Sie waren früher bei einer anderen Kasse.“",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Falsche Gründe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rahmen überschritten",
+     "richtig": false,
+     "warumNicht": "Ablehnen ist eine erlaubte Folge. Falsch ist der Grund dafür."
+    }
+   ],
+   "ergebnis": "[[Ermessensfehlgebrauch]]: Der Kassenwechsel ist ein sachfremder Grund.",
+   "warum": "Ob jemand früher woanders versichert war, hat mit dem Zweck einer Reha nichts zu tun.",
+   "denkweg": [
+    "1. Gesetz: „kann“, also Ermessen.",
+    "2. Grund: früherer Kassenwechsel.",
+    "3. Sachfremd: Fehlgebrauch."
+   ],
+   "dauerSek": 20,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-1",
+   "regelId": "q52",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lindgren, Tierärztin",
+    "emoji": "🐈"
+   },
+   "akte": "Der Sachbearbeiter **darf** einen Zuschuss geben. Er lehnt bei Frau Lindgren ab. Ihr Hund hat ihn letzte Woche angebellt.",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Falsche Gründe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Er hat entschieden, nur aus einem persönlichen Grund. Das ist kein Ausfall, sondern ein Fehlgebrauch."
+    },
+    {
+     "text": "Kein Fehler",
+     "richtig": false,
+     "warumNicht": "Persönliche Abneigung ist nie ein erlaubter Grund."
+    }
+   ],
+   "ergebnis": "Ermessensfehlgebrauch: persönliche Abneigung ist sachfremd.",
+   "warum": "Das Ermessen dient dem Zweck des Gesetzes, nicht den Gefühlen des Sachbearbeiters.",
+   "denkweg": [
+    "1. Gesetz: „darf“, also Ermessen.",
+    "2. Grund: der bellende Hund.",
+    "3. Sachfremd: Fehlgebrauch."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-2",
+   "regelId": "q52",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Castellano, Eisdielenbesitzer",
+    "emoji": "🍨"
+   },
+   "akte": "Die Kasse **kann** eine Haushaltshilfe zahlen. Herr Castellano hat ein gebrochenes Bein und drei kleine Kinder. Der Brief:",
+   "frage": "Tippe die fehlerhafte Stelle an.",
+   "markierbar": [
+    {
+     "text": "Sehr geehrter Herr Castellano, ",
+     "tappbar": false
+    },
+    {
+     "text": "wir haben Ihren Antrag sorgfältig geprüft.",
+     "warumNicht": "Sorgfältig prüfen ist richtig."
+    },
+    {
+     "text": " Uns ist bekannt, dass Sie drei kleine Kinder haben.",
+     "warumNicht": "Die Kinder sind wichtig für die Abwägung. Sie zu nennen ist richtig."
+    },
+    {
+     "text": " Wir lehnen ab, weil Sie sich letztes Jahr öffentlich über uns beschwert haben.",
+     "ziel": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Falsche Gründe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rahmen überschritten",
+     "richtig": false,
+     "warumNicht": "Ablehnen ist erlaubt. Der Fehler steckt im Grund."
+    },
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Die Kasse hat entschieden. Aber aus einem Grund, der nicht zählen darf."
+    }
+   ],
+   "ergebnis": "Der Satz mit der Beschwerde: Das ist ein sachfremder Grund.",
+   "warum": "Eine Beschwerde hat mit dem Bedarf an Hilfe nichts zu tun. Die Ablehnung wirkt wie eine Strafe.",
+   "denkweg": [
+    "1. Gesetz: „kann“.",
+    "2. Grund im Brief: die Beschwerde.",
+    "3. Sachfremd: Fehlgebrauch."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-3",
+   "regelId": "q52",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Zimmermann, Chorleiterin",
+    "emoji": "🎼"
+   },
+   "akte": "Die Kasse **kann** eine Reha bezahlen. Sie lehnt ab. Dabei schaut sie nur auf die Kosten. Dass Frau Zimmermann ohne Reha nicht mehr arbeiten kann, lässt sie ganz weg.",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Falsch abgewogen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rahmen überschritten",
+     "richtig": false,
+     "warumNicht": "Ablehnen ist eine erlaubte Folge. Falsch ist, wie abgewogen wurde."
+    },
+    {
+     "text": "Ermessen nicht genutzt",
+     "richtig": false,
+     "warumNicht": "Die Kasse hat abgewogen, aber Wichtiges weggelassen. Das ist ein Fehlgebrauch."
+    }
+   ],
+   "ergebnis": "Ermessensfehlgebrauch: Ein wichtiger Punkt fehlt in der Abwägung.",
+   "warum": "Das nennt man ein Abwägungsdefizit. Auch das ist ein Fehlgebrauch.",
+   "denkweg": [
+    "1. Hat die Kasse abgewogen? Ja, aber nur Kosten.",
+    "2. Wichtiges vergessen: Arbeitsfähigkeit.",
+    "3. Abwägungsfehler: Fehlgebrauch."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-4",
+   "regelId": "q52",
+   "stufe": 3,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt mischt drei Fehlerkarten durcheinander. Ordne jede dem richtigen Fehler zu.",
+   "frage": "Welcher Fehler ist es?",
+   "fachfaecher": {
+    "faecher": [
+     "Nichtgebrauch",
+     "Überschreitung",
+     "Fehlgebrauch"
+    ],
+    "karten": [
+     {
+      "text": "„Wir lehnen das immer ab.“",
+      "fach": "Nichtgebrauch",
+      "warum": "Pauschal, ohne Blick auf den Fall."
+     },
+     {
+      "text": "Kürzung 60 %, erlaubt 30 %",
+      "fach": "Überschreitung",
+      "warum": "Das liegt über dem Rahmen."
+     },
+     {
+      "text": "Abgelehnt aus Rache",
+      "fach": "Fehlgebrauch",
+      "warum": "Rache ist ein falscher Grund."
+     },
+     {
+      "text": "„Wir sind gezwungen.“ Gesetz: „darf“",
+      "fach": "Nichtgebrauch",
+      "warum": "Die Kasse glaubt, sie hat keine Wahl."
+     },
+     {
+      "text": "Nur Kosten bedacht, Kinder vergessen",
+      "fach": "Fehlgebrauch",
+      "warum": "Beim Abwägen fehlt etwas Wichtiges."
+     },
+     {
+      "text": "Eine Folge, die das Gesetz nicht kennt",
+      "fach": "Überschreitung",
+      "warum": "Das Gesetz sieht diese Folge nicht vor."
+     }
+    ]
+   },
+   "ergebnis": "Nicht gewählt: Nichtgebrauch. Zu weit: Überschreitung. Aus falschem Grund: Fehlgebrauch.",
+   "warum": "Frag dich jedes Mal: Wurde gewählt? Liegt das Ergebnis im Rahmen? War der Grund sachlich?",
+   "denkweg": [
+    "1. Gar nicht gewählt? Dann Nichtgebrauch.",
+    "2. Über den Rahmen hinaus? Dann Überschreitung.",
+    "3. Aus falschem Grund? Dann Fehlgebrauch."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f052-5",
+   "regelId": "q52",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir den Ermessensfehlgebrauch, mit Beispiel.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ermessen nicht entsprechend dem Zweck der Ermächtigung ausgeübt, etwa wegen sachfremder Erwägungen.",
+   "warum": "Definition mit Norm, Fallgruppen, anderer Name, Beispiel.",
+   "denkweg": [
+    "1. Zweck der Ermächtigung verfehlt, § 39 I SGB I.",
+    "2. Fallgruppen.",
+    "3. Beispiel Kassenwechsel."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f053-0",
+   "regelId": "q53",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Rasmussen, Leuchtturmwärter",
+    "emoji": "🗼"
+   },
+   "akte": "Herr Rasmussen hat ein Formular eine Woche zu spät abgegeben. Die Kasse streicht ihm darum die Leistung für ein ganzes Jahr. Eine kurze Mahnung hätte auch gereicht.",
+   "frage": "Ist das verhältnismäßig?",
+   "optionen": [
+    {
+     "text": "Nein, zu hart",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Regeln sind Regeln",
+     "richtig": false,
+     "warumNicht": "Auch bei Ermessen muss die Maßnahme mild genug sein. Eine Mahnung hätte gereicht."
+    }
+   ],
+   "ergebnis": "Nein: Ein milderes Mittel hätte genauso geholfen.",
+   "warum": "Die [[Verhältnismäßigkeit]] verlangt das mildeste Mittel, das gleich gut wirkt. Hier war das die Mahnung.",
+   "denkweg": [
+    "1. Ziel: Formulare pünktlich.",
+    "2. Milderes Mittel? Mahnung.",
+    "3. Also: zu hart, unverhältnismäßig."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f053-1",
+   "regelId": "q53",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole will die Prüfung der Verhältnismäßigkeit lernen. Er hat die Schritte gemischt.",
+   "frage": "Bring die Schritte in die richtige Reihenfolge.",
+   "reihenfolge": [
+    "Verfolgt die Maßnahme einen legitimen Zweck?",
+    "Ist sie geeignet, den Zweck zu fördern?",
+    "Ist sie erforderlich, also das mildeste Mittel?",
+    "Ist sie angemessen?"
+   ],
+   "ergebnis": "Zweck, geeignet, erforderlich, angemessen.",
+   "warum": "Erst braucht es ein erlaubtes Ziel. Dann prüft man das Mittel in drei Stufen.",
+   "denkweg": [
+    "1. Ziel prüfen.",
+    "2. Geeignet und erforderlich.",
+    "3. Zum Schluss angemessen."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f053-2",
+   "regelId": "q53",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Frau Ebert, Tätowiererin",
+    "emoji": "🖋️"
+   },
+   "akte": "Frau Ebert hat einmal einen Nachweis vergessen. Die Kasse darf darauf reagieren. Der Brief:",
+   "frage": "Tippe die Stelle an, die unverhältnismäßig ist.",
+   "markierbar": [
+    {
+     "text": "Sehr geehrte Frau Ebert, ",
+     "tappbar": false
+    },
+    {
+     "text": "uns fehlt Ihr Nachweis vom März.",
+     "warumNicht": "Das ist nur die Feststellung des Problems."
+    },
+    {
+     "text": " Wir wollen, dass Nachweise vollständig sind.",
+     "warumNicht": "Das ist ein legitimer Zweck."
+    },
+    {
+     "text": " Deshalb beenden wir Ihre Mitgliedschaft sofort.",
+     "ziel": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Nicht erforderlich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nicht geeignet",
+     "richtig": false,
+     "warumNicht": "Eine Kündigung würde das Problem schon „lösen“. Es gibt aber ein milderes Mittel."
+    },
+    {
+     "text": "Kein legitimer Zweck",
+     "richtig": false,
+     "warumNicht": "Vollständige Nachweise sind ein erlaubtes Ziel."
+    }
+   ],
+   "ergebnis": "Die sofortige Beendigung: Ein milderes Mittel, etwa eine Erinnerung, wäre genauso wirksam.",
+   "warum": "Erforderlich heißt: das mildeste Mittel, das gleich gut wirkt. Eine Erinnerung bringt den Nachweis auch.",
+   "denkweg": [
+    "1. Zweck legitim? Ja.",
+    "2. Gibt es ein milderes Mittel? Ja, eine Erinnerung.",
+    "3. Also nicht erforderlich."
+   ],
+   "dauerSek": 30,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f053-3",
+   "regelId": "q53",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Okoro, Kinderarzt",
+    "emoji": "🩺"
+   },
+   "akte": "Die Kasse **kann** über eine Leistung entscheiden. Im Fall eines schwer kranken Kindes wäre aber jede Ablehnung unverhältnismäßig. Nur die Zusage ist fair.",
+   "frage": "Wie heißt das?",
+   "optionen": [
+    {
+     "text": "Ermessensreduzierung auf Null",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ermessensüberschreitung",
+     "richtig": false,
+     "warumNicht": "Hier geht keine Folge über den Rahmen. Es bleibt nur eine einzige faire Folge übrig."
+    },
+    {
+     "text": "Freies Ermessen",
+     "richtig": false,
+     "warumNicht": "Frei wählen kann die Kasse hier gerade nicht mehr."
+    }
+   ],
+   "ergebnis": "[[Ermessensreduzierung auf Null]]: Nur noch eine Entscheidung ist richtig.",
+   "warum": "Wenn alle anderen Wege unverhältnismäßig sind, schrumpft die Wahl auf eine Lösung. Dann ist die Entscheidung gebunden.",
+   "denkweg": [
+    "1. „Kann“: eigentlich Ermessen.",
+    "2. Nur eine faire Lösung übrig.",
+    "3. Also: Reduzierung auf Null."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": []
+  },
+  {
+   "id": "f053-4",
+   "regelId": "q53",
+   "stufe": 3,
+   "format": "F6",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Erklären Sie mir, wie die Verhältnismäßigkeit beim Ermessen berücksichtigt wird.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Schranke der Ermessensausübung: Zweck, geeignet, erforderlich, angemessen; sonst Ermessensfehler; ggf. Reduzierung auf Null.",
+   "warum": "Erst die Einordnung als Schranke, dann die vier Prüfschritte, dann die Folgen.",
+   "denkweg": [
+    "1. Schranke des Ermessens.",
+    "2. Vier Prüfschritte.",
+    "3. Fehler oder Reduzierung auf Null."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": []
+  },
+  {
+   "id": "k041-1",
+   "regelId": "q41",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Falkenberg, Tauchlehrer",
+    "emoji": "🤿"
+   },
+   "akte": "Die Kasse kürzt Herrn Falkenbergs Krankengeld. Vorher hat sie ihn nicht angehört. Herr Falkenberg ruft: „Ohne Anhörung ist der Bescheid nichtig!“",
+   "frage": "Hat er recht?",
+   "optionen": [
+    {
+     "text": "Nein, Fehler ist heilbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, nichtig",
+     "richtig": false,
+     "warumNicht": "Eine fehlende Anhörung ist ein Verfahrensfehler. Er macht den Bescheid nicht nichtig."
+    },
+    {
+     "text": "Nein, Anhörung war unnötig",
+     "richtig": false,
+     "warumNicht": "Bei einer Kürzung greift die Kasse in Rechte ein. Die Anhörung war nötig."
+    }
+   ],
+   "ergebnis": "Nein: Die fehlende [[Anhörung]] ist ein Verfahrensfehler. Die Kasse kann sie nachholen.",
+   "warum": "Nichtig ist ein Bescheid nur bei besonders schweren, offensichtlichen Fehlern. Eine fehlende Anhörung lässt sich nachholen.",
+   "denkweg": [
+    "1. Kürzung greift ein: Anhörung nötig.",
+    "2. Fehlt sie: Verfahrensfehler.",
+    "3. Verfahrensfehler sind heilbar, nicht nichtig."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q40"
+   ]
+  },
+  {
+   "id": "k047-1",
+   "regelId": "q47",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dragić, Schornsteinfegerin",
+    "emoji": "🧑‍🏭"
+   },
+   "akte": "Frau Dragić hat einen Anspruch. Im Gesetz steht „hat Anspruch“. Die Kasse schreibt: „Wir **müssen** zahlen, wir haben keine Wahl.“ Ole ruft: „Ermessen verschlafen!“",
+   "frage": "Hat Ole recht?",
+   "optionen": [
+    {
+     "text": "Nein, gebunden, alles korrekt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Ermessensnichtgebrauch",
+     "richtig": false,
+     "warumNicht": "Ein Nichtgebrauch setzt voraus, dass es Ermessen gibt. Bei „hat Anspruch“ gibt es keins."
+    },
+    {
+     "text": "Ja, Kasse muss abwägen",
+     "richtig": false,
+     "warumNicht": "Bei einer gebundenen Entscheidung wird nicht abgewogen."
+    }
+   ],
+   "ergebnis": "Nein: Bei „hat Anspruch“ muss die Kasse wirklich zahlen. Das ist kein Fehler.",
+   "warum": "„Wir müssen“ ist nur dann ein Fehler, wenn das Gesetz eine Wahl lässt. Hier ist die Entscheidung gebunden.",
+   "denkweg": [
+    "1. Signalwort: „hat Anspruch“, also gebunden.",
+    "2. Ohne Ermessen kein Ermessensfehler.",
+    "3. Also: korrekt."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q50"
+   ]
+  },
+  {
+   "id": "k051-1",
+   "regelId": "q51",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Vossberg, Busunternehmer",
+    "emoji": "🚌"
+   },
+   "akte": "Das Gesetz erlaubt eine Kürzung um **bis zu 30 %**. Die Behörde kürzt um **25 %**. Grund: Herr Vossberg hat im Lokalblatt über sie geschimpft.",
+   "frage": "Welcher Fehler?",
+   "optionen": [
+    {
+     "text": "Fehlgebrauch: falsche Gründe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Überschreitung: zu viel gekürzt",
+     "richtig": false,
+     "warumNicht": "25 % liegen im Rahmen von 30 %. Das Ergebnis passt, der Grund nicht."
+    },
+    {
+     "text": "Kein Fehler, im Rahmen",
+     "richtig": false,
+     "warumNicht": "Im Rahmen zu bleiben reicht nicht. Auch der Grund muss sachlich sein."
+    }
+   ],
+   "ergebnis": "Ermessensfehlgebrauch: Die Höhe passt, aber der Grund ist sachfremd.",
+   "warum": "Die Überschreitung betrifft nur das Ergebnis. Hier stimmt das Ergebnis, aber die Behörde rächt sich.",
+   "denkweg": [
+    "1. Liegt das Ergebnis im Rahmen? Ja, 25 %.",
+    "2. Ist der Grund sachlich? Nein, Rache.",
+    "3. Also: Fehlgebrauch."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q52"
+   ]
+  },
+  {
+   "id": "k048-1",
+   "regelId": "q48",
+   "stufe": 3,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brenner, Notarin",
+    "emoji": "🖊️"
+   },
+   "akte": "Frau Brenner ordnet Fälle danach, wie viel Wahl die Kasse jeweils hat.",
+   "frage": "Sortiere die Fälle.",
+   "fachfaecher": {
+    "faecher": [
+     "Muss leisten",
+     "Muss im Regelfall",
+     "Darf wählen"
+    ],
+    "karten": [
+     {
+      "text": "„Hat Anspruch“, alles erfüllt",
+      "fach": "Muss leisten",
+      "warum": "Gebundene Entscheidung."
+     },
+     {
+      "text": "„Soll zahlen“, ganz normaler Fall",
+      "fach": "Muss im Regelfall",
+      "warum": "Sollvorschrift im Regelfall."
+     },
+     {
+      "text": "„Kann zahlen“",
+      "fach": "Darf wählen",
+      "warum": "Freies Ermessen."
+     },
+     {
+      "text": "„Kann“, aber nur eine faire Lösung",
+      "fach": "Muss leisten",
+      "warum": "Ermessensreduzierung auf Null macht die Entscheidung gebunden."
+     },
+     {
+      "text": "„Ist zu gewähren“",
+      "fach": "Muss leisten",
+      "warum": "„Ist zu“ heißt gebunden."
+     }
+    ]
+   },
+   "ergebnis": "Anspruch, „ist zu“ und Reduzierung auf Null: muss leisten. „Soll“: Regelfall. „Kann“: darf wählen.",
+   "warum": "Achtung Falle: Auch ein „kann“ wird gebunden, wenn nur eine faire Lösung bleibt.",
+   "denkweg": [
+    "1. Muss-Wörter oder Reduzierung auf Null? Muss leisten.",
+    "2. „Soll“? Regelfall.",
+    "3. Sonst „kann“: Wahl."
+   ],
+   "dauerSek": 45,
+   "kombiRegeln": [
+    "q47",
+    "q53"
+   ]
+  },
+  {
+   "id": "k046-1",
+   "regelId": "q46",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Hagedorn, Radsportler",
+    "emoji": "🚴"
+   },
+   "akte": "Herrn Hagedorns Bescheid war rechtswidrig. Die Kasse sagt: „Zurücknehmen müssen wir, das ist klar. Wir überlegen nur noch, ob ganz oder teilweise.“ Das Gesetz sagt: Die Kasse **darf** zurücknehmen.",
+   "frage": "Wo liegt der Fehler?",
+   "optionen": [
+    {
+     "text": "Ob-Frage übersprungen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Kein Fehler, Auswahl genutzt",
+     "richtig": false,
+     "warumNicht": "Die Kasse nutzt nur das Wie. Das Ob hat sie für zwingend gehalten."
+    },
+    {
+     "text": "Rahmen überschritten",
+     "richtig": false,
+     "warumNicht": "Ganz oder teilweise sind erlaubte Folgen. Das Problem ist das übersehene Ob."
+    }
+   ],
+   "ergebnis": "Fehler: Die Kasse hat das [[Entschließungsermessen]] nicht genutzt, nur das Auswahlermessen.",
+   "warum": "„Darf“ lässt auch beim Ob eine Wahl. Wer das Ob für zwingend hält, nutzt dieses Ermessen nicht.",
+   "denkweg": [
+    "1. Gesetz: „darf“, also Wahl beim Ob und beim Wie.",
+    "2. Die Kasse hält das Ob für Pflicht.",
+    "3. Also: Nichtgebrauch beim Ob."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q50"
+   ]
+  },
+  {
+   "id": "k042-1",
+   "regelId": "q42",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Ahrens, Konzertpianistin",
+    "emoji": "🎹"
+   },
+   "akte": "Die Kasse will Frau Ahrens einen Bescheid kürzen. Das Gesetz erlaubt Kürzungen, wenn jemand Termine verpasst. Frau Ahrens hat keinen Termin verpasst.",
+   "frage": "Darf die Kasse kürzen?",
+   "optionen": [
+    {
+     "text": "Nein, Tatbestand fehlt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, es gibt ja ein Gesetz",
+     "richtig": false,
+     "warumNicht": "Das Gesetz erlaubt nur, wenn sein Wenn-Teil erfüllt ist. Hier fehlt der verpasste Termin."
+    },
+    {
+     "text": "Ja, das ist Ermessen",
+     "richtig": false,
+     "warumNicht": "Ermessen gibt es erst, wenn der Wenn-Teil erfüllt ist."
+    }
+   ],
+   "ergebnis": "Nein: Die [[Ermächtigungsgrundlage]] greift nur, wenn ihr Tatbestand erfüllt ist.",
+   "warum": "Ein Gesetz erlaubt nicht alles, nur was in seinem Wenn-Teil steht. Ohne verpassten Termin keine Kürzung.",
+   "denkweg": [
+    "1. Gibt es eine Erlaubnis? Ja, bei verpassten Terminen.",
+    "2. Ist das Wenn erfüllt? Nein.",
+    "3. Also: keine Kürzung."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q43"
+   ]
+  }
+ ],
+ "glossar": [
+  {
+   "begriff": "Bescheid",
+   "aliase": [
+    "Verwaltungsakt",
+    "VA",
+    "Bescheids"
+   ],
+   "erklaerung": "Ein Brief einer Behörde, der für dich persönlich etwas verbindlich regelt.",
+   "beispiel": "Die Kasse schreibt dir: „Ihre Brille wird bezahlt.“"
+  },
+  {
+   "begriff": "Nichtigkeit",
+   "aliase": [
+    "nichtig",
+    "nichtiger",
+    "nichtigen"
+   ],
+   "erklaerung": "Ein Bescheid ist so schwer fehlerhaft, dass er gar nicht gilt.",
+   "beispiel": "Ein Brief ohne erkennbaren Absender verlangt von dir eine Straftat."
+  },
+  {
+   "begriff": "rechtswidrig",
+   "aliase": [
+    "Rechtswidrigkeit"
+   ],
+   "erklaerung": "Etwas verstößt gegen das Recht. Ein rechtswidriger Bescheid gilt trotzdem, bis er aufgehoben wird.",
+   "beispiel": "Die Kasse hat sich verrechnet. Der Bescheid gilt, du kannst dich aber wehren."
+  },
+  {
+   "begriff": "Ermächtigungsgrundlage",
+   "aliase": [
+    "Befugnisnorm"
+   ],
+   "erklaerung": "Ein Gesetz, das der Behörde ein bestimmtes Handeln erlaubt.",
+   "beispiel": "Ein Paragraf erlaubt der Kasse, einen falschen Bescheid aufzuheben."
+  },
+  {
+   "begriff": "Vorbehalt des Gesetzes",
+   "aliase": [
+    "Vorbehalts des Gesetzes"
+   ],
+   "erklaerung": "Die Behörde darf nur handeln, wenn ein Gesetz es erlaubt.",
+   "beispiel": "Ohne Gesetz darf das Amt dir kein Geld abziehen."
+  },
+  {
+   "begriff": "Tatbestand",
+   "aliase": [
+    "Tatbestands"
+   ],
+   "erklaerung": "Der Wenn-Teil einer Regel: die Bedingungen, unter denen sie greift.",
+   "beispiel": "„Wer vom Rand springt …“"
+  },
+  {
+   "begriff": "Rechtsfolge",
+   "aliase": [],
+   "erklaerung": "Der Dann-Teil einer Regel: was passiert, wenn die Bedingungen erfüllt sind.",
+   "beispiel": "„… muss das Becken verlassen.“"
+  },
+  {
+   "begriff": "Ermessen",
+   "aliase": [],
+   "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Sie muss den Einzelfall abwägen.",
+   "beispiel": "„Die Kasse kann eine Haushaltshilfe bezahlen.“"
+  },
+  {
+   "begriff": "Beurteilungsspielraum",
+   "aliase": [],
+   "erklaerung": "Eine seltene Ausnahme: Die Behörde darf selbst bewerten, ob eine Bedingung erfüllt ist.",
+   "beispiel": "Nur die Prüfer bewerten, ob deine mündliche Prüfung „gut“ war."
+  },
+  {
+   "begriff": "Planungsspielraum",
+   "aliase": [
+    "Gestaltungsspielraum"
+   ],
+   "erklaerung": "Freiraum der Behörde, wenn sie einen großen Plan für viele aufstellt.",
+   "beispiel": "Das Land plant, wie viele Krankenhausbetten die Region braucht."
+  },
+  {
+   "begriff": "unbestimmter Rechtsbegriff",
+   "aliase": [
+    "unbestimmte Rechtsbegriffe",
+    "unbestimmten Rechtsbegriffen"
+   ],
+   "erklaerung": "Ein weites Wort im Gesetz, das man erst auslegen muss.",
+   "beispiel": "„Notwendig“, „angemessen“ oder „zumutbar“."
+  },
+  {
+   "begriff": "Entschließungsermessen",
+   "aliase": [],
+   "erklaerung": "Die Wahl, ob die Behörde überhaupt etwas tut.",
+   "beispiel": "Gehe ich heute essen oder nicht?"
+  },
+  {
+   "begriff": "Auswahlermessen",
+   "aliase": [],
+   "erklaerung": "Die Wahl, wie die Behörde handelt, also welches Mittel sie nimmt.",
+   "beispiel": "Pizza oder Sushi?"
+  },
+  {
+   "begriff": "gebundene Entscheidung",
+   "aliase": [
+    "gebundenen Entscheidung",
+    "gebunden"
+   ],
+   "erklaerung": "Die Behörde hat keine Wahl. Sind die Bedingungen erfüllt, muss sie handeln.",
+   "beispiel": "„Versicherte haben Anspruch auf Krankenbehandlung.“"
+  },
+  {
+   "begriff": "Rechtsanspruch",
+   "aliase": [
+    "Anspruch"
+   ],
+   "erklaerung": "Ein Recht, das du einfordern kannst, wenn die Bedingungen erfüllt sind.",
+   "beispiel": "Du bist krank und hast Anspruch auf Behandlung."
+  },
+  {
+   "begriff": "Sollvorschrift",
+   "aliase": [
+    "Sollvorschriften"
+   ],
+   "erklaerung": "Eine Regel mit „soll“: Normalerweise muss die Behörde so handeln.",
+   "beispiel": "„Die Kasse soll die Kosten übernehmen.“"
+  },
+  {
+   "begriff": "atypischer Fall",
+   "aliase": [
+    "atypischen Fall",
+    "Ausnahmefall"
+   ],
+   "erklaerung": "Ein ganz ungewöhnlicher Fall, an den das Gesetz nicht gedacht hat.",
+   "beispiel": "Jemand hat dieselbe Hilfe schon von einer anderen Stelle bekommen."
+  },
+  {
+   "begriff": "Sozialgericht",
+   "aliase": [
+    "Sozialgerichts"
+   ],
+   "erklaerung": "Das Gericht für Streit mit Krankenkassen und anderen Sozialbehörden.",
+   "beispiel": "Du klagst dort, weil die Kasse dein Hörgerät nicht zahlt."
+  },
+  {
+   "begriff": "Ermessensüberschreitung",
+   "aliase": [],
+   "erklaerung": "Die Behörde wählt eine Folge außerhalb des Rahmens, den das Gesetz erlaubt.",
+   "beispiel": "Erlaubt sind 30 % Kürzung, die Behörde kürzt 50 %."
+  },
+  {
+   "begriff": "Ermessensfehlgebrauch",
+   "aliase": [
+    "Ermessensmissbrauch"
+   ],
+   "erklaerung": "Die Behörde wählt aus Gründen, die nicht zum Zweck des Gesetzes passen.",
+   "beispiel": "Die Kasse lehnt ab, weil du dich über sie beschwert hast."
+  },
+  {
+   "begriff": "Ermessensnichtgebrauch",
+   "aliase": [
+    "Ermessensausfall"
+   ],
+   "erklaerung": "Die Behörde merkt nicht, dass sie wählen darf, oder wählt nicht.",
+   "beispiel": "Die Kasse schreibt „wir müssen“, obwohl das Gesetz „darf“ sagt."
+  },
+  {
+   "begriff": "Verhältnismäßigkeit",
+   "aliase": [
+    "verhältnismäßig",
+    "unverhältnismäßig"
+   ],
+   "erklaerung": "Eine Maßnahme muss ein gutes Ziel haben, helfen, mild genug und fair sein.",
+   "beispiel": "Für ein vergessenes Formular reicht eine Mahnung, keine Kündigung."
+  },
+  {
+   "begriff": "Ermessensreduzierung auf Null",
+   "aliase": [
+    "Reduzierung auf Null"
+   ],
+   "erklaerung": "Von allen Wahlmöglichkeiten bleibt nur eine faire übrig. Dann muss die Behörde sie wählen.",
+   "beispiel": "Bei einem schwer kranken Kind wäre jede Absage unfair."
+  },
+  {
+   "begriff": "Anhörung",
+   "aliase": [],
+   "erklaerung": "Die Behörde fragt dich vorher nach deiner Sicht, bevor sie dir etwas nimmt.",
+   "beispiel": "Die Kasse schreibt: „Wir wollen kürzen. Was sagen Sie dazu?“"
+  }
+ ]
+}

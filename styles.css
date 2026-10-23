@@ -211,6 +211,11 @@ input, textarea { font-size: max(16px, var(--fs)); }
   align-items: center;
 }
 .figur { grid-area: figur; position: relative; width: 64px; height: 64px; display: grid; place-items: center; background: var(--weiss); border-radius: 50%; border: 2px solid var(--tinte); }
+.figur { animation: kunde-rein 420ms cubic-bezier(.2, .9, .3, 1.2); }
+@keyframes kunde-rein { from { transform: translateX(120px) scale(.8); opacity: 0; } }
+.flug { position: absolute; left: 70px; top: 10px; font-weight: 800; font-size: 20px; animation: flug 900ms ease-out forwards; pointer-events: none; }
+.flug--beschwerde { font-size: 28px; }
+@keyframes flug { from { transform: translateY(20px); opacity: 0; } 30% { opacity: 1; } to { transform: translateY(-30px); opacity: 0; } }
 .figur__gesicht { font-size: 40px; line-height: 1; }
 .figur__stimmung { position: absolute; top: -6px; right: -8px; font-size: 22px; }
 .figur__name { grid-area: name; margin: 0; font-weight: 700; }
