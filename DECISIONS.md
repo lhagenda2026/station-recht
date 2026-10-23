@@ -68,3 +68,4 @@
 - Feedback ein Belohnungsmoment? Ja: Stempel, Münzen, Gesicht, Sterne; danach Warum, Denkweg, „Warum nicht“.
 - Spiel oder Formular? Spiel. Nachgeschärft: Antworten gemischt (vorher stand die richtige immer oben), F3-Fächer ohne verschachtelte Knöpfe, F2-Fehlerart untereinander, Ole-Etikett vor der Frage.
 - Ein Tag hat 9–10 Fälle; bei 15–25 s je Fall plus Morgen und Feierabend ergibt das 3–4 Minuten.
+- Deployment: GitHub Pages aus `main`, gleiche URL wie V1; V2 per Force-Push auf `main`, Stand des Parallellaufs im Branch `parallellauf-archiv` gesichert. Alle 15 Playwright-Tests laufen auch gegen die Live-URL (HTTPS, Service Worker, offline).

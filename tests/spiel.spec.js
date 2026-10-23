@@ -24,21 +24,21 @@ const stufe = (s, extra = {}) => ({ stufe: s, serie: 0, box: 1, faellig: 0, gese
 test('erste Aktion in unter 10 Sekunden, Viewport 390×844', async ({ page }) => {
   expect(page.viewportSize()).toEqual({ width: 390, height: 844 });
   const t0 = Date.now();
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   expect(Date.now() - t0).toBeLessThan(10000);
   await expect(page.locator('[data-screen="morgen"]')).toBeVisible();
 });
 
 test('Morgenbesprechung höchstens 60 Wörter', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   const text = await page.textContent('.morgen .sprechblase p:not(.sprecher-name)');
   expect(text.split(/\s+/).length).toBeLessThanOrEqual(60);
 });
 
 test('ein ganzer Tag: 8 bis 10 Fälle, sofortiges Feedback, Feierabend', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   let n = 0;
@@ -59,7 +59,7 @@ test('ein ganzer Tag: 8 bis 10 Fälle, sofortiges Feedback, Feierabend', async (
 });
 
 test('falsche Antwort zeigt „Warum nicht“, drei Beschwerden schicken nach Hause', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   for (let i = 0; i < 3; i++) {
@@ -77,7 +77,7 @@ test('falsche Antwort zeigt „Warum nicht“, drei Beschwerden schicken nach Ha
 
 test('Geduldsbalken läuft ab Stufe 1, Regelbuch kostet Sterne', async ({ page }) => {
   await mitStand(page, grundstand(Object.fromEntries(Object.values(REGELN).filter((r) => r.stockwerk === 1).map((r) => [r.id, stufe(1)]))));
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   const vorher = Number(await page.getAttribute('.geduld', 'aria-valuenow'));
@@ -93,7 +93,7 @@ test('Geduldsbalken läuft ab Stufe 1, Regelbuch kostet Sterne', async ({ page }
 });
 
 test('Stufenaufstieg nach zwei richtigen Antworten', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   let aufstieg = false;
@@ -107,7 +107,7 @@ test('Stufenaufstieg nach zwei richtigen Antworten', async ({ page }) => {
 });
 
 test('Fortschritt bleibt nach Neuladen, Pause setzt den Tag fort', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   await antworte(page, true);
@@ -122,7 +122,7 @@ test('Fortschritt bleibt nach Neuladen, Pause setzt den Tag fort', async ({ page
 
 test('Beförderungsprüfung: bestehen, befördert, nächstes Stockwerk frei', async ({ page }) => {
   await mitStand(page, grundstand(Object.fromEntries(Object.values(REGELN).filter((r) => r.stockwerk === 1).map((r) => [r.id, stufe(2)]))));
-  await page.goto('/');
+  await page.goto('./');
   await page.click('.pruefung-knopf');
   await page.click('[data-screen="pruefung-intro"] .knopf.haupt');
   let n = 0;
@@ -136,7 +136,7 @@ test('Beförderungsprüfung: bestehen, befördert, nächstes Stockwerk frei', as
 
 test('alle vier Stockwerke bestanden: Vorstand und Schlussszene', async ({ page }) => {
   await mitStand(page, grundstand(Object.fromEntries(Object.values(REGELN).map((r) => [r.id, stufe(2)])), { bestanden: [1, 2, 3] }));
-  await page.goto('/');
+  await page.goto('./');
   await page.click('.pruefung-knopf');
   await page.click('[data-screen="pruefung-intro"] .knopf.haupt');
   while (await page.$('[data-screen="schalter"]')) { await antworte(page, true); await weiter(page); }
@@ -148,7 +148,7 @@ test('jedes Format F1–F6 ist spielbar (richtig und falsch)', async ({ page }) 
     const fs = Object.values(FAELLE).filter((f) => f.format === fmt);
     for (const richtig of [true, false]) {
       const f = fs[Math.floor(Math.random() * fs.length)];
-      await page.goto(`/?fall=${f.id}`);
+      await page.goto(`./?fall=${f.id}`);
       await page.waitForSelector('.akte');
       await antworte(page, richtig);
       await expect(page.locator('.fb-urteil'), `${f.id} ${richtig}`).toHaveText(richtig ? 'Richtig' : 'Leider falsch');
@@ -157,7 +157,7 @@ test('jedes Format F1–F6 ist spielbar (richtig und falsch)', async ({ page }) 
 });
 
 test('Glossar: Fachwort antippen öffnet Erklärung', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   await page.click('.morgen button.haupt');
   await page.locator('.regelkarte .fw').first().click();
@@ -166,7 +166,7 @@ test('Glossar: Fachwort antippen öffnet Erklärung', async ({ page }) => {
 });
 
 test('Backup-Code: exportieren und wieder laden', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await spieleTag(page);
   await page.click('[data-screen="feierabend"] .knopf.haupt');
   await page.click('.werkzeuge .knopf:has-text("Einstellungen")');
@@ -184,7 +184,7 @@ test('Backup-Code: exportieren und wieder laden', async ({ page }) => {
 });
 
 test('offline spielbar nach dem ersten Besuch', async ({ page, context }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.evaluate(() => navigator.serviceWorker.ready);
   await page.reload();
   await page.waitForFunction(() => navigator.serviceWorker.controller);
@@ -197,16 +197,16 @@ test('offline spielbar nach dem ersten Besuch', async ({ page, context }) => {
 });
 
 test('Manifest und Icons für die Installation', async ({ page, request }) => {
-  await page.goto('/');
-  const m = await (await request.get('/manifest.webmanifest')).json();
+  await page.goto('./');
+  const m = await (await request.get('./manifest.webmanifest')).json();
   expect(m.name).toBe('Bescheid, bitte!');
   expect(m.display).toBe('standalone');
-  for (const i of m.icons) expect((await request.get('/' + i.src)).ok()).toBe(true);
+  for (const i of m.icons) expect((await request.get('./' + i.src)).ok()).toBe(true);
   await expect(page.locator('link[rel="apple-touch-icon"]')).toHaveAttribute('href', 'icons/apple-touch-icon.png');
 });
 
 test('nichts ragt über den Bildschirmrand, Touch-Ziele ≥ 44 px', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('./');
   await page.click('[data-start]');
   while (await page.$('.morgen button.haupt')) await page.click('.morgen button.haupt');
   const breite = await page.evaluate(() => document.documentElement.scrollWidth);
