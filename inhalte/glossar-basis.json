@@ -49,7 +49,8 @@
       "formen": [
         "Bundestag",
         "Parlament",
-        "Parlamentsgesetz"
+        "Parlamentsgesetz",
+        "Gesetzgebers"
       ],
       "erklaerung": "Wer Gesetze beschließt. In Deutschland sind das vor allem der Bundestag und die Landtage.",
       "beispiel": "Der Bundestag stimmt über ein neues Gesetz ab."
@@ -70,7 +71,10 @@
       "formen": [
         "Grundrechte",
         "Grundrechten",
-        "Grundrechts"
+        "Grundrechts",
+        "grundrechtlich",
+        "grundrechtlichen",
+        "grundrechtliche"
       ],
       "erklaerung": "Ein Recht aus dem Grundgesetz, das dich vor dem Staat schützt oder dir etwas garantiert.",
       "beispiel": "Du darfst deinen Beruf frei wählen. Das ist ein Grundrecht."
@@ -157,7 +161,8 @@
       "id": "widerspruch",
       "begriff": "Widerspruch",
       "formen": [
-        "Widersprüche"
+        "Widersprüche",
+        "Widerspruchs"
       ],
       "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss dann noch einmal prüfen.",
       "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst: „Ich lege Widerspruch ein.“"
@@ -337,6 +342,36 @@
       ],
       "erklaerung": "Etwas hält sich an das Recht, ist also richtig.",
       "beispiel": "Der Bescheid wurde korrekt berechnet."
+    },
+    {
+      "id": "klagefrist",
+      "begriff": "Klagefrist",
+      "formen": [
+        "Klagefristen"
+      ],
+      "erklaerung": "Die Zeit, in der du beim Gericht klagen musst. Meist ist das ein Monat.",
+      "beispiel": "Die Kasse schickt ihre Antwort auf deinen Widerspruch. Ab da läuft ein Monat."
+    },
+    {
+      "id": "ermessensfehler",
+      "begriff": "Ermessensfehler",
+      "formen": [],
+      "erklaerung": "Die Behörde hat ihre Wahl falsch genutzt. Dann ist die Entscheidung rechtswidrig.",
+      "beispiel": "Die Kasse lehnt ab, weil ihr der Antragsteller unsympathisch ist."
+    },
+    {
+      "id": "grundrechtstraeger",
+      "begriff": "Grundrechtsträger",
+      "formen": [],
+      "erklaerung": "Wer sich auf ein Grundrecht berufen darf. Manche Rechte gelten für jeden, manche nur für Deutsche.",
+      "beispiel": "Eine Ärztin aus Spanien darf sich auf die Menschenwürde berufen."
+    },
+    {
+      "id": "legitimationsniveau",
+      "begriff": "Legitimationsniveau",
+      "formen": [],
+      "erklaerung": "Wie stark eine Stelle vom Volk her abgesichert ist. Es muss insgesamt ausreichen.",
+      "beispiel": "Ein Minister ist vom Parlament bestimmt, das Parlament vom Volk gewählt."
     }
   ]
 }

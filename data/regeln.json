@@ -1,5 +1,1824 @@
 [
  {
+  "id": "q1",
+  "nr": 1,
+  "stockwerk": 1,
+  "frage": "Wie wird das Öffentliche Recht vom Privatrecht abgegrenzt?",
+  "titel": "Handelt hier der Staat als Staat, oder gilt die Regel für alle?",
+  "fachbegriff": "Öffentliches Recht und Privatrecht (modifizierte Subjektstheorie)",
+  "einSatz": "Eine Regel ist [[Öffentliches Recht]], wenn sie nur den Staat als Staat berechtigt oder verpflichtet. Sonst ist sie [[Privatrecht]].",
+  "warum": "Der Staat darf manches, was kein Bürger darf. Darum musst du wissen, wann seine Sonderregeln gelten.",
+  "alltag": "Ein Fahrrad auf dem Flohmarkt kaufen darf jeder. Einen Strafzettel schreiben darf nur das Ordnungsamt.",
+  "erkennen": [
+   "Frage: Könnte nach dieser Regel auch jeder normale Bürger handeln?",
+   "Ja, jeder: **Privatrecht**. Das gilt auch, wenn die Stadt etwas kauft.",
+   "Nein, nur der Staat als Staat: **Öffentliches Recht**.",
+   "Streit aus dem [[SGB]] ist öffentliches Recht."
+  ],
+  "merktrick": "Darf das jeder? Privat. Darf das nur der Staat? Öffentlich.",
+  "klausur": {
+   "kurzantwort": "Nach der heute herrschenden **modifizierten Subjektstheorie** gehört eine Norm zum Öffentlichen Recht, wenn sie **ausschließlich einen Träger hoheitlicher Gewalt gerade in dieser Eigenschaft** berechtigt oder verpflichtet. Berechtigt oder verpflichtet sie jedermann, ist sie Privatrecht.",
+   "details": "- Ältere Theorien: **Interessentheorie** (dient die Norm dem öffentlichen Interesse?), **Subordinationstheorie** (Über-/Unterordnungsverhältnis).\n- Gleichordnung allein beweist nichts: Auch im Öffentlichen Recht gibt es Verträge zwischen Gleichgeordneten.\n- Im Sozialrecht gilt: Streitigkeiten aus dem SGB sind öffentlich-rechtlich.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "modifizierte Subjektstheorie",
+    "Träger hoheitlicher Gewalt",
+    "Interessentheorie",
+    "Subordinationstheorie"
+   ],
+   "bausteine": [
+    "Maßgeblich ist heute die modifizierte Subjektstheorie.",
+    "Öffentliches Recht: Die Norm berechtigt oder verpflichtet ausschließlich einen Träger hoheitlicher Gewalt in dieser Eigenschaft.",
+    "Berechtigt oder verpflichtet die Norm jedermann, ist sie Privatrecht.",
+    "Ältere Theorien sind die Interessentheorie und die Subordinationstheorie.",
+    "Gleichordnung allein beweist nichts: Auch im Öffentlichen Recht gibt es Verträge.",
+    "Im Sozialrecht gilt: Streitigkeiten aus dem SGB sind öffentlich-rechtlich."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Öffentliches Recht liegt immer vor, wenn eine Behörde beteiligt ist.",
+     "warumNicht": "Es kommt auf die Norm an: Sie muss den Hoheitsträger gerade in dieser Eigenschaft berechtigen oder verpflichten."
+    },
+    {
+     "text": "Entscheidend ist allein, ob die Norm dem öffentlichen Interesse dient.",
+     "warumNicht": "Das ist die ältere Interessentheorie. Heute gilt die modifizierte Subjektstheorie."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q2",
+  "nr": 2,
+  "stockwerk": 1,
+  "frage": "Was ist eine Rechtsnorm und wie ist sie aufgebaut?",
+  "titel": "Was ist eine Rechtsregel, und wie ist sie gebaut?",
+  "fachbegriff": "Rechtsnorm: Tatbestand und Rechtsfolge",
+  "einSatz": "Eine [[Rechtsnorm]] ist eine feste Regel für viele Fälle und Menschen. Sie hat ein Wenn und ein Dann.",
+  "warum": "Gesetze sollen für alle gleich gelten. Das Wenn sagt, wann die Regel greift. Das Dann sagt, was dann passiert.",
+  "alltag": "Hausordnung im Freibad: Wenn du vom Turm springst, dann musst du vorher nach unten schauen.",
+  "erkennen": [
+   "Gilt die Regel für viele Fälle und viele Menschen? Dann ist sie allgemein.",
+   "Ist sie bindend, nicht nur ein Rat?",
+   "Das Wenn ist der [[Tatbestand]]. Das Dann ist die [[Rechtsfolge]].",
+   "Das Dann ist ein Gebot, ein Verbot, eine Erlaubnis oder eine Gestaltung."
+  ],
+  "merktrick": "Wenn-Teil: Tatbestand. Dann-Teil: Rechtsfolge. Erst die Lage, dann die Folge.",
+  "klausur": {
+   "kurzantwort": "Eine Rechtsnorm ist eine **abstrakt-generelle, verbindliche Regelung**: Sie gilt für eine unbestimmte Vielzahl von Fällen und Personen. Sie besteht aus **Tatbestand** („wenn“: Voraussetzungen) und **Rechtsfolge** („dann“: Gebot, Verbot, Erlaubnis oder Gestaltung).",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "abstrakt-generell",
+    "Tatbestand",
+    "Rechtsfolge",
+    "verbindlich"
+   ],
+   "bausteine": [
+    "Eine Rechtsnorm ist eine abstrakt-generelle, verbindliche Regelung.",
+    "Sie gilt für eine unbestimmte Vielzahl von Fällen und Personen.",
+    "Der Tatbestand („wenn“) enthält die Voraussetzungen.",
+    "Die Rechtsfolge („dann“) ist ein Gebot, Verbot, eine Erlaubnis oder Gestaltung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Eine Rechtsnorm regelt einen konkreten Einzelfall einer bestimmten Person.",
+     "warumNicht": "Eine Rechtsnorm ist abstrakt-generell: Sie gilt für unbestimmt viele Fälle und Personen."
+    },
+    {
+     "text": "Der Tatbestand ist das „dann“, die Rechtsfolge das „wenn“.",
+     "warumNicht": "Umgekehrt: Der Tatbestand ist das „wenn“, die Rechtsfolge das „dann“."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q3",
+  "nr": 3,
+  "stockwerk": 1,
+  "frage": "Was versteht man unter Auslegung einer Norm?",
+  "titel": "Was meint dieses Wort im Gesetz genau?",
+  "fachbegriff": "Auslegung einer Norm",
+  "einSatz": "[[Auslegung]] heißt: Du klärst, was eine unklare Regel meint. Dabei bleibst du im Rahmen ihrer Wörter.",
+  "warum": "Gesetze sind kurz, das Leben ist bunt. Darum muss man oft klären, was ein Wort genau umfasst.",
+  "alltag": "Am Park steht: „Fahrzeuge verboten“. Ist ein Fahrrad ein Fahrzeug? Das Wort kann es umfassen. Das zu klären ist Auslegung.",
+  "erkennen": [
+   "Ist das Wort im Gesetz unklar? Dann musst du auslegen.",
+   "Passt dein Fall noch irgendwie zum Wort? Dann ist es Auslegung.",
+   "Passt er gar nicht mehr dazu? Dann ist die [[Wortlautgrenze]] überschritten."
+  ],
+  "merktrick": "Auslegen heißt: im Wort bleiben. Wer das Wort verlässt, legt nicht mehr aus.",
+  "klausur": {
+   "kurzantwort": "Auslegung ist die **Ermittlung des Sinngehalts** einer Norm, wenn ihr Wortlaut nicht eindeutig ist. Sie bleibt innerhalb des möglichen Wortsinns (**Wortlautgrenze**). Darüber hinaus beginnt die Rechtsfortbildung, z. B. durch Analogie.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Sinngehalt",
+    "Wortlautgrenze",
+    "Rechtsfortbildung"
+   ],
+   "bausteine": [
+    "Auslegung ist die Ermittlung des Sinngehalts einer Norm.",
+    "Sie ist nötig, wenn der Wortlaut nicht eindeutig ist.",
+    "Sie bleibt innerhalb des möglichen Wortsinns (Wortlautgrenze).",
+    "Jenseits davon beginnt die Rechtsfortbildung, z. B. durch Analogie."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Auslegung darf über den möglichen Wortsinn hinausgehen.",
+     "warumNicht": "Auslegung bleibt im möglichen Wortsinn. Jenseits davon beginnt die Rechtsfortbildung."
+    },
+    {
+     "text": "Auslegung ist die Übertragung einer Rechtsfolge auf einen ungeregelten Fall.",
+     "warumNicht": "Das ist die Analogie, nicht die Auslegung."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q4",
+  "nr": 4,
+  "stockwerk": 1,
+  "frage": "Was versteht man unter einer Analogie und welche Voraussetzungen hat sie?",
+  "titel": "Eine Regel auf einen ähnlichen Fall übertragen",
+  "fachbegriff": "Analogie",
+  "einSatz": "Bei einer [[Analogie]] fehlt eine Regel für einen Fall. Du nimmst dann die Folge einer Regel für einen ähnlichen Fall.",
+  "warum": "Kein Gesetz denkt an alles. Die Analogie füllt eine Lücke, die keiner wollte.",
+  "alltag": "Im Bus steht: „Kinderwagen bitte hier abstellen.“ Für Rollatoren steht nichts da. Der Fahrer lässt sie trotzdem dort stehen.",
+  "erkennen": [
+   "Erfasst kein Wort im Gesetz den Fall? Dann gibt es eine Lücke.",
+   "War die Lücke ungewollt? Das ist eine [[planwidrige Regelungslücke|Regelungslücke]].",
+   "Ist die Lage ähnlich wie im geregelten Fall?",
+   "Im [[Strafrecht]] gegen den Täter: Analogie verboten."
+  ],
+  "merktrick": "Lücke ungewollt plus Lage gleich: Dann darf die Regel rüber.",
+  "klausur": {
+   "kurzantwort": "Analogie ist die **Übertragung der Rechtsfolge einer Norm auf einen gesetzlich nicht geregelten, ähnlichen Fall**. Voraussetzungen: 1. **planwidrige Regelungslücke**, 2. **vergleichbare Interessenlage**.",
+   "details": "- Sie geht über den Wortlaut hinaus (anders als die Auslegung).\n- Grenzen: im Strafrecht zulasten des Täters verboten (Art. 103 Abs. 2 GG), im Eingriffsrecht nur eingeschränkt zulässig (Vorbehalt des Gesetzes).",
+   "normen": [
+    "Art. 103 II GG"
+   ],
+   "schluesselbegriffe": [
+    "planwidrige Regelungslücke",
+    "vergleichbare Interessenlage",
+    "über den Wortlaut hinaus",
+    "Verbot im Strafrecht"
+   ],
+   "bausteine": [
+    "Analogie ist die Übertragung der Rechtsfolge einer Norm auf einen gesetzlich nicht geregelten, ähnlichen Fall.",
+    "Erste Voraussetzung ist eine planwidrige Regelungslücke.",
+    "Zweite Voraussetzung ist eine vergleichbare Interessenlage.",
+    "Anders als die Auslegung geht sie über den Wortlaut hinaus.",
+    "Im Strafrecht ist sie zulasten des Täters verboten (Art. 103 Abs. 2 GG).",
+    "Im Eingriffsrecht ist sie nur eingeschränkt zulässig (Vorbehalt des Gesetzes)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Voraussetzung ist eine bewusste Lücke, die der Gesetzgeber offen lassen wollte.",
+     "warumNicht": "Die Lücke muss planwidrig sein, also ungewollt. Eine bewusst offene Lücke reicht nicht."
+    },
+    {
+     "text": "Die Analogie bleibt stets innerhalb des möglichen Wortsinns.",
+     "warumNicht": "Das gilt für die Auslegung. Die Analogie geht gerade über den Wortlaut hinaus."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q5",
+  "nr": 5,
+  "stockwerk": 1,
+  "frage": "Erörtern Sie die Methoden der Normauslegung.",
+  "titel": "Vier Werkzeuge, um ein Gesetz zu verstehen",
+  "fachbegriff": "Methoden der Normauslegung",
+  "einSatz": "Du verstehst ein Gesetz über vier Fragen: Wort, Zusammenhang, Entstehung und Zweck.",
+  "warum": "Ein Wort allein ist oft unklar. Mit vier Blickwinkeln wird das Bild schärfer.",
+  "alltag": "Ein Rezept sagt: „Eine Prise Salz.“ Du schaust ins Wörterbuch, liest den Rest vom Rezept, fragst Oma und denkst an den Geschmack.",
+  "erkennen": [
+   "Was sagt das Wort? **Grammatisch**.",
+   "Wo steht die Regel, was steht daneben? **Systematisch**.",
+   "Was wollte der [[Gesetzgeber]] damals? **Historisch**.",
+   "Wozu ist die Regel da? **Teleologisch**. Keine Methode ist fest die erste."
+  ],
+  "merktrick": "Wort, Ort, damals, wozu: Vier Fragen, dann weißt du's.",
+  "klausur": {
+   "kurzantwort": "Vier klassische Methoden (Savigny), die zusammenwirken, ohne feste Rangfolge:\n1. **Grammatisch:** Wortlaut und Wortsinn (Ausgangspunkt und Grenze).\n2. **Systematisch:** Stellung der Norm im Gesetz und im Gesamtgefüge der Rechtsordnung.\n3. **Historisch:** Entstehungsgeschichte, Materialien, Wille des Gesetzgebers.\n4. **Teleologisch:** Sinn und Zweck der Norm (objektiv).",
+   "details": "Dazu: **verfassungskonforme Auslegung** (bei mehreren möglichen Auslegungen gilt die verfassungsgemäße, Grenze ist der Wortlaut) und **unionsrechtskonforme Auslegung**.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "grammatisch",
+    "systematisch",
+    "historisch",
+    "teleologisch",
+    "verfassungskonforme Auslegung"
+   ],
+   "bausteine": [
+    "Vier klassische Methoden (Savigny) wirken zusammen, ohne feste Rangfolge.",
+    "Grammatisch: Wortlaut und Wortsinn, Ausgangspunkt und Grenze.",
+    "Systematisch: Stellung der Norm im Gesetz und im Gesamtgefüge der Rechtsordnung.",
+    "Historisch: Entstehungsgeschichte, Materialien, Wille des Gesetzgebers.",
+    "Teleologisch: Sinn und Zweck der Norm (objektiv).",
+    "Dazu kommen die verfassungskonforme und die unionsrechtskonforme Auslegung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Teleologisch: Wortlaut und Wortsinn der Norm.",
+     "warumNicht": "Teleologisch meint Sinn und Zweck. Wortlaut und Wortsinn sind die grammatische Methode."
+    },
+    {
+     "text": "Die historische Auslegung hat stets Vorrang vor allen anderen Methoden.",
+     "warumNicht": "Die Methoden wirken zusammen, ohne feste Rangfolge."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q6",
+  "nr": 6,
+  "stockwerk": 1,
+  "frage": "Was bedeutet Vorrang des Gesetzes und wo gilt er?",
+  "titel": "Die Behörde darf nicht gegen ein Gesetz handeln",
+  "fachbegriff": "Vorrang des Gesetzes",
+  "einSatz": "[[Vorrang des Gesetzes]] heißt: Die [[Verwaltung]] darf nie gegen ein geltendes Gesetz verstoßen.",
+  "warum": "Ein Amt soll das Gesetz befolgen, nicht eigene Regeln machen. So wird jeder gleich behandelt.",
+  "alltag": "Der Schiedsrichter muss sich an die Spielregeln halten. Er darf kein Tor geben, das nach den Regeln keins ist.",
+  "erkennen": [
+   "Gibt es ein Gesetz, das genau das Gegenteil sagt?",
+   "Dann verletzt das Amt den Vorrang des Gesetzes.",
+   "Das gilt immer: beim Verbieten und beim Geben.",
+   "Oben steht die [[Verfassung|grundgesetz]], dann Gesetz, [[Rechtsverordnung]] und [[Satzung]]."
+  ],
+  "merktrick": "Das Gesetz fährt vorne. Die Verwaltung überholt nicht.",
+  "klausur": {
+   "kurzantwort": "Die Verwaltung darf **nicht gegen geltendes Recht verstoßen**. Sie ist an Gesetz und Recht gebunden. Der Vorrang gilt für **jedes** Verwaltungshandeln (Eingriffs- und Leistungsverwaltung) und folgt aus der Normenhierarchie (Verfassung → Gesetz → Rechtsverordnung → Satzung).",
+   "details": "",
+   "normen": [
+    "Art. 20 III GG"
+   ],
+   "schluesselbegriffe": [
+    "keine Abweichung vom Gesetz",
+    "gesamtes Verwaltungshandeln",
+    "Normenhierarchie",
+    "Art. 20 III GG"
+   ],
+   "bausteine": [
+    "Vorrang des Gesetzes: Die Verwaltung darf nicht gegen geltendes Recht verstoßen.",
+    "Sie ist an Gesetz und Recht gebunden (Art. 20 III GG).",
+    "Der Vorrang gilt für jedes Verwaltungshandeln, in Eingriffs- und Leistungsverwaltung.",
+    "Er folgt aus der Normenhierarchie: Verfassung, Gesetz, Rechtsverordnung, Satzung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Der Vorrang des Gesetzes gilt nur für belastende Eingriffe.",
+     "warumNicht": "Der Vorrang gilt für jedes Verwaltungshandeln, auch in der Leistungsverwaltung."
+    },
+    {
+     "text": "Die Verwaltung darf nur tätig werden, wenn ein Gesetz sie dazu ermächtigt.",
+     "warumNicht": "Das ist der Vorbehalt des Gesetzes, nicht der Vorrang."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q7",
+  "nr": 7,
+  "stockwerk": 1,
+  "frage": "Was bedeutet Vorbehalt des Gesetzes und wo gilt er?",
+  "titel": "Ohne Erlaubnis im Gesetz darf das Amt nicht handeln",
+  "fachbegriff": "Vorbehalt des Gesetzes",
+  "einSatz": "[[Vorbehalt des Gesetzes]] heißt: Die [[Verwaltung]] braucht ein Gesetz, das ihr das Handeln erlaubt.",
+  "warum": "Greift der Staat in deine Freiheit oder dein Geld ein, soll das [[Parlament|gesetzgeber]] das vorher erlaubt haben.",
+  "alltag": "Der Hausmeister darf dein Fahrrad nicht einfach wegsperren. Dafür braucht er eine Regel, die ihm das erlaubt.",
+  "erkennen": [
+   "Gibt es ein Gesetz, das genau das erlaubt? Das ist die [[Ermächtigung]].",
+   "Greift das Amt in Freiheit oder Eigentum ein? Dann braucht es sicher ein Gesetz.",
+   "Ist es wichtig für [[Grundrechte|grundrecht]]? Dann muss das Parlament selbst entscheiden.",
+   "Im Sozialrecht brauchen auch Leistungen ein Gesetz."
+  ],
+  "merktrick": "[[Vorrang|vorrang-des-gesetzes]]: nicht gegen das Gesetz. Vorbehalt des Gesetzes: nicht ohne das Gesetz.",
+  "klausur": {
+   "kurzantwort": "Die Verwaltung darf **nur tätig werden, wenn ein Gesetz sie dazu ermächtigt**. Das gilt sicher für **Eingriffe in Freiheit und Eigentum**. Nach der **Wesentlichkeitstheorie** (BVerfG) muss der Gesetzgeber alle **wesentlichen** Entscheidungen, vor allem grundrechtsrelevante, selbst treffen. Im Sozialrecht gilt der Vorbehalt auch für **Leistungen** (§ 31 SGB I).",
+   "details": "",
+   "normen": [
+    "Art. 20 III GG",
+    "§ 31 SGB I"
+   ],
+   "schluesselbegriffe": [
+    "gesetzliche Ermächtigung",
+    "Eingriffsverwaltung",
+    "Wesentlichkeitstheorie",
+    "§ 31 SGB I"
+   ],
+   "bausteine": [
+    "Vorbehalt des Gesetzes: Die Verwaltung darf nur tätig werden, wenn ein Gesetz sie ermächtigt.",
+    "Das gilt sicher für Eingriffe in Freiheit und Eigentum.",
+    "Nach der Wesentlichkeitstheorie (BVerfG) muss der Gesetzgeber alle wesentlichen Entscheidungen selbst treffen.",
+    "Wesentlich sind vor allem grundrechtsrelevante Entscheidungen.",
+    "Im Sozialrecht gilt der Vorbehalt des Gesetzes auch für Leistungen (§ 31 SGB I)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Vorbehalt des Gesetzes: Die Verwaltung darf nur nicht gegen ein Gesetz verstoßen.",
+     "warumNicht": "Das ist der Vorrang des Gesetzes. Der Vorbehalt des Gesetzes verlangt zusätzlich eine gesetzliche Ermächtigung."
+    },
+    {
+     "text": "Für Leistungen gilt der Vorbehalt des Gesetzes im Sozialrecht nicht.",
+     "warumNicht": "Im Sozialrecht gilt der Vorbehalt des Gesetzes auch für Leistungen (§ 31 SGB I)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q8",
+  "nr": 8,
+  "stockwerk": 1,
+  "frage": "Erörtern Sie die Vermittlung personeller demokratischer Legitimation für die Ausübung von Staatsgewalt.",
+  "titel": "Warum darf eine Sachbearbeiterin für den Staat entscheiden?",
+  "fachbegriff": "Personelle demokratische Legitimation (Legitimationskette)",
+  "einSatz": "Alle Staatsmacht kommt vom Volk. Über eine lückenlose [[Legitimationskette]] reicht sie bis zur Sachbearbeiterin.",
+  "warum": "Wer für den Staat entscheidet, braucht Rückhalt beim Volk. Gewählt sein muss aber nicht jeder.",
+  "alltag": "Der Verein wählt den Vorstand. Der Vorstand stellt die Trainerin ein. Die Trainerin wählt den Kapitän. Jeder hat seinen Auftrag von oben.",
+  "erkennen": [
+   "Die Kette: Volk, [[Parlament|gesetzgeber]], Regierung, [[Behördenleiter]], Sachbearbeiter.",
+   "Wurde jede Person von jemandem bestellt, der selbst in der Kette steht?",
+   "Fehlt ein Glied, ist die Kette unterbrochen.",
+   "Es zählt ein ausreichendes Niveau, nicht die Wahl jeder Person."
+  ],
+  "merktrick": "Vom Volk zum [[Amt|verwaltung]]: Glied an Glied, keins fehlt.",
+  "klausur": {
+   "kurzantwort": "Alle Staatsgewalt geht vom Volk aus (Art. 20 II GG). Personelle Legitimation entsteht durch eine **ununterbrochene Legitimationskette**: Volk → Parlament → Regierung/Minister → Behördenleiter → Amtswalter. Jeder Amtsträger muss durch ein vom Volk legitimiertes Organ oder einen selbst legitimierten, verantwortlichen Amtsträger bestellt sein.",
+   "details": "- Es kommt auf ein **ausreichendes Legitimationsniveau** an, nicht auf Volkswahl jedes Amtsträgers.\n- Weitere Formen: institutionell-funktionell, sachlich-inhaltlich (Gesetzesbindung, Weisungen, Verantwortlichkeit).",
+   "normen": [
+    "Art. 20 I, II GG"
+   ],
+   "schluesselbegriffe": [
+    "Legitimationskette",
+    "Volk",
+    "Parlament",
+    "Bestellung",
+    "Legitimationsniveau"
+   ],
+   "bausteine": [
+    "Alle Staatsgewalt geht vom Volk aus (Art. 20 II GG).",
+    "Personelle Legitimation entsteht durch eine ununterbrochene Legitimationskette.",
+    "Die Kette lautet: Volk, Parlament, Regierung/Minister, Behördenleiter, Amtswalter.",
+    "Jeder Amtsträger muss von einem legitimierten Organ oder verantwortlichen Amtsträger bestellt sein.",
+    "Entscheidend ist ein ausreichendes Legitimationsniveau, nicht die Volkswahl jedes Amtsträgers."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Jeder Amtsträger muss direkt vom Volk gewählt werden.",
+     "warumNicht": "Es zählt ein ausreichendes Legitimationsniveau, nicht die Volkswahl jedes Amtsträgers."
+    },
+    {
+     "text": "Es genügt, dass der Amtsträger fachlich gut ausgebildet ist.",
+     "warumNicht": "Fachliches Können ersetzt keine Legitimation. Nötig ist eine ununterbrochene Kette bis zum Volk."
+    }
+   ]
+  },
+  "verifiziert": false,
+  "hinweise": [
+   "Ergänzend wird die **autonome Legitimation** der Selbstverwaltung diskutiert (BVerfG, Lippeverband). Bitte mit Vorlesung abgleichen."
+  ],
+  "normhinweis": null
+ },
+ {
+  "id": "q9",
+  "nr": 9,
+  "stockwerk": 1,
+  "frage": "Erörtern Sie, ob der Gemeinsame Bundesausschuss die erforderliche demokratische Legitimation besitzt.",
+  "titel": "Hat der G-BA genug Rückhalt beim Volk?",
+  "fachbegriff": "Demokratische Legitimation des Gemeinsamen Bundesausschusses",
+  "einSatz": "Das ist umstritten. Der [[G-BA]] macht feste Regeln für alle Versicherten. Seine Mitglieder wählt aber nicht das Volk.",
+  "warum": "Wer Regeln für Millionen macht, braucht Rückhalt beim Volk. Beim G-BA ist dieser Rückhalt nur indirekt.",
+  "alltag": "Der Elternrat legt die Hausaufgaben für alle Klassen fest. Die Kinder wählen ihn nicht. Ist das fair? Darüber kann man streiten.",
+  "erkennen": [
+   "Dagegen: Verbände benennen die Mitglieder. Die Kette zum Volk ist dünn.",
+   "Dagegen: Versicherte haben keine Stimme, [[Patientenvertreter]] reden nur mit.",
+   "Dafür: Das Gesetz gibt Aufgaben vor, das Ministerium führt die [[Rechtsaufsicht]].",
+   "Das [[Bundessozialgericht]] (BSG) sagt: Die [[Legitimation|legitimationskette]] reicht."
+  ],
+  "merktrick": "Dünne Kette, aber Aufsicht und Gesetz: Das BSG sagt ja.",
+  "klausur": {
+   "kurzantwort": "Umstritten. Der G-BA erlässt verbindliche Richtlinien (Normsetzung) gegenüber Versicherten, Krankenkassen und Leistungserbringern.",
+   "details": "- **Gegen** ausreichende Legitimation: Die Mitglieder werden von Verbänden benannt, nicht vom Volk gewählt. Die Legitimationskette ist dünn. Betroffene (Versicherte) haben kein Stimmrecht, Patientenvertreter nur Mitberatungsrecht.\n- **Für** ausreichende Legitimation: gesetzliche Aufgabenzuweisung und Vorgaben (sachlich-inhaltliche Legitimation), **Rechtsaufsicht des BMG** (§ 94 SGB V), Selbstverwaltung als autonome Legitimation. Das BSG bejaht die Legitimation.",
+   "normen": [
+    "§§ 91, 92, 94 SGB V",
+    "Art. 20 II GG"
+   ],
+   "schluesselbegriffe": [
+    "Verbandsvertreter",
+    "Rechtsaufsicht BMG",
+    "Richtlinien",
+    "BSG bejaht",
+    "Kritik fehlende Versichertenvertretung"
+   ],
+   "bausteine": [
+    "Die Legitimation des G-BA ist umstritten.",
+    "Er erlässt verbindliche Richtlinien für Versicherte, Krankenkassen und Leistungserbringer.",
+    "Dagegen: Die Mitglieder werden von Verbänden benannt, nicht vom Volk gewählt.",
+    "Dagegen: Versicherte haben kein Stimmrecht, Patientenvertreter nur ein Mitberatungsrecht.",
+    "Dafür: gesetzliche Vorgaben, Rechtsaufsicht des BMG (§ 94 SGB V), Selbstverwaltung als autonome Legitimation.",
+    "Das BSG bejaht die Legitimation."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die Versicherten wählen die Mitglieder des G-BA direkt.",
+     "warumNicht": "Die Mitglieder werden von Verbänden benannt. Versicherte haben kein Stimmrecht."
+    },
+    {
+     "text": "Das BSG verneint die Legitimation des G-BA.",
+     "warumNicht": "Umgekehrt: Das BSG bejaht die Legitimation."
+    }
+   ]
+  },
+  "verifiziert": false,
+  "hinweise": [
+   "Stand der Rechtsprechung des BVerfG bitte prüfen (die Frage wurde nach meinem Kenntnisstand nicht abschließend entschieden)."
+  ],
+  "normhinweis": null
+ },
+ {
+  "id": "q10",
+  "nr": 10,
+  "stockwerk": 1,
+  "frage": "Welche Aufgaben hat der Gemeinsame Bundesausschuss? Wie setzt er sich zusammen und welche Entscheidungen trifft er?",
+  "titel": "Wer sitzt im G-BA am Tisch, und was beschließt er?",
+  "fachbegriff": "Gemeinsamer Bundesausschuss: Aufgaben, Zusammensetzung, Richtlinien",
+  "einSatz": "Im [[G-BA]] beschließen Kassen, Ärzte und Kliniken zusammen [[Richtlinien]]. Sie legen fest, was die Kasse zahlt.",
+  "warum": "Das Gesetz kann nicht jede Behandlung einzeln nennen. Diese Details regelt der G-BA für alle.",
+  "alltag": "Die Schulkonferenz legt fest, welche Bücher alle Klassen bekommen. Eltern, Lehrer und Schulleitung sitzen dort zusammen.",
+  "erkennen": [
+   "13 stimmen ab: 3 Unparteiische, 5 von den Kassen, 5 von Ärzten und Kliniken.",
+   "[[Patientenvertreter]] dürfen Anträge stellen und mitreden, aber nicht abstimmen.",
+   "Der G-BA beschließt Richtlinien. Sie binden Kassen, Versicherte und Ärzte.",
+   "Das Gesundheitsministerium (BMG) führt die [[Aufsicht|rechtsaufsicht]]."
+  ],
+  "merktrick": "Drei in der Mitte, fünf links, fünf rechts: dreizehn Hände heben sich.",
+  "klausur": {
+   "kurzantwort": "Der G-BA ist das oberste Beschlussgremium der gemeinsamen Selbstverwaltung (§ 91 SGB V).",
+   "details": "- **Träger:** Kassenärztliche Bundesvereinigung (KBV), Kassenzahnärztliche Bundesvereinigung (KZBV), Deutsche Krankenhausgesellschaft (DKG), GKV-Spitzenverband. Der G-BA ist rechtsfähig (§ 91 I 2).\n- **Beschlussgremium (13 Mitglieder):** 3 unparteiische (Vorsitzender + 2), 5 vom GKV-Spitzenverband, 5 von den Leistungserbringern (2 KBV, 1 KZBV, 2 DKG). **Patientenvertreter:** antrags- und mitberatungsberechtigt, kein Stimmrecht (§ 140f SGB V).\n- **Aufgaben und Entscheidungen:** **Richtlinien** zur Sicherung der ärztlichen Versorgung (§ 92 SGB V), die den Leistungsanspruch konkretisieren (Arzneimittel-Richtlinie, Methodenbewertung § 135, Nutzenbewertung § 35a, Qualitätssicherung §§ 135a ff., Bedarfsplanung).\n- **Rechtsnatur:** untergesetzliche Rechtsnormen, verbindlich für Kassen, Versicherte, Leistungserbringer (§ 91 VI). **Aufsicht:** BMG (§ 94).",
+   "normen": [
+    "§§ 91, 92, 94, 135 SGB V"
+   ],
+   "schluesselbegriffe": [
+    "gemeinsame Selbstverwaltung",
+    "13 Mitglieder",
+    "Richtlinien",
+    "§ 91 VI verbindlich",
+    "Patientenvertreter ohne Stimmrecht"
+   ],
+   "bausteine": [
+    "Der G-BA ist das oberste Beschlussgremium der gemeinsamen Selbstverwaltung (§ 91 SGB V).",
+    "Träger sind KBV, KZBV, DKG und GKV-Spitzenverband; der G-BA ist rechtsfähig.",
+    "Das Beschlussgremium hat 13 Mitglieder: 3 unparteiische, 5 vom GKV-Spitzenverband, 5 von den Leistungserbringern.",
+    "Patientenvertreter sind antrags- und mitberatungsberechtigt, haben aber kein Stimmrecht (§ 140f SGB V).",
+    "Er erlässt Richtlinien zur Sicherung der ärztlichen Versorgung (§ 92 SGB V).",
+    "Sie sind untergesetzliche Rechtsnormen und verbindlich (§ 91 VI); Aufsicht führt das BMG (§ 94)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Patientenvertreter haben im Beschlussgremium volles Stimmrecht.",
+     "warumNicht": "Patientenvertreter dürfen Anträge stellen und mitberaten, haben aber kein Stimmrecht."
+    },
+    {
+     "text": "Der G-BA erlässt formelle Bundesgesetze.",
+     "warumNicht": "Der G-BA erlässt Richtlinien, also untergesetzliche Rechtsnormen, keine Parlamentsgesetze."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": "Normprüfung: § 91 Abs. 6 SGB V nimmt Beschlüsse nach § 136d von der Verbindlichkeit aus."
+ },
+ {
+  "id": "q11",
+  "nr": 11,
+  "stockwerk": 1,
+  "frage": "Welche Rolle spielt im Rahmen des Sozialstaatsprinzips der Gesetzgeber?",
+  "titel": "Sozialstaat: Wer entscheidet, wie viel Hilfe es gibt?",
+  "fachbegriff": "Sozialstaatsprinzip und Rolle des Gesetzgebers",
+  "einSatz": "Das [[Sozialstaatsprinzip]] ist ein Ziel im [[Grundgesetz]]. Wie es umgesetzt wird, entscheidet der [[Gesetzgeber]].",
+  "warum": "Das Grundgesetz will soziale Sicherheit, sagt aber nicht, wie genau. Das soll das gewählte Parlament entscheiden.",
+  "alltag": "Die Schule sagt: „Bei uns soll keiner hungern.“ Ob es Frühstück, Mittagessen oder Obst gibt, legt der Förderverein fest.",
+  "erkennen": [
+   "Das Prinzip ist ein [[Staatsziel]], offen im Inhalt.",
+   "Das Parlament füllt es mit Gesetzen, etwa dem [[SGB]]. Es hat viel [[Spielraum|gestaltungsspielraum]].",
+   "Aus dem Prinzip allein kannst du kein Geld einklagen.",
+   "Grenze: Das [[Existenzminimum]] muss gesichert sein."
+  ],
+  "merktrick": "Das Grundgesetz zeigt die Richtung, das Parlament baut die Straße.",
+  "klausur": {
+   "kurzantwort": "Das Sozialstaatsprinzip (Art. 20 I, 28 I GG) ist ein **Staatsziel**: soziale Gerechtigkeit und soziale Sicherheit. Es ist **inhaltlich offen**. Der **Gesetzgeber** konkretisiert es mit **weitem Gestaltungsspielraum** (Sozialversicherung, Sozialhilfe, SGB). Aus dem Prinzip allein folgen **keine einklagbaren Einzelansprüche**, aber eine **Mindestsicherung** (Existenzminimum) ist durch den Gesetzgeber zu gewährleisten.",
+   "details": "",
+   "normen": [
+    "Art. 20 I, 28 I GG"
+   ],
+   "schluesselbegriffe": [
+    "Staatsziel",
+    "Gestaltungsspielraum",
+    "Konkretisierung durch Gesetz",
+    "kein Einzelanspruch",
+    "Mindestsicherung"
+   ],
+   "bausteine": [
+    "Das Sozialstaatsprinzip (Art. 20 I, 28 I GG) ist ein Staatsziel.",
+    "Es zielt auf soziale Gerechtigkeit und soziale Sicherheit und ist inhaltlich offen.",
+    "Der Gesetzgeber konkretisiert es mit weitem Gestaltungsspielraum, etwa durch das SGB.",
+    "Aus dem Prinzip allein folgen keine einklagbaren Einzelansprüche.",
+    "Eine Mindestsicherung (Existenzminimum) muss der Gesetzgeber aber gewährleisten."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Aus dem Sozialstaatsprinzip kann jeder direkt konkrete Leistungen einklagen.",
+     "warumNicht": "Aus dem Prinzip allein folgen keine einklagbaren Einzelansprüche."
+    },
+    {
+     "text": "Die Höhe der Sozialleistungen legt das Grundgesetz genau fest.",
+     "warumNicht": "Das Prinzip ist inhaltlich offen. Der Gesetzgeber gestaltet es mit weitem Spielraum aus."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q12",
+  "nr": 12,
+  "stockwerk": 2,
+  "frage": "Welche Funktionen kann man bei den Grundrechten unterscheiden? Welche ist die bedeutendste?",
+  "titel": "Wofür sind Grundrechte eigentlich gut?",
+  "fachbegriff": "Funktionen der Grundrechte",
+  "einSatz": "[[Grundrechte]] können mehrere Jobs haben. Der wichtigste: Sie halten den Staat von dir fern.",
+  "warum": "Der Staat ist stark. Grundrechte sollen dich vor ihm schützen, aber auch vor anderen und vor Ungleichheit.",
+  "alltag": "Ein Fahrradhelm schützt dich beim Sturz. Die Klingel warnt andere. Das Licht lässt dich gesehen werden. Ein Ding, mehrere Jobs.",
+  "erkennen": [
+   "Greift der Staat selbst ein? Dann [[Abwehrrecht]]. Das ist die wichtigste Funktion.",
+   "Willst du etwas vom Staat haben? Dann Leistung oder [[Teilhabe|Teilhaberecht]].",
+   "Droht Gefahr von anderen Menschen? Dann [[Schutzpflicht]] des Staates.",
+   "Dazu kommen: faire Verfahren, Gleichheit und Wirkung bis ins [[Privatrecht]]."
+  ],
+  "merktrick": "Erst „Finger weg, Staat!“, dann „Gib mir was“ und „Pass auf mich auf“.",
+  "klausur": {
+   "kurzantwort": "1. **Abwehrrechte** (status negativus): Schutz vor staatlichen Eingriffen. **Bis heute die bedeutendste Funktion.**\n2. **Leistungs- und Teilhaberechte** (status positivus): originär (Schaffung von Leistungen) und derivativ (Teilhabe an bestehenden).\n3. **Schutzpflichten:** Schutz vor Gefahren durch Dritte.\n4. **Verfahrens- und Organisationsgarantien.**\n5. **Gleichheitsrechte** (Art. 3).\n6. **Objektive Wertordnung/Ausstrahlungswirkung** (z. B. mittelbare Drittwirkung im Privatrecht).",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Abwehrrecht",
+    "Teilhaberecht",
+    "Schutzpflicht",
+    "Wertordnung",
+    "bedeutendste = Abwehr"
+   ],
+   "bausteine": [
+    "Abwehrrechte (status negativus) schützen vor staatlichen Eingriffen.",
+    "Leistungs- und Teilhaberechte (status positivus) sind originär oder derivativ.",
+    "Schutzpflichten schützen vor Gefahren durch Dritte.",
+    "Hinzu kommen Verfahrens- und Organisationsgarantien sowie Gleichheitsrechte (Art. 3).",
+    "Die objektive Wertordnung strahlt aus, z. B. als mittelbare Drittwirkung im Privatrecht.",
+    "Die bedeutendste Funktion sind bis heute die Abwehrrechte."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die bedeutendste Funktion sind heute die Leistungsrechte.",
+     "warumNicht": "Falsch: Bis heute sind die Abwehrrechte die wichtigste Funktion."
+    },
+    {
+     "text": "Schutzpflichten schützen vor Eingriffen des Staates selbst.",
+     "warumNicht": "Das ist das Abwehrrecht. Schutzpflichten schützen vor Gefahren durch Dritte."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q13",
+  "nr": 13,
+  "stockwerk": 2,
+  "frage": "Was versteht man unter einer grundrechtlichen Schutzpflicht? Beispiel?",
+  "titel": "Der Staat als Bodyguard gegen andere",
+  "fachbegriff": "Grundrechtliche Schutzpflicht",
+  "einSatz": "Der Staat muss dein Leben und deine Gesundheit auch vor **anderen Menschen** und Gefahren schützen.",
+  "warum": "Nicht nur der Staat kann dir schaden. Auch Firmen, Nachbarn oder Viren. Dann soll der Staat sich schützend vor dich stellen.",
+  "alltag": "Die Bademeisterin taucht nicht selbst nach dir. Sie passt aber auf, dass dich niemand untertaucht. Wie genau, entscheidet sie selbst.",
+  "erkennen": [
+   "Kommt die Gefahr von Privaten oder einer anderen Quelle, nicht vom Staat?",
+   "Soll der Staat schützen, statt sich herauszuhalten?",
+   "Der Staat muss nur einen **Mindestschutz** bieten ([[Untermaßverbot]]).",
+   "Wie er schützt, darf der [[Gesetzgeber]] weitgehend selbst wählen."
+  ],
+  "merktrick": "Schutzpflicht heißt: Nicht zu wenig. Wie viel mehr, sagt der Gesetzgeber.",
+  "klausur": {
+   "kurzantwort": "Der Staat muss Grundrechtsgüter **vor Eingriffen und Gefährdungen durch Private** (oder andere Gefahrenquellen) schützen. Herleitung: **objektiv-rechtliche Dimension** der Grundrechte. Maßstab: **Untermaßverbot** (Mindestschutzniveau), mit weitem Spielraum des Gesetzgebers.",
+   "details": "**Beispiel:** Schutz des ungeborenen Lebens (Art. 2 II 1 i. V. m. Art. 1 I GG); Gesundheitsschutz durch Arzneimittelrecht (AMG), Infektionsschutz.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Schutz vor Dritten",
+    "objektive Dimension",
+    "Untermaßverbot",
+    "Gestaltungsspielraum"
+   ],
+   "bausteine": [
+    "Der Staat muss Grundrechtsgüter vor Eingriffen und Gefährdungen durch Private schützen.",
+    "Herleitung: objektiv-rechtliche Dimension der Grundrechte.",
+    "Maßstab ist das Untermaßverbot (Mindestschutzniveau).",
+    "Der Gesetzgeber hat dabei einen weiten Spielraum.",
+    "Beispiel: Schutz des ungeborenen Lebens, Arzneimittelrecht, Infektionsschutz."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Der Staat muss stets den bestmöglichen Schutz wählen, ohne Spielraum.",
+     "warumNicht": "Maßstab ist nur ein Mindestschutz (Untermaßverbot). Der Gesetzgeber hat weiten Spielraum."
+    },
+    {
+     "text": "Schutzpflichten schützen nur vor Eingriffen des Staates selbst.",
+     "warumNicht": "Schutzpflichten richten sich gegen Gefahren durch Private. Gegen den Staat selbst helfen Abwehrrechte."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q14",
+  "nr": 14,
+  "stockwerk": 2,
+  "frage": "Was versteht man unter einem derivativen Teilhaberecht? Beispiel?",
+  "titel": "Ein fairer Platz am vorhandenen Tisch",
+  "fachbegriff": "Derivatives Teilhaberecht",
+  "einSatz": "Gibt es schon ein Angebot des Staates, darfst du **gleichberechtigt** mitmachen. Neues bauen muss er meist nicht.",
+  "warum": "Der Staat kann nicht alles für alle schaffen. Was er aber anbietet, muss er fair verteilen.",
+  "alltag": "Die Schule hat 20 Plätze in der Theater-AG. Du hast [[Anspruch|rechtsanspruch]] auf eine faire Chance. Eine zweite AG muss die Schule nicht gründen.",
+  "erkennen": [
+   "Gibt es die Leistung schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
+   "Soll der Staat etwas Neues schaffen? Dann **originär**. Das gibt es nur selten.",
+   "Seltene Ausnahme für „originär“: das [[Existenzminimum]].",
+   "Grundlage: Gleichheit (Art. 3 I) plus das passende Freiheitsrecht."
+  ],
+  "merktrick": "Derivativ = vom Kuchen, der schon da ist. Originär = neuer Kuchen.",
+  "klausur": {
+   "kurzantwort": "Anspruch auf **gleichberechtigte Teilhabe an bereits bestehenden** staatlichen Leistungen und Einrichtungen (Art. 3 I i. V. m. dem jeweiligen Freiheitsrecht). Gegensatz: **originäres** Leistungsrecht (Anspruch auf Schaffung neuer Leistungen), nur ausnahmsweise anerkannt (z. B. Existenzminimum).",
+   "details": "**Beispiel:** numerus-clausus-Entscheidung des BVerfG (Zugang zu vorhandenen Studienplätzen, Art. 12 I i. V. m. Art. 3 I GG).",
+   "normen": [],
+   "schluesselbegriffe": [
+    "bestehende Leistungen",
+    "gleiche Teilhabe",
+    "Art. 3 I",
+    "im Gegensatz zu originär",
+    "numerus clausus"
+   ],
+   "bausteine": [
+    "Derivatives Teilhaberecht: Anspruch auf gleichberechtigte Teilhabe an bereits bestehenden staatlichen Leistungen.",
+    "Grundlage ist Art. 3 I i. V. m. dem jeweiligen Freiheitsrecht.",
+    "Gegensatz: originäres Leistungsrecht auf Schaffung neuer Leistungen, nur ausnahmsweise anerkannt.",
+    "Beispiel: numerus-clausus-Entscheidung des BVerfG zu vorhandenen Studienplätzen."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Derivatives Teilhaberecht: Anspruch darauf, dass der Staat neue Studienplätze schafft.",
+     "warumNicht": "Das wäre ein originäres Leistungsrecht. Derivativ heißt: fair teilhaben an Plätzen, die es schon gibt."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q15",
+  "nr": 15,
+  "stockwerk": 2,
+  "frage": "Was ist der Schutzbereich eines Grundrechts?",
+  "titel": "Wer und was ist überhaupt geschützt?",
+  "fachbegriff": "Schutzbereich (persönlich und sachlich)",
+  "einSatz": "Der [[Schutzbereich]] sagt, **wen** ein [[Grundrecht]] schützt und **welches Verhalten** es schützt.",
+  "warum": "Jedes Grundrecht hat sein eigenes Revier. Erst wenn du darin stehst, hilft es dir.",
+  "alltag": "Die Jahreskarte im Zoo gilt nur für dich (wer). Und nur für den Zoo, nicht fürs Kino (was).",
+  "erkennen": [
+   "**Persönlich:** Wer darf sich darauf berufen? Jeder Mensch, nur Deutsche oder auch Firmen?",
+   "**Sachlich:** Welches Verhalten ist geschützt?",
+   "Beispiel Beruf: Tätigkeit auf Dauer, mit der man seinen Lebensunterhalt verdient."
+  ],
+  "merktrick": "Erst „Wer?“, dann „Was?“. Wie an der Tür vom Club.",
+  "klausur": {
+   "kurzantwort": "Der Lebensbereich bzw. das Verhalten, das ein Grundrecht schützt. Zu prüfen sind der **persönliche Schutzbereich** (Wer ist Träger? Jedermann, Deutsche, juristische Personen nach Art. 19 III GG) und der **sachliche Schutzbereich** (Was ist geschützt?).",
+   "details": "**Beispiel:** Art. 12 I: „Beruf“ = auf Dauer angelegte, der Schaffung und Erhaltung der Lebensgrundlage dienende Tätigkeit.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "persönlicher Schutzbereich",
+    "sachlicher Schutzbereich",
+    "Grundrechtsträger",
+    "geschütztes Verhalten"
+   ],
+   "bausteine": [
+    "Der Schutzbereich ist der Lebensbereich bzw. das Verhalten, das ein Grundrecht schützt.",
+    "Persönlicher Schutzbereich: Wer ist Träger? Jedermann, Deutsche, juristische Personen (Art. 19 III GG).",
+    "Sachlicher Schutzbereich: Was ist geschützt?",
+    "Beispiel Art. 12 I: Beruf ist jede auf Dauer angelegte Tätigkeit zur Schaffung und Erhaltung der Lebensgrundlage."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Persönlicher Schutzbereich: Welches Verhalten ist geschützt?",
+     "warumNicht": "Das ist der sachliche Schutzbereich. Der persönliche fragt: Wer ist Träger?"
+    },
+    {
+     "text": "Firmen können sich nie auf Grundrechte berufen.",
+     "warumNicht": "Falsch: Nach Art. 19 III GG können auch juristische Personen Träger sein."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q16",
+  "nr": 16,
+  "stockwerk": 2,
+  "frage": "Was wird unter dem modernen Eingriffsbegriff verstanden?",
+  "titel": "Wann greift der Staat in ein Grundrecht ein?",
+  "fachbegriff": "Moderner Eingriffsbegriff",
+  "einSatz": "Ein [[Eingriff]] ist alles, womit der Staat dir geschütztes Verhalten **unmöglich macht oder stark erschwert**.",
+  "warum": "Der Staat schadet nicht nur mit Verboten. Auch eine Warnung kann dich hart treffen.",
+  "alltag": "Der Hausmeister verbietet dir das Fußballspielen nicht. Er stellt aber Blumenkübel aufs Feld. Spielen kannst du trotzdem nicht mehr.",
+  "erkennen": [
+   "Kommt die Maßnahme vom Staat (zurechenbar)?",
+   "Macht sie dein Verhalten unmöglich oder **erheblich** schwerer?",
+   "Egal ist: mit Absicht oder aus Versehen, direkt oder über Umwege, mit Befehl oder ohne.",
+   "Früher (klassisch) zählten nur gezielte, direkte Befehle mit Zwang."
+  ],
+  "merktrick": "Modern zählt die Wirkung, nicht die Verpackung.",
+  "klausur": {
+   "kurzantwort": "Jedes dem Staat **zurechenbare Handeln**, das ein grundrechtlich geschütztes Verhalten ganz oder teilweise **unmöglich macht oder erheblich erschwert**, **gleichgültig**, ob final oder nicht final, unmittelbar oder mittelbar, rechtlich oder faktisch, mit oder ohne Befehl und Zwang.",
+   "details": "**Klassischer Eingriffsbegriff** (zum Vergleich): final, unmittelbar, rechtsförmig, mit Befehl und Zwang durchsetzbar.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Zurechenbarkeit",
+    "erhebliche Erschwerung",
+    "auch faktisch und mittelbar",
+    "klassischer Begriff enger"
+   ],
+   "bausteine": [
+    "Eingriff ist jedes dem Staat zurechenbare Handeln.",
+    "Es macht ein grundrechtlich geschütztes Verhalten ganz oder teilweise unmöglich oder erschwert es erheblich.",
+    "Gleichgültig ist: final oder nicht final, unmittelbar oder mittelbar, rechtlich oder faktisch, mit oder ohne Befehl und Zwang.",
+    "Der klassische Eingriffsbegriff ist enger: final, unmittelbar, rechtsförmig, mit Befehl und Zwang."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ein Eingriff liegt nur vor, wenn der Staat gezielt per Befehl handelt.",
+     "warumNicht": "Das ist der klassische, engere Begriff. Der moderne lässt auch mittelbare und faktische Wirkungen genügen."
+    },
+    {
+     "text": "Jede noch so kleine Belästigung durch Private ist ein Eingriff.",
+     "warumNicht": "Der Eingriff muss dem Staat zurechenbar sein und erheblich erschweren. Private greifen nicht ein."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q17",
+  "nr": 17,
+  "stockwerk": 2,
+  "frage": "Beschreiben Sie die verschiedenen Schranken für Grundrechte. Nennen Sie je ein Grundrecht.",
+  "titel": "Wie stark darf man ein Grundrecht begrenzen?",
+  "fachbegriff": "Schranken der Grundrechte",
+  "einSatz": "Die meisten Grundrechte haben [[Schranken]]. Das [[Grundgesetz]] sagt, **wodurch** man sie begrenzen darf.",
+  "warum": "Freiheiten stoßen aneinander. Darum dürfen sie begrenzt werden, aber je nach Grundrecht unterschiedlich leicht.",
+  "alltag": "Im Freibad darfst du schwimmen. Die Badeordnung darf Regeln machen (einfach). Für Sprungturm-Verbote braucht es einen guten Grund (qualifiziert).",
+  "erkennen": [
+   "Steht da „durch oder aufgrund eines Gesetzes“? Dann **einfacher** [[Gesetzesvorbehalt]].",
+   "Verlangt der Artikel zusätzlich einen bestimmten Zweck? Dann **qualifiziert**.",
+   "Steht gar nichts? Dann [[vorbehaltlos]]: Grenze nur durch andere Verfassungsgüter.",
+   "Art. 2 I hat eigene Grenzen: die [[Schrankentrias]]."
+  ],
+  "merktrick": "Einfach, mit Extra, ohne [[Vorbehalt|gesetzesvorbehalt]], und die Trias für Art. 2 I.",
+  "klausur": {
+   "kurzantwort": "- **Einfacher Gesetzesvorbehalt:** Eingriff durch oder aufgrund eines Gesetzes. Beispiel: Art. 8 II (Versammlung unter freiem Himmel), Art. 12 I 2 (Berufsausübung), Art. 2 II 3.\n- **Qualifizierter Gesetzesvorbehalt:** Gesetz muss zusätzliche Voraussetzungen erfüllen (bestimmter Zweck/bestimmte Mittel). Beispiel: Art. 5 II, Art. 11 II.\n- **Vorbehaltlos gewährleistete Grundrechte:** nur durch **kollidierendes Verfassungsrecht** (verfassungsimmanente Schranken) begrenzt, Auflösung durch **praktische Konkordanz**. Beispiel: Art. 4 I, II (Glaubensfreiheit), Art. 5 III (Kunst, Wissenschaft).\n- **Schrankentrias** (Art. 2 I): Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "einfacher Gesetzesvorbehalt",
+    "qualifizierter Gesetzesvorbehalt",
+    "vorbehaltlos",
+    "kollidierendes Verfassungsrecht",
+    "Schrankentrias"
+   ],
+   "bausteine": [
+    "Einfacher Gesetzesvorbehalt: Eingriff durch oder aufgrund eines Gesetzes, z. B. Art. 8 II, Art. 12 I 2.",
+    "Qualifizierter Gesetzesvorbehalt: Das Gesetz muss zusätzliche Voraussetzungen erfüllen, z. B. Art. 5 II, Art. 11 II.",
+    "Vorbehaltlose Grundrechte: nur durch kollidierendes Verfassungsrecht begrenzt, z. B. Art. 4 I, II, Art. 5 III.",
+    "Der Konflikt wird durch praktische Konkordanz aufgelöst.",
+    "Schrankentrias (Art. 2 I): Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Vorbehaltlose Grundrechte können überhaupt nicht eingeschränkt werden.",
+     "warumNicht": "Auch sie haben Grenzen: kollidierendes Verfassungsrecht, gelöst durch praktische Konkordanz."
+    },
+    {
+     "text": "Die Kunstfreiheit (Art. 5 III) steht unter einfachem Gesetzesvorbehalt.",
+     "warumNicht": "Art. 5 III ist vorbehaltlos. Begrenzen kann ihn nur kollidierendes Verfassungsrecht."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q18",
+  "nr": 18,
+  "stockwerk": 2,
+  "frage": "Was wird unter „Schranken-Schranken“ verstanden?",
+  "titel": "Auch das Gesetz, das begrenzt, hat Grenzen",
+  "fachbegriff": "Schranken-Schranken",
+  "einSatz": "Ein Gesetz darf ein [[Grundrecht]] begrenzen. Aber das Gesetz selbst muss strenge Regeln einhalten.",
+  "warum": "Sonst könnte der Staat jedes Grundrecht per Gesetz leer machen. Die [[Schranken-Schranken]] verhindern das.",
+  "alltag": "Die Eltern dürfen die Handyzeit begrenzen. Aber nicht auf null Sekunden für immer, und nur mit nachvollziehbarer Regel.",
+  "erkennen": [
+   "**Formell:** Wer hat das Gesetz gemacht, auf welchem Weg, in welcher Form?",
+   "**Materiell:** Ist es klar formuliert und [[verhältnismäßig|Verhältnismäßigkeit]]?",
+   "Weitere Regeln: kein Gesetz nur für einen [[Einzelfall]], [[Zitiergebot]], Kern des Grundrechts bleibt.",
+   "Verhältnismäßig heißt: guter Zweck, geeignet, erforderlich, angemessen."
+  ],
+  "merktrick": "Die Schranke bekommt selbst eine Schranke. Grenzen für die Grenze.",
+  "klausur": {
+   "kurzantwort": "Grenzen für die Einschränkung von Grundrechten, also Anforderungen an das **grundrechtsbeschränkende Gesetz**:\n- **Formell:** Zuständigkeit, Verfahren, Form.\n- **Materiell:** Bestimmtheitsgebot; **Verhältnismäßigkeit** (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit); **Verbot des Einzelfallgesetzes** (Art. 19 I 1); **Zitiergebot** (Art. 19 I 2); **Wesensgehaltsgarantie** (Art. 19 II); Rückwirkungsverbot; Gleichheitsgebot.",
+   "details": "",
+   "normen": [
+    "Art. 19 GG"
+   ],
+   "schluesselbegriffe": [
+    "Anforderungen an das Gesetz",
+    "Verhältnismäßigkeit",
+    "Zitiergebot",
+    "Wesensgehalt",
+    "Bestimmtheit"
+   ],
+   "bausteine": [
+    "Schranken-Schranken sind Anforderungen an das grundrechtsbeschränkende Gesetz.",
+    "Formell: Zuständigkeit, Verfahren, Form.",
+    "Materiell: Bestimmtheitsgebot und Verhältnismäßigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit).",
+    "Außerdem: Verbot des Einzelfallgesetzes (Art. 19 I 1) und Zitiergebot (Art. 19 I 2).",
+    "Außerdem: Wesensgehaltsgarantie (Art. 19 II), Rückwirkungsverbot, Gleichheitsgebot."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Schranken-Schranken sind die Gründe, aus denen ein Grundrecht begrenzt werden darf.",
+     "warumNicht": "Das sind die Schranken selbst. Schranken-Schranken sind die Grenzen dieser Begrenzung."
+    },
+    {
+     "text": "Ein Gesetz darf ein Grundrecht in seinem Wesensgehalt antasten, wenn es verhältnismäßig ist.",
+     "warumNicht": "Die Wesensgehaltsgarantie (Art. 19 II) ist eine eigene Grenze neben der Verhältnismäßigkeit."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q19",
+  "nr": 19,
+  "stockwerk": 2,
+  "frage": "Wofür ist bei der Berufsfreiheit die „berufsregelnde Tendenz“ von Bedeutung? Subjektiv und objektiv, je ein Beispiel?",
+  "titel": "Trifft die Regel wirklich den Beruf?",
+  "fachbegriff": "Berufsregelnde Tendenz (Art. 12 I GG)",
+  "einSatz": "Nur eine Maßnahme mit **Bezug zum Beruf** ist ein [[Eingriff]] in die [[Berufsfreiheit]].",
+  "warum": "Fast jede Regel kostet irgendwen im Job Zeit oder Geld. Nicht jede soll gleich die Berufsfreiheit berühren.",
+  "alltag": "Regen nervt die Eisdiele. Trotzdem ist Regen kein Angriff auf Eisverkäufer. Ein Eisverkaufs-Verbot schon.",
+  "erkennen": [
+   "**Subjektiv:** Zielt die Regel genau auf den Beruf? Zum Beispiel Werbeverbot für Ärzte.",
+   "**Objektiv:** Kein Ziel, aber enger Zusammenhang mit dem Beruf und klare Wirkung darauf?",
+   "Beispiel objektiv: Preisregeln für Arzneimittel, die Apotheken treffen.",
+   "Wirkt sich die Regel nur zufällig auf den Job aus? Dann kein Eingriff in Art. 12."
+  ],
+  "merktrick": "Gezielt oder eng verbunden: Beruf berührt. Nur zufällig: nicht.",
+  "klausur": {
+   "kurzantwort": "Sie entscheidet, ob eine Maßnahme **überhaupt einen Eingriff in Art. 12 I GG** darstellt. Nicht jede Maßnahme, die sich auf Berufstätigkeit auswirkt, ist ein Eingriff, sondern nur eine mit **berufsregelnder Tendenz**.",
+   "details": "- **Subjektiv** (final): Die Maßnahme **zielt** gerade auf die Regelung der beruflichen Tätigkeit. Beispiel: Zulassungsvoraussetzungen oder Werbeverbote für Ärzte.\n- **Objektiv:** Die Maßnahme zielt nicht auf den Beruf, steht aber in **engem Zusammenhang** mit der Berufsausübung und hat **objektiv** berufsregelnde Wirkung. Beispiel: Preis-/Rabattregelungen für Arzneimittel, die Apotheken und Hersteller belasten.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Eingriff in Art. 12 I",
+    "Ziel der Maßnahme",
+    "objektiver Zusammenhang",
+    "Absicht vs. Wirkung"
+   ],
+   "bausteine": [
+    "Die berufsregelnde Tendenz entscheidet, ob überhaupt ein Eingriff in Art. 12 I GG vorliegt.",
+    "Nicht jede Maßnahme mit Auswirkung auf den Beruf ist ein Eingriff.",
+    "Subjektiv: Die Maßnahme zielt gerade auf die Regelung der Berufstätigkeit, z. B. Werbeverbote für Ärzte.",
+    "Objektiv: Enger Zusammenhang mit der Berufsausübung und objektiv berufsregelnde Wirkung, z. B. Rabattregeln für Arzneimittel."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Jede Maßnahme, die sich auf die Berufstätigkeit auswirkt, ist ein Eingriff in Art. 12 I.",
+     "warumNicht": "Nicht jede Auswirkung reicht. Nötig ist eine berufsregelnde Tendenz."
+    },
+    {
+     "text": "Die berufsregelnde Tendenz bestimmt, auf welcher Stufe der Eingriff liegt.",
+     "warumNicht": "Die Stufe klärt die Drei-Stufen-Theorie. Die Tendenz klärt vorher, ob überhaupt ein Eingriff vorliegt."
+    }
+   ]
+  },
+  "verifiziert": false,
+  "hinweise": [
+   "Begriffsverwendung (subjektiv/objektiv) und Beispiele bitte mit der Vorlesung abgleichen."
+  ],
+  "normhinweis": null
+ },
+ {
+  "id": "q20",
+  "nr": 20,
+  "stockwerk": 2,
+  "frage": "Auf welcher Stufe des Eingriffs ist folgende Maßnahme zu verorten? [...]",
+  "titel": "Wie hart trifft die Regel den Beruf?",
+  "fachbegriff": "Drei-Stufen-Theorie (Apotheken-Urteil)",
+  "einSatz": "Regeln zum Beruf haben **drei Stufen**. Je höher die Stufe, desto besser muss der Grund sein.",
+  "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund.",
+  "alltag": "Stufe 1: Der Bäcker darf erst ab 6 Uhr öffnen. Stufe 2: Er braucht einen Meisterbrief. Stufe 3: Es gibt schon genug Bäcker, keiner darf neu öffnen.",
+  "erkennen": [
+   "**Wie** du arbeitest (Zeiten, Werbung)? Stufe 1: [[Berufsausübung]].",
+   "**Ob**, abhängig von dir (Prüfung, Eignung)? Stufe 2: subjektive [[Berufswahl]].",
+   "**Ob**, ohne dass du es ändern kannst (Bedarf, Sperre)? Stufe 3: objektive Berufswahl.",
+   "Immer die mildeste Stufe wählen, die noch passt."
+  ],
+  "merktrick": "Wie? Ob durch mich? Ob ohne mich? Eins, zwei, drei.",
+  "klausur": {
+   "kurzantwort": "Drei-Stufen-Theorie, Apotheken-Urteil:\n1. **Berufsausübungsregelung** („Wie“): zulässig bei vernünftigen Erwägungen des Gemeinwohls. Beispiel: Werbe-, Sprechzeitenregelung.\n2. **Subjektive Berufswahlregelung** (persönliche Voraussetzungen: Ausbildung, Eignung, Zuverlässigkeit): zulässig zum Schutz **wichtiger Gemeinschaftsgüter**. Beispiel: Approbation.\n3. **Objektive Berufswahlregelung** (vom Betroffenen nicht beeinflussbar): nur zur Abwehr **nachweisbarer oder höchstwahrscheinlicher schwerer Gefahren für ein überragend wichtiges Gemeinschaftsgut**. Beispiel: Bedürfnisprüfung, Zulassungssperre nach Bedarf.",
+   "details": "**Prüfregel:** Immer die mildeste Stufe wählen, die die Maßnahme noch trifft. Begründung über „Wie?“, „Ob? (persönlich)“, „Ob? (unabhängig von der Person)“.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Ausübung",
+    "subjektive Wahl",
+    "objektive Wahl",
+    "Gemeinwohl",
+    "überragend wichtiges Gemeinschaftsgut"
+   ],
+   "bausteine": [
+    "Berufsausübungsregelung („Wie“): zulässig bei vernünftigen Erwägungen des Gemeinwohls, z. B. Werbe- oder Sprechzeitenregelung.",
+    "Subjektive Berufswahlregelung (persönliche Voraussetzungen): zulässig zum Schutz wichtiger Gemeinschaftsgüter, z. B. Approbation.",
+    "Objektive Berufswahlregelung (nicht beeinflussbar): nur gegen nachweisbare oder höchstwahrscheinliche schwere Gefahren.",
+    "Diese Gefahren müssen ein überragend wichtiges Gemeinschaftsgut betreffen, z. B. Bedürfnisprüfung.",
+    "Prüfregel: Immer die mildeste Stufe wählen, die die Maßnahme noch trifft."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Objektive Berufswahlregelung: zulässig schon bei vernünftigen Erwägungen des Gemeinwohls.",
+     "warumNicht": "Dieser milde Maßstab gilt für die Berufsausübung. Die objektive Wahl braucht schwere Gefahren für ein überragend wichtiges Gut."
+    },
+    {
+     "text": "Prüfregel: Im Zweifel immer die strengste Stufe wählen.",
+     "warumNicht": "Umgekehrt: Immer die mildeste Stufe wählen, die die Maßnahme noch trifft."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q21",
+  "nr": 21,
+  "stockwerk": 2,
+  "frage": "Was ist die allgemeine Handlungsfreiheit und wo ist sie geschützt? Welche Funktion hat sie?",
+  "titel": "Das Grundrecht für alles Übrige",
+  "fachbegriff": "Allgemeine Handlungsfreiheit (Art. 2 I GG)",
+  "einSatz": "Art. 2 I schützt **jedes** Verhalten, auch kleine Dinge wie Reiten im Wald oder Tauben füttern.",
+  "warum": "Nicht für jede Freiheit gibt es ein eigenes Grundrecht. Damit keine [[Lücke|regelungsluecke]] bleibt, fängt Art. 2 I den Rest auf.",
+  "alltag": "Im Sportverein gibt es Teams für Fußball und Tennis. Für alle anderen gibt es die Gruppe „Freies Training“.",
+  "erkennen": [
+   "Passt ein spezielles Grundrecht (Beruf, Glaube, Versammlung)? Dann gilt dieses.",
+   "Passt keins? Dann Art. 2 I als [[Auffanggrundrecht]].",
+   "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz.",
+   "Ein verfassungswidriges Gesetz kannst du darüber immer angreifen."
+  ],
+  "merktrick": "Art. 2 I ist das Fangnetz unter allen anderen Grundrechten.",
+  "klausur": {
+   "kurzantwort": "Geschützt ist **jedes menschliche Verhalten**, ohne Rücksicht auf sein Gewicht, nach **Art. 2 I GG** (Elfes-Urteil, „Reiten im Walde“). Schranken: **Schrankentrias** (Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz). „Verfassungsmäßige Ordnung“ = alle formell und materiell verfassungsmäßigen Rechtsnormen.",
+   "details": "**Funktion:** **Auffanggrundrecht**, also subsidiär zu spezielleren Freiheitsrechten. Dadurch lässt sich über die Verfassungsbeschwerde jede Belastung durch ein **verfassungswidriges Gesetz** rügen.",
+   "normen": [
+    "Art. 2 I GG"
+   ],
+   "schluesselbegriffe": [
+    "jedes Verhalten",
+    "Art. 2 I",
+    "Auffanggrundrecht",
+    "subsidiär",
+    "verfassungsmäßige Ordnung"
+   ],
+   "bausteine": [
+    "Art. 2 I GG schützt jedes menschliche Verhalten ohne Rücksicht auf sein Gewicht (Elfes, „Reiten im Walde“).",
+    "Schranken: Schrankentrias aus Rechten anderer, verfassungsmäßiger Ordnung und Sittengesetz.",
+    "Verfassungsmäßige Ordnung sind alle formell und materiell verfassungsmäßigen Rechtsnormen.",
+    "Funktion: Auffanggrundrecht, subsidiär zu spezielleren Freiheitsrechten.",
+    "So kann man per Verfassungsbeschwerde jede Belastung durch ein verfassungswidriges Gesetz rügen."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Art. 2 I schützt nur Verhalten, das für die Persönlichkeit besonders wichtig ist.",
+     "warumNicht": "Geschützt ist jedes Verhalten, ohne Rücksicht auf sein Gewicht, z. B. Reiten im Walde."
+    },
+    {
+     "text": "Art. 2 I geht spezielleren Freiheitsrechten immer vor.",
+     "warumNicht": "Umgekehrt: Art. 2 I ist ein Auffanggrundrecht und tritt hinter speziellere Freiheitsrechte zurück."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q22",
+  "nr": 22,
+  "stockwerk": 2,
+  "frage": "Können Ungleichbehandlungen gerechtfertigt sein, und falls ja, unter welchen Voraussetzungen?",
+  "titel": "Darf der Staat Leute unterschiedlich behandeln?",
+  "fachbegriff": "Rechtfertigung von Ungleichbehandlungen (Art. 3 I GG)",
+  "einSatz": "Ja, aber nur mit einem **sachlichen Grund**. Gleiches gleich, Ungleiches ungleich behandeln.",
+  "warum": "Menschen und Lagen sind verschieden. Gerecht ist nicht immer gleich, aber nie grundlos verschieden.",
+  "alltag": "Im Kino zahlen Kinder weniger. Der Grund ist klar. Zahlen nur Leute mit roten Schuhen mehr, ist das reine Laune.",
+  "erkennen": [
+   "1. Welche Gruppen vergleichst du?",
+   "2. Werden sie unterschiedlich behandelt?",
+   "3. Gibt es einen sachlichen Grund? Ohne Grund: [[Willkür|Willkürverbot]], also verboten.",
+   "Je nach Fall ist der Maßstab locker (Willkür) oder streng ([[Verhältnismäßigkeit|verhaeltnismaessig]])."
+  ],
+  "merktrick": "Vergleichen, Unterschied finden, Grund suchen.",
+  "klausur": {
+   "kurzantwort": "Ja. Art. 3 I GG verlangt, **wesentlich Gleiches gleich und wesentlich Ungleiches ungleich** zu behandeln. Prüfung: 1. Vergleichsgruppen, 2. Ungleichbehandlung, 3. **Rechtfertigung** durch einen **sachlichen Grund**. Der Maßstab reicht vom **Willkürverbot** („alte Formel“) bis zur **Verhältnismäßigkeitsprüfung** („neue Formel“, → Frage 23). Spezielle Gleichheitssätze (Art. 3 II, III) setzen strengere Maßstäbe.",
+   "details": "",
+   "normen": [
+    "Art. 3 I GG"
+   ],
+   "schluesselbegriffe": [
+    "wesentlich gleich",
+    "sachlicher Grund",
+    "Willkürverbot",
+    "Verhältnismäßigkeit"
+   ],
+   "bausteine": [
+    "Ja, Ungleichbehandlungen können gerechtfertigt sein.",
+    "Art. 3 I GG verlangt, wesentlich Gleiches gleich und wesentlich Ungleiches ungleich zu behandeln.",
+    "Prüfung: 1. Vergleichsgruppen, 2. Ungleichbehandlung, 3. Rechtfertigung durch einen sachlichen Grund.",
+    "Der Maßstab reicht vom Willkürverbot („alte Formel“) bis zur Verhältnismäßigkeitsprüfung („neue Formel“).",
+    "Spezielle Gleichheitssätze (Art. 3 II, III) setzen strengere Maßstäbe."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Nein, Art. 3 I verbietet jede Ungleichbehandlung ausnahmslos.",
+     "warumNicht": "Ungleichbehandlungen sind erlaubt, wenn ein sachlicher Grund sie rechtfertigt."
+    },
+    {
+     "text": "Prüfung: 1. Schutzbereich, 2. Eingriff, 3. Schranke.",
+     "warumNicht": "Das ist das Schema für Freiheitsrechte. Art. 3 I prüft Vergleichsgruppen, Ungleichbehandlung, Rechtfertigung."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q23",
+  "nr": 23,
+  "stockwerk": 2,
+  "frage": "Wo kommt der strengere Maßstab der „neuen Formel“ zur Anwendung?",
+  "titel": "Wann wird die Gleichheitsprüfung streng?",
+  "fachbegriff": "„Neue Formel“ bei Art. 3 I GG",
+  "einSatz": "Unterscheidet der Staat nach **Personen**, prüft man streng. Nach Sachen oder Verhalten reicht die lockere Prüfung.",
+  "warum": "Merkmale einer Person kann man oft nicht ändern. Darum braucht der Staat dann gewichtigere Gründe.",
+  "alltag": "Der Verein verlangt mehr Beitrag für Zuspätzahler: Das liegt am Verhalten. Mehr Beitrag nur wegen der Herkunft: Das trifft die Person.",
+  "erkennen": [
+   "Geht es um Gruppen von Personen? Dann eher streng.",
+   "Werden Freiheitsrechte spürbar berührt? Dann strenger.",
+   "Ähnelt das Merkmal denen aus Art. 3 III? Je ähnlicher, desto strenger.",
+   "Nur Sache oder Verhalten? Dann reicht die [[Willkürformel|Willkürverbot]]. Dazwischen gilt eine [[gleitende Skala]]."
+  ],
+  "merktrick": "Je persönlicher der Unterschied, desto strenger der Blick.",
+  "klausur": {
+   "kurzantwort": "Bei **personenbezogenen Ungleichbehandlungen** (Gruppen von Personen), bei Auswirkungen auf **Freiheitsrechte** und je mehr die Merkmale denen des **Art. 3 III GG** ähneln. Dann darf die Ungleichbehandlung nur erfolgen, wenn zwischen den Gruppen **Unterschiede von solcher Art und solchem Gewicht** bestehen, dass sie die ungleiche Behandlung rechtfertigen (Verhältnismäßigkeitsprüfung). Bei sach- oder verhaltensbezogenen Unterschieden genügt die **Willkürformel**. Es gilt eine **gleitende Skala**.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "personenbezogen",
+    "Nähe zu Art. 3 III",
+    "Freiheitsrelevanz",
+    "gleitende Skala",
+    "Verhältnismäßigkeit"
+   ],
+   "bausteine": [
+    "Die neue Formel gilt bei personenbezogenen Ungleichbehandlungen.",
+    "Sie gilt auch bei Auswirkungen auf Freiheitsrechte und je mehr die Merkmale denen des Art. 3 III GG ähneln.",
+    "Dann braucht es Unterschiede von solcher Art und solchem Gewicht, dass sie die ungleiche Behandlung rechtfertigen.",
+    "Bei sach- oder verhaltensbezogenen Unterschieden genügt die Willkürformel.",
+    "Es gilt eine gleitende Skala."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die neue Formel gilt bei sach- und verhaltensbezogenen Unterschieden.",
+     "warumNicht": "Dort genügt die Willkürformel. Die neue Formel gilt bei personenbezogenen Unterschieden."
+    },
+    {
+     "text": "Bei personenbezogenen Unterschieden genügt stets die Willkürformel.",
+     "warumNicht": "Umgekehrt: Bei personenbezogenen Unterschieden gilt die strengere neue Formel."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q24",
+  "nr": 24,
+  "stockwerk": 2,
+  "frage": "Welche Postulate lassen sich aus den Grundrechten hinsichtlich des Existenzminimums ableiten? Rolle des Gesetzgebers?",
+  "titel": "Was jeder zum Leben mindestens braucht",
+  "fachbegriff": "Grundrecht auf ein menschenwürdiges Existenzminimum",
+  "einSatz": "Jeder hat ein Grundrecht auf das [[Existenzminimum]]: genug zum Leben und ein bisschen [[Teilhabe|teilhaberecht]].",
+  "warum": "Wer nichts zu essen und kein Dach hat, kann seine Freiheit nicht nutzen. Das folgt aus [[Menschenwürde]] und [[Sozialstaat]].",
+  "alltag": "Auf Klassenfahrt bekommt jedes Kind Essen und ein Bett. Und es darf beim Ausflug mit. Wie viel Taschengeld es gibt, legt die Schule fest.",
+  "erkennen": [
+   "Körperliche Existenz: Essen, Kleidung, Wohnen, Gesundheit.",
+   "Dazu ein Mindestmaß an Teilhabe am Leben mit anderen.",
+   "Die Höhe bestimmt der [[Gesetzgeber]], mit realistischer Rechnung.",
+   "Ob es den [[Anspruch|rechtsanspruch]] gibt, steht fest. Wie hoch, kann sich ändern."
+  ],
+  "merktrick": "Das Ob ist fest, das Wieviel ist Sache des Gesetzgebers.",
+  "klausur": {
+   "kurzantwort": "Aus **Art. 1 I i. V. m. Art. 20 I GG** (Menschenwürde und Sozialstaat) folgt ein **Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums** (BVerfG Hartz IV 2010, Asylbewerberleistungsgesetz 2012). Es umfasst die **physische Existenz** (u. a. Ernährung, Kleidung, Wohnen, **Gesundheit**) und ein **Mindestmaß an gesellschaftlicher Teilhabe**.",
+   "details": "**Gesetzgeber:** Er muss den Anspruch **konkretisieren** (Gesetz), mit **nachvollziehbarem, realitätsgerechtem Verfahren** die Höhe bemessen. Bei der Höhe hat er **Gestaltungsspielraum**, das BVerfG prüft nur eingeschränkt (evidente Unzulänglichkeit). Der Anspruch ist **dem Grunde nach unverfügbar**, in der Höhe wandelbar.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Menschenwürde + Sozialstaat",
+    "physisches und soziokulturelles Existenzminimum",
+    "Gestaltungsspielraum",
+    "realitätsgerecht",
+    "dem Grunde nach unverfügbar"
+   ],
+   "bausteine": [
+    "Aus Art. 1 I i. V. m. Art. 20 I GG folgt ein Grundrecht auf ein menschenwürdiges Existenzminimum.",
+    "Es umfasst die physische Existenz (u. a. Ernährung, Kleidung, Wohnen, Gesundheit) und ein Mindestmaß an gesellschaftlicher Teilhabe.",
+    "Der Gesetzgeber muss den Anspruch konkretisieren und die Höhe nachvollziehbar und realitätsgerecht bemessen.",
+    "Bei der Höhe hat er Gestaltungsspielraum, das BVerfG prüft nur auf evidente Unzulänglichkeit.",
+    "Der Anspruch ist dem Grunde nach unverfügbar, in der Höhe wandelbar."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Das BVerfG legt die genaue Höhe des Existenzminimums selbst fest.",
+     "warumNicht": "Die Höhe legt der Gesetzgeber fest. Das BVerfG prüft nur auf evidente Unzulänglichkeit."
+    },
+    {
+     "text": "Der Anspruch kann vom Gesetzgeber ganz abgeschafft werden.",
+     "warumNicht": "Der Anspruch ist dem Grunde nach unverfügbar. Nur die Höhe ist wandelbar."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q25",
+  "nr": 25,
+  "stockwerk": 2,
+  "frage": "A (GKV-versichert) begehrt ein nicht zum Leistungskatalog gehörendes Arzneimittel. Hat A einen grundrechtlichen Leistungsanspruch?",
+  "titel": "Ein Medikament, das die Kasse nicht zahlt: Gibt es eine Ausnahme?",
+  "fachbegriff": "Grundrechtlicher Leistungsanspruch (Nikolaus-Beschluss)",
+  "einSatz": "Meistens nein. Nur bei lebensbedrohlicher Krankheit ohne Standard-Behandlung und mit echter Hoffnung muss die Kasse zahlen.",
+  "warum": "Die [[gesetzliche Krankenkasse|GKV]] kann nicht alles bezahlen. Aber wer sterbenskrank ist und keine andere Hilfe hat, darf nicht leer ausgehen.",
+  "alltag": "Die Mensa bietet nur ihr festes Menü an. Hat ein Kind eine schwere Allergie und gibt es nichts Passendes, kocht die Küche ausnahmsweise extra.",
+  "erkennen": [
+   "✔ 1: Ist die Krankheit lebensbedrohlich oder meist tödlich?",
+   "✔ 2: Fehlt eine anerkannte Standard-Behandlung?",
+   "✔ 3: Gibt es Hinweise, dass das Mittel nicht ganz aussichtslos hilft?",
+   "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]] (heute § 2 Ia [[SGB|sgb]] V)."
+  ],
+  "merktrick": "Drei Haken oder kein Geschenk vom Nikolaus.",
+  "klausur": {
+   "kurzantwort": "**Grundsätzlich nein.** Aus den Grundrechten folgt kein allgemeiner Anspruch auf jede gewünschte Leistung (Gestaltungsspielraum des Gesetzgebers, Wirtschaftlichkeit der GKV). **Ausnahme (Nikolaus-Beschluss, BVerfG 6.12.2005 – 1 BvR 347/98):** Ein Ausschluss ist verfassungswidrig, wenn",
+   "details": "1. eine **lebensbedrohliche oder regelmäßig tödliche Erkrankung** vorliegt,\n2. keine **allgemein anerkannte, dem medizinischen Standard entsprechende Behandlung** verfügbar ist und\n3. die gewählte Behandlung eine **auf Indizien gestützte, nicht ganz entfernt liegende Aussicht auf Heilung oder spürbare positive Einwirkung auf den Krankheitsverlauf** bietet.\nGrundlage: Art. 2 I i. V. m. dem **Sozialstaatsprinzip** und Art. 2 II 1 GG (Pflichtversicherung, Schutzpflicht).\n**Gesetzliche Umsetzung:** **§ 2 Ia SGB V**.\n**Prüfschema:** 1. Anspruch nach SGB V (§§ 27, 31 ff.)? → nein. 2. Verfassungsorientierter Anspruch (§ 2 Ia SGB V / Nikolaus)? → hängt von der Schwere der Krankheit ab.",
+   "normen": [
+    "§ 2 Ia SGB V",
+    "Art. 2 I, 2 II 1, 20 I GG"
+   ],
+   "schluesselbegriffe": [
+    "Nikolaus-Beschluss",
+    "lebensbedrohlich",
+    "kein Standard verfügbar",
+    "Indizien auf Erfolg",
+    "§ 2 Ia SGB V"
+   ],
+   "bausteine": [
+    "Grundsätzlich folgt aus den Grundrechten kein Anspruch auf jede gewünschte Leistung.",
+    "Ausnahme Nikolaus-Beschluss: 1. lebensbedrohliche oder regelmäßig tödliche Erkrankung.",
+    "2. Keine allgemein anerkannte, dem medizinischen Standard entsprechende Behandlung verfügbar.",
+    "3. Auf Indizien gestützte, nicht ganz entfernt liegende Aussicht auf Heilung oder spürbare Besserung.",
+    "Grundlage: Art. 2 I i. V. m. Sozialstaatsprinzip und Art. 2 II 1 GG; heute § 2 Ia SGB V."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Es genügt, dass der Arzt das Mittel für sinnvoll hält.",
+     "warumNicht": "Nötig sind drei Dinge: lebensbedrohliche Krankheit, kein Standard verfügbar, Indizien für Erfolg."
+    },
+    {
+     "text": "Grundsätzlich hat jeder Versicherte einen Anspruch auf jedes wirksame Arzneimittel.",
+     "warumNicht": "Grundsätzlich gibt es keinen Anspruch auf jede gewünschte Leistung. Der Nikolaus-Fall ist die Ausnahme."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": "Normprüfung: § 2 Abs. 1a SGB V erfasst auch Erkrankungen, die einer lebensbedrohlichen „zumindest wertungsmäßig vergleichbar“ sind. „Auf Indizien gestützt“ stammt aus dem Nikolaus-Beschluss, nicht aus dem Gesetzeswortlaut."
+ },
+ {
+  "id": "q27",
+  "nr": 27,
+  "stockwerk": 3,
+  "frage": "Was versteht man im Öffentlichen Recht unter einer Körperschaft? Beispiel?",
+  "titel": "Eine Einheit mit Mitgliedern: Was ist eine Körperschaft?",
+  "fachbegriff": "Körperschaft des öffentlichen Rechts",
+  "einSatz": "Eine [[Körperschaft]] ist eine per Gesetz gegründete Einheit mit **Mitgliedern**. Sie hat eine öffentliche Aufgabe.",
+  "warum": "Manche Aufgaben regeln die Leute am besten selbst. Darum hat eine Körperschaft Mitglieder. Sie verwaltet sich selbst.",
+  "alltag": "Ein Sportverein hat Mitglieder. Sie wählen den Vorstand. Treten Leute aus oder ein, bleibt der Verein bestehen. Eine Körperschaft ist so ähnlich, nur vom Staat gegründet.",
+  "erkennen": [
+   "Hat sie **Mitglieder**, die mitbestimmen? Dann ist es wohl eine Körperschaft.",
+   "Bleibt sie bestehen, auch wenn die Mitglieder wechseln?",
+   "Kann sie selbst Rechte und Pflichten haben? Das heißt rechtsfähig.",
+   "Beispiele: Gemeinde, Ärztekammer, [[gesetzliche Krankenkasse|gkv]]."
+  ],
+  "merktrick": "Körperschaft: Viele Köpfe bilden einen Körper.",
+  "klausur": {
+   "kurzantwort": "Eine **mitgliedschaftlich verfasste**, vom Wechsel der Mitglieder **unabhängige**, **rechtsfähige** Verwaltungseinheit zur Erfüllung **öffentlicher Aufgaben**, die durch **Hoheitsakt** (meist Gesetz) errichtet wird. Sie hat **Mitglieder** und **Selbstverwaltung**.",
+   "details": "**Arten:** Gebietskörperschaften (Bund, Land, Gemeinde), Personalkörperschaften (Ärztekammer, IHK), Verbandskörperschaften.\n**Beispiel im Gesundheitswesen:** gesetzliche Krankenkassen (§ 4 I SGB V), Kassenärztliche Vereinigungen (§ 77 V SGB V).",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Mitglieder",
+    "rechtsfähig",
+    "Hoheitsakt",
+    "Selbstverwaltung",
+    "Krankenkasse"
+   ],
+   "bausteine": [
+    "Eine Körperschaft ist eine mitgliedschaftlich verfasste, rechtsfähige Verwaltungseinheit.",
+    "Sie ist vom Wechsel der Mitglieder unabhängig.",
+    "Sie erfüllt öffentliche Aufgaben und wird durch Hoheitsakt, meist Gesetz, errichtet.",
+    "Sie hat Mitglieder und Selbstverwaltung.",
+    "Beispiel: gesetzliche Krankenkassen (§ 4 I SGB V), Kassenärztliche Vereinigungen (§ 77 V SGB V)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Eine Körperschaft hat keine Mitglieder, sondern Nutzer.",
+     "warumNicht": "Verwechslung mit der Anstalt: Nutzer statt Mitglieder hat die Anstalt, die Körperschaft hat Mitglieder."
+    },
+    {
+     "text": "Sie entsteht durch einen privaten Gründungsvertrag.",
+     "warumNicht": "Eine Körperschaft wird durch Hoheitsakt errichtet, meist durch Gesetz, nicht durch privaten Vertrag."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q28",
+  "nr": 28,
+  "stockwerk": 3,
+  "frage": "Was versteht man im Öffentlichen Recht unter einer Anstalt? Beispiel?",
+  "titel": "Eine Einrichtung zum Nutzen: Was ist eine Anstalt?",
+  "fachbegriff": "Anstalt des öffentlichen Rechts",
+  "einSatz": "Eine [[Anstalt]] besteht aus Sachen und Personal. Sie dient dauerhaft einem öffentlichen Zweck. Sie hat **Nutzer**, keine Mitglieder.",
+  "warum": "Manche Aufgaben brauchen vor allem Häuser, Geräte und Fachleute. Wer das nutzt, muss nicht mitbestimmen.",
+  "alltag": "Im Freibad kaufst du ein Ticket und schwimmst. Du bist Gast, kein Mitglied. Über die Öffnungszeiten stimmst du nicht ab.",
+  "erkennen": [
+   "Gibt es **Nutzer** statt Mitglieder? Dann spricht viel für eine Anstalt.",
+   "Gibt es Gebäude, Technik und Personal für einen festen öffentlichen Zweck?",
+   "Sie kann selbst Rechte haben (dann heißt sie AöR) oder nicht.",
+   "Beispiele: Uniklinik, öffentlicher Rundfunk, Sparkasse."
+  ],
+  "merktrick": "In der Anstalt wirst du bedient. In der [[Körperschaft]] bestimmst du mit.",
+  "klausur": {
+   "kurzantwort": "Ein **Bestand an sachlichen und persönlichen Mitteln**, der in der Hand eines Verwaltungsträgers **dauerhaft einem besonderen öffentlichen Zweck dient**. Sie hat **keine Mitglieder, sondern Nutzer**. Sie kann rechtsfähig (Anstalt des öffentlichen Rechts, AöR) oder nicht rechtsfähig sein.",
+   "details": "**Beispiele:** Universitätsklinikum (je nach Land als AöR), öffentlich-rechtliche Rundfunkanstalt, Sparkasse.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Sach- und Personalmittel",
+    "öffentlicher Zweck",
+    "Nutzer statt Mitglieder",
+    "Universitätsklinikum"
+   ],
+   "bausteine": [
+    "Eine Anstalt ist ein Bestand an sachlichen und persönlichen Mitteln.",
+    "Er dient in der Hand eines Verwaltungsträgers dauerhaft einem besonderen öffentlichen Zweck.",
+    "Sie hat keine Mitglieder, sondern Nutzer.",
+    "Sie kann rechtsfähig (AöR) oder nicht rechtsfähig sein.",
+    "Beispiele: Universitätsklinikum, öffentlich-rechtliche Rundfunkanstalt, Sparkasse."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Eine Anstalt ist mitgliedschaftlich verfasst und hat Selbstverwaltung.",
+     "warumNicht": "Mitglieder und Selbstverwaltung kennzeichnen die Körperschaft. Die Anstalt hat Nutzer."
+    },
+    {
+     "text": "Eine Anstalt ist immer rechtsfähig.",
+     "warumNicht": "Eine Anstalt kann rechtsfähig (AöR) oder nicht rechtsfähig sein."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q29",
+  "nr": 29,
+  "stockwerk": 3,
+  "frage": "Was ist eine Rechtsverordnung?",
+  "titel": "Regeln von der Regierung: Was ist eine Rechtsverordnung?",
+  "fachbegriff": "Rechtsverordnung (Art. 80 GG)",
+  "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung erlässt sie, aber nur mit Erlaubnis aus einem Gesetz.",
+  "warum": "Das [[Parlament]] kann nicht jedes Detail selbst regeln. Es gibt Arbeit ab, legt aber den Rahmen genau fest.",
+  "alltag": "Der Vorstand erlaubt der Platzwartin, die Platzordnung zu schreiben. Er sagt genau: worüber, wozu und wie weit. Oben auf dem Zettel steht, wer es erlaubt hat.",
+  "erkennen": [
+   "Wer erlässt die Regel? Regierung, Ministerium oder [[Behörde]].",
+   "Erlaubt ein Gesetz genau das? Inhalt, Zweck und Ausmaß müssen drinstehen.",
+   "In der Verordnung muss stehen, auf welches Gesetz sie sich stützt.",
+   "Sie steht im Rang unter dem Gesetz."
+  ],
+  "merktrick": "Ohne Gesetz keine Verordnung: erst die Erlaubnis, dann die Regel.",
+  "klausur": {
+   "kurzantwort": "Eine **abstrakt-generelle Rechtsnorm**, die die **Exekutive** (Regierung, Minister, Behörden) **aufgrund einer gesetzlichen Ermächtigung** erlässt (materielles Gesetz, kein Parlamentsgesetz). Die Ermächtigung muss **Inhalt, Zweck und Ausmaß** bestimmen (Art. 80 I 2 GG). In der Verordnung ist die Ermächtigungsgrundlage zu nennen (**Zitiergebot**, Art. 80 I 3). Rang: unter dem Gesetz.",
+   "details": "**Beispiel:** Approbationsordnung für Ärzte.",
+   "normen": [
+    "Art. 80 I GG"
+   ],
+   "schluesselbegriffe": [
+    "Exekutive",
+    "gesetzliche Ermächtigung",
+    "Inhalt Zweck Ausmaß",
+    "Art. 80 GG",
+    "Approbationsordnung"
+   ],
+   "bausteine": [
+    "Eine Rechtsverordnung ist eine abstrakt-generelle Rechtsnorm.",
+    "Sie wird von der Exekutive aufgrund einer gesetzlichen Ermächtigung erlassen.",
+    "Sie ist materielles Gesetz, aber kein Parlamentsgesetz.",
+    "Die Ermächtigung muss Inhalt, Zweck und Ausmaß bestimmen (Art. 80 I 2 GG).",
+    "Die Ermächtigungsgrundlage ist in der Verordnung zu nennen (Zitiergebot, Art. 80 I 3 GG).",
+    "Rang: unter dem Gesetz. Beispiel: Approbationsordnung für Ärzte."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Eine Rechtsverordnung wird vom Parlament im förmlichen Gesetzgebungsverfahren beschlossen.",
+     "warumNicht": "Das wäre ein Parlamentsgesetz. Die Rechtsverordnung erlässt die Exekutive."
+    },
+    {
+     "text": "Die Exekutive darf Rechtsverordnungen auch ohne gesetzliche Ermächtigung erlassen.",
+     "warumNicht": "Sie braucht immer eine gesetzliche Ermächtigung, die Inhalt, Zweck und Ausmaß bestimmt (Art. 80 I GG)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q30",
+  "nr": 30,
+  "stockwerk": 3,
+  "frage": "Was versteht man im Verwaltungsrecht unter einer Satzung? Beispiel?",
+  "titel": "Regeln, die man sich selbst gibt: Was ist eine Satzung?",
+  "fachbegriff": "Satzung",
+  "einSatz": "Eine [[Satzung]] ist eine Regel, die sich eine Gemeinde, Kammer oder Kasse selbst gibt. Sie gilt für ihre Mitglieder.",
+  "warum": "Wer sich selbst verwaltet, soll seine eigenen Dinge auch selbst regeln. Das ist der Kern der [[Selbstverwaltung]].",
+  "alltag": "Eine WG schreibt selbst ihren Putzplan. Niemand von außen hat ihn vorgegeben. Er gilt für alle, die dort wohnen.",
+  "erkennen": [
+   "Wer erlässt die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
+   "Für wen gilt sie? Für ihre Mitglieder oder Angehörigen.",
+   "Satzung: Man regelt sich selbst. [[Verordnung|Rechtsverordnung]]: Der Staat gibt Arbeit ab.",
+   "Beispiele: Satzung der Krankenkasse, Berufsordnung der Ärztekammer."
+  ],
+  "merktrick": "Satzung: Wir setzen uns selbst die Regeln.",
+  "klausur": {
+   "kurzantwort": "Eine **abstrakt-generelle Rechtsnorm**, die eine **juristische Person des öffentlichen Rechts** im Rahmen ihrer **Selbstverwaltungsautonomie** erlässt, für ihre Mitglieder bzw. Angehörigen. Unterschied zur Rechtsverordnung: Satzung = **Selbstverwaltung**, Rechtsverordnung = **staatliche Delegation**.",
+   "details": "**Beispiel:** Satzung einer gesetzlichen Krankenkasse (§ 194 SGB V), Berufsordnung der Ärztekammer, Satzung der Kassenärztlichen Vereinigung, Gemeindesatzung.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Selbstverwaltung",
+    "juristische Person des öffentlichen Rechts",
+    "Mitglieder",
+    "§ 194 SGB V"
+   ],
+   "bausteine": [
+    "Eine Satzung ist eine abstrakt-generelle Rechtsnorm.",
+    "Sie wird von einer juristischen Person des öffentlichen Rechts erlassen.",
+    "Das geschieht im Rahmen ihrer Selbstverwaltungsautonomie, für ihre Mitglieder bzw. Angehörigen.",
+    "Unterschied: Satzung = Selbstverwaltung, Rechtsverordnung = staatliche Delegation.",
+    "Beispiel: Satzung einer gesetzlichen Krankenkasse (§ 194 SGB V), Berufsordnung der Ärztekammer."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Unterschied: Satzung = staatliche Delegation, Rechtsverordnung = Selbstverwaltung.",
+     "warumNicht": "Genau vertauscht: Satzung = Selbstverwaltung, Rechtsverordnung = staatliche Delegation."
+    },
+    {
+     "text": "Eine Satzung regelt einen Einzelfall gegenüber einem Mitglied.",
+     "warumNicht": "Eine Satzung ist abstrakt-generell. Einen Einzelfall regelt ein Verwaltungsakt."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q31",
+  "nr": 31,
+  "stockwerk": 3,
+  "frage": "Nach welcher Grundregel teilt das Grundgesetz die Verwaltungskompetenzen? Welche Regelungen bestätigen die Grundregel?",
+  "titel": "Wer verwaltet, wenn nichts anderes geregelt ist?",
+  "fachbegriff": "Verwaltungskompetenzen (Art. 30, 83 GG)",
+  "einSatz": "Grundsätzlich sind die **Länder** zuständig. Der Bund nur, wenn das [[Grundgesetz]] es bestimmt oder erlaubt.",
+  "warum": "So ist immer klar, wer zuständig ist. Auch Gesetze des Bundes führen die Länder als eigene Sache aus.",
+  "alltag": "In einer Firma arbeiten die Filialen vor Ort selbst. Die Zentrale macht nur, was ihr der Vertrag ausdrücklich gibt.",
+  "erkennen": [
+   "Sagt das Grundgesetz nichts? Dann ist das **Land** dran (Art. 30).",
+   "Ein Gesetz des Bundes führen die Länder aus (Art. 83).",
+   "Die gleiche Regel gilt für Gesetze (Art. 70) und Gerichte (Art. 92 ff.).",
+   "Ausnahmen für den Bund: Art. 86 ff., etwa Kassen über ein Land hinaus."
+  ],
+  "merktrick": "Land zuerst, Bund nur mit Erlaubnis.",
+  "klausur": {
+   "kurzantwort": "Grundregel **Art. 30 GG**: Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist **Sache der Länder**, soweit das GG nichts anderes bestimmt oder zulässt. Für die Verwaltung konkretisiert **Art. 83 GG**: Die Länder führen die Bundesgesetze **als eigene Angelegenheit** aus.",
+   "details": "**Parallele Bestätigung in anderen Bereichen:** **Art. 70 I** (Gesetzgebung: Länder, soweit Bund nicht), **Art. 92 ff.** (Rechtsprechung: Länder, soweit nicht Bundesgerichte).\n**Ausnahmen (Bundesverwaltung):** Art. 86 ff., z. B. Art. 87 I, III (Bundesoberbehörden), **Art. 87 II** (bundesunmittelbare Sozialversicherungsträger, wenn der Zuständigkeitsbereich über ein Land hinausreicht).",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Art. 30",
+    "Art. 83",
+    "Länder als Regelfall",
+    "Ausnahmen Art. 86 ff.",
+    "Art. 87 II"
+   ],
+   "bausteine": [
+    "Grundregel ist Art. 30 GG: Staatliche Befugnisse und Aufgaben sind Sache der Länder.",
+    "Das gilt, soweit das GG nichts anderes bestimmt oder zulässt.",
+    "Art. 83 GG: Die Länder führen die Bundesgesetze als eigene Angelegenheit aus.",
+    "Parallel bestätigen Art. 70 I GG (Gesetzgebung) und Art. 92 ff. GG (Rechtsprechung) die Grundregel.",
+    "Ausnahmen der Bundesverwaltung: Art. 86 ff. GG, z. B. Art. 87 II für bundesunmittelbare Sozialversicherungsträger."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Grundregel ist Art. 30 GG: Die Verwaltung ist Sache des Bundes.",
+     "warumNicht": "Nach Art. 30 GG sind staatliche Aufgaben Sache der Länder, nicht des Bundes."
+    },
+    {
+     "text": "Art. 83 GG: Der Bund führt die Bundesgesetze selbst aus.",
+     "warumNicht": "Nach Art. 83 GG führen die Länder die Bundesgesetze als eigene Angelegenheit aus."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q32",
+  "nr": 32,
+  "stockwerk": 3,
+  "frage": "Sind für die Verwaltung vor allem die Länder oder der Bund zuständig? Und warum?",
+  "titel": "Bund oder Länder: Wer verwaltet meistens, und warum?",
+  "fachbegriff": "Exekutivföderalismus",
+  "einSatz": "Meist verwalten die **Länder**. Der Bund macht vor allem die Gesetze.",
+  "warum": "Macht soll verteilt sein, nicht in einer Hand. Das ist eine Lehre aus der NS-Zeit. Dazu sind die Länder näher dran.",
+  "alltag": "Die Zentrale einer Bäckerkette schreibt die Rezepte. Backen und verkaufen tun die Filialen vor Ort. Sie kennen ihre Kunden.",
+  "erkennen": [
+   "Wer schreibt die meisten Gesetze? Der Bund.",
+   "Wer führt die meisten Gesetze aus? Die Länder.",
+   "Gründe: Macht teilen, Nähe zu Bürgern und Sache, vorhandene Ämter."
+  ],
+  "merktrick": "Der Bund schreibt, das Land treibt.",
+  "klausur": {
+   "kurzantwort": "Vor allem die **Länder** (Art. 30, 83 GG), der Bund ist **überwiegend Gesetzgeber** (Exekutivföderalismus). **Gründe:** föderale **Gewaltenteilung** (Machtverteilung, Lehre aus dem Zentralismus der NS-Zeit), **Bürgernähe** und **Sachnähe**, vorhandene Verwaltungsstrukturen der Länder.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Länder",
+    "Exekutivföderalismus",
+    "vertikale Gewaltenteilung",
+    "Bürgernähe"
+   ],
+   "bausteine": [
+    "Für die Verwaltung sind vor allem die Länder zuständig (Art. 30, 83 GG).",
+    "Der Bund ist überwiegend Gesetzgeber (Exekutivföderalismus).",
+    "Grund ist die föderale Gewaltenteilung, eine Lehre aus dem Zentralismus der NS-Zeit.",
+    "Weitere Gründe: Bürgernähe, Sachnähe und vorhandene Ämter der Länder."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Vor allem der Bund verwaltet, die Länder sind überwiegend Gesetzgeber.",
+     "warumNicht": "Umgekehrt: Die Länder verwalten vor allem, der Bund ist überwiegend Gesetzgeber."
+    },
+    {
+     "text": "Grund ist, dass der Bund keine eigenen Behörden haben darf.",
+     "warumNicht": "Der Bund hat eigene Behörden (Art. 86 ff. GG). Die Gründe sind Gewaltenteilung, Bürgernähe und Sachnähe."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q33",
+  "nr": 33,
+  "stockwerk": 3,
+  "frage": "Gehören gesetzliche Krankenkassen zur Bundes- oder Landesverwaltung? (Wortlaut sinngemäß)",
+  "titel": "Gehört die Krankenkasse zum Bund oder zum Land?",
+  "fachbegriff": "bundes- und landesunmittelbare Krankenkassen (Art. 87 II GG)",
+  "einSatz": "Krankenkassen sind [[Körperschaften]] mit [[Selbstverwaltung]]. Ob Bund oder Land, hängt davon ab, wo sie tätig sind.",
+  "warum": "Wer nur in einem Land arbeitet, wird von diesem Land überwacht. Wer über ein Land hinaus arbeitet, vom Bund.",
+  "alltag": "Ein Fußballclub spielt nur in der Stadtliga. Dann ist der Stadtverband zuständig. Spielt er bundesweit, ist es der Bundesverband.",
+  "erkennen": [
+   "Nur in einem Land tätig? Dann **landesunmittelbar**, die [[Aufsicht]] hat das Land.",
+   "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat ein Bundesamt.",
+   "Bis zu drei Länder bleiben Landessache, wenn die Länder das vereinbaren.",
+   "Immer gilt: Die Kasse ist [[mittelbare Staatsverwaltung]]."
+  ],
+  "merktrick": "Die Grenze zählt: ein Land, Landessache. Mehr Länder, Bundessache.",
+  "klausur": {
+   "kurzantwort": "Sie sind **Körperschaften des öffentlichen Rechts mit Selbstverwaltung** (§ 4 I SGB V), also **mittelbare Staatsverwaltung**. Ob sie bundes- oder landesunmittelbar sind, richtet sich nach ihrem **räumlichen Zuständigkeitsbereich (Art. 87 II GG)**:\n- **Über ein Land hinaus** → bundesunmittelbar (Aufsicht: Bundesamt für Soziale Sicherung), z. B. Techniker Krankenkasse.\n- **Nur ein Land (oder bis drei Länder bei Vereinbarung)** → landesunmittelbar (Aufsicht: Landesbehörde), z. B. regionale AOK.",
+   "details": "",
+   "normen": [
+    "Art. 87 II GG",
+    "§ 4 I SGB V"
+   ],
+   "schluesselbegriffe": [
+    "Körperschaft",
+    "Selbstverwaltung",
+    "Art. 87 II",
+    "bundesunmittelbar",
+    "landesunmittelbar"
+   ],
+   "bausteine": [
+    "Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung (§ 4 I SGB V).",
+    "Sie sind also mittelbare Staatsverwaltung.",
+    "Bundes- oder landesunmittelbar richtet sich nach dem räumlichen Zuständigkeitsbereich (Art. 87 II GG).",
+    "Über ein Land hinaus: bundesunmittelbar, Aufsicht Bundesamt für Soziale Sicherung.",
+    "Nur ein Land (oder bis drei Länder bei Vereinbarung): landesunmittelbar, Aufsicht Landesbehörde."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Krankenkassen sind unmittelbare Staatsverwaltung des Bundesgesundheitsministeriums.",
+     "warumNicht": "Krankenkassen sind Körperschaften mit Selbstverwaltung, also mittelbare Staatsverwaltung."
+    },
+    {
+     "text": "Entscheidend ist die Zahl der Versicherten.",
+     "warumNicht": "Entscheidend ist der räumliche Zuständigkeitsbereich (Art. 87 II GG), nicht die Größe."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q34",
+  "nr": 34,
+  "stockwerk": 3,
+  "frage": "Welche gesetzlichen Merkmale kennzeichnen einen Verwaltungsakt? (Wortlaut sinngemäß: Abgrenzung zu anderen Handlungsformen)",
+  "titel": "Wann ist ein Brief der Behörde ein echter Bescheid?",
+  "fachbegriff": "Verwaltungsakt (§ 31 SGB X)",
+  "einSatz": "Ein [[Bescheid]] ist eine einseitige Entscheidung einer [[Behörde]]. Sie regelt verbindlich einen einzelnen Fall nach außen.",
+  "warum": "Ein Bescheid legt fest, was gilt. Darum muss man ihn von bloßen Infos, Verträgen und internen Notizen trennen.",
+  "alltag": "Der Schiri zeigt einem Spieler die Rote Karte. Er entscheidet allein, für diesen einen Spieler, und es gilt sofort. Ein Tipp vom Trainer wäre keine solche Entscheidung.",
+  "erkennen": [
+   "Handelt eine **Behörde**, einseitig und im öffentlichen Recht?",
+   "Wird etwas verbindlich **geregelt**, nicht nur erklärt?",
+   "Geht es um **einen** Fall, nicht um alle?",
+   "Wirkt es **nach außen**, beim Bürger, nicht nur intern?"
+  ],
+  "merktrick": "Fehlt ein Merkmal, fehlt der Bescheid.",
+  "klausur": {
+   "kurzantwort": "§ 31 S. 1 SGB X: Verwaltungsakt = jede **Verfügung, Entscheidung oder andere hoheitliche Maßnahme**, die eine **Behörde** zur **Regelung eines Einzelfalls** auf dem Gebiet des **öffentlichen Rechts** trifft und die auf **unmittelbare Rechtswirkung nach außen** gerichtet ist.",
+   "details": "| Merkmal | Abgrenzung |\n|---|---|\n| **Behörde** (§ 1 II SGB X) | Private handeln nicht durch VA |\n| **Hoheitliche Maßnahme** | einseitig, nicht durch Vertrag (§ 53 SGB X) |\n| **Öffentliches Recht** | nicht privatrechtliches Handeln |\n| **Regelung** (verbindliche Rechtsfolge) | nicht Realakt/Auskunft |\n| **Einzelfall** | nicht Rechtsnorm (abstrakt-generell). Allgemeinverfügung: konkret-generell, § 31 S. 2 |\n| **Außenwirkung** | nicht Verwaltungsinternum (Weisung, Verwaltungsvorschrift) |",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Behörde",
+    "Regelung",
+    "Einzelfall",
+    "öffentliches Recht",
+    "Außenwirkung"
+   ],
+   "bausteine": [
+    "Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme (§ 31 S. 1 SGB X),",
+    "die eine Behörde",
+    "zur Regelung eines Einzelfalls",
+    "auf dem Gebiet des öffentlichen Rechts trifft",
+    "und die auf unmittelbare Rechtswirkung nach außen gerichtet ist."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "und die abstrakt-generell eine Vielzahl von Fällen regelt.",
+     "warumNicht": "Abstrakt-generelle Regelungen sind Rechtsnormen. Der VA regelt einen Einzelfall."
+    },
+    {
+     "text": "die durch Vertrag zwischen Behörde und Bürger zustande kommt",
+     "warumNicht": "Der VA ist eine einseitige hoheitliche Maßnahme. Der Vertrag ist eine eigene Handlungsform (§ 53 SGB X)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q35",
+  "nr": 35,
+  "stockwerk": 3,
+  "frage": "Muss die Verwaltung, um einen Verwaltungsakt durchzusetzen, ein Gericht anrufen?",
+  "titel": "Braucht die Behörde ein Gericht, um ihren Bescheid durchzusetzen?",
+  "fachbegriff": "Selbsttitulierung und Verwaltungsvollstreckung",
+  "einSatz": "Nein. Die [[Behörde]] kann ihren [[Bescheid]] selbst durchsetzen. Ein Gericht braucht sie dafür nicht.",
+  "warum": "Private Leute brauchen erst ein Urteil. Bei der Behörde ist der Bescheid selbst schon die Grundlage.",
+  "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er vor Gericht. Die Behörde schreibt sich den Titel selbst.",
+  "erkennen": [
+   "Gibt es einen Bescheid? Dann braucht die Behörde kein Urteil.",
+   "Mittel: Zwangsgeld, Ersatzvornahme oder direkter Zwang.",
+   "Aber: Der Bescheid muss schon durchsetzbar sein.",
+   "Hat ein [[Widerspruch]] [[aufschiebende Wirkung]], muss sie warten."
+  ],
+  "merktrick": "Der Bescheid ist sein eigenes Urteil.",
+  "klausur": {
+   "kurzantwort": "**Nein.** Die Verwaltung kann ihre VA **selbst vollstrecken** (**Selbsttitulierung**, Selbstvollstreckung). Im Gegensatz zum Privatrecht braucht sie keinen gerichtlichen Titel. Die Vollstreckung richtet sich nach dem **Verwaltungs-Vollstreckungsgesetz** (Zwangsgeld, Ersatzvornahme, unmittelbarer Zwang). Vorausgesetzt ist die **Vollziehbarkeit** (Unanfechtbarkeit oder sofortige Vollziehbarkeit; ansonsten aufschiebende Wirkung von Widerspruch/Klage, § 86a SGG).",
+   "details": "",
+   "normen": [
+    "§ 66 SGB X",
+    "VwVG"
+   ],
+   "schluesselbegriffe": [
+    "Selbsttitulierung",
+    "kein Gericht nötig",
+    "VwVG",
+    "Vollziehbarkeit",
+    "aufschiebende Wirkung"
+   ],
+   "bausteine": [
+    "Nein, die Verwaltung muss kein Gericht anrufen.",
+    "Sie kann ihre VA selbst vollstrecken (Selbsttitulierung).",
+    "Im Gegensatz zum Privatrecht braucht sie keinen gerichtlichen Titel.",
+    "Die Vollstreckung richtet sich nach dem VwVG: Zwangsgeld, Ersatzvornahme, unmittelbarer Zwang.",
+    "Voraussetzung ist die Vollziehbarkeit: Unanfechtbarkeit oder sofortige Vollziehbarkeit.",
+    "Sonst haben Widerspruch und Klage aufschiebende Wirkung (§ 86a SGG)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ja, die Verwaltung braucht wie ein Privater einen gerichtlichen Titel.",
+     "warumNicht": "Gerade nicht: Die Verwaltung braucht keinen gerichtlichen Titel (Selbsttitulierung)."
+    },
+    {
+     "text": "Die Vollstreckung ist auch während der aufschiebenden Wirkung stets zulässig.",
+     "warumNicht": "Vollstreckung setzt Vollziehbarkeit voraus. Während der aufschiebenden Wirkung fehlt sie."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q36",
+  "nr": 36,
+  "stockwerk": 3,
+  "frage": "Welche Handlungsformen der Verwaltung gibt es neben dem Verwaltungsakt?",
+  "titel": "Was kann die Verwaltung außer Bescheiden noch tun?",
+  "fachbegriff": "Handlungsformen der Verwaltung",
+  "einSatz": "Neben dem [[Bescheid]] gibt es Regeln, Verträge, interne Vorschriften, einfaches Handeln, Pläne und privates Handeln.",
+  "warum": "Nicht jede Aufgabe passt in einen Bescheid. Je nach Ziel wählt die Verwaltung ein anderes Werkzeug.",
+  "alltag": "Eine Schule verteilt Zeugnisse. Sie schreibt aber auch eine Hausordnung, berät Eltern, plant den Stundenplan und kauft Kreide im Laden.",
+  "erkennen": [
+   "Regel für viele: [[Rechtsverordnung]] oder [[Satzung]].",
+   "Beide Seiten einigen sich: [[öffentlich-rechtlicher Vertrag]].",
+   "Nur für die eigenen Leute: [[Verwaltungsvorschrift]]. Nur tun oder informieren: [[Realakt]].",
+   "Planen: Plan. Einkaufen wie jeder andere: privates Handeln."
+  ],
+  "merktrick": "Regel, Vertrag, Vorschrift, Tat, Plan, Einkauf: sechs Werkzeuge neben dem Bescheid.",
+  "klausur": {
+   "kurzantwort": "- **Rechtsetzung:** Rechtsverordnung, Satzung.\n- **Öffentlich-rechtlicher Vertrag** (§§ 53 ff. SGB X), z. B. Verträge der Selbstverwaltung (Bundesmantelverträge, Versorgungsverträge § 109 SGB V, Selektivverträge).\n- **Verwaltungsvorschriften** (Innenrecht).\n- **Realakte/schlichtes Verwaltungshandeln:** Auskunft, Beratung (§§ 14, 15 SGB I), Warnung.\n- **Pläne** (z. B. Bedarfsplanung).\n- **Privatrechtliches Handeln** der Verwaltung (Verwaltungsprivatrecht, fiskalisches Handeln).",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "öffentlich-rechtlicher Vertrag",
+    "Realakt",
+    "Verwaltungsvorschrift",
+    "Plan",
+    "privatrechtliches Handeln"
+   ],
+   "bausteine": [
+    "Rechtsetzung: Rechtsverordnung, Satzung.",
+    "Öffentlich-rechtlicher Vertrag (§§ 53 ff. SGB X), z. B. Versorgungsverträge nach § 109 SGB V.",
+    "Verwaltungsvorschriften (Innenrecht).",
+    "Realakte bzw. schlichtes Verwaltungshandeln: Auskunft, Beratung (§§ 14, 15 SGB I), Warnung.",
+    "Pläne, z. B. Bedarfsplanung.",
+    "Privatrechtliches Handeln der Verwaltung (Verwaltungsprivatrecht, fiskalisches Handeln)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Gerichtsurteile als Handlungsform der Verwaltung.",
+     "warumNicht": "Urteile sprechen Gerichte, nicht die Verwaltung."
+    },
+    {
+     "text": "Verwaltungsvorschriften als Außenrecht mit unmittelbarer Wirkung für Bürger.",
+     "warumNicht": "Verwaltungsvorschriften sind Innenrecht. Sie binden die Verwaltung, nicht unmittelbar den Bürger."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q37",
+  "nr": 37,
+  "stockwerk": 3,
+  "frage": "Mit welchen Mitteln kann die Verwaltung die Bestandskraft eines VA durchbrechen? Normen des SGB X?",
+  "titel": "Ein fester Bescheid soll weg: Welche Wege gibt es?",
+  "fachbegriff": "Aufhebung von Verwaltungsakten (§§ 44 bis 49 SGB X)",
+  "einSatz": "Auch ein fester [[Bescheid]] ([[Bestandskraft]]) kann aufgehoben werden. Die Wege stehen in §§ 44 bis 49 [[SGB|sgb]] X.",
+  "warum": "Manchmal ist ein Bescheid falsch, oder die Lage ändert sich. Dann soll die [[Behörde]] ihn ändern können. Wer etwas Gutes bekam, wird dabei geschützt.",
+  "alltag": "Ein Handyvertrag läuft. Mal war der Preis falsch berechnet, mal zieht die Kundin um. Für jeden Fall gibt es eine eigene Regel.",
+  "erkennen": [
+   "Von Anfang an falsch: [[Rücknahme]]. Belastet er dich: § 44. Gibt er dir etwas: § 45.",
+   "Damals richtig: [[Widerruf]]. Belastet er: § 46. Gibt er etwas: § 47.",
+   "Ein laufender Bescheid ([[Dauerwirkung]]) und die Lage ändert sich: § 48.",
+   "Während [[Widerspruch]] oder [[Klage]] laufen: § 49."
+  ],
+  "merktrick": "44 bis 47: falsch oder richtig, gut oder schlecht. 48 läuft, 49 streitet.",
+  "klausur": {
+   "kurzantwort": "Durch Aufhebung des VA:\n- **§ 44** Rücknahme eines rechtswidrigen **nicht begünstigenden** VA\n- **§ 45** Rücknahme eines rechtswidrigen **begünstigenden** VA (Vertrauensschutz!)\n- **§ 46** Widerruf eines rechtmäßigen **nicht begünstigenden** VA\n- **§ 47** Widerruf eines rechtmäßigen **begünstigenden** VA\n- **§ 48** Aufhebung eines VA mit **Dauerwirkung** bei Änderung der Verhältnisse\n- **§ 49** Rücknahme und Widerruf im **Rechtsbehelfsverfahren**\n- (**§ 50** Erstattung und Verzinsung)",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "§§ 44 bis 49 SGB X",
+    "Rücknahme",
+    "Widerruf",
+    "begünstigend/nicht begünstigend",
+    "Dauerwirkung"
+   ],
+   "bausteine": [
+    "Die Bestandskraft wird durch Aufhebung des VA durchbrochen.",
+    "§ 44 SGB X: Rücknahme eines rechtswidrigen nicht begünstigenden VA.",
+    "§ 45 SGB X: Rücknahme eines rechtswidrigen begünstigenden VA (Vertrauensschutz).",
+    "§§ 46, 47 SGB X: Widerruf eines rechtmäßigen nicht begünstigenden bzw. begünstigenden VA.",
+    "§ 48 SGB X: Aufhebung eines VA mit Dauerwirkung bei Änderung der Verhältnisse.",
+    "§ 49 SGB X: Rücknahme und Widerruf im Rechtsbehelfsverfahren; § 50: Erstattung und Verzinsung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "§ 44 SGB X: Widerruf eines rechtmäßigen begünstigenden VA.",
+     "warumNicht": "§ 44 SGB X regelt die Rücknahme eines rechtswidrigen nicht begünstigenden VA."
+    },
+    {
+     "text": "Ein bestandskräftiger VA kann nur durch ein Gericht aufgehoben werden.",
+     "warumNicht": "Die Verwaltung kann den VA selbst aufheben (§§ 44 bis 49 SGB X)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
   "id": "q38",
   "nr": 38,
   "stockwerk": 3,
@@ -10,12 +1829,12 @@
   "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
   "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
   "erkennen": [
-   "Frage dich: War der Bescheid an dem Tag, als er rausging, schon falsch?",
-   "Ja, damals schon falsch: **Rücknahme**.",
+   "Frage dich: War der Bescheid am ersten Tag schon falsch?",
+   "Ja, von Anfang an falsch: **Rücknahme**.",
    "Nein, damals richtig: **Widerruf**.",
-   "Was später passiert, ändert nichts daran, ob er damals richtig war."
+   "Ein Widerruf gilt nur für die Zukunft."
   ],
-  "merktrick": "Rücknahme: Rückblick auf einen Fehler. Widerruf: Weiter geht's ab jetzt anders.",
+  "merktrick": "Rücknahme repariert den Fehler. Widerruf winkt dem Richtigen zum Abschied.",
   "klausur": {
    "kurzantwort": "Die **Rechtmäßigkeit des VA bei Erlass**: **Rücknahme** = der VA war von Anfang an **rechtswidrig**. **Widerruf** = der VA war **rechtmäßig**, wird aber aufgehoben (z. B. weil Voraussetzungen entfallen oder aus anderen gesetzlichen Gründen). Der Widerruf wirkt grundsätzlich nur für die **Zukunft**. Merke: **Rücknahme = rechtswidrig. Widerruf = rechtmäßig.**",
    "details": "",
@@ -34,11 +1853,556 @@
    "fallenBausteine": [
     {
      "text": "Rücknahme: Der VA war rechtmäßig, wird aber aufgehoben.",
-     "warumNicht": "Vertauscht: Rücknahme gehört zum rechtswidrigen VA."
+     "warumNicht": "Vertauscht: Rechtmäßig und aufgehoben ist der Widerruf. Die Rücknahme betrifft rechtswidrige VA."
     },
     {
-     "text": "Entscheidend ist, ob sich die Lage später geändert hat.",
-     "warumNicht": "Es zählt der Zeitpunkt des Erlasses, nicht spätere Änderungen."
+     "text": "Entscheidend ist, ob der Bürger zustimmt.",
+     "warumNicht": "Entscheidend ist allein die Rechtmäßigkeit des VA bei Erlass."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q39",
+  "nr": 39,
+  "stockwerk": 3,
+  "frage": "Erläutern Sie die Heilung von Verfahrens- und Formfehlern im Sozialverwaltungsverfahren.",
+  "titel": "Fehler im Ablauf nachträglich reparieren",
+  "fachbegriff": "Heilung von Verfahrens- und Formfehlern (§ 41 SGB X)",
+  "einSatz": "Manche Fehler im Ablauf kann die [[Behörde]] später **nachholen**. Dann zählen sie nicht mehr. Das heißt [[Heilung]].",
+  "warum": "Wer einen vergessenen Schritt nachholt, hat den Fehler behoben. Und hat ein Fehler klar nichts geändert, muss der [[Bescheid]] auch nicht weg (§ 42).",
+  "alltag": "Du gibst ein Referat ab und vergisst das Deckblatt. Am nächsten Tag reichst du es nach. Jetzt ist alles komplett.",
+  "erkennen": [
+   "Geht es um den **Ablauf** oder die **Form**, nicht um den Inhalt?",
+   "Nachholbar: Antrag, Begründung, [[Anhörung]], Beschluss eines Ausschusses, Mitwirkung einer anderen [[Behörde|verwaltung]].",
+   "Zeitgrenze: bis zur letzten Gerichtsstufe, die noch Tatsachen prüft.",
+   "Nicht heilbar: ein [[nichtiger|Nichtigkeit]] Bescheid."
+  ],
+  "merktrick": "Vergessen? Nachholen! Dann heilt der Fehler wie ein Kratzer.",
+  "klausur": {
+   "kurzantwort": "§ 41 SGB X: Fehler, die nicht zur Nichtigkeit führen (§ 40), werden **unbeachtlich**, wenn sie **nachgeholt** werden:\n1. erforderlicher **Antrag** nachträglich gestellt,\n2. erforderliche **Begründung** nachträglich gegeben,\n3. erforderliche **Anhörung** nachgeholt,\n4. erforderlicher **Ausschussbeschluss** nachträglich gefasst,\n5. erforderliche **Mitwirkung einer anderen Behörde** nachgeholt.",
+   "details": "**Zeitgrenze:** bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens (§ 41 II).\n**Ergänzend** § 42: Aufhebung wegen Verfahrens-/Formfehlers kann nicht verlangt werden, wenn offensichtlich ist, dass der Fehler die Entscheidung in der Sache nicht beeinflusst hat.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "§ 41 SGB X",
+    "Nachholung",
+    "Antrag Begründung Anhörung",
+    "letzte Tatsacheninstanz",
+    "§ 42"
+   ],
+   "bausteine": [
+    "Nach § 41 SGB X werden Verfahrens- und Formfehler unbeachtlich, wenn sie nachgeholt werden.",
+    "Das gilt für Fehler, die nicht zur Nichtigkeit führen (§ 40).",
+    "Nachgeholt werden können Antrag, Begründung und Anhörung,",
+    "ebenso ein Ausschussbeschluss und die Mitwirkung einer anderen Behörde.",
+    "Zeitgrenze: bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens (§ 41 II).",
+    "Ergänzend § 42: Keine Aufhebung, wenn der Fehler die Entscheidung offensichtlich nicht beeinflusst hat."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Auch nichtige Verwaltungsakte werden durch Nachholung geheilt.",
+     "warumNicht": "Heilbar sind nur Fehler, die nicht zur Nichtigkeit führen (§ 40)."
+    },
+    {
+     "text": "Die Nachholung ist nur bis zum Erlass des Bescheids möglich.",
+     "warumNicht": "Die Nachholung ist bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens möglich (§ 41 II)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": "Normprüfung: § 41 Abs. 1 SGB X nennt zusätzlich Nr. 6 (nachträgliche Hinzuziehung eines Beteiligten). Die Zeitgrenze des § 41 Abs. 2 gilt nach dem Wortlaut für Nr. 2–6."
+ },
+ {
+  "id": "q40",
+  "nr": 40,
+  "stockwerk": 3,
+  "frage": "Wann ist die Anhörung vor Erlass eines VA grundsätzlich erforderlich? Wo ist das normiert?",
+  "titel": "Bevor es wehtut: erst zuhören, dann entscheiden",
+  "fachbegriff": "Anhörung (§ 24 SGB X)",
+  "einSatz": "Will die [[Behörde]] in deine Rechte eingreifen, muss sie dich vorher fragen. Das heißt [[Anhörung]].",
+  "warum": "Du kennst deinen Fall oft am besten. Du sollst deine Sicht sagen können, bevor etwas gegen dich entschieden wird.",
+  "alltag": "Bevor der Trainer dich aus dem Team nimmt, fragt er: „Was sagst du dazu?“ Erst dann entscheidet er.",
+  "erkennen": [
+   "Wird etwas **gegen** die Person entschieden? Etwa eine Kürzung oder [[Rücknahme]].",
+   "Dann darf sie sich vorher zu den wichtigen Tatsachen äußern.",
+   "Ausnahmen: etwa Gefahr im Verzug oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
+   "Vergessen? Ein Fehler im Ablauf. Er lässt sich durch Nachholen [[heilen|Heilung]]."
+  ],
+  "merktrick": "Erst hören, dann kürzen.",
+  "klausur": {
+   "kurzantwort": "**§ 24 SGB X:** Bevor ein VA erlassen wird, der **in Rechte eines Beteiligten eingreift**, muss ihm Gelegenheit gegeben werden, sich zu den **entscheidungserheblichen Tatsachen** zu äußern. Es geht um **belastende VA**, z. B. Rücknahme, Kürzung, Aufhebung einer Leistung.",
+   "details": "**Ausnahmen (§ 24 II):** z. B. Gefahr im Verzug, zwingendes öffentliches Interesse, Fristversäumnis, Allgemeinverfügungen, gleichartige VA in größerer Zahl.\n**Folge bei Verstoß:** Verfahrensfehler, **heilbar** (§ 41 I Nr. 3).",
+   "normen": [],
+   "schluesselbegriffe": [
+    "§ 24 SGB X",
+    "Eingriff in Rechte",
+    "rechtliches Gehör",
+    "Ausnahmen",
+    "Heilung"
+   ],
+   "bausteine": [
+    "Die Anhörung ist in § 24 SGB X normiert.",
+    "Vor einem VA, der in Rechte eines Beteiligten eingreift,",
+    "muss ihm Gelegenheit gegeben werden, sich zu den entscheidungserheblichen Tatsachen zu äußern.",
+    "Es geht um belastende VA, z. B. Rücknahme, Kürzung, Aufhebung einer Leistung.",
+    "Ausnahmen (§ 24 II): z. B. Gefahr im Verzug, zwingendes öffentliches Interesse, Allgemeinverfügungen.",
+    "Folge bei Verstoß: Verfahrensfehler, heilbar (§ 41 I Nr. 3 SGB X)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die Anhörung ist vor jedem begünstigenden VA erforderlich.",
+     "warumNicht": "Die Anhörung ist vor VA nötig, die in Rechte eingreifen, also vor belastenden VA."
+    },
+    {
+     "text": "Folge bei Verstoß: Der VA ist stets nichtig.",
+     "warumNicht": "Ein Verstoß ist ein Verfahrensfehler. Er ist heilbar (§ 41 I Nr. 3 SGB X)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q41",
+  "nr": 41,
+  "stockwerk": 3,
+  "frage": "Sachbearbeiter S der Krankenkasse erlässt zu Gunsten des [...] einen Leistungsbescheid. Ist der Bescheid nichtig?",
+  "titel": "Ist der Bescheid so kaputt, dass er gar nicht gilt?",
+  "fachbegriff": "Nichtigkeit (§ 40 SGB X)",
+  "einSatz": "Ein [[nichtiger|Nichtigkeit]] [[Bescheid]] gilt gar nicht. Das passiert nur bei sehr schweren Fehlern, die jeder sofort sieht.",
+  "warum": "Ein Bescheid soll gelten, auch wenn er Fehler hat. Nur wenn er völlig daneben ist, wäre das unzumutbar.",
+  "alltag": "Ein Strafzettel ohne Absender und ohne Stadtwappen ist kein Strafzettel. Ein Strafzettel mit falscher Hausnummer gilt erst mal, du kannst dich aber wehren.",
+  "erkennen": [
+   "Ist der Fehler **sehr schwer** und **sofort sichtbar**? Dann nichtig.",
+   "Feste Fälle: Absender fehlt, Straftat verlangt, unmöglich, sittenwidrig.",
+   "Nur falsche Stelle oder befangener Mitarbeiter? Dann **nicht** nichtig.",
+   "Meist ist der Bescheid nur [[rechtswidrig]]: Er gilt, ist aber angreifbar."
+  ],
+  "merktrick": "Nichtig ist nichts. Aber fast nie ist etwas nichtig.",
+  "klausur": {
+   "kurzantwort": "Prüfschema § 40 SGB X:\n1. **§ 40 I (Generalklausel):** Nichtig, wenn der VA an einem **besonders schwerwiegenden Fehler** leidet **und** dies **bei verständiger Würdigung offensichtlich** ist.\n2. **§ 40 II (absolute Nichtigkeitsgründe):** u. a. Behörde nicht erkennbar; Urkundenform fehlt; aus tatsächlichen Gründen niemand ausführen kann; Straftat/Ordnungswidrigkeit verlangt; Verstoß gegen die guten Sitten.\n3. **§ 40 III (kein Nichtigkeitsgrund allein):** u. a. Verstoß gegen **örtliche Zuständigkeit**, **Mitwirkung eines ausgeschlossenen Amtsträgers**, nicht beschlussfähiger Ausschuss.",
+   "details": "**Regel:** Nichtigkeit ist die **Ausnahme**. Fehler bei der Zuständigkeit oder im Verfahren machen den VA meist nur **rechtswidrig**, nicht nichtig.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "besonders schwerwiegend",
+    "offensichtlich",
+    "§ 40 II",
+    "§ 40 III",
+    "Nichtigkeit als Ausnahme"
+   ],
+   "bausteine": [
+    "§ 40 I: Nichtig ist ein VA mit besonders schwerwiegendem Fehler, der bei verständiger Würdigung offensichtlich ist.",
+    "§ 40 II nennt absolute Nichtigkeitsgründe, z. B. Behörde nicht erkennbar oder Straftat verlangt.",
+    "§ 40 III: Örtliche Unzuständigkeit oder ein ausgeschlossener Amtsträger machen den VA nicht allein nichtig.",
+    "Nichtigkeit ist die Ausnahme; meist ist der VA nur rechtswidrig."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Jeder Fehler bei der Zuständigkeit macht den VA nichtig.",
+     "warumNicht": "Falsch: Nach § 40 III macht die örtliche Unzuständigkeit allein den VA nicht nichtig."
+    },
+    {
+     "text": "Ein VA ist schon dann nichtig, wenn er rechtswidrig ist.",
+     "warumNicht": "Nichtigkeit ist die Ausnahme. Meist ist ein fehlerhafter VA nur rechtswidrig, nicht nichtig."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q42",
+  "nr": 42,
+  "stockwerk": 3,
+  "frage": "Was ist eine Ermächtigungsgrundlage und woraus folgt ihre Notwendigkeit?",
+  "titel": "Wo steht, dass die Kasse das darf?",
+  "fachbegriff": "Ermächtigungsgrundlage",
+  "einSatz": "Eine [[Ermächtigungsgrundlage]] ist ein Gesetz, das der [[Behörde]] ein bestimmtes Handeln erlaubt.",
+  "warum": "Der Staat darf nicht einfach in dein Leben eingreifen. Das [[Parlament|gesetzgeber]] muss es vorher im Gesetz erlauben. Das heißt [[Vorbehalt des Gesetzes]].",
+  "alltag": "Der Hausmeister darf dein Fahrrad nicht einfach wegschließen. Er braucht eine Regel in der Hausordnung, die ihm das erlaubt.",
+  "erkennen": [
+   "Will die [[Behörde|verwaltung]] etwas tun, vor allem dir etwas nehmen?",
+   "Frage: In welchem Gesetz steht, dass sie das darf?",
+   "Im Sozialrecht gilt das auch für Leistungen, also fürs Geben.",
+   "Kein Gesetz gefunden? Dann darf sie es nicht."
+  ],
+  "merktrick": "Ohne Gesetz kein Griff in die Tasche.",
+  "klausur": {
+   "kurzantwort": "Eine **Rechtsnorm**, die der Verwaltung die **Befugnis** zu einem bestimmten Handeln (insbesondere Eingriff) verleiht. Notwendig wegen des **Vorbehalts des Gesetzes** (Art. 20 III GG, Rechtsstaats- und Demokratieprinzip, Grundrechtsschutz). Im Sozialrecht auch für Leistungen (§ 31 SGB I).",
+   "details": "**Beispiel:** § 45 SGB X als Ermächtigungsgrundlage für die Rücknahme eines begünstigenden VA.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Befugnisnorm",
+    "Vorbehalt des Gesetzes",
+    "Art. 20 III",
+    "§ 31 SGB I"
+   ],
+   "bausteine": [
+    "Eine Ermächtigungsgrundlage ist eine Rechtsnorm, die der Verwaltung die Befugnis zu einem bestimmten Handeln verleiht.",
+    "Das gilt insbesondere für Eingriffe.",
+    "Sie ist notwendig wegen des Vorbehalts des Gesetzes (Art. 20 III GG).",
+    "Dieser folgt aus Rechtsstaats- und Demokratieprinzip sowie dem Grundrechtsschutz.",
+    "Im Sozialrecht gilt das auch für Leistungen (§ 31 SGB I).",
+    "Beispiel: § 45 SGB X für die Rücknahme eines begünstigenden VA."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die Verwaltung darf alles, was kein Gesetz ausdrücklich verbietet.",
+     "warumNicht": "Wegen des Vorbehalts des Gesetzes braucht die Verwaltung eine Erlaubnis im Gesetz. Ein fehlendes Verbot genügt nicht."
+    },
+    {
+     "text": "Sie ist nur für Leistungen nötig, nicht für Eingriffe.",
+     "warumNicht": "Umgekehrt: Gerade Eingriffe brauchen eine Ermächtigungsgrundlage. Im Sozialrecht kommen Leistungen hinzu (§ 31 SGB I)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q43",
+  "nr": 43,
+  "stockwerk": 3,
+  "frage": "Was gehört bei der folgenden Norm zum Tatbestand, was zur Rechtsfolge? [...]",
+  "titel": "Wenn das passiert, dann folgt das",
+  "fachbegriff": "Tatbestand und Rechtsfolge",
+  "einSatz": "Der [[Tatbestand]] sagt, **wann** eine Regel greift. Die [[Rechtsfolge]] sagt, **was** dann passiert.",
+  "warum": "Jede Regel hat diesen Aufbau. Wer ihn erkennt, kann jedes Gesetz Stück für Stück prüfen.",
+  "alltag": "Im Freibad steht: „Wer vom Rand springt, muss das Becken verlassen.“ Vom Rand springen ist das Wenn. Becken verlassen ist das Dann.",
+  "erkennen": [
+   "Wenn-Teil mit „wenn“, „sofern“, „soweit“: Tatbestand.",
+   "Dann-Teil mit „hat [[Anspruch|rechtsanspruch]]“, „muss“, „ist zu“: Rechtsfolge.",
+   "Auch „kann“, „darf“, „soll“ gehören zur Rechtsfolge.",
+   "Bei „kann“ oder „darf“ steckt das [[Ermessen]] in der Rechtsfolge."
+  ],
+  "merktrick": "Erst das Wenn, dann das Dann.",
+  "klausur": {
+   "kurzantwort": "**Tatbestand** = die abstrakt beschriebenen **Voraussetzungen** („wenn“, „sofern“, „soweit“). **Rechtsfolge** = was bei Erfüllung **geschehen muss, darf oder kann** („hat Anspruch“, „ist zu gewähren“, „darf“, „kann“, „soll“).",
+   "details": "**Lernbeispiele:**\n- **§ 27 I SGB V:** Tatbestand: Krankheit, Notwendigkeit der Behandlung. Rechtsfolge: Anspruch auf Krankenbehandlung (gebunden).\n- **§ 45 I SGB X:** Tatbestand: rechtswidriger, begünstigender VA. Rechtsfolge: darf (ganz oder teilweise, für Zukunft oder Vergangenheit) zurückgenommen werden → **Ermessen**.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Tatbestand = Voraussetzungen",
+    "Rechtsfolge = Folge",
+    "Signalwörter",
+    "Ermessen sitzt in der Rechtsfolge"
+   ],
+   "bausteine": [
+    "Tatbestand sind die abstrakt beschriebenen Voraussetzungen der Norm.",
+    "Signalwörter: „wenn“, „sofern“, „soweit“.",
+    "Rechtsfolge ist, was bei Erfüllung geschehen muss, darf oder kann.",
+    "Signalwörter: „hat Anspruch“, „ist zu gewähren“, „darf“, „kann“, „soll“.",
+    "Ermessen sitzt in der Rechtsfolge, z. B. § 45 I SGB X: „darf zurückgenommen werden“."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ermessen sitzt im Tatbestand.",
+     "warumNicht": "Ermessen sitzt in der Rechtsfolge, z. B. „darf zurückgenommen werden“ in § 45 I SGB X."
+    },
+    {
+     "text": "Tatbestand ist das, was bei Erfüllung geschehen muss.",
+     "warumNicht": "Das beschreibt die Rechtsfolge. Der Tatbestand nennt die Voraussetzungen („wenn“)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q44",
+  "nr": 44,
+  "stockwerk": 3,
+  "frage": "Welche gesetzlich eingeräumten Handlungsspielräume der Verwaltung kennen Sie und wie sind sie beim Normaufbau zuzuordnen?",
+  "titel": "Welche Freiräume gibt das Gesetz der Behörde?",
+  "fachbegriff": "Ermessen, Beurteilungsspielraum, Planungsspielraum",
+  "einSatz": "Es gibt drei Freiräume: [[Ermessen]] beim Dann-Teil, [[Beurteilungsspielraum]] beim Wenn-Teil, [[Planungsspielraum]] bei Plänen.",
+  "warum": "Nicht alles lässt sich vorab genau regeln. Deshalb lässt das Gesetz der [[Behörde|verwaltung]] manchmal Luft. Man muss aber wissen, wo diese Luft sitzt.",
+  "alltag": "Beim Elternabend darf die Lehrerin wählen: Ausflug in den Zoo oder ins Museum. Das ist wie Ermessen. Ob ein Aufsatz „gut“ ist, bewertet nur sie selbst. Das ist wie Beurteilung.",
+  "erkennen": [
+   "„Kann“, „darf“, „ist berechtigt“: Ermessen, sitzt in der [[Rechtsfolge]].",
+   "Wertung im Wenn-Teil, z. B. Prüfungsnote: Beurteilungsspielraum, sitzt im [[Tatbestand]].",
+   "Der Beurteilungsspielraum ist eine seltene Ausnahme.",
+   "Plan für viele, z. B. Krankenhausplan: Planungsspielraum."
+  ],
+  "merktrick": "Ermessen am Ende, Beurteilung am Anfang, Planung im Großen.",
+  "klausur": {
+   "kurzantwort": "1. **Ermessen** (Rechtsfolgenseite): Wahl zwischen mehreren Rechtsfolgen. Signalwörter: „kann“, „darf“, „ist berechtigt“.\n2. **Beurteilungsspielraum** (Tatbestandsseite): bei unbestimmten Rechtsbegriffen, nur in **Ausnahmefällen** (z. B. Prüfungsentscheidungen, Prognosen, pluralistische Gremien).\n3. **Planungs-/Gestaltungsspielraum**: bei Planungsentscheidungen (z. B. Bedarfsplanung, Krankenhausplanung).",
+   "details": "**Zuordnung:** Ermessen → **Rechtsfolge**. Beurteilungsspielraum → **Tatbestand**.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Ermessen",
+    "Beurteilungsspielraum",
+    "Planungsspielraum",
+    "Rechtsfolge vs. Tatbestand"
+   ],
+   "bausteine": [
+    "Ermessen liegt auf der Rechtsfolgenseite: Wahl zwischen mehreren Rechtsfolgen.",
+    "Signalwörter für Ermessen: „kann“, „darf“, „ist berechtigt“.",
+    "Beurteilungsspielraum liegt auf der Tatbestandsseite, bei unbestimmten Rechtsbegriffen.",
+    "Er besteht nur in Ausnahmefällen, z. B. Prüfungsentscheidungen, Prognosen, pluralistische Gremien.",
+    "Planungs- bzw. Gestaltungsspielraum besteht bei Planungsentscheidungen, z. B. Bedarfs- oder Krankenhausplanung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ermessen liegt auf der Tatbestandsseite, Beurteilungsspielraum auf der Rechtsfolgenseite.",
+     "warumNicht": "Genau vertauscht: Ermessen gehört zur Rechtsfolge, der Beurteilungsspielraum zum Tatbestand."
+    },
+    {
+     "text": "Jeder unbestimmte Rechtsbegriff gibt einen Beurteilungsspielraum.",
+     "warumNicht": "Ein Beurteilungsspielraum besteht nur in Ausnahmefällen, z. B. bei Prüfungsentscheidungen oder Prognosen."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q45",
+  "nr": 45,
+  "stockwerk": 3,
+  "frage": "Folgt aus unbestimmten Rechtsbegriffen ein Handlungsspielraum der Verwaltung?",
+  "titel": "Gibt ein schwammiges Wort der Behörde freie Hand?",
+  "fachbegriff": "Unbestimmter Rechtsbegriff",
+  "einSatz": "Schwammige Wörter wie „notwendig“ geben der [[Behörde|verwaltung]] **grundsätzlich keinen** Freiraum. Ein Gericht prüft sie voll nach.",
+  "warum": "Was ein Gesetz meint, ist eine Rechtsfrage. Die klären am Ende die Gerichte, nicht die Behörde.",
+  "alltag": "Im Mietvertrag steht „angemessene Lautstärke“. Der Vermieter legt das nicht allein fest. Im Streit entscheidet der Richter, was angemessen ist.",
+  "erkennen": [
+   "Steht im Wenn-Teil ein weites Wort? Das ist ein [[unbestimmter Rechtsbegriff]].",
+   "Regel: Das Gericht prüft voll, was das Wort hier bedeutet.",
+   "Ausnahme: Prüfungsnoten, Prognosen, Gremien mit vielen Gruppen.",
+   "Nur dann gibt es einen [[Beurteilungsspielraum]]."
+  ],
+  "merktrick": "Schwammig heißt nicht beliebig.",
+  "klausur": {
+   "kurzantwort": "**Grundsätzlich nein.** Die Auslegung unbestimmter Rechtsbegriffe ist eine **Rechtsfrage**, die Gerichte **voll überprüfen** (Art. 19 IV GG, Gewaltenteilung). **Ausnahme:** anerkannte **Beurteilungsspielräume** (Prüfungsentscheidungen, höchstpersönliche Wertungen, Prognose-/Risikoentscheidungen, pluralistisch besetzte Gremien).",
+   "details": "**Beispiel:** „Notwendig“ in § 27 SGB V: voll überprüfbar.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "unbestimmter Rechtsbegriff = Rechtsfrage",
+    "volle Kontrolle",
+    "Art. 19 IV",
+    "enge Ausnahmen"
+   ],
+   "bausteine": [
+    "Grundsätzlich nein.",
+    "Die Auslegung unbestimmter Rechtsbegriffe ist eine Rechtsfrage.",
+    "Gerichte überprüfen sie voll (Art. 19 IV GG, Gewaltenteilung).",
+    "Ausnahme: anerkannte Beurteilungsspielräume, z. B. Prüfungsentscheidungen, Prognosen, pluralistische Gremien.",
+    "Beispiel: „notwendig“ in § 27 SGB V ist voll überprüfbar."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ja, unbestimmte Rechtsbegriffe geben der Verwaltung immer Ermessen.",
+     "warumNicht": "Grundsätzlich folgt daraus kein Spielraum. Ermessen sitzt außerdem in der Rechtsfolge, nicht im Tatbestand."
+    },
+    {
+     "text": "Gerichte prüfen unbestimmte Rechtsbegriffe nur auf grobe Fehler.",
+     "warumNicht": "Die Auslegung ist eine Rechtsfrage. Gerichte prüfen sie voll (Art. 19 IV GG)."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q46",
+  "nr": 46,
+  "stockwerk": 3,
+  "frage": "Unterschied zwischen Entschließungs- und Auswahlermessen?",
+  "titel": "Ob überhaupt oder wie genau?",
+  "fachbegriff": "Entschließungs- und Auswahlermessen",
+  "einSatz": "[[Entschließungsermessen]]: **Ob** die [[Behörde]] handelt. [[Auswahlermessen]]: **Wie** sie handelt, also welches Mittel sie wählt.",
+  "warum": "Ermessen hat zwei Stufen. Erst kommt die Frage, ob man etwas tut. Dann die Frage, was genau man tut.",
+  "alltag": "Du überlegst: Gehe ich heute essen? Das ist das Ob. Dann: Pizza oder Sushi? Das ist das Wie.",
+  "erkennen": [
+   "Geht es darum, ob die [[Behörde|verwaltung]] überhaupt handelt? Entschließung.",
+   "Geht es um das Mittel, den Umfang oder den Zeitraum? Auswahl.",
+   "Beispiel [[Rücknahme]]: Ob sie zurücknimmt, ist das Ob.",
+   "Ganz oder teilweise, für früher oder nur für später: Das ist das Wie."
+  ],
+  "merktrick": "Ob vor Wie: erst entschließen, dann auswählen.",
+  "klausur": {
+   "kurzantwort": "**Entschließungsermessen:** **Ob** die Behörde überhaupt tätig wird. **Auswahlermessen:** **Wie** sie tätig wird, also welche von mehreren möglichen Rechtsfolgen oder welches Mittel sie wählt.",
+   "details": "**Beispiel:** § 45 SGB X: Ob ein rechtswidriger VA zurückgenommen wird (Entschließung). Ob ganz oder teilweise, für Zukunft oder Vergangenheit (Auswahl).",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Ob vs. Wie",
+    "Tätigwerden",
+    "Wahl der Maßnahme"
+   ],
+   "bausteine": [
+    "Entschließungsermessen: Ob die Behörde überhaupt tätig wird.",
+    "Auswahlermessen: Wie sie tätig wird, also welche Rechtsfolge oder welches Mittel sie wählt.",
+    "Beispiel § 45 SGB X: Ob ein rechtswidriger VA zurückgenommen wird, ist Entschließung.",
+    "Ob ganz oder teilweise, für Zukunft oder Vergangenheit, ist Auswahl."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Entschließungsermessen: Welches Mittel die Behörde wählt.",
+     "warumNicht": "Vertauscht: Entschließung betrifft das Ob. Die Wahl des Mittels ist Auswahlermessen."
+    },
+    {
+     "text": "Auswahlermessen: Ob die Behörde überhaupt tätig wird.",
+     "warumNicht": "Vertauscht: Das Ob ist Entschließungsermessen. Auswahlermessen betrifft das Wie."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q47",
+  "nr": 47,
+  "stockwerk": 3,
+  "frage": "Was versteht man unter einer gebundenen Entscheidung?",
+  "titel": "Keine Wahl: Wenn es passt, muss die Kasse",
+  "fachbegriff": "Gebundene Entscheidung",
+  "einSatz": "Bei einer [[gebundenen Entscheidung]] hat die [[Behörde]] keine Wahl. Passt der Wenn-Teil, **muss** sie handeln.",
+  "warum": "Viele Leistungen sollen sicher sein. Du sollst dich darauf verlassen können, statt auf Glück zu hoffen.",
+  "alltag": "Der Automat: Münze rein, Schokoriegel raus. Er überlegt nicht, ob er dich mag.",
+  "erkennen": [
+   "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
+   "Kein „kann“, kein „darf“ im Dann-Teil.",
+   "Im Sozialrecht ist das der Normalfall bei einem [[Rechtsanspruch]].",
+   "Ein Gericht kann alles voll prüfen."
+  ],
+  "merktrick": "Hat Anspruch heißt: Hand drauf, kein Abwägen.",
+  "klausur": {
+   "kurzantwort": "Die Verwaltung hat **keinen Entscheidungsspielraum**. Sind die Tatbestandsvoraussetzungen erfüllt, **muss** die Rechtsfolge eintreten („hat Anspruch“, „ist zu“, „muss“). Im Sozialrecht der **Regelfall bei Rechtsansprüchen** (§ 38 SGB I). Vollständig gerichtlich überprüfbar.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "kein Spielraum",
+    "Rechtsfolge zwingend",
+    "§ 38 SGB I",
+    "Rechtsanspruch"
+   ],
+   "bausteine": [
+    "Bei einer gebundenen Entscheidung hat die Verwaltung keinen Entscheidungsspielraum.",
+    "Sind die Tatbestandsvoraussetzungen erfüllt, muss die Rechtsfolge eintreten.",
+    "Signalwörter: „hat Anspruch“, „ist zu“, „muss“.",
+    "Im Sozialrecht ist das der Regelfall bei Rechtsansprüchen (§ 38 SGB I).",
+    "Gebundene Entscheidungen sind vollständig gerichtlich überprüfbar."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die Behörde darf auch bei erfüllten Voraussetzungen nach Zweckmäßigkeit entscheiden.",
+     "warumNicht": "Bei einer gebundenen Entscheidung gibt es keinen Spielraum. Sind die Voraussetzungen erfüllt, muss die Rechtsfolge eintreten."
+    },
+    {
+     "text": "Gerichte prüfen gebundene Entscheidungen nur auf Ermessensfehler.",
+     "warumNicht": "Das gilt nur für Ermessen. Gebundene Entscheidungen sind vollständig gerichtlich überprüfbar."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q48",
+  "nr": 48,
+  "stockwerk": 3,
+  "frage": "Was versteht man unter einer Sollvorschrift?",
+  "titel": "„Soll“ heißt: normalerweise ja",
+  "fachbegriff": "Sollvorschrift (intendiertes Ermessen)",
+  "einSatz": "Bei einer [[Sollvorschrift]] muss die [[Behörde]] **im Normalfall** so handeln. Nur im seltenen Ausnahmefall darf sie abweichen.",
+  "warum": "Das Gesetz will eine klare Linie. Es lässt aber eine Tür offen für Fälle, die ganz anders liegen.",
+  "alltag": "Die Kita-Regel: „Kinder sollen um 9 Uhr da sein.“ Normal heißt das: 9 Uhr. Nur bei einem besonderen Grund, etwa einem Arzttermin, ist später okay.",
+  "erkennen": [
+   "Signalwort: „soll“.",
+   "Normalfall: Die [[Behörde|verwaltung]] folgt der Regel, ohne lange Begründung.",
+   "Ganz untypischer Fall ([[atypischer Fall]])? Dann darf sie abweichen.",
+   "Wer abweicht, muss das begründen."
+  ],
+  "merktrick": "Soll ist fast Muss, nur mit Notausgang.",
+  "klausur": {
+   "kurzantwort": "Eine Norm, die die Verwaltung **im Regelfall zu einer bestimmten Rechtsfolge verpflichtet**. Nur in **atypischen Ausnahmefällen** darf sie abweichen. Man spricht von **intendiertem (gebundenem) Ermessen**. Sie steht zwischen gebundener Entscheidung und freiem Ermessen. Eine Begründung ist nur bei der **Abweichung** nötig.",
+   "details": "",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Regelfall",
+    "atypischer Ausnahmefall",
+    "intendiertes Ermessen",
+    "„soll“"
+   ],
+   "bausteine": [
+    "Eine Sollvorschrift verpflichtet die Verwaltung im Regelfall zu einer bestimmten Rechtsfolge.",
+    "Nur in atypischen Ausnahmefällen darf sie abweichen.",
+    "Man spricht von intendiertem (gebundenem) Ermessen.",
+    "Sie steht zwischen gebundener Entscheidung und freiem Ermessen.",
+    "Eine Begründung ist nur bei der Abweichung nötig."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "„Soll“ bedeutet freies Ermessen wie „kann“.",
+     "warumNicht": "„Soll“ verpflichtet im Regelfall. Abweichen darf die Verwaltung nur im atypischen Ausnahmefall."
+    },
+    {
+     "text": "Eine Begründung ist gerade dann nötig, wenn die Behörde der Regel folgt.",
+     "warumNicht": "Umgekehrt: Eine Begründung ist nur bei der Abweichung vom Regelfall nötig."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q49",
+  "nr": 49,
+  "stockwerk": 3,
+  "frage": "Prüfen die Verwaltungsgerichte das Vorliegen der Tatbestandsvoraussetzungen immer vollständig?",
+  "titel": "Schaut das Gericht immer ganz genau hin?",
+  "fachbegriff": "Gerichtliche Kontrolldichte",
+  "einSatz": "Meist ja: Das Gericht prüft den Wenn-Teil voll. Ausnahmen sind [[Beurteilungsspielraum]], [[Ermessen]] und Planungen.",
+  "warum": "Du sollst dich vor Gericht wirksam wehren können. Wo das Gesetz der [[Behörde]] aber bewusst Freiraum gibt, hält sich das Gericht zurück.",
+  "alltag": "Der Schiedsrichter achtet auf jede Regel. Ob der Trainer lieber Paul oder Ali einwechselt, ist nicht seine Sache.",
+  "erkennen": [
+   "Regel: volle Prüfung, auch bei schwammigen Wörtern.",
+   "Beurteilungsspielraum: Das Gericht prüft nur eingeschränkt.",
+   "Ermessen: Das Gericht sucht nur Fehler, nicht die beste Lösung.",
+   "Planung und Prognose: ebenfalls nur eingeschränkt."
+  ],
+  "merktrick": "Recht prüft der Richter, Geschmack nicht.",
+  "klausur": {
+   "kurzantwort": "**Nein, nicht immer.** **Grundsatz:** volle Prüfung des Tatbestands (Art. 19 IV GG), auch der unbestimmten Rechtsbegriffe. **Ausnahmen:** **Beurteilungsspielraum** (eingeschränkte Kontrolle) und **Ermessen** (Kontrolle nur auf Ermessensfehler, nicht auf Zweckmäßigkeit, § 54 II 2 SGG). Prognose- und Planungsentscheidungen werden ebenfalls nur eingeschränkt geprüft.",
+   "details": "",
+   "normen": [
+    "§ 54 II 2 SGG",
+    "Art. 19 IV GG"
+   ],
+   "schluesselbegriffe": [
+    "volle Kontrolle als Regel",
+    "Beurteilungsspielraum",
+    "Ermessen nur auf Fehler",
+    "keine Zweckmäßigkeitskontrolle"
+   ],
+   "bausteine": [
+    "Nein, nicht immer.",
+    "Grundsatz: volle Prüfung des Tatbestands (Art. 19 IV GG), auch der unbestimmten Rechtsbegriffe.",
+    "Ausnahme: Beurteilungsspielraum, dann nur eingeschränkte Kontrolle.",
+    "Bei Ermessen prüft das Gericht nur Ermessensfehler, nicht die Zweckmäßigkeit (§ 54 II 2 SGG).",
+    "Auch Prognose- und Planungsentscheidungen werden nur eingeschränkt geprüft."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Das Gericht prüft immer auch, ob die Entscheidung zweckmäßig war.",
+     "warumNicht": "Bei Ermessen prüft das Gericht nur Ermessensfehler, nicht die Zweckmäßigkeit (§ 54 II 2 SGG)."
+    },
+    {
+     "text": "Unbestimmte Rechtsbegriffe prüft das Gericht grundsätzlich nicht.",
+     "warumNicht": "Umgekehrt: Grundsätzlich prüft das Gericht auch unbestimmte Rechtsbegriffe voll. Nur beim Beurteilungsspielraum ist die Kontrolle eingeschränkt."
     }
    ]
   },
@@ -51,18 +2415,18 @@
   "nr": 50,
   "stockwerk": 3,
   "frage": "Was versteht man unter Ermessensnichtgebrauch? Beispiel?",
-  "titel": "Die Behörde merkt nicht, dass sie wählen darf",
-  "fachbegriff": "Ermessensnichtgebrauch",
-  "einSatz": "Das Gesetz lässt der [[Behörde]] eine Wahl. Sie wählt aber gar nicht, weil sie glaubt, sie hätte keine.",
-  "warum": "Wenn das Gesetz eine Wahl gibt, soll die Behörde den Einzelfall abwägen. Wer gar nicht abwägt, entscheidet blind.",
-  "alltag": "Der Kellner sagt: „Ich muss Ihnen die Pizza mit Pilzen bringen.“ Dabei dürfte er sie ohne Pilze bringen. Er hat nur nicht nachgesehen.",
+  "titel": "Die Kasse hätte wählen dürfen, hat es aber nicht gemerkt",
+  "fachbegriff": "Ermessensnichtgebrauch (Ermessensausfall)",
+  "einSatz": "Das Gesetz gibt der Kasse eine Wahl. Sie merkt das nicht oder nutzt die Wahl nicht. Das ist ein Fehler.",
+  "warum": "Wenn das Gesetz eine Wahl lässt, soll die Kasse den [[Einzelfall]] anschauen. Wer gar nicht abwägt, entscheidet blind.",
+  "alltag": "Der Trainer darf entscheiden, wer im Spiel mitspielt. Er stellt immer dieselben auf, weil er glaubt, das sei Vorschrift. Er hat seine Wahl verschenkt.",
   "erkennen": [
-   "Im Gesetz steht „kann“ oder „darf“: Die Behörde hat [[Ermessen]].",
-   "Die Behörde sagt aber „ich muss“ oder „ich habe keine Wahl“.",
-   "Oder sie entscheidet pauschal, ohne den Fall anzusehen.",
-   "Dann ist es **Ermessensnichtgebrauch** (auch: Ermessensausfall)."
+   "Steht im Gesetz „kann“ oder „darf“? Dann hat die Kasse [[Ermessen]].",
+   "Sagt die Kasse „wir müssen“ oder „wir haben keine Wahl“?",
+   "Hat sie den Einzelfall gar nicht angeschaut?",
+   "Dann liegt **Ermessensnichtgebrauch** vor."
   ],
-  "merktrick": "Nicht gebraucht ist wie nicht gemerkt: Die Wahl lag da, keiner hat sie genommen.",
+  "merktrick": "Wahl gehabt, nicht gewählt: Ermessen verschlafen.",
   "klausur": {
    "kurzantwort": "Die Behörde **erkennt ihren Ermessensspielraum nicht** oder **übt ihn nicht aus**, etwa weil sie sich **irrtümlich gebunden** glaubt oder pauschal entscheidet. (Auch: **Ermessensausfall**.)",
    "details": "**Beispiel:** Die Krankenkasse nimmt einen rechtswidrigen VA zurück, weil sie sich „dazu verpflichtet“ glaubt, obwohl § 45 SGB X Ermessen einräumt.",
@@ -73,14 +2437,159 @@
     "irrtümlich gebunden"
    ],
    "bausteine": [
-    "Die Behörde erkennt ihren Ermessensspielraum nicht oder übt ihn nicht aus,",
-    "etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.",
-    "Auch: Ermessensausfall."
+    "Ermessensnichtgebrauch liegt vor, wenn die Behörde ihren Ermessensspielraum nicht erkennt oder nicht ausübt.",
+    "Etwa weil sie sich irrtümlich gebunden glaubt oder pauschal entscheidet.",
+    "Man spricht auch von Ermessensausfall."
    ],
    "fallenBausteine": [
     {
-     "text": "Die Behörde wählt eine Rechtsfolge, die der Rahmen nicht deckt.",
-     "warumNicht": "Das ist Ermessensüberschreitung, nicht Nichtgebrauch."
+     "text": "Ermessensnichtgebrauch liegt vor, wenn die Behörde den gesetzlichen Rahmen überschreitet.",
+     "warumNicht": "Das ist Ermessensüberschreitung. Beim Nichtgebrauch nutzt die Behörde ihren Spielraum gar nicht."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q51",
+  "nr": 51,
+  "stockwerk": 3,
+  "frage": "Was versteht man unter Ermessensüberschreitung? Beispiel?",
+  "titel": "Die Kasse geht weiter, als das Gesetz erlaubt",
+  "fachbegriff": "Ermessensüberschreitung",
+  "einSatz": "Die [[Behörde]] wählt eine Folge, die außerhalb des erlaubten Rahmens liegt. Das ist eine [[Ermessensüberschreitung]].",
+  "warum": "Das Gesetz gibt der [[Behörde|verwaltung]] einen [[Spielraum|gestaltungsspielraum]], aber mit Zaun. Wer über den Zaun springt, handelt ohne Erlaubnis.",
+  "alltag": "Die Eltern sagen: „Du darfst bis 22 Uhr wegbleiben.“ Du kommst um Mitternacht. Du hattest eine Wahl, aber nicht bis Mitternacht.",
+  "erkennen": [
+   "Welchen Rahmen setzt das Gesetz, z. B. „bis zu 30 %“?",
+   "Liegt die Entscheidung außerhalb, z. B. 50 %?",
+   "Oder wählt die Behörde eine Folge, die das Gesetz gar nicht kennt?",
+   "Dann ist der Rahmen überschritten."
+  ],
+  "merktrick": "Über den Zaun ist zu weit.",
+  "klausur": {
+   "kurzantwort": "Die Behörde wählt eine **Rechtsfolge, die vom gesetzlichen Ermessensrahmen nicht gedeckt ist**.",
+   "details": "**Beispiel:** Das Gesetz erlaubt eine Kürzung um bis zu 30 %, die Behörde kürzt um 50 %.",
+   "normen": [],
+   "schluesselbegriffe": [
+    "Rahmen überschritten",
+    "nicht vorgesehene Rechtsfolge"
+   ],
+   "bausteine": [
+    "Ermessensüberschreitung: Die Behörde wählt eine Rechtsfolge, die vom gesetzlichen Ermessensrahmen nicht gedeckt ist.",
+    "Beispiel: Das Gesetz erlaubt eine Kürzung um bis zu 30 %.",
+    "Die Behörde kürzt aber um 50 %."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ermessensüberschreitung: Die Behörde erkennt ihren Spielraum nicht.",
+     "warumNicht": "Das ist Ermessensnichtgebrauch. Bei der Überschreitung liegt die gewählte Rechtsfolge außerhalb des Rahmens."
+    },
+    {
+     "text": "Ermessensüberschreitung: Die Behörde entscheidet aus sachfremden Gründen.",
+     "warumNicht": "Das ist Ermessensfehlgebrauch. Bei der Überschreitung liegt die gewählte Rechtsfolge außerhalb des Rahmens."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q52",
+  "nr": 52,
+  "stockwerk": 3,
+  "frage": "Was versteht man unter Ermessensfehlgebrauch? Beispiel?",
+  "titel": "Die Kasse wählt aus den falschen Gründen",
+  "fachbegriff": "Ermessensfehlgebrauch (Ermessensmissbrauch)",
+  "einSatz": "Die [[Behörde]] nutzt ihre Wahl, aber aus Gründen, die nicht zum Zweck des Gesetzes passen. Das ist [[Ermessensfehlgebrauch]].",
+  "warum": "Jede Wahl, die das Gesetz erlaubt, hat einen Zweck. Persönliche Abneigung oder Rache gehören nicht dazu.",
+  "alltag": "Die Lehrerin darf entscheiden, wer die Klassenfahrt plant. Sie nimmt nur Kinder, deren Eltern ihr Kuchen backen. Das ist ein falscher Grund.",
+  "erkennen": [
+   "Hat die [[Behörde|verwaltung]] abgewogen, aber mit sachfremden Gründen?",
+   "Hat sie Wichtiges vergessen oder schief gewichtet?",
+   "Verletzt die Wahl [[Grundrechte|grundrecht]], Gleichbehandlung oder [[Verhältnismäßigkeit]]?",
+   "Dann: Ermessensfehlgebrauch."
+  ],
+  "merktrick": "Richtig gewählt, falsch gezielt.",
+  "klausur": {
+   "kurzantwort": "Die Behörde übt das Ermessen **nicht entsprechend dem Zweck der Ermächtigung** aus (§ 39 I SGB I), z. B. wegen **sachfremder Erwägungen**, **Abwägungsdefiziten** oder Verstoß gegen **Grundrechte, Gleichbehandlung, Verhältnismäßigkeit**. (Auch: **Ermessensmissbrauch**.)",
+   "details": "**Beispiel:** Eine Reha-Leistung wird abgelehnt, weil der Antragsteller die Krankenkasse gewechselt hat oder weil man ihm persönlich abgeneigt ist.",
+   "normen": [
+    "§ 39 I SGB I"
+   ],
+   "schluesselbegriffe": [
+    "sachfremde Erwägungen",
+    "Zweck der Ermächtigung",
+    "Abwägungsfehler",
+    "§ 39 SGB I"
+   ],
+   "bausteine": [
+    "Ermessensfehlgebrauch: Die Behörde übt das Ermessen nicht entsprechend dem Zweck der Ermächtigung aus (§ 39 I SGB I).",
+    "Etwa wegen sachfremder Erwägungen oder Abwägungsdefiziten.",
+    "Oder wegen Verstoßes gegen Grundrechte, Gleichbehandlung oder Verhältnismäßigkeit.",
+    "Man spricht auch von Ermessensmissbrauch.",
+    "Beispiel: Reha abgelehnt, weil der Antragsteller die Krankenkasse gewechselt hat."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ermessensfehlgebrauch: Die Behörde wählt eine Rechtsfolge außerhalb des gesetzlichen Rahmens.",
+     "warumNicht": "Das ist Ermessensüberschreitung. Fehlgebrauch heißt: Das Ermessen wird nicht nach dem Zweck der Ermächtigung ausgeübt."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q53",
+  "nr": 53,
+  "stockwerk": 3,
+  "frage": "Wie wird der Grundsatz der Verhältnismäßigkeit beim Ermessen berücksichtigt?",
+  "titel": "Nicht mit Kanonen auf Spatzen schießen",
+  "fachbegriff": "Verhältnismäßigkeit beim Ermessen",
+  "einSatz": "Auch mit [[Ermessen]] muss die [[Behörde]] fair bleiben. Ihre Maßnahme muss zum Ziel passen und darf nicht zu hart sein.",
+  "warum": "Eine Wahl ist kein Freibrief. Die [[Verhältnismäßigkeit]] begrenzt jede Entscheidung mit [[Spielraum|gestaltungsspielraum]].",
+  "alltag": "Dein Kind kleckert beim Essen. Ein Lätzchen hilft. Drei Wochen Hausarrest wären zu hart, obwohl auch das Kleckern aufhören würde.",
+  "erkennen": [
+   "Vier Fragen: Gutes Ziel? Hilft das Mittel?",
+   "Gibt es ein milderes Mittel, das genauso gut hilft?",
+   "Steht der Schaden im Verhältnis zum Nutzen?",
+   "Bleibt nur eine faire Lösung übrig? Dann ist das Ermessen auf Null geschrumpft."
+  ],
+  "merktrick": "Ein Ziel, drei Hürden: geeignet, erforderlich, angemessen.",
+  "klausur": {
+   "kurzantwort": "Er ist eine **Schranke der Ermessensausübung**: Die gewählte Maßnahme muss **legitimen Zweck** verfolgen, **geeignet**, **erforderlich** (mildestes gleich wirksames Mittel) und **angemessen** sein. Eine unverhältnismäßige Entscheidung ist ein **Ermessensfehler**. Ist wegen der Verhältnismäßigkeit nur **eine** Entscheidung rechtmäßig, liegt eine **Ermessensreduzierung auf Null** vor (die Entscheidung ist dann gebunden).",
+   "details": "",
+   "normen": [
+    "§ 39 SGB I"
+   ],
+   "schluesselbegriffe": [
+    "Geeignetheit",
+    "Erforderlichkeit",
+    "Angemessenheit",
+    "Ermessensfehler",
+    "Ermessensreduzierung auf Null"
+   ],
+   "bausteine": [
+    "Die Verhältnismäßigkeit ist eine Schranke der Ermessensausübung (§ 39 SGB I).",
+    "Die Maßnahme muss einen legitimen Zweck verfolgen und geeignet sein.",
+    "Sie muss erforderlich sein, also das mildeste gleich wirksame Mittel.",
+    "Und sie muss angemessen sein.",
+    "Eine unverhältnismäßige Entscheidung ist ein Ermessensfehler.",
+    "Ist nur eine Entscheidung rechtmäßig, liegt Ermessensreduzierung auf Null vor; die Entscheidung ist dann gebunden."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Erforderlich ist die Maßnahme, wenn sie den Zweck am stärksten fördert.",
+     "warumNicht": "Das verwechselt Erforderlichkeit mit Wirksamkeit. Erforderlich ist das mildeste gleich wirksame Mittel."
+    },
+    {
+     "text": "Bei Ermessensreduzierung auf Null darf die Behörde frei wählen.",
+     "warumNicht": "Gegenteil: Dann ist nur eine Entscheidung rechtmäßig. Die Entscheidung ist gebunden."
     }
    ]
   },
@@ -93,18 +2602,18 @@
   "nr": 54,
   "stockwerk": 4,
   "frage": "Innerhalb welcher Frist ist grundsätzlich Widerspruch einzulegen?",
-  "titel": "Gegen einen Bescheid wehren: Wie lange hast du Zeit?",
+  "titel": "Wie lange darf man sich wehren?",
   "fachbegriff": "Widerspruchsfrist",
-  "einSatz": "Gegen einen [[Bescheid]] kannst du [[Widerspruch]] einlegen. Dafür hast du **einen Monat** ab der [[Bekanntgabe]].",
-  "warum": "Wer sich wehren will, braucht Zeit zum Nachdenken. Die Kasse muss aber irgendwann wissen, ob ihre Entscheidung feststeht.",
-  "alltag": "Ein Onlineshop gibt dir 14 Tage, um etwas zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ähnlich, nur mit einem Monat.",
+  "einSatz": "Gegen einen [[Bescheid]] kannst du **einen Monat** lang [[Widerspruch]] einlegen. Die Uhr startet mit der [[Bekanntgabe]].",
+  "warum": "Die Kasse und der Bürger sollen irgendwann Klarheit haben. Ein Monat reicht zum Überlegen.",
+  "alltag": "Ein Online-Shop gibt dir 14 Tage, um eine Hose zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ein Monat.",
   "erkennen": [
-   "Die Frist startet mit der Bekanntgabe, nicht mit dem Datum oben im Brief.",
-   "Kommt der Bescheid mit der Post, gilt er am dritten Tag nach dem Absenden als angekommen.",
-   "Von da an zählst du einen Monat weiter.",
-   "Wohnt die Person im Ausland, hat sie drei Monate."
+   "Wann kam der Bescheid an? Bei Post im Inland gilt der **dritte Tag** nach dem Absenden.",
+   "Ab da läuft **ein Monat**.",
+   "Wohnt die Person im Ausland: **drei Monate**.",
+   "Ohne eigene Schuld zu spät? Dann gibt es eine zweite Chance: [[Wiedereinsetzung]]."
   ],
-  "merktrick": "Drei Tage Post, dann ein Monat Frist.",
+  "merktrick": "Drei Tage Post, dann ein Monat Zeit.",
   "klausur": {
    "kurzantwort": "**Ein Monat** nach **Bekanntgabe** des VA (**§ 84 I SGG**). Im **Ausland** drei Monate. Bei Übermittlung per Post im Inland gilt der VA am **dritten Tag nach Aufgabe zur Post** als bekanntgegeben (**§ 37 II SGB X**). Bei unverschuldeter Versäumung ist **Wiedereinsetzung** möglich (§ 67 SGG).",
    "details": "",
@@ -119,20 +2628,282 @@
     "Wiedereinsetzung"
    ],
    "bausteine": [
-    "Ein Monat nach Bekanntgabe des VA (§ 84 I SGG).",
-    "Im Ausland drei Monate.",
-    "Per Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
-    "Bei unverschuldeter Versäumung: Wiedereinsetzung (§ 67 SGG)."
+    "Die Widerspruchsfrist beträgt einen Monat nach Bekanntgabe des VA (§ 84 I SGG).",
+    "Bei Bekanntgabe im Ausland gilt eine Frist von drei Monaten.",
+    "Bei Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
+    "Bei unverschuldeter Versäumung ist Wiedereinsetzung möglich (§ 67 SGG)."
    ],
    "fallenBausteine": [
     {
-     "text": "Zwei Wochen nach dem Datum des Bescheids.",
-     "warumNicht": "Die Frist ist ein Monat, und sie startet mit der Bekanntgabe, nicht mit dem Datum im Brief."
+     "text": "Die Widerspruchsfrist beträgt zwei Wochen nach Zugang.",
+     "warumNicht": "Falsch: Die Frist beträgt einen Monat ab Bekanntgabe, nicht zwei Wochen."
+    },
+    {
+     "text": "Die Frist beginnt erst mit dem Lesen des Bescheids.",
+     "warumNicht": "Falsch: Die Frist beginnt mit der Bekanntgabe. Bei Post im Inland ist das der dritte Tag nach Aufgabe zur Post."
     }
    ]
   },
   "verifiziert": false,
   "hinweise": [],
   "normhinweis": "Normprüfung: Nach der aktuellen Fassung von § 37 Abs. 2 SGB X gilt ein per Post im Inland übermittelter VA am vierten (nicht dritten) Tag nach Aufgabe zur Post als bekanntgegeben. Bitte mit Skript abgleichen."
+ },
+ {
+  "id": "q55",
+  "nr": 55,
+  "stockwerk": 4,
+  "frage": "Innerhalb welcher Frist ist grundsätzlich die Klage zu erheben?",
+  "titel": "Wie lange darf man nach dem Widerspruch klagen?",
+  "fachbegriff": "Klagefrist",
+  "einSatz": "Nach der Antwort auf deinen [[Widerspruch]] hast du **einen Monat** Zeit für die [[Klage]] beim Gericht.",
+  "warum": "Erst prüft die Kasse den Fall noch mal selbst. Erst dann soll ein Gericht ran. Die Frist sorgt schnell für Klarheit.",
+  "alltag": "Im Café meckerst du erst beim Kellner. Hilft das nicht, gehst du zur Chefin. Die will das aber bald hören, nicht nach Jahren.",
+  "erkennen": [
+   "Gab es schon einen Widerspruch? Ohne ihn geht die Klage meist nicht.",
+   "Die Uhr startet mit der [[Bekanntgabe]] der Antwort auf den Widerspruch. Das ist der [[Widerspruchsbescheid]].",
+   "Im Inland: **ein Monat**. Im Ausland: **drei Monate**.",
+   "Nie ab dem ersten [[Bescheid]] rechnen!"
+  ],
+  "merktrick": "Erst Widerspruch, dann Gericht. Und wieder ein Monat Zeit.",
+  "klausur": {
+   "kurzantwort": "**Ein Monat** nach **Bekanntgabe des Widerspruchsbescheids** (**§ 87 SGG**). Bei Bekanntgabe im Ausland drei Monate. Für Anfechtungs- und Verpflichtungsklage muss grundsätzlich das **Widerspruchsverfahren** vorangegangen sein (§ 78 SGG).",
+   "details": "",
+   "normen": [
+    "§ 87 SGG",
+    "§ 78 SGG"
+   ],
+   "schluesselbegriffe": [
+    "ein Monat",
+    "Widerspruchsbescheid",
+    "Vorverfahren"
+   ],
+   "bausteine": [
+    "Die Klagefrist beträgt einen Monat nach Bekanntgabe des Widerspruchsbescheids (§ 87 SGG).",
+    "Bei Bekanntgabe im Ausland beträgt sie drei Monate.",
+    "Für Anfechtungs- und Verpflichtungsklage muss grundsätzlich das Widerspruchsverfahren vorangegangen sein (§ 78 SGG)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Die Klagefrist beginnt mit der Bekanntgabe des ersten Bescheids.",
+     "warumNicht": "Falsch: Die Klagefrist beginnt erst mit der Bekanntgabe des Widerspruchsbescheids."
+    },
+    {
+     "text": "Die Klage kann immer sofort ohne Widerspruch erhoben werden.",
+     "warumNicht": "Falsch: Vor Anfechtungs- und Verpflichtungsklage muss grundsätzlich das Widerspruchsverfahren laufen."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q56",
+  "nr": 56,
+  "stockwerk": 4,
+  "frage": "Was passiert hinsichtlich der Klagefrist bei fehlerhafter oder unterlassener Rechtsbehelfsbelehrung?",
+  "titel": "Fehlt der Hinweis auf die Frist, gibt es mehr Zeit",
+  "fachbegriff": "Fehlerhafte Rechtsbehelfsbelehrung",
+  "einSatz": "Fehlt die [[Rechtsbehelfsbelehrung]] oder ist sie falsch, läuft der Monat nicht. Dann hast du **ein Jahr** Zeit.",
+  "warum": "Nur wer seine Rechte kennt, kann sie auch nutzen. Wer dich nicht richtig aufklärt, darf dich nicht mit einer kurzen Frist bestrafen.",
+  "alltag": "Der Trainer sagt dir nicht, bis wann du dich für das Turnier melden musst. Dann kann er dir kaum vorwerfen, du seist zu spät.",
+  "erkennen": [
+   "Steht unter dem Brief, wie du dich wehren kannst?",
+   "Steht da alles? Was du tun kannst, bei wem, wo, bis wann und wie.",
+   "Fehlt etwas oder ist etwas falsch: Der Monat läuft nicht. Es gilt **ein Jahr**.",
+   "Ausnahmen sind selten, etwa bei [[höherer Gewalt|höhere Gewalt]]."
+  ],
+  "merktrick": "Kein Hinweis, kein Monat: Dann zählt das ganze Jahr.",
+  "klausur": {
+   "kurzantwort": "Die Monatsfrist **beginnt nicht zu laufen**, wenn der Beteiligte nicht ordnungsgemäß belehrt wurde (Rechtsbehelf, Stelle, Sitz, Frist, Form). Stattdessen gilt eine **Jahresfrist** ab Zustellung, Eröffnung oder Verkündung (**§ 66 II SGG**). Ausnahmen: höhere Gewalt oder Belehrung, ein Rechtsbehelf sei nicht gegeben.",
+   "details": "",
+   "normen": [
+    "§ 66 SGG"
+   ],
+   "schluesselbegriffe": [
+    "Belehrung fehlerhaft",
+    "Jahresfrist",
+    "§ 66 II SGG",
+    "Frist läuft nicht an"
+   ],
+   "bausteine": [
+    "Die Monatsfrist beginnt nicht zu laufen, wenn nicht ordnungsgemäß belehrt wurde.",
+    "Die Belehrung muss Rechtsbehelf, Stelle, Sitz, Frist und Form nennen.",
+    "Stattdessen gilt eine Jahresfrist ab Zustellung, Eröffnung oder Verkündung (§ 66 II SGG).",
+    "Ausnahmen: höhere Gewalt oder Belehrung, ein Rechtsbehelf sei nicht gegeben."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Bei fehlender Belehrung ist der Bescheid nichtig.",
+     "warumNicht": "Falsch: Die fehlende Belehrung betrifft nur die Frist. Statt eines Monats gilt ein Jahr."
+    },
+    {
+     "text": "Bei fehlender Belehrung gilt eine Frist von drei Monaten.",
+     "warumNicht": "Falsch: Drei Monate gelten bei Bekanntgabe im Ausland. Ohne richtige Belehrung gilt ein Jahr."
+    }
+   ]
+  },
+  "verifiziert": false,
+  "hinweise": [
+   "Für den Widerspruch gilt entsprechend (§ 84 II SGG verweist auf § 66). Bitte prüfen."
+  ],
+  "normhinweis": "Normprüfung: § 84 Abs. 2 SGG erklärt die §§ 66 und 67 SGG für den Widerspruch für entsprechend anwendbar – die ⚠-Vermutung ist damit bestätigt."
+ },
+ {
+  "id": "q57",
+  "nr": 57,
+  "stockwerk": 4,
+  "frage": "Das SGB V verbietet mit sofortiger Wirkung Arzneimittel zur Raucherentwöhnung (§ 34 I 8). Kann R mit Widerspruch/Anfechtungsklage gegen das Gesetz vorgehen?",
+  "titel": "Kann man gegen ein Gesetz Widerspruch einlegen?",
+  "fachbegriff": "Rechtsschutz gegen ein Gesetz",
+  "einSatz": "**Nein.** [[Widerspruch]] und [[Anfechtungsklage]] gehen nur gegen einen [[Bescheid]]. Ein Gesetz ist kein Bescheid.",
+  "warum": "Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
+  "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
+  "erkennen": [
+   "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
+   "Weg 1: Leistung beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
+   "Weg 2: [[Verfassungsbeschwerde]]. Das geht, wenn dich das Gesetz selbst, jetzt und direkt trifft."
+  ],
+  "merktrick": "Gegen das Gesetz kein Widerspruch. Erst den Bescheid holen, dann streiten.",
+  "klausur": {
+   "kurzantwort": "**Nein.** Widerspruch und Anfechtungsklage richten sich **nur gegen Verwaltungsakte** (§ 54 I SGG, § 78 SGG). Ein **Gesetz** ist eine abstrakt-generelle **Rechtsnorm**, kein VA.",
+   "details": "**Möglicher Rechtsschutz:**\n- **Verfassungsbeschwerde** (Art. 93 I Nr. 4a GG), wenn R durch das Gesetz **selbst, gegenwärtig und unmittelbar** betroffen ist (kein Vollzugsakt nötig, Subsidiarität beachten).\n- **Inzident:** R beantragt die Leistung, die Krankenkasse lehnt per **VA** ab. Dagegen **Widerspruch und Klage**; im Verfahren Rüge der Verfassungswidrigkeit, ggf. **Vorlage an das BVerfG** (Art. 100 I GG).",
+   "normen": [
+    "§ 54",
+    "§ 78 SGG",
+    "Art. 93 I Nr. 4a GG",
+    "Art. 100 I GG"
+   ],
+   "schluesselbegriffe": [
+    "Gesetz ≠ VA",
+    "Verfassungsbeschwerde",
+    "Ablehnungsbescheid",
+    "Inzidentkontrolle",
+    "Art. 100 GG"
+   ],
+   "bausteine": [
+    "Nein: Widerspruch und Anfechtungsklage richten sich nur gegen Verwaltungsakte (§ 54 I, § 78 SGG).",
+    "Ein Gesetz ist eine abstrakt-generelle Rechtsnorm, kein VA.",
+    "Möglich ist eine Verfassungsbeschwerde, wenn R selbst, gegenwärtig und unmittelbar betroffen ist (Art. 93 I Nr. 4a GG).",
+    "Oder inzident: Leistung beantragen und gegen den Ablehnungsbescheid Widerspruch und Klage erheben.",
+    "Im Verfahren die Verfassungswidrigkeit rügen, ggf. Vorlage an das BVerfG (Art. 100 I GG)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ja: Gegen das Gesetz ist die Anfechtungsklage vor dem Sozialgericht statthaft.",
+     "warumNicht": "Falsch: Die Anfechtungsklage richtet sich nur gegen Verwaltungsakte, nicht gegen Gesetze."
+    },
+    {
+     "text": "Ein Gesetz ist ein VA, weil es von einer Behörde stammt.",
+     "warumNicht": "Falsch: Ein Gesetz ist eine abstrakt-generelle Rechtsnorm und gerade kein VA."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q58",
+  "nr": 58,
+  "stockwerk": 4,
+  "frage": "Welche Klageart ist zu wählen, wenn man den Erlass eines begünstigenden VA begehrt?",
+  "titel": "Klagen, um etwas Gutes von der Kasse zu bekommen",
+  "fachbegriff": "Verpflichtungsklage (Untätigkeitsklage)",
+  "einSatz": "Willst du einen guten [[Bescheid]] für dich erzwingen, nimmst du die [[Verpflichtungsklage]].",
+  "warum": "Nur die Absage loszuwerden reicht dir nicht. Du willst ja etwas bekommen. Das Gericht soll die Kasse dazu zwingen.",
+  "alltag": "Die Kita sagt dir den Platz ab. Den Brief zu zerreißen bringt dir keinen Platz. Du willst, dass die Kita dir den Platz gibt.",
+  "erkennen": [
+   "Kam eine **Absage**? Dann weg mit der Absage und her mit dem Bescheid: beides in einer Klage.",
+   "Macht die Kasse **gar nichts**? Dann [[Untätigkeitsklage]].",
+   "Geht es am Ende um **Geld**? Dann oft Absage weg und Zahlung her: [[Leistungsklage]]."
+  ],
+  "merktrick": "Absage weg, Bescheid her: Das ist die Verpflichtungsklage.",
+  "klausur": {
+   "kurzantwort": "Die **Verpflichtungsklage** (§ 54 I 1 Alt. 2 SGG): Antrag, die Behörde zum **Erlass** des abgelehnten oder unterlassenen VA zu verpflichten. Bei **Ablehnung** meist als **kombinierte Anfechtungs- und Verpflichtungsklage** (Ablehnungsbescheid aufheben + Erlass verlangen). Bei bloßem **Nichtstun** der Behörde: **Untätigkeitsklage** (§ 88 SGG). Geht es letztlich um eine **Geldleistung**, kommt im Sozialrecht häufig die **kombinierte Anfechtungs- und Leistungsklage** (§ 54 IV SGG) in Betracht.",
+   "details": "",
+   "normen": [
+    "§ 54 I, IV SGG",
+    "§ 88 SGG"
+   ],
+   "schluesselbegriffe": [
+    "Verpflichtungsklage",
+    "kombinierte Klage",
+    "Untätigkeitsklage",
+    "§ 54 SGG"
+   ],
+   "bausteine": [
+    "Statthaft ist die Verpflichtungsklage (§ 54 I 1 Alt. 2 SGG).",
+    "Antrag: die Behörde zum Erlass des abgelehnten oder unterlassenen VA zu verpflichten.",
+    "Bei Ablehnung meist als kombinierte Anfechtungs- und Verpflichtungsklage.",
+    "Bei bloßem Nichtstun der Behörde: Untätigkeitsklage (§ 88 SGG).",
+    "Bei einer Geldleistung häufig kombinierte Anfechtungs- und Leistungsklage (§ 54 IV SGG)."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Statthaft ist die reine Anfechtungsklage, denn sie verschafft die Leistung.",
+     "warumNicht": "Falsch: Die Anfechtungsklage hebt nur auf. Den Erlass des VA erreicht man mit der Verpflichtungsklage."
+    },
+    {
+     "text": "Bei bloßem Nichtstun der Behörde ist die Anfechtungsklage zu wählen.",
+     "warumNicht": "Falsch: Ohne Bescheid gibt es nichts anzufechten. Bei bloßem Nichtstun passt die Untätigkeitsklage."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
+ },
+ {
+  "id": "q59",
+  "nr": 59,
+  "stockwerk": 4,
+  "frage": "Kann man gegen schlichtes Verwaltungshandeln mit einer Anfechtungsklage vorgehen?",
+  "titel": "Gegen eine Warnung oder Auskunft klagen: Welche Klage?",
+  "fachbegriff": "Schlichtes Verwaltungshandeln (Realakt)",
+  "einSatz": "Eine Auskunft oder Warnung ist kein [[Bescheid]]. Darum passt die [[Anfechtungsklage]] hier nicht.",
+  "warum": "Die Anfechtungsklage hebt eine feste Regel für deinen Fall auf. Eine Warnung regelt aber nichts. Sie ist nur ein [[Realakt]].",
+  "alltag": "Der Bademeister ruft: „Vorsicht, der Boden ist glatt!“ Das ist ein Hinweis, kein Hausverbot. Ein Verbot gilt, ein Hinweis informiert nur.",
+  "erkennen": [
+   "Legt die [[Behörde]] etwas fest für dich? Nein? Dann ist es ein Realakt.",
+   "Beispiele: Auskunft, Warnung, Hinweis.",
+   "Soll sie etwas lassen oder rückgängig machen? Dann die allgemeine [[Leistungsklage]].",
+   "Daneben gibt es die [[Feststellungsklage]]."
+  ],
+  "merktrick": "Nichts geregelt, nichts anzufechten.",
+  "klausur": {
+   "kurzantwort": "**Nein.** Schlichtes Verwaltungshandeln (Realakt: Auskunft, Warnung, Hinweis) ist **kein VA**, weil ihm die **Regelung** fehlt. Die **Anfechtungsklage** ist nur gegen VA statthaft (§ 54 I 1 SGG). Statthaft sind die **allgemeine Leistungsklage** (§ 54 V SGG: Unterlassung, Beseitigung, Folgenbeseitigung) oder die **Feststellungsklage** (§ 55 SGG).",
+   "details": "",
+   "normen": [
+    "§ 54 I, V SGG",
+    "§ 55 SGG"
+   ],
+   "schluesselbegriffe": [
+    "Realakt",
+    "keine Regelung",
+    "allgemeine Leistungsklage",
+    "Feststellungsklage"
+   ],
+   "bausteine": [
+    "Nein: Schlichtes Verwaltungshandeln (Realakt) ist kein VA, weil ihm die Regelung fehlt.",
+    "Beispiele sind Auskunft, Warnung und Hinweis.",
+    "Die Anfechtungsklage ist nur gegen VA statthaft (§ 54 I 1 SGG).",
+    "Statthaft sind die allgemeine Leistungsklage (§ 54 V SGG) oder die Feststellungsklage (§ 55 SGG).",
+    "Die Leistungsklage zielt auf Unterlassung, Beseitigung oder Folgenbeseitigung."
+   ],
+   "fallenBausteine": [
+    {
+     "text": "Ja: Jede Maßnahme einer Behörde kann mit der Anfechtungsklage angegriffen werden.",
+     "warumNicht": "Falsch: Die Anfechtungsklage ist nur gegen VA statthaft. Einem Realakt fehlt die Regelung."
+    },
+    {
+     "text": "Statthaft ist die Verpflichtungsklage, weil die Behörde etwas tun soll.",
+     "warumNicht": "Falsch: Die Verpflichtungsklage zielt auf den Erlass eines VA. Gegen Realakte hilft die allgemeine Leistungsklage."
+    }
+   ]
+  },
+  "verifiziert": true,
+  "hinweise": [],
+  "normhinweis": null
  }
 ]

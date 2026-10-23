@@ -1,0 +1,3899 @@
+{
+ "regeln": [
+  {
+   "id": "q12",
+   "titel": "Wofür sind Grundrechte eigentlich gut?",
+   "fachbegriff": "Funktionen der Grundrechte",
+   "einSatz": "[[Grundrechte]] können mehrere Jobs haben. Der wichtigste: Sie halten den Staat von dir fern.",
+   "warum": "Der Staat ist stark. Grundrechte sollen dich vor ihm schützen, aber auch vor anderen und vor Ungleichheit.",
+   "alltag": "Ein Fahrradhelm schützt dich beim Sturz. Die Klingel warnt andere. Das Licht lässt dich gesehen werden. Ein Ding, mehrere Jobs.",
+   "erkennen": [
+    "Greift der Staat selbst ein? Dann [[Abwehrrecht]]. Das ist die wichtigste Funktion.",
+    "Willst du etwas vom Staat haben? Dann Leistung oder [[Teilhabe|Teilhaberecht]].",
+    "Droht Gefahr von anderen Menschen? Dann [[Schutzpflicht]] des Staates.",
+    "Dazu kommen: faire Verfahren, Gleichheit und Wirkung bis ins [[Privatrecht]]."
+   ],
+   "merktrick": "Erst „Finger weg, Staat!“, dann „Gib mir was“ und „Pass auf mich auf“.",
+   "klausur": {
+    "bausteine": [
+     "Abwehrrechte (status negativus) schützen vor staatlichen Eingriffen.",
+     "Leistungs- und Teilhaberechte (status positivus) sind originär oder derivativ.",
+     "Schutzpflichten schützen vor Gefahren durch Dritte.",
+     "Hinzu kommen Verfahrens- und Organisationsgarantien sowie Gleichheitsrechte (Art. 3).",
+     "Die objektive Wertordnung strahlt aus, z. B. als mittelbare Drittwirkung im Privatrecht.",
+     "Die bedeutendste Funktion sind bis heute die Abwehrrechte."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Die bedeutendste Funktion sind heute die Leistungsrechte.",
+      "warumNicht": "Falsch: Bis heute sind die Abwehrrechte die wichtigste Funktion."
+     },
+     {
+      "text": "Schutzpflichten schützen vor Eingriffen des Staates selbst.",
+      "warumNicht": "Das ist das Abwehrrecht. Schutzpflichten schützen vor Gefahren durch Dritte."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q13",
+   "titel": "Der Staat als Bodyguard gegen andere",
+   "fachbegriff": "Grundrechtliche Schutzpflicht",
+   "einSatz": "Der Staat muss dein Leben und deine Gesundheit auch vor **anderen Menschen** und Gefahren schützen.",
+   "warum": "Nicht nur der Staat kann dir schaden. Auch Firmen, Nachbarn oder Viren. Dann soll der Staat sich schützend vor dich stellen.",
+   "alltag": "Die Bademeisterin taucht nicht selbst nach dir. Sie passt aber auf, dass dich niemand untertaucht. Wie genau, entscheidet sie selbst.",
+   "erkennen": [
+    "Kommt die Gefahr von Privaten oder einer anderen Quelle, nicht vom Staat?",
+    "Soll der Staat schützen, statt sich herauszuhalten?",
+    "Der Staat muss nur einen **Mindestschutz** bieten ([[Untermaßverbot]]).",
+    "Wie er schützt, darf der [[Gesetzgeber]] weitgehend selbst wählen."
+   ],
+   "merktrick": "Schutzpflicht heißt: Nicht zu wenig. Wie viel mehr, sagt der Gesetzgeber.",
+   "klausur": {
+    "bausteine": [
+     "Der Staat muss Grundrechtsgüter vor Eingriffen und Gefährdungen durch Private schützen.",
+     "Herleitung: objektiv-rechtliche Dimension der Grundrechte.",
+     "Maßstab ist das Untermaßverbot (Mindestschutzniveau).",
+     "Der Gesetzgeber hat dabei einen weiten Spielraum.",
+     "Beispiel: Schutz des ungeborenen Lebens, Arzneimittelrecht, Infektionsschutz."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Der Staat muss stets den bestmöglichen Schutz wählen, ohne Spielraum.",
+      "warumNicht": "Maßstab ist nur ein Mindestschutz (Untermaßverbot). Der Gesetzgeber hat weiten Spielraum."
+     },
+     {
+      "text": "Schutzpflichten schützen nur vor Eingriffen des Staates selbst.",
+      "warumNicht": "Schutzpflichten richten sich gegen Gefahren durch Private. Gegen den Staat selbst helfen Abwehrrechte."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q14",
+   "titel": "Ein fairer Platz am vorhandenen Tisch",
+   "fachbegriff": "Derivatives Teilhaberecht",
+   "einSatz": "Gibt es schon ein Angebot des Staates, darfst du **gleichberechtigt** mitmachen. Neues bauen muss er meist nicht.",
+   "warum": "Der Staat kann nicht alles für alle schaffen. Was er aber anbietet, muss er fair verteilen.",
+   "alltag": "Die Schule hat 20 Plätze in der Theater-AG. Du hast [[Anspruch|rechtsanspruch]] auf eine faire Chance. Eine zweite AG muss die Schule nicht gründen.",
+   "erkennen": [
+    "Gibt es die Leistung schon (Plätze, Geräte, Geld)? Dann **derivativ**: faire Teilhabe.",
+    "Soll der Staat etwas Neues schaffen? Dann **originär**. Das gibt es nur selten.",
+    "Seltene Ausnahme für „originär“: das [[Existenzminimum]].",
+    "Grundlage: Gleichheit (Art. 3 I) plus das passende Freiheitsrecht."
+   ],
+   "merktrick": "Derivativ = vom Kuchen, der schon da ist. Originär = neuer Kuchen.",
+   "klausur": {
+    "bausteine": [
+     "Derivatives Teilhaberecht: Anspruch auf gleichberechtigte Teilhabe an bereits bestehenden staatlichen Leistungen.",
+     "Grundlage ist Art. 3 I i. V. m. dem jeweiligen Freiheitsrecht.",
+     "Gegensatz: originäres Leistungsrecht auf Schaffung neuer Leistungen, nur ausnahmsweise anerkannt.",
+     "Beispiel: numerus-clausus-Entscheidung des BVerfG zu vorhandenen Studienplätzen."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Derivatives Teilhaberecht: Anspruch darauf, dass der Staat neue Studienplätze schafft.",
+      "warumNicht": "Das wäre ein originäres Leistungsrecht. Derivativ heißt: fair teilhaben an Plätzen, die es schon gibt."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q15",
+   "titel": "Wer und was ist überhaupt geschützt?",
+   "fachbegriff": "Schutzbereich (persönlich und sachlich)",
+   "einSatz": "Der [[Schutzbereich]] sagt, **wen** ein [[Grundrecht]] schützt und **welches Verhalten** es schützt.",
+   "warum": "Jedes Grundrecht hat sein eigenes Revier. Erst wenn du darin stehst, hilft es dir.",
+   "alltag": "Die Jahreskarte im Zoo gilt nur für dich (wer). Und nur für den Zoo, nicht fürs Kino (was).",
+   "erkennen": [
+    "**Persönlich:** Wer darf sich darauf berufen? Jeder Mensch, nur Deutsche oder auch Firmen?",
+    "**Sachlich:** Welches Verhalten ist geschützt?",
+    "Beispiel Beruf: Tätigkeit auf Dauer, mit der man seinen Lebensunterhalt verdient."
+   ],
+   "merktrick": "Erst „Wer?“, dann „Was?“. Wie an der Tür vom Club.",
+   "klausur": {
+    "bausteine": [
+     "Der Schutzbereich ist der Lebensbereich bzw. das Verhalten, das ein Grundrecht schützt.",
+     "Persönlicher Schutzbereich: Wer ist Träger? Jedermann, Deutsche, juristische Personen (Art. 19 III GG).",
+     "Sachlicher Schutzbereich: Was ist geschützt?",
+     "Beispiel Art. 12 I: Beruf ist jede auf Dauer angelegte Tätigkeit zur Schaffung und Erhaltung der Lebensgrundlage."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Persönlicher Schutzbereich: Welches Verhalten ist geschützt?",
+      "warumNicht": "Das ist der sachliche Schutzbereich. Der persönliche fragt: Wer ist Träger?"
+     },
+     {
+      "text": "Firmen können sich nie auf Grundrechte berufen.",
+      "warumNicht": "Falsch: Nach Art. 19 III GG können auch juristische Personen Träger sein."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q16",
+   "titel": "Wann greift der Staat in ein Grundrecht ein?",
+   "fachbegriff": "Moderner Eingriffsbegriff",
+   "einSatz": "Ein [[Eingriff]] ist alles, womit der Staat dir geschütztes Verhalten **unmöglich macht oder stark erschwert**.",
+   "warum": "Der Staat schadet nicht nur mit Verboten. Auch eine Warnung kann dich hart treffen.",
+   "alltag": "Der Hausmeister verbietet dir das Fußballspielen nicht. Er stellt aber Blumenkübel aufs Feld. Spielen kannst du trotzdem nicht mehr.",
+   "erkennen": [
+    "Kommt die Maßnahme vom Staat (zurechenbar)?",
+    "Macht sie dein Verhalten unmöglich oder **erheblich** schwerer?",
+    "Egal ist: mit Absicht oder aus Versehen, direkt oder über Umwege, mit Befehl oder ohne.",
+    "Früher (klassisch) zählten nur gezielte, direkte Befehle mit Zwang."
+   ],
+   "merktrick": "Modern zählt die Wirkung, nicht die Verpackung.",
+   "klausur": {
+    "bausteine": [
+     "Eingriff ist jedes dem Staat zurechenbare Handeln.",
+     "Es macht ein grundrechtlich geschütztes Verhalten ganz oder teilweise unmöglich oder erschwert es erheblich.",
+     "Gleichgültig ist: final oder nicht final, unmittelbar oder mittelbar, rechtlich oder faktisch, mit oder ohne Befehl und Zwang.",
+     "Der klassische Eingriffsbegriff ist enger: final, unmittelbar, rechtsförmig, mit Befehl und Zwang."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Ein Eingriff liegt nur vor, wenn der Staat gezielt per Befehl handelt.",
+      "warumNicht": "Das ist der klassische, engere Begriff. Der moderne lässt auch mittelbare und faktische Wirkungen genügen."
+     },
+     {
+      "text": "Jede noch so kleine Belästigung durch Private ist ein Eingriff.",
+      "warumNicht": "Der Eingriff muss dem Staat zurechenbar sein und erheblich erschweren. Private greifen nicht ein."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q17",
+   "titel": "Wie stark darf man ein Grundrecht begrenzen?",
+   "fachbegriff": "Schranken der Grundrechte",
+   "einSatz": "Die meisten Grundrechte haben [[Schranken]]. Das [[Grundgesetz]] sagt, **wodurch** man sie begrenzen darf.",
+   "warum": "Freiheiten stoßen aneinander. Darum dürfen sie begrenzt werden, aber je nach Grundrecht unterschiedlich leicht.",
+   "alltag": "Im Freibad darfst du schwimmen. Die Badeordnung darf Regeln machen (einfach). Für Sprungturm-Verbote braucht es einen guten Grund (qualifiziert).",
+   "erkennen": [
+    "Steht da „durch oder aufgrund eines Gesetzes“? Dann **einfacher** [[Gesetzesvorbehalt]].",
+    "Verlangt der Artikel zusätzlich einen bestimmten Zweck? Dann **qualifiziert**.",
+    "Steht gar nichts? Dann [[vorbehaltlos]]: Grenze nur durch andere Verfassungsgüter.",
+    "Art. 2 I hat eigene Grenzen: die [[Schrankentrias]]."
+   ],
+   "merktrick": "Einfach, mit Extra, ohne [[Vorbehalt|gesetzesvorbehalt]], und die Trias für Art. 2 I.",
+   "klausur": {
+    "bausteine": [
+     "Einfacher Gesetzesvorbehalt: Eingriff durch oder aufgrund eines Gesetzes, z. B. Art. 8 II, Art. 12 I 2.",
+     "Qualifizierter Gesetzesvorbehalt: Das Gesetz muss zusätzliche Voraussetzungen erfüllen, z. B. Art. 5 II, Art. 11 II.",
+     "Vorbehaltlose Grundrechte: nur durch kollidierendes Verfassungsrecht begrenzt, z. B. Art. 4 I, II, Art. 5 III.",
+     "Der Konflikt wird durch praktische Konkordanz aufgelöst.",
+     "Schrankentrias (Art. 2 I): Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Vorbehaltlose Grundrechte können überhaupt nicht eingeschränkt werden.",
+      "warumNicht": "Auch sie haben Grenzen: kollidierendes Verfassungsrecht, gelöst durch praktische Konkordanz."
+     },
+     {
+      "text": "Die Kunstfreiheit (Art. 5 III) steht unter einfachem Gesetzesvorbehalt.",
+      "warumNicht": "Art. 5 III ist vorbehaltlos. Begrenzen kann ihn nur kollidierendes Verfassungsrecht."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q18",
+   "titel": "Auch das Gesetz, das begrenzt, hat Grenzen",
+   "fachbegriff": "Schranken-Schranken",
+   "einSatz": "Ein Gesetz darf ein [[Grundrecht]] begrenzen. Aber das Gesetz selbst muss strenge Regeln einhalten.",
+   "warum": "Sonst könnte der Staat jedes Grundrecht per Gesetz leer machen. Die [[Schranken-Schranken]] verhindern das.",
+   "alltag": "Die Eltern dürfen die Handyzeit begrenzen. Aber nicht auf null Sekunden für immer, und nur mit nachvollziehbarer Regel.",
+   "erkennen": [
+    "**Formell:** Wer hat das Gesetz gemacht, auf welchem Weg, in welcher Form?",
+    "**Materiell:** Ist es klar formuliert und [[verhältnismäßig|Verhältnismäßigkeit]]?",
+    "Weitere Regeln: kein Gesetz nur für einen [[Einzelfall]], [[Zitiergebot]], Kern des Grundrechts bleibt.",
+    "Verhältnismäßig heißt: guter Zweck, geeignet, erforderlich, angemessen."
+   ],
+   "merktrick": "Die Schranke bekommt selbst eine Schranke. Grenzen für die Grenze.",
+   "klausur": {
+    "bausteine": [
+     "Schranken-Schranken sind Anforderungen an das grundrechtsbeschränkende Gesetz.",
+     "Formell: Zuständigkeit, Verfahren, Form.",
+     "Materiell: Bestimmtheitsgebot und Verhältnismäßigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit).",
+     "Außerdem: Verbot des Einzelfallgesetzes (Art. 19 I 1) und Zitiergebot (Art. 19 I 2).",
+     "Außerdem: Wesensgehaltsgarantie (Art. 19 II), Rückwirkungsverbot, Gleichheitsgebot."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Schranken-Schranken sind die Gründe, aus denen ein Grundrecht begrenzt werden darf.",
+      "warumNicht": "Das sind die Schranken selbst. Schranken-Schranken sind die Grenzen dieser Begrenzung."
+     },
+     {
+      "text": "Ein Gesetz darf ein Grundrecht in seinem Wesensgehalt antasten, wenn es verhältnismäßig ist.",
+      "warumNicht": "Die Wesensgehaltsgarantie (Art. 19 II) ist eine eigene Grenze neben der Verhältnismäßigkeit."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q19",
+   "titel": "Trifft die Regel wirklich den Beruf?",
+   "fachbegriff": "Berufsregelnde Tendenz (Art. 12 I GG)",
+   "einSatz": "Nur eine Maßnahme mit **Bezug zum Beruf** ist ein [[Eingriff]] in die [[Berufsfreiheit]].",
+   "warum": "Fast jede Regel kostet irgendwen im Job Zeit oder Geld. Nicht jede soll gleich die Berufsfreiheit berühren.",
+   "alltag": "Regen nervt die Eisdiele. Trotzdem ist Regen kein Angriff auf Eisverkäufer. Ein Eisverkaufs-Verbot schon.",
+   "erkennen": [
+    "**Subjektiv:** Zielt die Regel genau auf den Beruf? Zum Beispiel Werbeverbot für Ärzte.",
+    "**Objektiv:** Kein Ziel, aber enger Zusammenhang mit dem Beruf und klare Wirkung darauf?",
+    "Beispiel objektiv: Preisregeln für Arzneimittel, die Apotheken treffen.",
+    "Wirkt sich die Regel nur zufällig auf den Job aus? Dann kein Eingriff in Art. 12."
+   ],
+   "merktrick": "Gezielt oder eng verbunden: Beruf berührt. Nur zufällig: nicht.",
+   "klausur": {
+    "bausteine": [
+     "Die berufsregelnde Tendenz entscheidet, ob überhaupt ein Eingriff in Art. 12 I GG vorliegt.",
+     "Nicht jede Maßnahme mit Auswirkung auf den Beruf ist ein Eingriff.",
+     "Subjektiv: Die Maßnahme zielt gerade auf die Regelung der Berufstätigkeit, z. B. Werbeverbote für Ärzte.",
+     "Objektiv: Enger Zusammenhang mit der Berufsausübung und objektiv berufsregelnde Wirkung, z. B. Rabattregeln für Arzneimittel."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Jede Maßnahme, die sich auf die Berufstätigkeit auswirkt, ist ein Eingriff in Art. 12 I.",
+      "warumNicht": "Nicht jede Auswirkung reicht. Nötig ist eine berufsregelnde Tendenz."
+     },
+     {
+      "text": "Die berufsregelnde Tendenz bestimmt, auf welcher Stufe der Eingriff liegt.",
+      "warumNicht": "Die Stufe klärt die Drei-Stufen-Theorie. Die Tendenz klärt vorher, ob überhaupt ein Eingriff vorliegt."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q20",
+   "titel": "Wie hart trifft die Regel den Beruf?",
+   "fachbegriff": "Drei-Stufen-Theorie (Apotheken-Urteil)",
+   "einSatz": "Regeln zum Beruf haben **drei Stufen**. Je höher die Stufe, desto besser muss der Grund sein.",
+   "warum": "Wer dir nur sagt, **wie** du arbeitest, stört wenig. Wer dich gar nicht arbeiten lässt, braucht einen sehr guten Grund.",
+   "alltag": "Stufe 1: Der Bäcker darf erst ab 6 Uhr öffnen. Stufe 2: Er braucht einen Meisterbrief. Stufe 3: Es gibt schon genug Bäcker, keiner darf neu öffnen.",
+   "erkennen": [
+    "**Wie** du arbeitest (Zeiten, Werbung)? Stufe 1: [[Berufsausübung]].",
+    "**Ob**, abhängig von dir (Prüfung, Eignung)? Stufe 2: subjektive [[Berufswahl]].",
+    "**Ob**, ohne dass du es ändern kannst (Bedarf, Sperre)? Stufe 3: objektive Berufswahl.",
+    "Immer die mildeste Stufe wählen, die noch passt."
+   ],
+   "merktrick": "Wie? Ob durch mich? Ob ohne mich? Eins, zwei, drei.",
+   "klausur": {
+    "bausteine": [
+     "Berufsausübungsregelung („Wie“): zulässig bei vernünftigen Erwägungen des Gemeinwohls, z. B. Werbe- oder Sprechzeitenregelung.",
+     "Subjektive Berufswahlregelung (persönliche Voraussetzungen): zulässig zum Schutz wichtiger Gemeinschaftsgüter, z. B. Approbation.",
+     "Objektive Berufswahlregelung (nicht beeinflussbar): nur gegen nachweisbare oder höchstwahrscheinliche schwere Gefahren.",
+     "Diese Gefahren müssen ein überragend wichtiges Gemeinschaftsgut betreffen, z. B. Bedürfnisprüfung.",
+     "Prüfregel: Immer die mildeste Stufe wählen, die die Maßnahme noch trifft."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Objektive Berufswahlregelung: zulässig schon bei vernünftigen Erwägungen des Gemeinwohls.",
+      "warumNicht": "Dieser milde Maßstab gilt für die Berufsausübung. Die objektive Wahl braucht schwere Gefahren für ein überragend wichtiges Gut."
+     },
+     {
+      "text": "Prüfregel: Im Zweifel immer die strengste Stufe wählen.",
+      "warumNicht": "Umgekehrt: Immer die mildeste Stufe wählen, die die Maßnahme noch trifft."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q21",
+   "titel": "Das Grundrecht für alles Übrige",
+   "fachbegriff": "Allgemeine Handlungsfreiheit (Art. 2 I GG)",
+   "einSatz": "Art. 2 I schützt **jedes** Verhalten, auch kleine Dinge wie Reiten im Wald oder Tauben füttern.",
+   "warum": "Nicht für jede Freiheit gibt es ein eigenes Grundrecht. Damit keine [[Lücke|regelungsluecke]] bleibt, fängt Art. 2 I den Rest auf.",
+   "alltag": "Im Sportverein gibt es Teams für Fußball und Tennis. Für alle anderen gibt es die Gruppe „Freies Training“.",
+   "erkennen": [
+    "Passt ein spezielles Grundrecht (Beruf, Glaube, Versammlung)? Dann gilt dieses.",
+    "Passt keins? Dann Art. 2 I als [[Auffanggrundrecht]].",
+    "Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz.",
+    "Ein verfassungswidriges Gesetz kannst du darüber immer angreifen."
+   ],
+   "merktrick": "Art. 2 I ist das Fangnetz unter allen anderen Grundrechten.",
+   "klausur": {
+    "bausteine": [
+     "Art. 2 I GG schützt jedes menschliche Verhalten ohne Rücksicht auf sein Gewicht (Elfes, „Reiten im Walde“).",
+     "Schranken: Schrankentrias aus Rechten anderer, verfassungsmäßiger Ordnung und Sittengesetz.",
+     "Verfassungsmäßige Ordnung sind alle formell und materiell verfassungsmäßigen Rechtsnormen.",
+     "Funktion: Auffanggrundrecht, subsidiär zu spezielleren Freiheitsrechten.",
+     "So kann man per Verfassungsbeschwerde jede Belastung durch ein verfassungswidriges Gesetz rügen."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Art. 2 I schützt nur Verhalten, das für die Persönlichkeit besonders wichtig ist.",
+      "warumNicht": "Geschützt ist jedes Verhalten, ohne Rücksicht auf sein Gewicht, z. B. Reiten im Walde."
+     },
+     {
+      "text": "Art. 2 I geht spezielleren Freiheitsrechten immer vor.",
+      "warumNicht": "Umgekehrt: Art. 2 I ist ein Auffanggrundrecht und tritt hinter speziellere Freiheitsrechte zurück."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q22",
+   "titel": "Darf der Staat Leute unterschiedlich behandeln?",
+   "fachbegriff": "Rechtfertigung von Ungleichbehandlungen (Art. 3 I GG)",
+   "einSatz": "Ja, aber nur mit einem **sachlichen Grund**. Gleiches gleich, Ungleiches ungleich behandeln.",
+   "warum": "Menschen und Lagen sind verschieden. Gerecht ist nicht immer gleich, aber nie grundlos verschieden.",
+   "alltag": "Im Kino zahlen Kinder weniger. Der Grund ist klar. Zahlen nur Leute mit roten Schuhen mehr, ist das reine Laune.",
+   "erkennen": [
+    "1. Welche Gruppen vergleichst du?",
+    "2. Werden sie unterschiedlich behandelt?",
+    "3. Gibt es einen sachlichen Grund? Ohne Grund: [[Willkür|Willkürverbot]], also verboten.",
+    "Je nach Fall ist der Maßstab locker (Willkür) oder streng ([[Verhältnismäßigkeit|verhaeltnismaessig]])."
+   ],
+   "merktrick": "Vergleichen, Unterschied finden, Grund suchen.",
+   "klausur": {
+    "bausteine": [
+     "Ja, Ungleichbehandlungen können gerechtfertigt sein.",
+     "Art. 3 I GG verlangt, wesentlich Gleiches gleich und wesentlich Ungleiches ungleich zu behandeln.",
+     "Prüfung: 1. Vergleichsgruppen, 2. Ungleichbehandlung, 3. Rechtfertigung durch einen sachlichen Grund.",
+     "Der Maßstab reicht vom Willkürverbot („alte Formel“) bis zur Verhältnismäßigkeitsprüfung („neue Formel“).",
+     "Spezielle Gleichheitssätze (Art. 3 II, III) setzen strengere Maßstäbe."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Nein, Art. 3 I verbietet jede Ungleichbehandlung ausnahmslos.",
+      "warumNicht": "Ungleichbehandlungen sind erlaubt, wenn ein sachlicher Grund sie rechtfertigt."
+     },
+     {
+      "text": "Prüfung: 1. Schutzbereich, 2. Eingriff, 3. Schranke.",
+      "warumNicht": "Das ist das Schema für Freiheitsrechte. Art. 3 I prüft Vergleichsgruppen, Ungleichbehandlung, Rechtfertigung."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q23",
+   "titel": "Wann wird die Gleichheitsprüfung streng?",
+   "fachbegriff": "„Neue Formel“ bei Art. 3 I GG",
+   "einSatz": "Unterscheidet der Staat nach **Personen**, prüft man streng. Nach Sachen oder Verhalten reicht die lockere Prüfung.",
+   "warum": "Merkmale einer Person kann man oft nicht ändern. Darum braucht der Staat dann gewichtigere Gründe.",
+   "alltag": "Der Verein verlangt mehr Beitrag für Zuspätzahler: Das liegt am Verhalten. Mehr Beitrag nur wegen der Herkunft: Das trifft die Person.",
+   "erkennen": [
+    "Geht es um Gruppen von Personen? Dann eher streng.",
+    "Werden Freiheitsrechte spürbar berührt? Dann strenger.",
+    "Ähnelt das Merkmal denen aus Art. 3 III? Je ähnlicher, desto strenger.",
+    "Nur Sache oder Verhalten? Dann reicht die [[Willkürformel|Willkürverbot]]. Dazwischen gilt eine [[gleitende Skala]]."
+   ],
+   "merktrick": "Je persönlicher der Unterschied, desto strenger der Blick.",
+   "klausur": {
+    "bausteine": [
+     "Die neue Formel gilt bei personenbezogenen Ungleichbehandlungen.",
+     "Sie gilt auch bei Auswirkungen auf Freiheitsrechte und je mehr die Merkmale denen des Art. 3 III GG ähneln.",
+     "Dann braucht es Unterschiede von solcher Art und solchem Gewicht, dass sie die ungleiche Behandlung rechtfertigen.",
+     "Bei sach- oder verhaltensbezogenen Unterschieden genügt die Willkürformel.",
+     "Es gilt eine gleitende Skala."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Die neue Formel gilt bei sach- und verhaltensbezogenen Unterschieden.",
+      "warumNicht": "Dort genügt die Willkürformel. Die neue Formel gilt bei personenbezogenen Unterschieden."
+     },
+     {
+      "text": "Bei personenbezogenen Unterschieden genügt stets die Willkürformel.",
+      "warumNicht": "Umgekehrt: Bei personenbezogenen Unterschieden gilt die strengere neue Formel."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q24",
+   "titel": "Was jeder zum Leben mindestens braucht",
+   "fachbegriff": "Grundrecht auf ein menschenwürdiges Existenzminimum",
+   "einSatz": "Jeder hat ein Grundrecht auf das [[Existenzminimum]]: genug zum Leben und ein bisschen [[Teilhabe|teilhaberecht]].",
+   "warum": "Wer nichts zu essen und kein Dach hat, kann seine Freiheit nicht nutzen. Das folgt aus [[Menschenwürde]] und [[Sozialstaat]].",
+   "alltag": "Auf Klassenfahrt bekommt jedes Kind Essen und ein Bett. Und es darf beim Ausflug mit. Wie viel Taschengeld es gibt, legt die Schule fest.",
+   "erkennen": [
+    "Körperliche Existenz: Essen, Kleidung, Wohnen, Gesundheit.",
+    "Dazu ein Mindestmaß an Teilhabe am Leben mit anderen.",
+    "Die Höhe bestimmt der [[Gesetzgeber]], mit realistischer Rechnung.",
+    "Ob es den [[Anspruch|rechtsanspruch]] gibt, steht fest. Wie hoch, kann sich ändern."
+   ],
+   "merktrick": "Das Ob ist fest, das Wieviel ist Sache des Gesetzgebers.",
+   "klausur": {
+    "bausteine": [
+     "Aus Art. 1 I i. V. m. Art. 20 I GG folgt ein Grundrecht auf ein menschenwürdiges Existenzminimum.",
+     "Es umfasst die physische Existenz (u. a. Ernährung, Kleidung, Wohnen, Gesundheit) und ein Mindestmaß an gesellschaftlicher Teilhabe.",
+     "Der Gesetzgeber muss den Anspruch konkretisieren und die Höhe nachvollziehbar und realitätsgerecht bemessen.",
+     "Bei der Höhe hat er Gestaltungsspielraum, das BVerfG prüft nur auf evidente Unzulänglichkeit.",
+     "Der Anspruch ist dem Grunde nach unverfügbar, in der Höhe wandelbar."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Das BVerfG legt die genaue Höhe des Existenzminimums selbst fest.",
+      "warumNicht": "Die Höhe legt der Gesetzgeber fest. Das BVerfG prüft nur auf evidente Unzulänglichkeit."
+     },
+     {
+      "text": "Der Anspruch kann vom Gesetzgeber ganz abgeschafft werden.",
+      "warumNicht": "Der Anspruch ist dem Grunde nach unverfügbar. Nur die Höhe ist wandelbar."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q25",
+   "titel": "Ein Medikament, das die Kasse nicht zahlt: Gibt es eine Ausnahme?",
+   "fachbegriff": "Grundrechtlicher Leistungsanspruch (Nikolaus-Beschluss)",
+   "einSatz": "Meistens nein. Nur bei lebensbedrohlicher Krankheit ohne Standard-Behandlung und mit echter Hoffnung muss die Kasse zahlen.",
+   "warum": "Die [[gesetzliche Krankenkasse|GKV]] kann nicht alles bezahlen. Aber wer sterbenskrank ist und keine andere Hilfe hat, darf nicht leer ausgehen.",
+   "alltag": "Die Mensa bietet nur ihr festes Menü an. Hat ein Kind eine schwere Allergie und gibt es nichts Passendes, kocht die Küche ausnahmsweise extra.",
+   "erkennen": [
+    "✔ 1: Ist die Krankheit lebensbedrohlich oder meist tödlich?",
+    "✔ 2: Fehlt eine anerkannte Standard-Behandlung?",
+    "✔ 3: Gibt es Hinweise, dass das Mittel nicht ganz aussichtslos hilft?",
+    "Nur wenn alle drei Haken sitzen: [[Anspruch|rechtsanspruch]] nach dem [[Nikolaus-Beschluss]] (heute § 2 Ia [[SGB|sgb]] V)."
+   ],
+   "merktrick": "Drei Haken oder kein Geschenk vom Nikolaus.",
+   "klausur": {
+    "bausteine": [
+     "Grundsätzlich folgt aus den Grundrechten kein Anspruch auf jede gewünschte Leistung.",
+     "Ausnahme Nikolaus-Beschluss: 1. lebensbedrohliche oder regelmäßig tödliche Erkrankung.",
+     "2. Keine allgemein anerkannte, dem medizinischen Standard entsprechende Behandlung verfügbar.",
+     "3. Auf Indizien gestützte, nicht ganz entfernt liegende Aussicht auf Heilung oder spürbare Besserung.",
+     "Grundlage: Art. 2 I i. V. m. Sozialstaatsprinzip und Art. 2 II 1 GG; heute § 2 Ia SGB V."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Es genügt, dass der Arzt das Mittel für sinnvoll hält.",
+      "warumNicht": "Nötig sind drei Dinge: lebensbedrohliche Krankheit, kein Standard verfügbar, Indizien für Erfolg."
+     },
+     {
+      "text": "Grundsätzlich hat jeder Versicherte einen Anspruch auf jedes wirksame Arzneimittel.",
+      "warumNicht": "Grundsätzlich gibt es keinen Anspruch auf jede gewünschte Leistung. Der Nikolaus-Fall ist die Ausnahme."
+     }
+    ]
+   }
+  }
+ ],
+ "faelle": [
+  {
+   "id": "f012-0",
+   "regelId": "q12",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Albers, Straßenmusiker",
+    "emoji": "🎸"
+   },
+   "akte": "Herr Albers spielt Gitarre auf dem Marktplatz. Die Stadt verbietet ihm das ohne Grund. Er will, dass sich der Staat **raushält**.",
+   "frage": "Welche Funktion des [[Grundrechts|grundrecht]] hilft ihm?",
+   "optionen": [
+    {
+     "text": "Abwehrrecht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Schutzpflicht",
+     "richtig": false,
+     "warumNicht": "Bei der [[Schutzpflicht]] droht Gefahr von anderen Menschen. Hier stört der Staat selbst."
+    }
+   ],
+   "ergebnis": "[[Abwehrrecht]], weil der Staat selbst eingreift.",
+   "warum": "Herr Albers wehrt sich gegen den Staat. Genau dafür sind Abwehrrechte da.",
+   "denkweg": [
+    "1. Wer stört? Die Stadt, also der Staat.",
+    "2. Was will er? Dass der Staat sich raushält.",
+    "3. Also: Abwehrrecht."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f012-1",
+   "regelId": "q12",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kaya, Kioskbesitzerin",
+    "emoji": "🏪"
+   },
+   "akte": "Eine Firma verkauft Feuerwerk, das oft explodiert. Frau Kaya hat Angst um ihre Kunden. Sie verlangt: „Der Staat muss uns davor schützen!“",
+   "frage": "Welche Funktion meint sie?",
+   "optionen": [
+    {
+     "text": "Schutzpflicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "[[Abwehrrechte|abwehrrecht]] richten sich gegen den Staat selbst. Hier kommt die Gefahr von einer Firma."
+    },
+    {
+     "text": "Gleichheitsrecht",
+     "richtig": false,
+     "warumNicht": "Niemand wird hier anders behandelt als andere. Es geht um eine Gefahr."
+    }
+   ],
+   "ergebnis": "[[Schutzpflicht]], weil die Gefahr von einem Privaten kommt.",
+   "warum": "Frau Kaya will nicht, dass der Staat sich raushält. Sie will, dass er sie vor einer Firma schützt.",
+   "denkweg": [
+    "1. Woher kommt die Gefahr? Von einer privaten Firma.",
+    "2. Was soll der Staat tun? Schützen.",
+    "3. Also: Schutzpflicht."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f012-2",
+   "regelId": "q12",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich die wichtigste Aufgabe der [[Grundrechte|grundrecht]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Sie schützen dich vor dem Staat. Er darf nicht einfach in deine Freiheit eingreifen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Sie verpflichten den Staat, dir möglichst viele Leistungen zu geben.",
+     "richtig": false,
+     "warumNicht": "Leistungsrechte gibt es auch, aber nur selten. Am wichtigsten ist die Abwehr."
+    },
+    {
+     "text": "Sie sorgen dafür, dass Firmen dich fair behandeln.",
+     "richtig": false,
+     "warumNicht": "Das ist nur eine Ausstrahlung ins [[Privatrecht]]. Im Kern richten sich Grundrechte gegen den Staat."
+    }
+   ],
+   "ergebnis": "Abwehr gegen den Staat ist bis heute die wichtigste Funktion.",
+   "warum": "Grundrechte sind historisch als Schutzschild gegen den Staat entstanden. Das ist bis heute ihr Kern.",
+   "denkweg": [
+    "1. Gegen wen schützen Grundrechte vor allem? Den Staat.",
+    "2. Wie? Er muss sich raushalten.",
+    "3. Also: [[Abwehrrecht]]."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f012-3",
+   "regelId": "q12",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt sechs Notizen auf den Tisch. Jede beschreibt einen Wunsch an den Staat.",
+   "frage": "In welches Fach gehört jede Notiz?",
+   "fachfaecher": {
+    "faecher": [
+     "Abwehrrecht",
+     "Schutzpflicht",
+     "Teilhabe"
+    ],
+    "karten": [
+     {
+      "text": "Polizei soll mein Handy nicht ohne Grund durchsuchen",
+      "fach": "Abwehrrecht",
+      "warumNicht": "Der Staat selbst soll sich raushalten."
+     },
+     {
+      "text": "Die Stadt soll meine Demo nicht verbieten",
+      "fach": "Abwehrrecht",
+      "warumNicht": "Auch hier soll der Staat nicht eingreifen."
+     },
+     {
+      "text": "Der Staat soll gefährliche Medikamente vom Markt holen",
+      "fach": "Schutzpflicht",
+      "warumNicht": "Die Gefahr kommt vom Hersteller, also von Privaten."
+     },
+     {
+      "text": "Der Staat soll gegen eine Seuche vorgehen",
+      "fach": "Schutzpflicht",
+      "warumNicht": "Er soll vor einer Gefahrenquelle schützen."
+     },
+     {
+      "text": "Ich will fair an einen freien Studienplatz kommen",
+      "fach": "Teilhabe",
+      "warumNicht": "Die Plätze gibt es schon. Es geht um faire Verteilung."
+     },
+     {
+      "text": "Mein Kind soll einen vorhandenen Kitaplatz fair bekommen",
+      "fach": "Teilhabe",
+      "warumNicht": "Auch hier geht es um gleiche Chancen an einem bestehenden Angebot."
+     }
+    ]
+   },
+   "ergebnis": "Raushalten ist Abwehr, Schutz vor anderen ist [[Schutzpflicht]], faire Verteilung ist [[Teilhabe|teilhaberecht]].",
+   "warum": "Frag bei jeder Notiz: Soll der Staat sich raushalten, schützen oder etwas Vorhandenes fair verteilen?",
+   "denkweg": [
+    "1. Raushalten? [[Abwehrrecht]].",
+    "2. Schutz vor anderen? Schutzpflicht.",
+    "3. Vorhandenes fair teilen? Teilhabe."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f012-4",
+   "regelId": "q12",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Jule, Abiturientin mit Notenschnitt 1,4",
+    "emoji": "🎓"
+   },
+   "akte": "Jule will Medizin studieren. Die Uni hat 300 Plätze, die Bewerbungen sind viel mehr. Ihr Onkel sagt: „Der Staat greift in deine Freiheit ein!“ Jule will nur fair dabei sein.",
+   "frage": "Um welche Funktion geht es Jule?",
+   "optionen": [
+    {
+     "text": "Teilhaberecht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "Der Onkel irrt. Jule will nicht, dass der Staat sich raushält. Sie will einen Platz."
+    },
+    {
+     "text": "Schutzpflicht",
+     "richtig": false,
+     "warumNicht": "Keine Gefahr durch andere Menschen. Es geht um die Verteilung von Plätzen."
+    }
+   ],
+   "ergebnis": "[[Teilhaberecht]], weil sie fairen Zugang zu vorhandenen Plätzen will.",
+   "warum": "Jule will etwas vom Staat: einen der Plätze, die es schon gibt. Das ist Teilhabe, keine Abwehr.",
+   "denkweg": [
+    "1. Will Jule Ruhe vor dem Staat oder etwas von ihm? Etwas von ihm.",
+    "2. Gibt es die Plätze schon? Ja.",
+    "3. Also: Teilhaberecht."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f012-5",
+   "regelId": "q12",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lindner, Mieterin mit Satellitenschüssel",
+    "emoji": "📡"
+   },
+   "akte": "Frau Lindner streitet mit ihrem Vermieter. Beide sind privat. Kein [[Amt|verwaltung]] ist dabei. Das Gericht liest das Mietrecht so, dass ihre [[Grundrechte|grundrecht]] mit zählen.",
+   "frage": "Welche Funktion der Grundrechte zeigt sich hier?",
+   "optionen": [
+    {
+     "text": "Ausstrahlung ins Privatrecht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "Der Vermieter ist kein Staat. [[Abwehrrechte|abwehrrecht]] richten sich gegen den Staat."
+    },
+    {
+     "text": "Teilhaberecht",
+     "richtig": false,
+     "warumNicht": "Frau Lindner will keine Leistung vom Staat. Es geht um einen Streit unter Privaten."
+    }
+   ],
+   "ergebnis": "Ausstrahlung: Die Werte der Grundrechte wirken auch im Streit unter Privaten.",
+   "warum": "Grundrechte binden Private nicht direkt. Aber ihre Werte wirken bis in den Streit unter Privaten. Das heißt [[Drittwirkung]].",
+   "denkweg": [
+    "1. Wer streitet? Zwei Private.",
+    "2. Zählen Grundrechte trotzdem? Ja, über das Gesetz.",
+    "3. Also: Ausstrahlung."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f012-6",
+   "regelId": "q12",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die Funktionen der [[Grundrechte|grundrecht]]. Und sagen Sie mir, welche am wichtigsten ist.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Abwehr, Leistung und [[Teilhabe|teilhaberecht]], [[Schutzpflichten|schutzpflicht]], Verfahren, Gleichheit, Werte. Am wichtigsten: Abwehr.",
+   "warum": "Die Prüfung will alle sechs hören. Der letzte Satz nennt die wichtigste. Das bringt Punkte.",
+   "denkweg": [
+    "1. Funktionen der Reihe nach nennen.",
+    "2. Abwehr zuerst und zuletzt betonen.",
+    "3. Fallen: Leistung ist nicht die wichtigste."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k012-1",
+   "regelId": "q12",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Petrović, Chemielaborant",
+    "emoji": "🧪"
+   },
+   "akte": "Eine private Fabrik leitet Gift in den Fluss. Der Staat schaut seit Jahren zu und tut nichts. Herr Petrović sagt: „Der Staat greift in meine Gesundheit ein!“",
+   "frage": "Welche Funktion passt am besten?",
+   "optionen": [
+    {
+     "text": "Schutzpflicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "Der Staat leitet das Gift nicht selbst ein. Abwehr passt, wenn der Staat selbst handelt."
+    },
+    {
+     "text": "Gar keine, Private sind frei",
+     "richtig": false,
+     "warumNicht": "Gegen Gefahren durch Private muss der Staat schützen. Das ist die [[Schutzpflicht]]."
+    }
+   ],
+   "ergebnis": "Schutzpflicht: Der Staat muss vor Gefahren durch die private Fabrik schützen.",
+   "warum": "Herr Petrović verwechselt das. Der Staat greift nicht selbst ein. Er soll aber gegen die Gefahr von Privaten etwas tun.",
+   "denkweg": [
+    "1. Wer schadet? Eine private Fabrik.",
+    "2. Was ist das Problem beim Staat? Er tut nichts.",
+    "3. Also: Schutzpflicht, nicht Abwehr."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q13"
+   ]
+  },
+  {
+   "id": "f013-0",
+   "regelId": "q13",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dr. Amsel, Apothekerin",
+    "emoji": "💊"
+   },
+   "akte": "Ein Hersteller will ein neues Medikament verkaufen. Der Staat verlangt vorher strenge Tests. So sollen Patienten vor gefährlichen Mitteln geschützt werden.",
+   "frage": "Was erfüllt der Staat damit?",
+   "optionen": [
+    {
+     "text": "Seine Schutzpflicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "[[Abwehrrechte|abwehrrecht]] halten den Staat fern. Hier schützt er aktiv vor einem Privaten."
+    }
+   ],
+   "ergebnis": "Seine [[Schutzpflicht]]: Er schützt die Gesundheit vor Gefahren durch Hersteller.",
+   "warum": "Die Gefahr geht von einem Privaten aus. Der Staat stellt sich mit Regeln schützend davor, etwa im Arzneimittelrecht.",
+   "denkweg": [
+    "1. Woher kommt die Gefahr? Vom Hersteller.",
+    "2. Was tut der Staat? Er schützt.",
+    "3. Also: Schutzpflicht."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f013-1",
+   "regelId": "q13",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Schutzpflicht]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Der Staat muss Leben und Gesundheit auch vor Gefahren durch andere Menschen schützen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Staat muss sich aus deinem Leben komplett heraushalten.",
+     "richtig": false,
+     "warumNicht": "Das beschreibt das [[Abwehrrecht]]. Bei der Schutzpflicht soll der Staat aktiv werden."
+    },
+    {
+     "text": "Der Staat muss jeden Wunsch nach maximalem Schutz erfüllen.",
+     "richtig": false,
+     "warumNicht": "Der Staat muss nur einen Mindestschutz bieten. Wie er schützt, entscheidet er weitgehend selbst."
+    }
+   ],
+   "ergebnis": "Schutzpflicht heißt: Der Staat schützt vor Gefahren durch andere.",
+   "warum": "Bei der Schutzpflicht ist der Staat nicht der Täter. Er soll Beschützer sein.",
+   "denkweg": [
+    "1. Wer ist die Gefahr? Andere, nicht der Staat.",
+    "2. Was soll der Staat tun? Schützen.",
+    "3. Wie viel? Mindestens genug."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f013-2",
+   "regelId": "q13",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Hoffmann, Hobby-Virologe",
+    "emoji": "🦠"
+   },
+   "akte": "Eine Seuche geht um. Der Staat hat schon Schutzregeln erlassen. Herr Hoffmann, Hobby-Virologe mit drei Mikroskopen, will **seine** Regeln: „Zehn Wochen alle zu Hause!“",
+   "frage": "Muss der Staat genau seine Regel machen?",
+   "optionen": [
+    {
+     "text": "Nein, Mindestschutz reicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, bester Schutz ist Pflicht",
+     "richtig": false,
+     "warumNicht": "Die [[Schutzpflicht]] verlangt nur einen Mindestschutz. Mehr darf der Staat, muss er aber nicht."
+    },
+    {
+     "text": "Nein, Viren gehen ihn nichts an",
+     "richtig": false,
+     "warumNicht": "Doch. Der Staat muss auch vor Gefahrenquellen wie Seuchen schützen."
+    }
+   ],
+   "ergebnis": "Nein: Der Staat muss nur genug schützen. Wie, darf er weitgehend selbst wählen.",
+   "warum": "Das [[Untermaßverbot]] verbietet nur zu wenig Schutz. Der [[Gesetzgeber]] hat einen weiten [[Spielraum|gestaltungsspielraum]].",
+   "denkweg": [
+    "1. Gibt es eine Schutzpflicht? Ja, wegen der Seuche.",
+    "2. Reicht der Schutz mindestens aus? Es gibt schon Regeln.",
+    "3. Spielraum: Er muss nicht genau diese Regel wählen."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f013-3",
+   "regelId": "q13",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was eine [[Schutzpflicht]] aus den [[Grundrechten|grundrecht]] ist. Mit Beispiel, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Schutz vor Privaten, aus der objektiven Dimension, Maßstab [[Untermaßverbot]] mit weitem [[Spielraum|gestaltungsspielraum]].",
+   "warum": "Die Klausur will vier Dinge: Schutz vor Dritten, Herleitung, Maßstab und Beispiel.",
+   "denkweg": [
+    "1. Was ist es? Schutz vor Privaten.",
+    "2. Woher? Objektive Dimension.",
+    "3. Wie viel? Untermaßverbot, Spielraum."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f013-4",
+   "regelId": "q13",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Okonkwo, Hebamme",
+    "emoji": "🤱"
+   },
+   "akte": "Frau Okonkwo fragt: „Schützt der Staat auch das Kind im Bauch?“ Ole meint: „Nein. [[Grundrechte|grundrecht]] wirken nur gegen den Staat.“",
+   "frage": "Wer hat recht?",
+   "optionen": [
+    {
+     "text": "Frau Okonkwo: Schutzpflicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ole: nur Abwehr gegen Staat",
+     "richtig": false,
+     "warumNicht": "Grundrechte wehren nicht nur ab. Sie verpflichten den Staat auch zum Schutz."
+    },
+    {
+     "text": "Keiner: nur Erwachsene",
+     "richtig": false,
+     "warumNicht": "Das Gegenteil stimmt. Der Schutz des ungeborenen Lebens ist das klassische Beispiel."
+    }
+   ],
+   "ergebnis": "Frau Okonkwo: Der Staat muss auch das ungeborene Leben schützen.",
+   "warum": "Der Schutz des ungeborenen Lebens ist das Paradebeispiel für eine [[Schutzpflicht]] (Art. 2 II 1 mit Art. 1 I [[GG|grundgesetz]]).",
+   "denkweg": [
+    "1. Wem droht Gefahr? Dem ungeborenen Kind.",
+    "2. Muss der Staat schützen? Ja, Schutzpflicht.",
+    "3. Ole übersieht diese Funktion."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f014-0",
+   "regelId": "q14",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Mehmet, Bewerber für Zahnmedizin",
+    "emoji": "🦷"
+   },
+   "akte": "Die Uni hat 80 Plätze für Zahnmedizin. Mehmet will nur eine **faire Chance** auf einen dieser Plätze.",
+   "frage": "Welche Art von [[Anspruch|rechtsanspruch]] ist das?",
+   "optionen": [
+    {
+     "text": "Derivativ: faire Teilhabe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Originär: Neues schaffen",
+     "richtig": false,
+     "warumNicht": "Mehmet verlangt keine neuen Plätze. Er will an den vorhandenen fair teilhaben."
+    }
+   ],
+   "ergebnis": "Derivatives [[Teilhaberecht]]: Die Plätze gibt es schon.",
+   "warum": "Mehmet will vom vorhandenen Kuchen ein faires Stück. Das ist derivativ.",
+   "denkweg": [
+    "1. Gibt es das Angebot schon? Ja, 80 Plätze.",
+    "2. Will er nur faire Teilhabe? Ja.",
+    "3. Also: derivativ."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f014-1",
+   "regelId": "q14",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Brehm, Wasserballtrainerin",
+    "emoji": "🤽"
+   },
+   "akte": "In der Stadt gibt es kein Hallenbad. Frau Brehm fordert: „Der Staat muss mir ein Hallenbad bauen. Das ist mein [[Grundrecht]]!“",
+   "frage": "Was für ein [[Anspruch|rechtsanspruch]] wäre das?",
+   "optionen": [
+    {
+     "text": "Originär, nur ganz selten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Derivativ, also klar gegeben",
+     "richtig": false,
+     "warumNicht": "Derivativ heißt: [[Teilhabe|teilhaberecht]] an etwas, das es schon gibt. Das Hallenbad gibt es nicht."
+    },
+    {
+     "text": "Abwehrrecht",
+     "richtig": false,
+     "warumNicht": "Frau Brehm will nicht, dass der Staat sich raushält. Sie will etwas Neues von ihm."
+    }
+   ],
+   "ergebnis": "Originärer Leistungsanspruch: Den gibt es nur ausnahmsweise, ein Hallenbad gehört nicht dazu.",
+   "warum": "Sie will, dass der Staat etwas Neues schafft. Solche Ansprüche erkennt man nur selten an, etwa beim [[Existenzminimum]].",
+   "denkweg": [
+    "1. Gibt es das Bad schon? Nein.",
+    "2. Soll der Staat es neu schaffen? Ja.",
+    "3. Originär, also nur ausnahmsweise."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f014-2",
+   "regelId": "q14",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat fünf Bürgerwünsche gesammelt. Manche wollen etwas Vorhandenes, manche etwas Neues.",
+   "frage": "Derivativ oder originär?",
+   "fachfaecher": {
+    "faecher": [
+     "Derivativ",
+     "Originär"
+    ],
+    "karten": [
+     {
+      "text": "Fairer Zugang zu den vorhandenen Studienplätzen",
+      "fach": "Derivativ",
+      "warumNicht": "Die Plätze gibt es schon."
+     },
+     {
+      "text": "Gleiche Chance auf einen freien Platz im Stadt-Hort",
+      "fach": "Derivativ",
+      "warumNicht": "Der Hort existiert. Es geht um faire Verteilung."
+     },
+     {
+      "text": "Der Staat soll eine neue Uni gründen",
+      "fach": "Originär",
+      "warumNicht": "Hier soll etwas Neues geschaffen werden."
+     },
+     {
+      "text": "Der Staat soll eine Skihalle bauen",
+      "fach": "Originär",
+      "warumNicht": "Auch das wäre eine neue Leistung."
+     },
+     {
+      "text": "Gleicher Zugang zur vorhandenen Stadtbücherei",
+      "fach": "Derivativ",
+      "warumNicht": "Die Bücherei gibt es schon."
+     }
+    ]
+   },
+   "ergebnis": "Vorhandenes fair teilen ist derivativ, Neues schaffen ist originär.",
+   "warum": "Die Frage lautet immer: Gibt es das Angebot schon? Ja heißt derivativ, nein heißt originär.",
+   "denkweg": [
+    "1. Gibt es das Angebot schon?",
+    "2. Ja: derivativ, faire [[Teilhabe|teilhaberecht]].",
+    "3. Nein: originär, nur ganz selten."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f014-3",
+   "regelId": "q14",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was ist eigentlich der Unterschied zwischen derivativ und originär?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Derivativ: fair an etwas teilhaben, das es schon gibt. Originär: verlangen, dass der Staat Neues schafft.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Derivativ: Schutz vor dem Staat. Originär: Schutz durch den Staat.",
+     "richtig": false,
+     "warumNicht": "Das verwechselt [[Abwehrrecht]] und [[Schutzpflicht]]. Beides hat mit [[Teilhabe|teilhaberecht]] nichts zu tun."
+    },
+    {
+     "text": "Derivativ: Neues schaffen. Originär: Vorhandenes teilen.",
+     "richtig": false,
+     "warumNicht": "Genau andersherum. Originär heißt „vom Ursprung her“, also Neues schaffen."
+    }
+   ],
+   "ergebnis": "Derivativ heißt Teilhabe am Vorhandenen, originär heißt Schaffung von Neuem.",
+   "warum": "Beides sind Leistungsrechte. Der Unterschied ist nur: Gibt es die Leistung schon oder nicht?",
+   "denkweg": [
+    "1. Beides will etwas vom Staat.",
+    "2. Schon vorhanden? Derivativ.",
+    "3. Neu zu schaffen? Originär."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f014-4",
+   "regelId": "q14",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir das derivative [[Teilhaberecht]]. Und nennen Sie ein Beispiel.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Fair teilhaben an dem, was es schon gibt. Grundlage: Art. 3 I plus Freiheitsrecht. Gegenteil: originär. Beispiel: Studienplätze.",
+   "warum": "Die Antwort hat vier Teile. Was ist es, woher kommt es, was ist das Gegenteil? Und ein Beispiel.",
+   "denkweg": [
+    "1. Was ist es? Teilhabe an dem, was da ist.",
+    "2. Woher? Art. 3 I. Gegenteil: originär.",
+    "3. Beispiel: Plätze an der Uni (numerus clausus)."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f014-5",
+   "regelId": "q14",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Jana, Abiturientin mit Wartenummer 81",
+    "emoji": "🎓"
+   },
+   "akte": "Die Uni hat 80 Plätze für Medizin. Alle wurden fair vergeben, Jana bekam keinen. Sie sagt: „Ich habe ein [[Teilhaberecht]]. Also muss die Uni 20 Plätze mehr schaffen!“",
+   "frage": "Welcher Stempel passt zu ihrer Forderung?",
+   "optionen": [
+    {
+     "text": "Originär, nur ausnahmsweise",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Derivativ, Plätze gibt's ja",
+     "richtig": false,
+     "warumNicht": "Die Falle: Die 20 neuen Plätze gibt es noch nicht. Derivativ heißt nur: fair an den vorhandenen 80 teilhaben."
+    },
+    {
+     "text": "Gar kein Recht auf Teilhabe",
+     "richtig": false,
+     "warumNicht": "Doch. Auf eine faire Chance bei den 80 Plätzen hatte Jana ein Recht. Das hat sie bekommen."
+    }
+   ],
+   "ergebnis": "Originär: Jana will neue Plätze. Solche Ansprüche gibt es nur ausnahmsweise.",
+   "warum": "Das Wort „Teilhabe“ lenkt ab. Entscheidend ist, ob die Leistung schon da ist. Neue Plätze müsste der Staat erst schaffen.",
+   "denkweg": [
+    "1. Was will Jana genau? 20 neue Plätze.",
+    "2. Gibt es die schon? Nein.",
+    "3. Also originär, nur ausnahmsweise."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f015-0",
+   "regelId": "q15",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt prüft ein [[Grundrecht]]. Sie fragt: „Darf sich diese Person überhaupt darauf berufen?“",
+   "frage": "Welchen Teil des Schutzbereichs prüft sie?",
+   "optionen": [
+    {
+     "text": "Persönlicher Schutzbereich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Sachlicher Schutzbereich",
+     "richtig": false,
+     "warumNicht": "Der sachliche Teil fragt, welches Verhalten geschützt ist. Hier geht es um die Person."
+    }
+   ],
+   "ergebnis": "Persönlich, weil sie nach der Person fragt.",
+   "warum": "„Wer darf sich berufen?“ ist die Frage nach dem persönlichen [[Schutzbereich]].",
+   "denkweg": [
+    "1. Frage nach dem Wer? Ja.",
+    "2. Wer = persönlich.",
+    "3. Also: persönlicher Schutzbereich."
+   ],
+   "dauerSek": 18
+  },
+  {
+   "id": "f015-1",
+   "regelId": "q15",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat Fragen zum [[Schutzbereich]] auf Kärtchen geschrieben. Hilf ihm beim Sortieren.",
+   "frage": "Persönlich oder sachlich?",
+   "fachfaecher": {
+    "faecher": [
+     "Persönlich",
+     "Sachlich"
+    ],
+    "karten": [
+     {
+      "text": "Gilt das für jeden Menschen?",
+      "fach": "Persönlich",
+      "warumNicht": "Es geht darum, wer geschützt ist."
+     },
+     {
+      "text": "Gilt das nur für Deutsche?",
+      "fach": "Persönlich",
+      "warumNicht": "Auch das fragt nach der Person."
+     },
+     {
+      "text": "Kann sich auch eine Firma darauf berufen?",
+      "fach": "Persönlich",
+      "warumNicht": "Firmen können Träger sein (Art. 19 III). Das ist eine Frage nach dem Wer."
+     },
+     {
+      "text": "Ist Gitarre spielen geschützt?",
+      "fach": "Sachlich",
+      "warumNicht": "Es geht um ein Verhalten."
+     },
+     {
+      "text": "Ist das überhaupt ein Beruf?",
+      "fach": "Sachlich",
+      "warumNicht": "Es geht darum, was geschützt ist."
+     }
+    ]
+   },
+   "ergebnis": "Fragen nach dem Wer sind persönlich, Fragen nach dem Was sind sachlich.",
+   "warum": "Der Schutzbereich hat zwei Türen. Erst prüfst du die Person, dann das Verhalten.",
+   "denkweg": [
+    "1. Fragt die Karte nach einer Person? Persönlich.",
+    "2. Fragt sie nach einem Verhalten? Sachlich.",
+    "3. Firmen sind eine Wer-Frage."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f015-2",
+   "regelId": "q15",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Krämer, Hobby-Gärtner",
+    "emoji": "🥕"
+   },
+   "akte": "Herr Krämer ist Beamter. Einmal im Jahr verkauft er auf dem Flohmarkt drei Kisten Möhren. Er sagt: „Das ist mein Beruf, Art. 12 schützt mich!“",
+   "frage": "Ist der Möhrenverkauf ein Beruf im Sinne von Art. 12?",
+   "optionen": [
+    {
+     "text": "Nein, nicht auf Dauer",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er verdient Geld",
+     "richtig": false,
+     "warumNicht": "Geld allein reicht nicht. Ein Beruf ist auf Dauer angelegt und sichert den Lebensunterhalt."
+    },
+    {
+     "text": "Ja, jede Tätigkeit zählt",
+     "richtig": false,
+     "warumNicht": "Das wäre die allgemeine Handlungsfreiheit. Art. 12 schützt nur Berufe."
+    }
+   ],
+   "ergebnis": "Nein: Einmal im Jahr ist nicht auf Dauer und sichert nicht seinen Lebensunterhalt.",
+   "warum": "Ein Beruf ist eine Tätigkeit auf Dauer, mit der man seine Lebensgrundlage schafft. Der Flohmarkt ist ein Hobby.",
+   "denkweg": [
+    "1. Auf Dauer? Nein, einmal im Jahr.",
+    "2. Lebensunterhalt? Nein, er ist Beamter.",
+    "3. Also kein Beruf, sachlicher [[Schutzbereich]] nicht erfüllt."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f015-3",
+   "regelId": "q15",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was der [[Schutzbereich]] eines [[Grundrechts|grundrecht]] ist. Mit Beispiel aus Art. 12.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Geschützter Lebensbereich, persönlich (wer) und sachlich (was), Beispiel Beruf.",
+   "warum": "Die Antwort braucht Definition, die zwei Teile und die Berufs-Definition.",
+   "denkweg": [
+    "1. Definition nennen.",
+    "2. Persönlich, dann sachlich.",
+    "3. Beispiel: Beruf aus Art. 12."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f015-4",
+   "regelId": "q15",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Bäckerei Sonnenkorn GmbH",
+    "emoji": "🥐"
+   },
+   "akte": "Die Bäckerei Sonnenkorn ist eine GmbH, also eine Firma. Ole sagt: „[[Grundrechte|grundrecht]] haben nur Menschen. Die Firma kann sich nicht darauf berufen.“",
+   "frage": "Stimmt das?",
+   "optionen": [
+    {
+     "text": "Nein, Firmen können Träger sein",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, nur Menschen sind Träger",
+     "richtig": false,
+     "warumNicht": "Art. 19 III [[GG|grundgesetz]] öffnet die Grundrechte auch für juristische Personen, also etwa Firmen."
+    },
+    {
+     "text": "Ja, aber nur deutsche Bürger",
+     "richtig": false,
+     "warumNicht": "Ob ein Grundrecht nur für Deutsche gilt, ist eine andere Frage. Hier geht es um Firmen."
+    }
+   ],
+   "ergebnis": "Nein: Auch juristische Personen wie eine GmbH können [[Grundrechtsträger]] sein (Art. 19 III).",
+   "warum": "Der persönliche [[Schutzbereich]] kann auch Firmen erfassen. Das regelt Art. 19 III GG.",
+   "denkweg": [
+    "1. Welcher Teil? Persönlicher Schutzbereich.",
+    "2. Ist die GmbH eine juristische Person? Ja.",
+    "3. Art. 19 III: Sie kann Träger sein."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f016-0",
+   "regelId": "q16",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Rieger, Bäckermeisterin",
+    "emoji": "🍞"
+   },
+   "akte": "Das [[Amt|verwaltung]] warnt im Radio: „Kauft nicht bei Bäckerei Rieger!“ Ein Verbot gibt es nicht. Aber die Kunden bleiben weg. Der Laden steht fast still.",
+   "frage": "Ist das nach modernem Verständnis ein [[Eingriff]]?",
+   "optionen": [
+    {
+     "text": "Ja, Eingriff",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, kein Befehl",
+     "richtig": false,
+     "warumNicht": "Ein Befehl ist heute nicht mehr nötig. Es reicht, dass der Staat das Verhalten erheblich erschwert."
+    }
+   ],
+   "ergebnis": "Ja: Das Amt macht ihr den Beruf erheblich schwerer, auch ohne Befehl.",
+   "warum": "Der moderne Begriff schaut auf die Wirkung. Eine staatliche Warnung, die den Laden lahmlegt, reicht.",
+   "denkweg": [
+    "1. Kommt es vom Staat? Ja, vom Amt.",
+    "2. Erheblich erschwert? Ja, Kunden bleiben weg.",
+    "3. Befehl egal: Eingriff."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f016-1",
+   "regelId": "q16",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole will wissen, was sich beim Eingriffsbegriff geändert hat. Sortiere die Merkmale.",
+   "frage": "Wohin gehört jedes Merkmal?",
+   "fachfaecher": {
+    "faecher": [
+     "Klassisch nötig",
+     "Modern reicht auch"
+    ],
+    "karten": [
+     {
+      "text": "Gezielt, mit Absicht",
+      "fach": "Klassisch nötig",
+      "warumNicht": "Klassisch musste der [[Eingriff]] gezielt (final) sein."
+     },
+     {
+      "text": "Nebenfolge ohne Absicht",
+      "fach": "Modern reicht auch",
+      "warumNicht": "Modern ist egal, ob der Staat es wollte."
+     },
+     {
+      "text": "Befehl mit Zwang",
+      "fach": "Klassisch nötig",
+      "warumNicht": "Klassisch brauchte es Befehl und Zwang."
+     },
+     {
+      "text": "Nur tatsächliche Wirkung",
+      "fach": "Modern reicht auch",
+      "warumNicht": "Modern zählt auch rein faktische Wirkung."
+     },
+     {
+      "text": "Direkt beim Betroffenen",
+      "fach": "Klassisch nötig",
+      "warumNicht": "Klassisch musste er unmittelbar wirken."
+     },
+     {
+      "text": "Über Umwege",
+      "fach": "Modern reicht auch",
+      "warumNicht": "Modern reicht auch mittelbare Wirkung."
+     }
+    ]
+   },
+   "ergebnis": "Klassisch: gezielt, direkt, mit Befehl. Modern: auch Nebenfolge, Umweg, rein tatsächlich.",
+   "warum": "Der moderne Begriff ist weiter. Er schaut nur noch auf die spürbare Wirkung.",
+   "denkweg": [
+    "1. Klang es nach „streng formal“? Klassisch.",
+    "2. Klang es nach „egal wie“? Modern.",
+    "3. Modern zählt nur die Wirkung."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f016-2",
+   "regelId": "q16",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Vogt, Fahrradkurier",
+    "emoji": "🚴"
+   },
+   "akte": "Herr Vogt fährt Pakete aus. Ein privater Nachbar stellt jeden Tag sein Auto in die Einfahrt. Herr Vogt kommt kaum noch durch. Er ruft: „[[Eingriff]] in mein [[Grundrecht]]!“",
+   "frage": "Ist das ein Eingriff?",
+   "optionen": [
+    {
+     "text": "Nein, nicht der Staat",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, erheblich erschwert",
+     "richtig": false,
+     "warumNicht": "Erschwert ist es. Aber ein Eingriff muss vom Staat kommen. Der Nachbar ist privat."
+    },
+    {
+     "text": "Ja, faktisch reicht",
+     "richtig": false,
+     "warumNicht": "Faktische Wirkung reicht nur, wenn sie dem Staat zuzurechnen ist."
+    }
+   ],
+   "ergebnis": "Kein Eingriff: Das Handeln kommt von einem Privaten, nicht vom Staat.",
+   "warum": "Der Eingriff braucht immer den Staat als Urheber. Ein Nachbar ist kein Staat.",
+   "denkweg": [
+    "1. Wer handelt? Der Nachbar, privat.",
+    "2. Dem Staat zurechenbar? Nein.",
+    "3. Also kein Eingriff."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f016-3",
+   "regelId": "q16",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Szabo, Yogalehrerin",
+    "emoji": "🧘"
+   },
+   "akte": "Die Stadt schickt allen Haushalten einen Flyer über Mülltrennung. Frau Szabo ärgert sich: „Ich musste den lesen! Eine Minute meiner Freiheit ist weg.“",
+   "frage": "Ist das ein [[Eingriff]]?",
+   "optionen": [
+    {
+     "text": "Nein, nicht erheblich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, alles vom Staat zählt",
+     "richtig": false,
+     "warumNicht": "Nicht alles zählt. Das Verhalten muss unmöglich oder erheblich erschwert werden."
+    },
+    {
+     "text": "Nein, Flyer sind privat",
+     "richtig": false,
+     "warumNicht": "Der Flyer kommt von der Stadt, also vom Staat. Das Problem ist die geringe Wirkung."
+    }
+   ],
+   "ergebnis": "Kein Eingriff: Ein Flyer macht nichts unmöglich und erschwert nichts erheblich.",
+   "warum": "Der moderne Begriff ist weit, aber nicht grenzenlos. Kleine Belästigungen sind kein Eingriff.",
+   "denkweg": [
+    "1. Vom Staat? Ja.",
+    "2. Unmöglich oder erheblich erschwert? Nein.",
+    "3. Also kein Eingriff."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f016-4",
+   "regelId": "q16",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir den modernen Eingriffsbegriff. Und grenzen Sie ihn vom klassischen ab.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Alles, was dem Staat zuzurechnen ist und dein Tun unmöglich macht oder stark erschwert. Egal auf welchem Weg.",
+   "warum": "Erst kommt: Wer handelt, und wie stark trifft es dich? Dann: egal wie. Zum Schluss der alte, enge Begriff.",
+   "denkweg": [
+    "1. Kommt es vom Staat? Dann zählt es.",
+    "2. Macht es dein Tun unmöglich oder viel schwerer?",
+    "3. Egal wie. Der alte Begriff war enger."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f017-0",
+   "regelId": "q17",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Pfarrerin Hollmann",
+    "emoji": "⛪"
+   },
+   "akte": "Pfarrerin Hollmann fragt: „Wie weit darf man meinen Glauben in Art. 4 begrenzen?“ Im Artikel steht nichts von einem Gesetz.",
+   "frage": "Welcher Stempel passt?",
+   "optionen": [
+    {
+     "text": "Vorbehaltlos",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Einfacher Gesetzesvorbehalt",
+     "richtig": false,
+     "warumNicht": "Dann müsste dort stehen: „durch oder aufgrund eines Gesetzes“. Das steht da aber nicht."
+    }
+   ],
+   "ergebnis": "Vorbehaltlos: Art. 4 nennt kein Gesetz als Grenze.",
+   "warum": "Steht im Artikel keine Grenze, ist er [[vorbehaltlos]]. Dann kann ihn nur etwas aus dem [[Grundgesetz]] selbst begrenzen.",
+   "denkweg": [
+    "1. Nennt der Artikel ein Gesetz als Grenze? Nein.",
+    "2. Also vorbehaltlos.",
+    "3. Grenze nur durch das Grundgesetz selbst."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f017-1",
+   "regelId": "q17",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Engel, Demo-Organisatorin",
+    "emoji": "📣"
+   },
+   "akte": "Frau Engel plant eine Demo auf dem Markt, unter freiem Himmel. Art. 8 II sagt: So eine Demo kann **durch oder aufgrund eines Gesetzes** begrenzt werden.",
+   "frage": "Welche [[Schranke]] ist das?",
+   "optionen": [
+    {
+     "text": "Einfacher Gesetzesvorbehalt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Qualifizierter Gesetzesvorbehalt",
+     "richtig": false,
+     "warumNicht": "Dann müsste der Artikel auch einen Zweck vorgeben. Hier reicht ein Gesetz."
+    },
+    {
+     "text": "Vorbehaltlos",
+     "richtig": false,
+     "warumNicht": "Art. 8 II nennt ja ausdrücklich ein Gesetz. Also nicht [[vorbehaltlos]]."
+    }
+   ],
+   "ergebnis": "Einfacher [[Vorbehalt|gesetzesvorbehalt]]: Ein Gesetz reicht, ohne Extra.",
+   "warum": "Steht da nur „durch Gesetz“ und sonst nichts? Dann ist es der einfache Gesetzesvorbehalt.",
+   "denkweg": [
+    "1. Nennt der Artikel ein Gesetz? Ja.",
+    "2. Verlangt er einen bestimmten Zweck? Nein.",
+    "3. Also einfacher Gesetzesvorbehalt."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f017-2",
+   "regelId": "q17",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was heißt eigentlich „praktische Konkordanz“?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Zwei Werte aus dem [[Grundgesetz]] prallen aufeinander. Man sucht einen Weg, bei dem beide möglichst viel behalten.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Das stärkere [[Grundrecht]] gewinnt, das schwächere fällt ganz weg.",
+     "richtig": false,
+     "warumNicht": "Gerade nicht. Beide sollen so weit wie möglich erhalten bleiben."
+    },
+    {
+     "text": "Ein Gesetz darf das Grundrecht für jeden beliebigen Zweck begrenzen.",
+     "richtig": false,
+     "warumNicht": "Das klingt nach dem einfachen [[Vorbehalt|gesetzesvorbehalt]]. Die Konkordanz gehört zu Rechten ohne Gesetzesvorbehalt."
+    }
+   ],
+   "ergebnis": "Praktische Konkordanz heißt: ein fairer Ausgleich, bei dem beide Seiten etwas behalten.",
+   "warum": "Rechte ohne Gesetzesvorbehalt kann nur das Grundgesetz selbst begrenzen. Dann gewinnt keiner ganz. Man sucht die Mitte.",
+   "denkweg": [
+    "1. Wann taucht sie auf? Bei Rechten ohne Gesetzesvorbehalt.",
+    "2. Was passiert? Zwei Werte stoßen zusammen.",
+    "3. Lösung: beide schonen."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f017-3",
+   "regelId": "q17",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat sechs [[Grundrechte|grundrecht]] auf Karteikarten geschrieben. Ordne sie nach ihrer [[Schranke]].",
+   "frage": "Welche Schranke hat jedes Grundrecht?",
+   "fachfaecher": {
+    "faecher": [
+     "Einfach",
+     "Qualifiziert",
+     "Vorbehaltlos"
+    ],
+    "karten": [
+     {
+      "text": "Versammlung unter freiem Himmel (Art. 8 II)",
+      "fach": "Einfach",
+      "warumNicht": "Ein Gesetz reicht, ohne Extra-Bedingung."
+     },
+     {
+      "text": "Berufsausübung (Art. 12 I 2)",
+      "fach": "Einfach",
+      "warumNicht": "Auch hier reicht ein Gesetz."
+     },
+     {
+      "text": "Meinungsfreiheit (Art. 5 II)",
+      "fach": "Qualifiziert",
+      "warumNicht": "Das Gesetz muss zusätzliche Voraussetzungen erfüllen."
+     },
+     {
+      "text": "Freizügigkeit (Art. 11 II)",
+      "fach": "Qualifiziert",
+      "warumNicht": "Nur für bestimmte Zwecke beschränkbar."
+     },
+     {
+      "text": "Glaubensfreiheit (Art. 4)",
+      "fach": "Vorbehaltlos",
+      "warumNicht": "Kein [[Gesetzesvorbehalt]] im Artikel."
+     },
+     {
+      "text": "Kunstfreiheit (Art. 5 III)",
+      "fach": "Vorbehaltlos",
+      "warumNicht": "Ebenfalls ohne Gesetzesvorbehalt."
+     }
+    ]
+   },
+   "ergebnis": "Art. 8 II und 12 I 2 einfach, Art. 5 II und 11 II qualifiziert, Art. 4 und 5 III [[vorbehaltlos]].",
+   "warum": "Das sind genau die Standardbeispiele aus der Klausurformel. Lern sie als Paare.",
+   "denkweg": [
+    "1. Ein Gesetz reicht? Einfach.",
+    "2. Gesetz plus Extra-Bedingung? Qualifiziert.",
+    "3. Gar kein [[Vorbehalt|gesetzesvorbehalt]]? Vorbehaltlos."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f017-4",
+   "regelId": "q17",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Lotta, Performance-Künstlerin",
+    "emoji": "🎨"
+   },
+   "akte": "Lotta bemalt bei einer Kunstaktion einen Platz mit Kreide. Die Stadt will das verbieten. Ihr Grund: „Ordnung muss sein.“ Ein einfaches Gesetz gibt es dafür.",
+   "frage": "Was braucht die Stadt, um die Kunstfreiheit zu begrenzen?",
+   "optionen": [
+    {
+     "text": "Ein anderes Verfassungsgut",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Irgendein Gesetz genügt",
+     "richtig": false,
+     "warumNicht": "Die Kunstfreiheit ist [[vorbehaltlos]]. Ein einfaches Gesetz allein reicht nicht."
+    },
+    {
+     "text": "Gar nichts, Kunst ist grenzenlos",
+     "richtig": false,
+     "warumNicht": "Vorbehaltlos heißt nicht grenzenlos. Kollidierendes Verfassungsrecht kann sie begrenzen."
+    }
+   ],
+   "ergebnis": "Ein kollidierendes Verfassungsgut: Nur das kann die vorbehaltlose Kunstfreiheit begrenzen.",
+   "warum": "Art. 5 III hat keinen [[Gesetzesvorbehalt]]. „Ordnung“ allein reicht nicht, es muss ein Gut mit Verfassungsrang sein.",
+   "denkweg": [
+    "1. Welches [[Grundrecht]]? Kunstfreiheit, Art. 5 III.",
+    "2. Welche [[Schranke]]? Vorbehaltlos.",
+    "3. Also: nur kollidierendes Verfassungsrecht."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f017-5",
+   "regelId": "q17",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brix, Drachenflieger",
+    "emoji": "🪁"
+   },
+   "akte": "Herr Brix will am Deich Drachen steigen lassen. Kein spezielles [[Grundrecht]] passt. Also gilt Art. 2 I. Ole sagt: „Da steht kein [[Gesetzesvorbehalt]], also [[vorbehaltlos]]!“",
+   "frage": "Welche [[Schranke]] hat Art. 2 I wirklich?",
+   "optionen": [
+    {
+     "text": "Schrankentrias",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Vorbehaltlos",
+     "richtig": false,
+     "warumNicht": "Ole liest nicht genau. Art. 2 I hat eigene Grenzen: Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz."
+    },
+    {
+     "text": "Qualifizierter Gesetzesvorbehalt",
+     "richtig": false,
+     "warumNicht": "Art. 2 I verlangt keinen bestimmten Zweck. Er hat seine eigene Dreier-Schranke."
+    }
+   ],
+   "ergebnis": "[[Schrankentrias]]: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+   "warum": "Art. 2 I nennt seine Grenzen selbst. Diese drei heißen zusammen Schrankentrias.",
+   "denkweg": [
+    "1. Welches Grundrecht? Art. 2 I.",
+    "2. Nennt es eigene Grenzen? Ja, drei.",
+    "3. Also: Schrankentrias."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f017-6",
+   "regelId": "q17",
+   "stufe": 3,
+   "format": "F2",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat einen Spickzettel zu den [[Schranken|schranke]] geschrieben. Ein Satz ist falsch.",
+   "frage": "Tippe den falschen Satz an.",
+   "markierbar": [
+    "Meine Schranken-Notizen: ",
+    {
+     "text": "Art. 8 II hat einen einfachen Gesetzesvorbehalt.",
+     "fehler": false,
+     "warumNicht": "Stimmt. Ein Gesetz reicht für Versammlungen unter freiem Himmel."
+    },
+    {
+     "text": " Art. 5 II ist ein qualifizierter Gesetzesvorbehalt.",
+     "fehler": false,
+     "warumNicht": "Stimmt. Das Gesetz muss Extra-Bedingungen erfüllen."
+    },
+    {
+     "text": " Die Kunstfreiheit (Art. 5 III) kann man durch jedes einfache Gesetz begrenzen.",
+     "fehler": true
+    },
+    {
+     "text": " Art. 2 I hat die Schrankentrias.",
+     "fehler": false,
+     "warumNicht": "Stimmt. Rechte anderer, [[verfassungsmäßige Ordnung]], Sittengesetz."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Kunst ist vorbehaltlos",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Kunst ist qualifiziert",
+     "richtig": false,
+     "warumNicht": "Auch kein qualifizierter [[Vorbehalt|gesetzesvorbehalt]]. Art. 5 III hat gar keinen [[Gesetzesvorbehalt]]."
+    }
+   ],
+   "ergebnis": "Der Satz zur Kunstfreiheit: Sie ist [[vorbehaltlos]], nur Verfassungsrecht begrenzt sie.",
+   "warum": "Die Kunstfreiheit steht ohne Gesetzesvorbehalt im [[Grundgesetz]]. Ein einfaches Gesetz genügt nicht.",
+   "denkweg": [
+    "1. Jeden Satz mit der Klausurformel vergleichen.",
+    "2. Art. 5 III steht bei „vorbehaltlos“.",
+    "3. Also ist der Kunst-Satz falsch."
+   ],
+   "dauerSek": 35,
+   "modus": "einer"
+  },
+  {
+   "id": "f017-7",
+   "regelId": "q17",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die [[Schranken|schranke]] der [[Grundrechte|grundrecht]]. Je ein Beispiel, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Einfacher und qualifizierter [[Gesetzesvorbehalt]], [[vorbehaltlos]] mit Ausgleich, und die [[Schrankentrias]].",
+   "warum": "Die Prüfung will vier Arten. Zu jeder gehört ein Artikel. Der Ausgleich (praktische Konkordanz) gehört zu den vorbehaltlosen.",
+   "denkweg": [
+    "1. Von leicht zu streng sortieren.",
+    "2. Zu jeder Art ein Artikel.",
+    "3. Zum Schluss Art. 2 I."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f018-0",
+   "regelId": "q18",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Ein Gesetz begrenzt die [[Berufsfreiheit]]. Frau Brandt sagt: „Jetzt prüfen wir, ob das **Gesetz selbst** in Ordnung ist.“",
+   "frage": "Wie heißt dieser Prüfschritt?",
+   "optionen": [
+    {
+     "text": "Schranken-Schranken",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Schutzbereich",
+     "richtig": false,
+     "warumNicht": "Den [[Schutzbereich]] prüft man vorher. Er fragt, wer und was geschützt ist."
+    }
+   ],
+   "ergebnis": "[[Schranken-Schranken|schranken-schranke]]: Grenzen für das Gesetz, das das [[Grundrecht]] begrenzt.",
+   "warum": "Hier wird das begrenzende Gesetz selbst geprüft. Genau das sind die [[Schranken-Schranken|schranken-schranke]].",
+   "denkweg": [
+    "1. Was wird geprüft? Das Gesetz selbst.",
+    "2. Das sind Anforderungen an die [[Schranke]].",
+    "3. Also: Schranken-Schranken."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f018-1",
+   "regelId": "q18",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat die Anforderungen an ein Gesetz notiert. Sortiere sie.",
+   "frage": "Formell oder materiell?",
+   "fachfaecher": {
+    "faecher": [
+     "Formell",
+     "Materiell"
+    ],
+    "karten": [
+     {
+      "text": "Zuständigkeit: Wer durfte das Gesetz machen?",
+      "fach": "Formell",
+      "warumNicht": "Es geht um den Weg zum Gesetz, nicht um den Inhalt."
+     },
+     {
+      "text": "Verfahren und Form",
+      "fach": "Formell",
+      "warumNicht": "Auch das betrifft den Weg."
+     },
+     {
+      "text": "Verhältnismäßigkeit",
+      "fach": "Materiell",
+      "warumNicht": "Sie prüft den Inhalt des Gesetzes."
+     },
+     {
+      "text": "Klar und bestimmt formuliert",
+      "fach": "Materiell",
+      "warumNicht": "Das Bestimmtheitsgebot betrifft den Inhalt."
+     },
+     {
+      "text": "Kern des Grundrechts bleibt",
+      "fach": "Materiell",
+      "warumNicht": "Die Wesensgehaltsgarantie ist eine inhaltliche Grenze."
+     },
+     {
+      "text": "Kein Gesetz nur für einen Einzelfall",
+      "fach": "Materiell",
+      "warumNicht": "So ordnet es die Klausurformel ein (Art. 19 I 1)."
+     }
+    ]
+   },
+   "ergebnis": "Zuständigkeit, Verfahren, Form sind formell. Alles zum Inhalt ist materiell.",
+   "warum": "Formell fragt: Wie kam das Gesetz zustande? Materiell fragt: Was steht drin?",
+   "denkweg": [
+    "1. Geht es um den Weg? Formell.",
+    "2. Geht es um den Inhalt? Materiell.",
+    "3. Art. 19 zählt zu materiell."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f018-2",
+   "regelId": "q18",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt prüft, ob ein Gesetz [[verhältnismäßig]] ist. Sie hat die Schritte gemischt.",
+   "frage": "Bring die Schritte in die richtige Reihenfolge.",
+   "reihenfolge": [
+    "Verfolgt das Gesetz einen legitimen Zweck?",
+    "Ist es geeignet, den Zweck zu fördern?",
+    "Ist es erforderlich, also das mildeste gleich wirksame Mittel?",
+    "Ist es angemessen, also nicht zu hart im Verhältnis?"
+   ],
+   "ergebnis": "Zweck, geeignet, erforderlich, angemessen.",
+   "warum": "Erst braucht es ein Ziel. Dann prüft man das Mittel immer genauer, bis zur Abwägung am Ende.",
+   "denkweg": [
+    "1. Ohne Zweck kein Maßstab.",
+    "2. Dann: Hilft es? Gibt es Milderes?",
+    "3. Zuletzt: Ist es fair im Verhältnis?"
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f018-3",
+   "regelId": "q18",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Krause, Eisverkäufer",
+    "emoji": "🍨"
+   },
+   "akte": "Herr Krause liest einen Gesetzentwurf des Landtags.",
+   "frage": "Tippe die Stelle an, die gegen eine [[Schranken-Schranke]] verstößt.",
+   "markierbar": [
+    "Gesetz über Eiswagen. ",
+    {
+     "text": "§ 1: Eiswagen dürfen nachts nicht laut klingeln.",
+     "fehler": false,
+     "warumNicht": "Eine allgemeine Regel für alle Eiswagen. Das ist erlaubt."
+    },
+    {
+     "text": " § 2: Dieses Verbot gilt nur für Herrn Krause aus der Lindenstraße.",
+     "fehler": true
+    },
+    {
+     "text": " § 3: Das Gesetz gilt ab dem 1. Mai.",
+     "fehler": false,
+     "warumNicht": "Ein Startdatum in der Zukunft ist unproblematisch."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Verbot des Einzelfallgesetzes",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rückwirkungsverbot",
+     "richtig": false,
+     "warumNicht": "Das Gesetz gilt erst ab Mai, also nicht rückwirkend. Das Problem ist der eine Mann."
+    }
+   ],
+   "ergebnis": "§ 2: Ein Gesetz, das nur eine Person trifft, ist ein verbotenes Einzelfallgesetz (Art. 19 I 1).",
+   "warum": "Ein Gesetz als [[Schranke]] für ein [[Grundrecht]] muss allgemein gelten. Es darf nicht nur einen Einzelnen herauspicken.",
+   "denkweg": [
+    "1. Gilt die Regel für alle? Nein.",
+    "2. Nur für Herrn Krause.",
+    "3. Einzelfallgesetz: verboten."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f018-4",
+   "regelId": "q18",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Moreau, Hundetrainerin",
+    "emoji": "🐕"
+   },
+   "akte": "Ein Gesetz soll Bisse verhindern. Es verbietet **alle** Hunde in der Stadt. Ein Leinenzwang würde Bisse genauso gut verhindern.",
+   "frage": "Welche Stufe der [[Verhältnismäßigkeit|verhaeltnismaessig]] scheitert?",
+   "optionen": [
+    {
+     "text": "Erforderlichkeit",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Legitimer Zweck",
+     "richtig": false,
+     "warumNicht": "Bisse verhindern ist ein guter Zweck. Daran scheitert es nicht."
+    },
+    {
+     "text": "Geeignetheit",
+     "richtig": false,
+     "warumNicht": "Ein Verbot hilft durchaus gegen Bisse. Es ist also geeignet."
+    }
+   ],
+   "ergebnis": "Erforderlichkeit: Der Leinenzwang wäre milder und genauso wirksam.",
+   "warum": "Erforderlich ist nur das mildeste Mittel, das gleich gut wirkt. Gibt es ein milderes, scheitert das Gesetz hier.",
+   "denkweg": [
+    "1. Zweck legitim? Ja, Schutz vor Bissen.",
+    "2. Geeignet? Ja.",
+    "3. Milderes, gleich wirksames Mittel? Ja, Leine: nicht erforderlich."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f018-5",
+   "regelId": "q18",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was man unter [[Schranken-Schranken|schranken-schranke]] versteht.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Regeln für das Gesetz, das ein [[Grundrecht]] begrenzt: formell und materiell, dazu Art. 19.",
+   "warum": "Erst kommt der Satz, was es ist. Dann formell vor materiell. Dann alle Punkte aus Art. 19.",
+   "denkweg": [
+    "1. Was ist es? Regeln für das Gesetz, das als [[Schranke]] dient.",
+    "2. Formell: Wer, wie, welche Form.",
+    "3. Materiell: klar genug, [[verhältnismäßig]], Art. 19."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f019-0",
+   "regelId": "q19",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Dr. Wagner, Hautärztin",
+    "emoji": "🩺"
+   },
+   "akte": "Ein Gesetz verbietet Ärzten bestimmte Werbung. Dr. Wagner darf keine bunten Plakate mehr aufhängen.",
+   "frage": "Ist das ein [[Eingriff]] in die [[Berufsfreiheit]]?",
+   "optionen": [
+    {
+     "text": "Ja, zielt auf den Beruf",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, nur Werbung",
+     "richtig": false,
+     "warumNicht": "Werbung gehört zur [[Berufsausübung]]. Das Gesetz zielt genau darauf."
+    }
+   ],
+   "ergebnis": "Ja: Das Werbeverbot zielt gerade auf den Arztberuf (subjektiv berufsregelnd).",
+   "warum": "Die Regel ist genau für Ärzte und ihre Arbeit gemacht. Damit hat sie berufsregelnde Tendenz.",
+   "denkweg": [
+    "1. Zielt die Regel auf den Beruf? Ja, Werbung von Ärzten.",
+    "2. Also subjektiv berufsregelnd.",
+    "3. Eingriff in Art. 12 I."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f019-1",
+   "regelId": "q19",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Tran, Pizzalieferant",
+    "emoji": "🛵"
+   },
+   "akte": "Die Stadt verlängert an einer Kreuzung die Rotphase der Ampel. Sie will Fußgänger schützen. Herr Tran braucht pro Fahrt eine Minute länger.",
+   "frage": "Greift die Stadt in seine [[Berufsfreiheit]] ein?",
+   "optionen": [
+    {
+     "text": "Nein, keine Berufsregel",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er verliert Zeit im Job",
+     "richtig": false,
+     "warumNicht": "Nicht jede Regel, die sich auf den Job auswirkt, ist ein [[Eingriff]] in Art. 12."
+    },
+    {
+     "text": "Ja, subjektiv berufsregelnd",
+     "richtig": false,
+     "warumNicht": "Die Ampel zielt nicht auf Lieferdienste. Sie gilt für alle gleich."
+    }
+   ],
+   "ergebnis": "Nein: Die Ampel zielt nicht auf seinen Beruf und hängt nicht eng mit ihm zusammen.",
+   "warum": "Die Regel gilt für alle Verkehrsteilnehmer. Dass sie Herrn Tran im Job trifft, ist Zufall.",
+   "denkweg": [
+    "1. Zielt die Regel auf einen Beruf? Nein.",
+    "2. Enger Zusammenhang mit dem Beruf? Nein, gilt für alle.",
+    "3. Also kein Eingriff in Art. 12."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f019-2",
+   "regelId": "q19",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Ahrens, Apothekerin",
+    "emoji": "⚕️"
+   },
+   "akte": "Ein Gesetz soll den Kassen Geld sparen. Es legt Rabatte auf Arzneimittel fest. Das Ziel ist nicht der Beruf. Aber Apotheken verdienen dadurch deutlich weniger.",
+   "frage": "Hat das Gesetz berufsregelnde Tendenz?",
+   "optionen": [
+    {
+     "text": "Ja, objektiv",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, subjektiv",
+     "richtig": false,
+     "warumNicht": "Subjektiv hieße: Das Gesetz zielt auf den Beruf. Ziel ist hier aber, Geld zu sparen."
+    },
+    {
+     "text": "Nein, Ziel ist Sparen",
+     "richtig": false,
+     "warumNicht": "Auch ohne Ziel kann es reichen. Der enge Zusammenhang mit der Arbeit der Apotheken genügt."
+    }
+   ],
+   "ergebnis": "Ja, objektiv: enger Zusammenhang mit der [[Berufsausübung]] und klare Wirkung darauf.",
+   "warum": "Preisregeln für Arzneimittel treffen die Arbeit der Apotheken direkt. Das reicht auch ohne Absicht.",
+   "denkweg": [
+    "1. Zielt das Gesetz auf den Beruf? Nein, aufs Sparen.",
+    "2. Enger Zusammenhang mit der Arbeit? Ja.",
+    "3. Also objektiv berufsregelnd."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f019-3",
+   "regelId": "q19",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat fünf Regeln gesammelt. Welche berühren die [[Berufsfreiheit]], und wie?",
+   "frage": "Sortiere die Regeln.",
+   "fachfaecher": {
+    "faecher": [
+     "Subjektiv",
+     "Objektiv",
+     "Keine Berufsregel"
+    ],
+    "karten": [
+     {
+      "text": "Werbeverbot für Ärzte",
+      "fach": "Subjektiv",
+      "warumNicht": "Zielt genau auf den Arztberuf."
+     },
+     {
+      "text": "Prüfung als Voraussetzung für die Zulassung",
+      "fach": "Subjektiv",
+      "warumNicht": "Zielt genau darauf, wer den Beruf ausüben darf."
+     },
+     {
+      "text": "Rabattpflicht für Arzneimittel",
+      "fach": "Objektiv",
+      "warumNicht": "Kein Ziel, aber enger Zusammenhang mit der Arbeit der Apotheken."
+     },
+     {
+      "text": "Längere Rotphase an einer Ampel",
+      "fach": "Keine Berufsregel",
+      "warumNicht": "Gilt für alle. Die Wirkung auf Jobs ist Zufall."
+     },
+     {
+      "text": "Neue Uhrzeit für die Müllabfuhr",
+      "fach": "Keine Berufsregel",
+      "warumNicht": "Kein Bezug zu einem bestimmten Beruf."
+     }
+    ]
+   },
+   "ergebnis": "Gezielte Berufsregeln sind subjektiv, eng verbundene objektiv, zufällige Wirkungen keine.",
+   "warum": "Frag erst nach dem Ziel, dann nach dem engen Zusammenhang. Fehlt beides, ist Art. 12 nicht berührt.",
+   "denkweg": [
+    "1. Zielt es auf den Beruf? Subjektiv.",
+    "2. Kein Ziel, aber eng verbunden? Objektiv.",
+    "3. Nur zufällig? Keine Berufsregel."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f019-4",
+   "regelId": "q19",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, wofür die berufsregelnde Tendenz bei Art. 12 wichtig ist. Subjektiv und objektiv, je ein Beispiel.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Sie entscheidet, ob ein [[Eingriff]] in Art. 12 I vorliegt: subjektiv (Ziel) oder objektiv (enger Zusammenhang).",
+   "warum": "Erst die Funktion nennen: Sie filtert, was überhaupt ein Eingriff ist. Dann die zwei Arten mit Beispiel.",
+   "denkweg": [
+    "1. Funktion: Eingriff ja oder nein.",
+    "2. Nicht jede Auswirkung reicht.",
+    "3. Subjektiv mit Beispiel, dann objektiv."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f019-5",
+   "regelId": "q19",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Kiki, Tätowiererin",
+    "emoji": "🖋️"
+   },
+   "akte": "Ein neues Gesetz sagt: Tätowierer müssen vor jedem Tattoo ihre Nadeln auf eine bestimmte Art reinigen. Ole meint: „Das Gesetz will nur die Kunden schützen. Also zielt es nicht auf den Beruf.“",
+   "frage": "Hat das Gesetz berufsregelnde Tendenz?",
+   "optionen": [
+    {
+     "text": "Ja, subjektiv",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, es schützt Kunden",
+     "richtig": false,
+     "warumNicht": "Ole verwechselt Zweck und Ziel. Auch zum Schutz der Kunden regelt das Gesetz genau die Arbeit der Tätowierer."
+    },
+    {
+     "text": "Ja, aber nur objektiv",
+     "richtig": false,
+     "warumNicht": "Objektiv passt, wenn die Regel nicht auf den Beruf zielt. Diese Regel gilt aber nur für Tätowierer und ihre Arbeit."
+    }
+   ],
+   "ergebnis": "Ja, subjektiv: Das Gesetz regelt gezielt, wie Tätowierer arbeiten. Das ist ein [[Eingriff]] in die [[Berufsfreiheit]].",
+   "warum": "Fast jede Berufsregel hat einen guten Zweck. Das ändert nichts daran, dass sie gerade die berufliche Arbeit regelt.",
+   "denkweg": [
+    "1. Für wen gilt das Gesetz? Nur für Tätowierer.",
+    "2. Was regelt es? Ihre Arbeit.",
+    "3. Also zielt es auf den Beruf: subjektiv."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "k019-1",
+   "regelId": "q19",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kühn, Taxiunternehmerin",
+    "emoji": "🚕"
+   },
+   "akte": "Die Stadt baut eine Umgehungsstraße. Frau Kühn verdient weniger, weil die Fahrten kürzer werden. Ole sagt: „Der moderne Eingriffsbegriff ist weit. Also klarer [[Eingriff]] in Art. 12!“",
+   "frage": "Hat Ole recht?",
+   "optionen": [
+    {
+     "text": "Nein, keine Berufsregel",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, mittelbar reicht immer",
+     "richtig": false,
+     "warumNicht": "Mittelbar reicht zwar grundsätzlich. Bei Art. 12 braucht es aber zusätzlich berufsregelnde Tendenz."
+    },
+    {
+     "text": "Ja, objektiv berufsregelnd",
+     "richtig": false,
+     "warumNicht": "Die Straße ist für alle gebaut. Ein enger Zusammenhang mit dem Taxiberuf fehlt."
+    }
+   ],
+   "ergebnis": "Nein: Bei der [[Berufsfreiheit]] braucht ein Eingriff berufsregelnde Tendenz. Die fehlt hier.",
+   "warum": "Der moderne Eingriffsbegriff ist weit. Bei Art. 12 filtert die berufsregelnde Tendenz aber nur zufällige Wirkungen heraus.",
+   "denkweg": [
+    "1. Moderner Begriff: Wirkung kann reichen.",
+    "2. Art. 12 verlangt zusätzlich Bezug zum Beruf.",
+    "3. Straße für alle: kein Bezug, kein Eingriff."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q16"
+   ]
+  },
+  {
+   "id": "f020-0",
+   "regelId": "q20",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Nilsson, Physiotherapeut",
+    "emoji": "💆"
+   },
+   "akte": "Eine neue Regel sagt: Physiotherapie-Praxen dürfen sonntags keine Termine anbieten. Herr Nilsson darf den Beruf weiter ausüben, nur nicht am Sonntag.",
+   "frage": "Welche Stufe?",
+   "optionen": [
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Stufe 3 hieße: Er darf den Beruf gar nicht ergreifen. Hier geht es nur um Zeiten."
+    }
+   ],
+   "ergebnis": "Stufe 1: Es geht nur darum, **wie** er arbeitet.",
+   "warum": "Sprechzeiten regeln die Art der Arbeit. Das ist die mildeste Stufe, die [[Berufsausübung]].",
+   "denkweg": [
+    "1. Darf er den Beruf überhaupt ausüben? Ja.",
+    "2. Geregelt wird nur das Wie.",
+    "3. Also Stufe 1."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f020-1",
+   "regelId": "q20",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Ivanova, angehende Zahnärztin",
+    "emoji": "🦷"
+   },
+   "akte": "Frau Ivanova will als Zahnärztin arbeiten. Dafür braucht sie die [[Approbation]]. Die bekommt sie erst nach Studium und Prüfung.",
+   "frage": "Welche Stufe?",
+   "optionen": [
+    {
+     "text": "Stufe 2: subjektive Berufswahl",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": false,
+     "warumNicht": "Es geht nicht um das Wie, sondern darum, ob sie den Beruf überhaupt ergreifen darf."
+    },
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Prüfung und Studium kann sie selbst schaffen. Stufe 3 betrifft Hürden, die sie nicht beeinflussen kann."
+    }
+   ],
+   "ergebnis": "Stufe 2: Eine persönliche Voraussetzung entscheidet, **ob** sie den Beruf ergreift.",
+   "warum": "Die Approbation hängt von ihrer Ausbildung ab. Das kann sie selbst erfüllen. Das ist eine subjektive Berufswahlregel.",
+   "denkweg": [
+    "1. Geht es um das Ob? Ja.",
+    "2. Kann sie die Hürde selbst schaffen? Ja, durch Prüfung.",
+    "3. Also Stufe 2."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f020-2",
+   "regelId": "q20",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Gruber, frisch gebackener Apotheker",
+    "emoji": "🏥"
+   },
+   "akte": "Herr Gruber will eine Apotheke eröffnen. Die [[Behörde]] sagt: „Im Ort gibt es schon genug. Neue Apotheken nur bei Bedarf.“",
+   "frage": "Welche Stufe?",
+   "optionen": [
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 2: subjektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Er hat alle Prüfungen. Die Hürde ist der Bedarf im Ort, den er nicht ändern kann."
+    },
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": false,
+     "warumNicht": "Er darf den Laden gar nicht eröffnen. Es geht also nicht nur um das Wie."
+    }
+   ],
+   "ergebnis": "Stufe 3: Die [[Bedürfnisprüfung]] kann er selbst nicht beeinflussen.",
+   "warum": "Ob es genug Apotheken gibt, hat nichts mit seiner Person zu tun. Das ist die strengste Stufe, wie im Apotheken-Urteil.",
+   "denkweg": [
+    "1. Geht es um das Ob? Ja.",
+    "2. Liegt die Hürde in seiner Person? Nein, im Bedarf.",
+    "3. Also Stufe 3."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f020-3",
+   "regelId": "q20",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Becker, Hufschmiedin",
+    "emoji": "🐴"
+   },
+   "akte": "Frau Becker liebt Pferde und hat schon drei Pokale im Springreiten. Für ihren Beruf als Hufschmiedin muss sie eine Prüfung bestehen. Die Prüfung kostet 400 Euro.",
+   "frage": "Welche Stufe?",
+   "optionen": [
+    {
+     "text": "Stufe 2: subjektive Berufswahl",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Die Kosten sind ein Detail. Die Prüfung kann sie selbst bestehen, also nicht Stufe 3."
+    },
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": false,
+     "warumNicht": "Ohne Prüfung darf sie den Beruf gar nicht beginnen. Also nicht nur das Wie."
+    }
+   ],
+   "ergebnis": "Stufe 2: Eine Prüfung ist eine persönliche Voraussetzung für die [[Berufswahl]].",
+   "warum": "Pokale und Gebühren lenken nur ab. Entscheidend: Sie kann die Hürde selbst überwinden.",
+   "denkweg": [
+    "1. Ob oder Wie? Ob, ohne Prüfung kein Beruf.",
+    "2. Von ihr beeinflussbar? Ja.",
+    "3. Also Stufe 2."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f020-4",
+   "regelId": "q20",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lorenz, Taxifahrer mit Schnurrbart",
+    "emoji": "🚖"
+   },
+   "akte": "Herr Lorenz hat Führerschein und Ortskunde-Prüfung. Die Stadt vergibt aber nur 200 Taxi-Lizenzen. Alle sind weg. Er steht auf einer Warteliste.",
+   "frage": "Welche Stufe?",
+   "optionen": [
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 2: subjektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Seine persönlichen Voraussetzungen erfüllt er ja. Die Sperre hängt nicht von ihm ab."
+    },
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": false,
+     "warumNicht": "Er darf gar nicht anfangen. Das ist mehr als eine Regel zum Wie."
+    }
+   ],
+   "ergebnis": "Stufe 3: Eine Zulassungssperre nach Bedarf kann er nicht beeinflussen.",
+   "warum": "Die Zahl der Lizenzen hat nichts mit seiner Person zu tun. Das ist eine objektive Berufswahlregel.",
+   "denkweg": [
+    "1. Ob oder Wie? Ob.",
+    "2. Persönliche Hürde? Nein, er erfüllt alles.",
+    "3. Zahl begrenzt: Stufe 3."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f020-5",
+   "regelId": "q20",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was braucht der Staat eigentlich für eine Regel auf Stufe 3?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Nur die Abwehr nachweisbarer oder sehr wahrscheinlicher schwerer Gefahren für ein überragend wichtiges Gut.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Vernünftige Gründe des Gemeinwohls reichen schon aus.",
+     "richtig": false,
+     "warumNicht": "Das reicht nur für Stufe 1, die Regeln zum Wie."
+    },
+    {
+     "text": "Der Schutz wichtiger Gemeinschaftsgüter reicht aus.",
+     "richtig": false,
+     "warumNicht": "Das ist der Maßstab für Stufe 2. Stufe 3 verlangt noch mehr."
+    }
+   ],
+   "ergebnis": "Stufe 3 braucht schwere Gefahren für ein überragend wichtiges Gemeinschaftsgut.",
+   "warum": "Je höher die Stufe, desto stärker der Grund. Stufe 3 trifft am härtesten, also gilt der strengste Maßstab.",
+   "denkweg": [
+    "1. Stufe 1: vernünftige Gründe.",
+    "2. Stufe 2: wichtige Gemeinschaftsgüter.",
+    "3. Stufe 3: schwere Gefahr, überragend wichtiges Gut."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f020-6",
+   "regelId": "q20",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Yıldız, Kosmetikerin",
+    "emoji": "💅"
+   },
+   "akte": "Frau Yıldız muss ihr Studio künftig um 20 Uhr schließen. Sie ruft dramatisch: „Damit nimmt man mir meinen Beruf! Das ist eine [[Berufswahl]]-Regel!“",
+   "frage": "Welche Stufe ist richtig?",
+   "optionen": [
+    {
+     "text": "Stufe 1: Berufsausübung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Stufe 2: subjektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Sie muss keine neue persönliche Voraussetzung erfüllen. Sie darf weiterarbeiten."
+    },
+    {
+     "text": "Stufe 3: objektive Berufswahl",
+     "richtig": false,
+     "warumNicht": "Ihr Gefühl zählt nicht. Sie darf den Beruf ausüben, nur zu anderen Zeiten."
+    }
+   ],
+   "ergebnis": "Stufe 1: Öffnungszeiten regeln nur das Wie. Immer die mildeste passende Stufe wählen.",
+   "warum": "Die Regel fühlt sich hart an, betrifft aber nur die Ausübung. Nach der Prüfregel nimmt man die mildeste Stufe, die passt.",
+   "denkweg": [
+    "1. Darf sie den Beruf weiter ausüben? Ja.",
+    "2. Geregelt wird nur, wann.",
+    "3. Mildeste Stufe: Stufe 1."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f020-7",
+   "regelId": "q20",
+   "stufe": 3,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat sechs Regeln aus dem Gesundheitswesen gesammelt. Ordne jede einer Stufe zu.",
+   "frage": "Welche Stufe?",
+   "fachfaecher": {
+    "faecher": [
+     "Stufe 1: Wie",
+     "Stufe 2: Ob (Person)",
+     "Stufe 3: Ob (ohne Person)"
+    ],
+    "karten": [
+     {
+      "text": "Werbeverbot für Ärzte",
+      "fach": "Stufe 1: Wie",
+      "warumNicht": "Regelt nur, wie der Arzt arbeitet."
+     },
+     {
+      "text": "Feste Sprechzeiten für Praxen",
+      "fach": "Stufe 1: Wie",
+      "warumNicht": "Auch hier nur das Wie."
+     },
+     {
+      "text": "Approbation als Voraussetzung",
+      "fach": "Stufe 2: Ob (Person)",
+      "warumNicht": "Hängt von der eigenen Ausbildung ab."
+     },
+     {
+      "text": "Nachweis der Zuverlässigkeit",
+      "fach": "Stufe 2: Ob (Person)",
+      "warumNicht": "Eine persönliche Voraussetzung."
+     },
+     {
+      "text": "Neue Praxis nur bei Bedarf in der Region",
+      "fach": "Stufe 3: Ob (ohne Person)",
+      "warumNicht": "Der Bedarf hängt nicht von der Person ab."
+     },
+     {
+      "text": "Zulassungssperre: Alle Plätze vergeben",
+      "fach": "Stufe 3: Ob (ohne Person)",
+      "warumNicht": "Die Sperre kann niemand selbst überwinden."
+     }
+    ]
+   },
+   "ergebnis": "Werbung und Zeiten: Stufe 1. [[Approbation]] und Zuverlässigkeit: Stufe 2. Bedarf und Sperre: Stufe 3.",
+   "warum": "Zwei Fragen reichen: Geht es um das Ob? Und liegt die Hürde in der Person?",
+   "denkweg": [
+    "1. Nur das Wie? Stufe 1.",
+    "2. Ob, Hürde in der Person? Stufe 2.",
+    "3. Ob, Hürde außerhalb? Stufe 3."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f020-8",
+   "regelId": "q20",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die Drei-Stufen-Theorie. Mit Maßstab und Beispiel für jede Stufe.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ausübung: gute Gründe reichen. Wahl nach Person: wichtige Güter. Wahl, egal wer: nur schwere Gefahren. Mildeste Stufe wählen.",
+   "warum": "Zu jeder Stufe gehören Inhalt, Maßstab und Beispiel. Die Regel mit der mildesten Stufe kommt zum Schluss.",
+   "denkweg": [
+    "1. Von mild nach streng aufzählen.",
+    "2. Zu jeder Stufe den Maßstab.",
+    "3. Zum Schluss: mildeste Stufe wählen."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k020-1",
+   "regelId": "q20",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Wendt, Ergotherapeut",
+    "emoji": "🧩"
+   },
+   "akte": "Herr Wendt hat alle Prüfungen. Die Stadt sagt: „Neue Ergotherapie-Praxen nur bei Bedarf. Zu viel Konkurrenz ist für die alten Praxen lästig.“",
+   "frage": "Ist die Regel gerechtfertigt?",
+   "optionen": [
+    {
+     "text": "Nein, Grund zu schwach",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Gemeinwohl reicht",
+     "richtig": false,
+     "warumNicht": "Vernünftige Gründe reichen nur auf Stufe 1. Das hier ist Stufe 3."
+    },
+    {
+     "text": "Ja, er kann sich ja bewerben",
+     "richtig": false,
+     "warumNicht": "Die Hürde ist der Bedarf, nicht seine Bewerbung. Darum gilt der strengste Maßstab."
+    }
+   ],
+   "ergebnis": "Nein: Auf Stufe 3 braucht es eine schwere Gefahr für ein überragend wichtiges Gut. „Lästige Konkurrenz“ ist das nicht.",
+   "warum": "Erst die Stufe bestimmen, dann den Maßstab anwenden. Die Begründung ist nicht [[verhältnismäßig]] für so einen harten [[Eingriff]].",
+   "denkweg": [
+    "1. Stufe? Bedarf: Stufe 3.",
+    "2. Maßstab: schwere Gefahr für ein überragend wichtiges Gut.",
+    "3. Lästige Konkurrenz reicht nicht: nicht gerechtfertigt."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q18"
+   ]
+  },
+  {
+   "id": "f021-0",
+   "regelId": "q21",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Opa Heinz, Taubenfreund",
+    "emoji": "🕊️"
+   },
+   "akte": "Opa Heinz füttert jeden Morgen Tauben im Park. Ein [[Grundrecht]] speziell fürs Taubenfüttern gibt es nicht.",
+   "frage": "Ist sein Verhalten trotzdem geschützt?",
+   "optionen": [
+    {
+     "text": "Ja, Art. 2 I",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, zu unwichtig",
+     "richtig": false,
+     "warumNicht": "Art. 2 I schützt jedes Verhalten, egal wie klein oder unwichtig."
+    }
+   ],
+   "ergebnis": "Ja: Die allgemeine Handlungsfreiheit (Art. 2 I) schützt jedes Verhalten.",
+   "warum": "Passt kein spezielles Grundrecht, fängt Art. 2 I das Verhalten auf. Auf das Gewicht kommt es nicht an.",
+   "denkweg": [
+    "1. Spezielles Grundrecht? Nein.",
+    "2. Ist es menschliches Verhalten? Ja.",
+    "3. Also Art. 2 I."
+   ],
+   "dauerSek": 18
+  },
+  {
+   "id": "f021-1",
+   "regelId": "q21",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dr. Seidel, Tierärztin",
+    "emoji": "🐾"
+   },
+   "akte": "Frau Dr. Seidel wehrt sich gegen eine Regel für ihre Tierarztpraxis. Es geht um ihren Beruf.",
+   "frage": "Welches [[Grundrecht]] prüfst du zuerst?",
+   "optionen": [
+    {
+     "text": "Art. 12 I (spezieller)",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Art. 2 I",
+     "richtig": false,
+     "warumNicht": "Art. 2 I ist nur das [[Auffanggrundrecht]]. Geht es um den Beruf, ist Art. 12 spezieller."
+    },
+    {
+     "text": "Beide gleichrangig",
+     "richtig": false,
+     "warumNicht": "Art. 2 I tritt zurück, wenn ein spezielles Grundrecht passt (subsidiär)."
+    }
+   ],
+   "ergebnis": "Art. 12 I: Das spezielle Grundrecht geht vor, Art. 2 I tritt zurück.",
+   "warum": "Art. 2 I ist subsidiär. Es hilft nur, wenn kein spezielleres Freiheitsrecht passt.",
+   "denkweg": [
+    "1. Gibt es ein spezielles Grundrecht? Ja, [[Berufsfreiheit]].",
+    "2. Art. 2 I ist nur der Auffang.",
+    "3. Also Art. 12 I."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f021-2",
+   "regelId": "q21",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was ist eigentlich ein [[Auffanggrundrecht]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Ein [[Grundrecht]], das alles schützt, was kein spezielles Grundrecht abdeckt. Es springt nur ein, wenn sonst nichts passt.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein Grundrecht, das stärker ist als alle anderen und immer zuerst gilt.",
+     "richtig": false,
+     "warumNicht": "Andersherum. Es tritt hinter speziellen Grundrechten zurück."
+    },
+    {
+     "text": "Ein Grundrecht, das nur sehr wichtige Lebensbereiche schützt.",
+     "richtig": false,
+     "warumNicht": "Art. 2 I schützt gerade auch kleine Dinge, egal wie wichtig."
+    }
+   ],
+   "ergebnis": "Ein Auffanggrundrecht schließt Lücken und tritt hinter speziellen Grundrechten zurück.",
+   "warum": "Art. 2 I ist wie ein Fangnetz. Es fängt alles auf, was durch die anderen Grundrechte fällt.",
+   "denkweg": [
+    "1. Was schützt es? Jedes Verhalten.",
+    "2. Wann gilt es? Nur ohne spezielles Grundrecht.",
+    "3. Das heißt subsidiär."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f021-3",
+   "regelId": "q21",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Pohl, Ballonfahrer",
+    "emoji": "🎈"
+   },
+   "akte": "Ein Landesgesetz verbietet Ballonfahrten. Für so ein Gesetz war das Land aber gar nicht zuständig. Herr Pohl will sich wehren. Ein spezielles [[Grundrecht]] passt nicht.",
+   "frage": "Kann er sich auf Art. 2 I berufen?",
+   "optionen": [
+    {
+     "text": "Ja, Gesetz verfassungswidrig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, Hobby zu unwichtig",
+     "richtig": false,
+     "warumNicht": "Art. 2 I schützt jedes Verhalten. Auf das Gewicht kommt es nicht an."
+    },
+    {
+     "text": "Nein, Gesetz ist eine Schranke",
+     "richtig": false,
+     "warumNicht": "Nur verfassungsmäßige Gesetze sind [[Schranken|schranke]]. Dieses ist formell verfassungswidrig."
+    }
+   ],
+   "ergebnis": "Ja: Ein verfassungswidriges Gesetz gehört nicht zur verfassungsmäßigen Ordnung und kann Art. 2 I nicht begrenzen.",
+   "warum": "Die [[verfassungsmäßige Ordnung]] umfasst nur formell und materiell verfassungsmäßige [[Normen|rechtsnorm]]. So kann man über Art. 2 I jedes verfassungswidrige Gesetz rügen.",
+   "denkweg": [
+    "1. [[Schutzbereich]]: Ballonfahren ist Verhalten, also Art. 2 I.",
+    "2. Schranke nur durch verfassungsmäßige Gesetze.",
+    "3. Land unzuständig: keine wirksame Schranke."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f021-4",
+   "regelId": "q21",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die allgemeine Handlungsfreiheit. Was schützt sie, wo steht sie, wozu dient sie?",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Jedes Tun nach Art. 2 I. Die Grenze ist die [[Schrankentrias]]. Sie ist ein [[Auffanggrundrecht]]. So kann man sich gegen jedes Gesetz wehren, das gegen das [[Grundgesetz]] verstößt.",
+   "warum": "Die Antwort braucht vier Teile: [[Schutzbereich]], [[Schranken|schranke]], Funktion und die Folge für die [[Verfassungsbeschwerde]].",
+   "denkweg": [
+    "1. Was ist geschützt? Jedes Tun.",
+    "2. Grenze: Schrankentrias.",
+    "3. Wozu? Auffang für alles andere."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k021-1",
+   "regelId": "q21",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Schulte, Waldreiterin",
+    "emoji": "🏇"
+   },
+   "akte": "Frau Schulte reitet gern im Wald. Ein Gesetz erlaubt das nur auf bestimmten Wegen. Ole meint: „Art. 2 I hat keinen [[Gesetzesvorbehalt]]. Also ist es [[vorbehaltlos]]!“",
+   "frage": "Was stimmt?",
+   "optionen": [
+    {
+     "text": "Art. 2 I hat die Schrankentrias",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Vorbehaltlos, wie Art. 4",
+     "richtig": false,
+     "warumNicht": "Art. 2 I nennt eigene Grenzen. Vorbehaltlos ist er nicht."
+    },
+    {
+     "text": "Reiten ist gar nicht geschützt",
+     "richtig": false,
+     "warumNicht": "Doch. Reiten im Walde ist sogar das berühmte Beispiel für Art. 2 I."
+    }
+   ],
+   "ergebnis": "Art. 2 I ist durch die [[Schrankentrias]] begrenzt, also auch durch verfassungsmäßige Gesetze.",
+   "warum": "Ole übersieht die eigenen [[Schranken|schranke]] in Art. 2 I. Die [[verfassungsmäßige Ordnung]] umfasst alle verfassungsmäßigen Gesetze.",
+   "denkweg": [
+    "1. Geschützt? Ja, jedes Verhalten.",
+    "2. Schranke? Die Schrankentrias aus Art. 2 I.",
+    "3. Verfassungsmäßiges Gesetz darf begrenzen."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q17"
+   ]
+  },
+  {
+   "id": "f022-0",
+   "regelId": "q22",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Hartmann, Wohnmobil-Fan",
+    "emoji": "🚐"
+   },
+   "akte": "Die Stadt verlangt für große Wohnmobile höhere Parkgebühren als für Kleinwagen. Grund: Sie brauchen viel mehr Platz. Herr Hartmann findet das ungerecht.",
+   "frage": "Darf die Stadt das?",
+   "optionen": [
+    {
+     "text": "Ja, mit sachlichem Grund",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, alle gleich behandeln",
+     "richtig": false,
+     "warumNicht": "Ungleich behandeln ist erlaubt, wenn es einen sachlichen Grund gibt. Der Platz ist ein solcher Grund."
+    }
+   ],
+   "ergebnis": "Ja: Der größere Platzbedarf ist ein sachlicher Grund.",
+   "warum": "Art. 3 I verbietet nicht jeden Unterschied. Er verbietet nur Unterschiede ohne sachlichen Grund.",
+   "denkweg": [
+    "1. Werden Gruppen unterschiedlich behandelt? Ja.",
+    "2. Gibt es einen sachlichen Grund? Ja, Platz.",
+    "3. Also gerechtfertigt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f022-1",
+   "regelId": "q22",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole will einen Fall zur Gleichheit prüfen. Seine Schritte liegen wild durcheinander.",
+   "frage": "Bring die Prüfung in die richtige Reihenfolge.",
+   "reihenfolge": [
+    "Zwei Gruppen zum Vergleich wählen",
+    "Prüfen: Werden sie verschieden behandelt?",
+    "Prüfen: Gibt es dafür einen guten Grund?"
+   ],
+   "ergebnis": "Erst die Gruppen, dann der Unterschied, dann der Grund.",
+   "warum": "Ohne Vergleich gibt es keinen Unterschied. Ohne Unterschied muss man nichts rechtfertigen.",
+   "denkweg": [
+    "1. Wen vergleiche ich?",
+    "2. Wird jemand anders behandelt?",
+    "3. Gibt es dafür einen sachlichen Grund?"
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f022-2",
+   "regelId": "q22",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Okafor, Vorsitzende des Schachclubs",
+    "emoji": "♟️"
+   },
+   "akte": "Die Stadt gibt jedem Verein zwei Stunden pro Woche in der Halle. Der Schachclub hat 8 Leute, der Turnverein 600. Der Turnverein ist sauer.",
+   "frage": "Kann auch gleiche Behandlung ein Problem sein?",
+   "optionen": [
+    {
+     "text": "Ja, Ungleiches ungleich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, gleich ist immer fair",
+     "richtig": false,
+     "warumNicht": "Art. 3 I verlangt auch, wesentlich Ungleiches ungleich zu behandeln."
+    },
+    {
+     "text": "Nein, nur Ungleiches zählt",
+     "richtig": false,
+     "warumNicht": "Auch die Gleichbehandlung von Ungleichem kann gegen Art. 3 I verstoßen."
+    }
+   ],
+   "ergebnis": "Ja: Art. 3 I verlangt auch, wesentlich Ungleiches ungleich zu behandeln.",
+   "warum": "Ein Verein mit 600 Leuten und einer mit 8 sind sehr verschieden. Gleich viel Zeit braucht dann einen Grund.",
+   "denkweg": [
+    "1. Was sagt Art. 3 I? Gleiches gleich, Ungleiches ungleich.",
+    "2. Sind die Vereine sehr verschieden? Ja.",
+    "3. Also kann auch „gleich“ ein Problem sein."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f022-3",
+   "regelId": "q22",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Albrecht, Kassenwart im Kaninchenzuchtverein",
+    "emoji": "🐇"
+   },
+   "akte": "Die Gemeinde verteilt Zuschüsse an Vereine. Sie zahlt nur an Vereine, deren Name mit „A“ beginnt. Der Kaninchenzuchtverein „Hoppel e. V.“ geht leer aus. Herr Albrecht ist empört.",
+   "frage": "Ist die Ungleichbehandlung gerechtfertigt?",
+   "optionen": [
+    {
+     "text": "Nein, reine Willkür",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Gemeinde darf frei wählen",
+     "richtig": false,
+     "warumNicht": "Frei ist sie nicht. Sie braucht für Unterschiede einen sachlichen Grund."
+    },
+    {
+     "text": "Ja, Vereine sind verschieden",
+     "richtig": false,
+     "warumNicht": "Verschieden sind sie, aber der Anfangsbuchstabe ist kein sachlicher Grund."
+    }
+   ],
+   "ergebnis": "Nein: Der Anfangsbuchstabe ist kein sachlicher Grund. Das ist [[Willkür|willkuerverbot]].",
+   "warum": "Schon nach der lockeren Willkürformel braucht es irgendeinen sachlichen Grund. Ein Buchstabe ist keiner.",
+   "denkweg": [
+    "1. Gruppen: Vereine mit A und ohne A.",
+    "2. Ungleich behandelt? Ja, beim Zuschuss.",
+    "3. Sachlicher Grund? Nein: Willkür, verboten."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f022-4",
+   "regelId": "q22",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was heißt eigentlich [[Willkürverbot]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Der Staat darf nicht ohne jeden guten Grund Leute anders behandeln. Das ist die lockerste Messlatte.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Staat darf nie jemanden anders behandeln als andere.",
+     "richtig": false,
+     "warumNicht": "Mit gutem Grund sind Unterschiede erlaubt. Verboten ist nur der Unterschied ohne Grund."
+    },
+    {
+     "text": "Der Staat muss jeden Unterschied ganz streng prüfen.",
+     "richtig": false,
+     "warumNicht": "Das ist die strenge neue Formel. Das Willkürverbot ist die alte, lockere Formel."
+    }
+   ],
+   "ergebnis": "Willkürverbot: Ein Unterschied braucht mindestens einen sachlichen Grund.",
+   "warum": "Die alte Formel ist die unterste Messlatte. Strenger wird es bei der neuen Formel.",
+   "denkweg": [
+    "1. Wann ist ein Unterschied verboten? Ohne guten Grund.",
+    "2. Wie streng? Locker.",
+    "3. Das Gegenstück ist die neue Formel."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f022-5",
+   "regelId": "q22",
+   "stufe": 3,
+   "format": "F2",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat einen Gleichheitsfall geprüft. Frau Brandt sieht rot.",
+   "frage": "Tippe den Fehler in Oles Prüfung an.",
+   "markierbar": [
+    "Prüfung Art. 3 I: ",
+    {
+     "text": "1. Gruppen: Hunde- und Katzenhalter.",
+     "fehler": false,
+     "warumNicht": "Vergleichsgruppen zu bilden ist der richtige erste Schritt."
+    },
+    {
+     "text": " 2. Nur Hundehalter zahlen eine Steuer.",
+     "fehler": false,
+     "warumNicht": "Das ist die Ungleichbehandlung. Richtig festgestellt."
+    },
+    {
+     "text": " 3. Jede Ungleichbehandlung ist verboten, also verfassungswidrig.",
+     "fehler": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Rechtfertigung vergessen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Falsche Gruppen",
+     "richtig": false,
+     "warumNicht": "Die Gruppen sind vergleichbar und sinnvoll gewählt. Der Fehler steckt im dritten Schritt."
+    }
+   ],
+   "ergebnis": "Schritt 3: Ole prüft keine Rechtfertigung. Mit sachlichem Grund kann eine Ungleichbehandlung erlaubt sein.",
+   "warum": "Art. 3 I verbietet nur ungerechtfertigte Unterschiede. Ole hätte nach einem sachlichen Grund suchen müssen.",
+   "denkweg": [
+    "1. Gruppen und Unterschied: richtig.",
+    "2. Schritt 3 muss nach einem Grund fragen.",
+    "3. Ole überspringt die Rechtfertigung."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f022-6",
+   "regelId": "q22",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, ob und wann Ungleichbehandlungen gerechtfertigt sein können.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ja: Gleiches gleich, Ungleiches ungleich; Prüfung in drei Schritten; Maßstab von [[Willkür|willkuerverbot]] bis [[Verhältnismäßigkeit|verhaeltnismaessig]].",
+   "warum": "Die Antwort beginnt mit „Ja“. Dann Formel, Prüfschritte und der Maßstab mit beiden Formeln.",
+   "denkweg": [
+    "1. Ja sagen und die Formel nennen.",
+    "2. Drei Prüfschritte.",
+    "3. Maßstab: alte bis neue Formel, Art. 3 II, III strenger."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f023-0",
+   "regelId": "q23",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Jansen, Dackel-Besitzerin",
+    "emoji": "🐶"
+   },
+   "akte": "Die Gemeinde verlangt für große Hunde mehr Steuer als für kleine. Es geht um die Größe des Hundes, nicht um die Person.",
+   "frage": "Welcher Maßstab gilt?",
+   "optionen": [
+    {
+     "text": "Willkürformel reicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Neue Formel, streng",
+     "richtig": false,
+     "warumNicht": "Streng prüft man bei Unterschieden nach Personen. Hier geht es um eine Sache, den Hund."
+    }
+   ],
+   "ergebnis": "[[Willkürformel|willkuerverbot]]: Der Unterschied ist sachbezogen.",
+   "warum": "Bei Unterschieden nach Sachen oder Verhalten reicht der lockere Maßstab.",
+   "denkweg": [
+    "1. Wonach wird unterschieden? Nach Hundegröße.",
+    "2. Ist das personenbezogen? Nein, sachbezogen.",
+    "3. Also Willkürformel."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f023-1",
+   "regelId": "q23",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt sortiert Gleichheitsfälle nach dem Maßstab. Hilf ihr.",
+   "frage": "Streng oder locker?",
+   "fachfaecher": {
+    "faecher": [
+     "Neue Formel (streng)",
+     "Willkürformel (locker)"
+    ],
+    "karten": [
+     {
+      "text": "Unterschied nach Personengruppen",
+      "fach": "Neue Formel (streng)",
+      "warumNicht": "Personenbezogene Unterschiede prüft man streng."
+     },
+     {
+      "text": "Merkmal ähnelt denen aus Art. 3 III",
+      "fach": "Neue Formel (streng)",
+      "warumNicht": "Je ähnlicher, desto strenger."
+     },
+     {
+      "text": "Freiheitsrechte werden stark berührt",
+      "fach": "Neue Formel (streng)",
+      "warumNicht": "Auswirkungen auf Freiheitsrechte machen die Prüfung strenger."
+     },
+     {
+      "text": "Unterschied nach Größe eines Autos",
+      "fach": "Willkürformel (locker)",
+      "warumNicht": "Sachbezogen: [[Willkürformel|willkuerverbot]] reicht."
+     },
+     {
+      "text": "Zuschlag für alle, die zu spät zahlen",
+      "fach": "Willkürformel (locker)",
+      "warumNicht": "Verhaltensbezogen: Willkürformel reicht."
+     }
+    ]
+   },
+   "ergebnis": "Person, Nähe zu Art. 3 III, Freiheit: streng. Sache oder Verhalten: locker.",
+   "warum": "Je mehr die Person selbst betroffen ist, desto strenger der Maßstab. Dazwischen gilt eine [[gleitende Skala]].",
+   "denkweg": [
+    "1. Geht es um die Person? Streng.",
+    "2. Freiheit oder Art. 3 III berührt? Strenger.",
+    "3. Nur Sache oder Verhalten? Locker."
+   ],
+   "dauerSek": 38
+  },
+  {
+   "id": "f023-2",
+   "regelId": "q23",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was bedeutet eigentlich „[[gleitende Skala]]“ bei der Gleichheit?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Es gibt nicht nur streng oder locker. Je persönlicher und freiheitsrelevanter der Unterschied, desto strenger prüft man.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Gerichte wählen den Maßstab nach Lust und Laune.",
+     "richtig": false,
+     "warumNicht": "Nein. Die Skala folgt festen Kriterien: Person, Freiheit, Nähe zu Art. 3 III."
+    },
+    {
+     "text": "Die Steuer steigt gleichmäßig mit dem Einkommen.",
+     "richtig": false,
+     "warumNicht": "Das verwechselt Mathe mit Recht. Es geht um die Strenge der Prüfung."
+    }
+   ],
+   "ergebnis": "Gleitende Skala: Der Maßstab wird stufenlos strenger, je stärker die Kriterien greifen.",
+   "warum": "Zwischen [[Willkürformel|willkuerverbot]] und strenger [[Verhältnismäßigkeit|verhaeltnismaessig]] gibt es viele Zwischenstufen.",
+   "denkweg": [
+    "1. Zwei Enden: locker und streng.",
+    "2. Dazwischen viele Stufen.",
+    "3. Die Kriterien bestimmen, wo man landet."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f023-3",
+   "regelId": "q23",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Mensah, Busfahrer aus Ghana",
+    "emoji": "🚌"
+   },
+   "akte": "Ein Gesetz erlaubt nur Menschen bestimmter Herkunft, als Busfahrer zu arbeiten. Herkunft ähnelt den Merkmalen aus Art. 3 III. Zudem ist die [[Berufsfreiheit]] berührt.",
+   "frage": "Welcher Maßstab gilt?",
+   "optionen": [
+    {
+     "text": "Neue Formel, streng",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Willkürformel reicht",
+     "richtig": false,
+     "warumNicht": "Die [[Willkürformel|willkuerverbot]] reicht nur bei Sach- oder Verhaltensbezug. Hier geht es um die Person."
+    },
+    {
+     "text": "Gar keine Prüfung nötig",
+     "richtig": false,
+     "warumNicht": "Jede Ungleichbehandlung muss gerechtfertigt werden. Hier sogar besonders streng."
+    }
+   ],
+   "ergebnis": "Neue Formel: personenbezogen, nah an Art. 3 III und freiheitsrelevant.",
+   "warum": "Alle drei Kriterien zeigen nach oben. Dann braucht es Unterschiede von solchem Gewicht, dass sie die Behandlung rechtfertigen.",
+   "denkweg": [
+    "1. Personenbezogen? Ja, Herkunft.",
+    "2. Nähe zu Art. 3 III und Freiheitsrecht? Ja.",
+    "3. Also strenge neue Formel."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f023-4",
+   "regelId": "q23",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, wann der strengere Maßstab der neuen Formel gilt.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Bei personenbezogenen Unterschieden, Freiheitsrelevanz und Nähe zu Art. 3 III; sonst [[Willkürformel|willkuerverbot]]; [[gleitende Skala]].",
+   "warum": "Zuerst die drei Auslöser. Dann was die Formel verlangt. Dann die Abgrenzung zur Willkürformel.",
+   "denkweg": [
+    "1. Wann? Personen, Freiheit, Art. 3 III.",
+    "2. Was? Unterschiede von Gewicht.",
+    "3. Sonst: Willkür. Dazwischen: gleitend."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k023-1",
+   "regelId": "q23",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lemke, Rentnerin im Ehrenamt",
+    "emoji": "👵"
+   },
+   "akte": "Ein Landesgesetz gibt eine Ehrenamtskarte nur an Menschen unter 60. Frau Lemke ist 67 und hilft seit Jahren im Tierheim. Die [[Behörde]] sagt: „Irgendeinen Grund wird es schon geben.“",
+   "frage": "Reicht das als Prüfung?",
+   "optionen": [
+    {
+     "text": "Nein, strengere Prüfung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, irgendein Grund reicht",
+     "richtig": false,
+     "warumNicht": "„Irgendein Grund“ ist die [[Willkürformel|willkuerverbot]]. Bei Unterschieden nach Personen ist sie zu locker."
+    },
+    {
+     "text": "Ja, Unterschiede sind verboten",
+     "richtig": false,
+     "warumNicht": "Unterschiede sind nicht immer verboten. Sie brauchen aber hier einen gewichtigen Grund."
+    }
+   ],
+   "ergebnis": "Nein: Das Alter betrifft Personengruppen. Darum braucht es Unterschiede von Gewicht, nicht irgendeinen Grund.",
+   "warum": "Erst nach Art. 3 I prüfen: Gruppen, Unterschied, Rechtfertigung. Dann den Maßstab wählen: personenbezogen heißt strenger.",
+   "denkweg": [
+    "1. Ungleichbehandlung nach Art. 3 I? Ja, nach Alter.",
+    "2. Personenbezogen? Ja.",
+    "3. Also strenger als Willkür: Grund von Gewicht nötig."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q22"
+   ]
+  },
+  {
+   "id": "f024-0",
+   "regelId": "q24",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt fragt: „Woraus folgt das [[Grundrecht]] auf ein menschenwürdiges [[Existenzminimum]]?“",
+   "frage": "Welcher Stempel passt?",
+   "optionen": [
+    {
+     "text": "Menschenwürde + Sozialstaat",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Berufsfreiheit",
+     "richtig": false,
+     "warumNicht": "Die [[Berufsfreiheit]] schützt den Job. Das Existenzminimum folgt aus Art. 1 I und Art. 20 I."
+    }
+   ],
+   "ergebnis": "Aus der [[Menschenwürde]] (Art. 1 I) zusammen mit dem [[Sozialstaatsprinzip|sozialstaat]] (Art. 20 I).",
+   "warum": "Menschenwürde allein sagt nicht, wer zahlt. Der [[Sozialstaat|sozialstaatsprinzip]] macht daraus einen Auftrag an den Staat.",
+   "denkweg": [
+    "1. Was ist der Kern? Würde.",
+    "2. Wer soll helfen? Der Sozialstaat.",
+    "3. Also Art. 1 I mit Art. 20 I."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f024-1",
+   "regelId": "q24",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole fragt, was zum [[Existenzminimum]] gehört. Sortiere die Beispiele.",
+   "frage": "Für den Körper oder für die [[Teilhabe|teilhaberecht]]?",
+   "fachfaecher": {
+    "faecher": [
+     "Körper",
+     "Teilhabe"
+    ],
+    "karten": [
+     {
+      "text": "Essen und Trinken",
+      "fach": "Körper",
+      "warumNicht": "Ohne Nahrung kein Leben."
+     },
+     {
+      "text": "Eine Wohnung",
+      "fach": "Körper",
+      "warumNicht": "Wohnen gehört zur körperlichen Existenz."
+     },
+     {
+      "text": "Gesundheit",
+      "fach": "Körper",
+      "warumNicht": "Die Klausurformel nennt Gesundheit ausdrücklich."
+     },
+     {
+      "text": "Warme Kleidung",
+      "fach": "Körper",
+      "warumNicht": "Auch Kleidung zählt dazu."
+     },
+     {
+      "text": "Kontakt zu anderen Menschen",
+      "fach": "Teilhabe",
+      "warumNicht": "Ein Mindestmaß an Leben in der Gemeinschaft."
+     },
+     {
+      "text": "Ab und zu ein Besuch im Verein",
+      "fach": "Teilhabe",
+      "warumNicht": "Auch das ist gesellschaftliche Teilhabe."
+     }
+    ]
+   },
+   "ergebnis": "Essen, Wohnen, Kleidung und Gesundheit braucht der Körper. Kontakte sind Teilhabe.",
+   "warum": "Das Existenzminimum sichert nicht nur das Überleben. Es sichert auch ein Mindestmaß an Teilhabe.",
+   "denkweg": [
+    "1. Braucht der Körper es zum Leben? Körper.",
+    "2. Geht es um das Leben mit anderen? Teilhabe.",
+    "3. Beides gehört dazu."
+   ],
+   "dauerSek": 38
+  },
+  {
+   "id": "f024-2",
+   "regelId": "q24",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Dietrich, arbeitsloser Koch",
+    "emoji": "🧑‍🍳"
+   },
+   "akte": "Herr Dietrich bekommt Grundsicherung. Er findet den Betrag zu niedrig und klagt. Er will, dass das Gericht genau 120 Euro mehr festlegt. Die Höhe wurde realistisch berechnet.",
+   "frage": "Was wird das Gericht tun?",
+   "optionen": [
+    {
+     "text": "Nur grob prüfen: Spielraum",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Genau 120 Euro festlegen",
+     "richtig": false,
+     "warumNicht": "Das Gericht legt keine Beträge fest. Bei der Höhe hat der [[Gesetzgeber]] [[Spielraum|gestaltungsspielraum]]."
+    },
+    {
+     "text": "Abweisen: kein Anspruch",
+     "richtig": false,
+     "warumNicht": "Den [[Anspruch|rechtsanspruch]] gibt es. Er ist dem Grunde nach unverfügbar. Streit gibt es nur über die Höhe."
+    }
+   ],
+   "ergebnis": "Das Gericht prüft nur, ob der Betrag offensichtlich zu niedrig ist. Die Höhe legt der Gesetzgeber fest.",
+   "warum": "Bei der Höhe hat der Gesetzgeber einen [[Gestaltungsspielraum|planungsspielraum]]. Das [[BVerfG|bverfg]] greift nur bei evidenter Unzulänglichkeit ein.",
+   "denkweg": [
+    "1. Gibt es den Anspruch? Ja.",
+    "2. Wer bestimmt die Höhe? Der Gesetzgeber.",
+    "3. Das Gericht prüft nur grob."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f024-3",
+   "regelId": "q24",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Könnte der [[Gesetzgeber]] das [[Existenzminimum]] eigentlich einfach abschaffen?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Nein. Den [[Anspruch|rechtsanspruch]] gibt es immer. Nur die Höhe kann der Gesetzgeber anpassen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja. Was der Gesetzgeber gibt, kann er auch nehmen.",
+     "richtig": false,
+     "warumNicht": "Der Anspruch folgt aus dem [[Grundgesetz]]. Er ist dem Grunde nach unverfügbar."
+    },
+    {
+     "text": "Nein. Und auch die Höhe darf er nie ändern.",
+     "richtig": false,
+     "warumNicht": "Doch, die Höhe ist wandelbar. Fest steht nur, dass es den Anspruch gibt."
+    }
+   ],
+   "ergebnis": "Nein: Dem Grunde nach unverfügbar, in der Höhe wandelbar.",
+   "warum": "Das Ob steht fest, das Wieviel darf sich ändern. Der Gesetzgeber muss die Höhe aber realistisch begründen.",
+   "denkweg": [
+    "1. Ob es den Anspruch gibt: fest.",
+    "2. Wie hoch er ist: veränderbar.",
+    "3. Abschaffen geht also nicht."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f024-4",
+   "regelId": "q24",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Nowicka, Sozialarbeiterin",
+    "emoji": "🧑‍💼"
+   },
+   "akte": "Ein neues Gesetz setzt die Grundsicherung fest. Die Abgeordneten haben keine Rechnung gemacht. Einer sagt: „Wir haben das nach Gefühl geschätzt. Wir haben ja [[Spielraum|gestaltungsspielraum]].“",
+   "frage": "Ist das in Ordnung?",
+   "optionen": [
+    {
+     "text": "Nein, Verfahren fehlt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Spielraum bei der Höhe",
+     "richtig": false,
+     "warumNicht": "Der Spielraum gilt nur mit einem nachvollziehbaren, realitätsgerechten Verfahren."
+    },
+    {
+     "text": "Ja, Gericht prüft nur grob",
+     "richtig": false,
+     "warumNicht": "Grob prüft das Gericht die Höhe. Ein fehlendes Verfahren ist aber ein eigener Fehler."
+    }
+   ],
+   "ergebnis": "Nein: Der [[Gesetzgeber]] muss die Höhe nachvollziehbar und realitätsgerecht berechnen.",
+   "warum": "Spielraum heißt nicht Bauchgefühl. Die Höhe muss in einem nachvollziehbaren Verfahren ermittelt werden.",
+   "denkweg": [
+    "1. Hat der Gesetzgeber Spielraum? Ja, bei der Höhe.",
+    "2. Braucht er ein Verfahren? Ja, realitätsgerecht.",
+    "3. Schätzung nach Gefühl: Fehler."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f024-5",
+   "regelId": "q24",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was aus den [[Grundrechten|grundrecht]] fürs [[Existenzminimum]] folgt. Und was der [[Gesetzgeber]] tun muss.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Würde plus [[Sozialstaat]] (Art. 1 I, 20 I). Es geht um Essen, Wohnen, Gesundheit und etwas [[Teilhabe|teilhaberecht]]. Der Gesetzgeber legt die Höhe fest, nachvollziehbar und mit [[Spielraum|gestaltungsspielraum]]. Das Ob steht fest.",
+   "warum": "Erst kommen Grundlage und Inhalt. Dann die Aufgaben des Gesetzgebers und wie weit das Gericht prüft.",
+   "denkweg": [
+    "1. Grundlage: Würde plus Sozialstaat.",
+    "2. Inhalt: Leben und ein Stück Teilhabe.",
+    "3. Gesetzgeber: legt die Höhe fest, das Ob bleibt."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f025-0",
+   "regelId": "q25",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lange, Schreiner mit Heuschnupfen",
+    "emoji": "🤧"
+   },
+   "akte": "Herr Lange hat Heuschnupfen. Er will ein teures Spray, das nicht im Leistungskatalog der Kasse steht. Es gibt gute Standardmittel. Er beruft sich auf seine [[Grundrechte|grundrecht]].",
+   "frage": "Hat er einen grundrechtlichen [[Anspruch|rechtsanspruch]]?",
+   "optionen": [
+    {
+     "text": "Nein, grundsätzlich nicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Gesundheit ist Grundrecht",
+     "richtig": false,
+     "warumNicht": "Aus den Grundrechten folgt kein Anspruch auf jede gewünschte Leistung."
+    }
+   ],
+   "ergebnis": "Nein: Grundsätzlich gibt es keinen Anspruch auf jede Wunschleistung.",
+   "warum": "Heuschnupfen ist nicht lebensbedrohlich, und es gibt Standardmittel. Die Ausnahme greift nicht.",
+   "denkweg": [
+    "1. Steht es im Katalog? Nein.",
+    "2. Lebensbedrohlich? Nein.",
+    "3. Also kein Anspruch."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f025-1",
+   "regelId": "q25",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Roth, Grundschullehrerin",
+    "emoji": "👩‍🏫"
+   },
+   "akte": "Frau Roth hat eine lebensbedrohliche Krankheit. Es gibt eine anerkannte Standard-Behandlung. Sie will lieber ein anderes Mittel, das nicht im Katalog steht.",
+   "frage": "Muss die Kasse das andere Mittel zahlen?",
+   "optionen": [
+    {
+     "text": "Nein, Standard verfügbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, lebensbedrohlich reicht",
+     "richtig": false,
+     "warumNicht": "Lebensbedrohlich ist nur ein Haken von dreien. Es darf keine Standard-Behandlung geben."
+    },
+    {
+     "text": "Ja, ihre freie Wahl",
+     "richtig": false,
+     "warumNicht": "Eine freie Wahl jeder Behandlung gibt es nicht. Die Kasse zahlt grundsätzlich nur den Katalog."
+    }
+   ],
+   "ergebnis": "Nein: Es gibt eine Standard-Behandlung, also fehlt der zweite Haken.",
+   "warum": "Alle drei Voraussetzungen müssen erfüllt sein. Fehlt eine, bleibt es beim Grundsatz: kein [[Anspruch|rechtsanspruch]].",
+   "denkweg": [
+    "1. Lebensbedrohlich? Ja.",
+    "2. Keine Standard-Behandlung? Doch, es gibt eine.",
+    "3. Haken fehlt: kein Anspruch."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f025-2",
+   "regelId": "q25",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brenner, Feuerwehrmann",
+    "emoji": "🚒"
+   },
+   "akte": "Herr Brenner hat eine seltene, regelmäßig tödliche Krankheit. Eine anerkannte Behandlung gibt es nicht. Erste Studien deuten an, dass ein neues Mittel den Verlauf spürbar bremst. Es kostet viel.",
+   "frage": "Muss die Kasse zahlen?",
+   "optionen": [
+    {
+     "text": "Ja, alle drei Haken erfüllt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, nicht im Katalog",
+     "richtig": false,
+     "warumNicht": "Das ist nur der Grundsatz. Hier greift die Ausnahme aus dem [[Nikolaus-Beschluss]]."
+    },
+    {
+     "text": "Nein, zu teuer",
+     "richtig": false,
+     "warumNicht": "Die Kosten sind kein Kriterium der Ausnahme. Es zählen nur die drei Haken."
+    }
+   ],
+   "ergebnis": "Ja: tödliche Krankheit, keine Standard-Behandlung, Hinweise auf Wirkung.",
+   "warum": "Alle drei Voraussetzungen liegen vor. Dann ist der Ausschluss verfassungswidrig, heute geregelt in § 2 Ia [[SGB|sgb]] V.",
+   "denkweg": [
+    "1. Regelmäßig tödlich? Ja.",
+    "2. Keine Standard-Behandlung? Ja.",
+    "3. Hinweise auf Wirkung? Ja: [[Anspruch|rechtsanspruch]]."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f025-3",
+   "regelId": "q25",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt prüft einen Antrag auf ein Arzneimittel außerhalb des Katalogs. Bring ihre Prüfschritte in Reihenfolge.",
+   "frage": "Wie prüft man richtig?",
+   "reihenfolge": [
+    "Gibt es einen Anspruch nach dem SGB V? Nein.",
+    "Ist die Krankheit lebensbedrohlich oder regelmäßig tödlich?",
+    "Fehlt eine anerkannte Standard-Behandlung?",
+    "Gibt es Hinweise auf Heilung oder spürbare Besserung?"
+   ],
+   "ergebnis": "Erst das normale Gesetz, dann die drei Haken aus dem [[Nikolaus-Beschluss]].",
+   "warum": "Der verfassungsorientierte [[Anspruch|rechtsanspruch]] ist die Ausnahme. Man prüft ihn erst, wenn der normale Anspruch fehlt.",
+   "denkweg": [
+    "1. Normaler Anspruch nach [[SGB|sgb]] V?",
+    "2. Wenn nein: die drei Haken.",
+    "3. Alle erfüllt: § 2 Ia SGB V."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f025-4",
+   "regelId": "q25",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kessler, Gärtnerin",
+    "emoji": "🌻"
+   },
+   "akte": "Frau Kessler ist lebensbedrohlich erkrankt. Eine Standard-Behandlung gibt es nicht. Sie will Pulver aus dem Internet. Es gibt keinen einzigen Hinweis, dass es wirkt.",
+   "frage": "Muss die Kasse zahlen?",
+   "optionen": [
+    {
+     "text": "Nein, keine Indizien",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, zwei Haken reichen",
+     "richtig": false,
+     "warumNicht": "Es braucht alle drei Haken. Der dritte fehlt hier."
+    },
+    {
+     "text": "Ja, Hoffnung zählt",
+     "richtig": false,
+     "warumNicht": "Bloße Hoffnung reicht nicht. Es braucht Indizien für eine nicht ganz fernliegende Wirkung."
+    }
+   ],
+   "ergebnis": "Nein: Ohne jeden Hinweis auf Wirkung fehlt der dritte Haken.",
+   "warum": "Die Ausnahme verlangt auf Indizien gestützte Erfolgsaussicht. Das soll Geld für wirkungslose Mittel vermeiden.",
+   "denkweg": [
+    "1. Lebensbedrohlich? Ja.",
+    "2. Keine Standard-Behandlung? Ja.",
+    "3. Indizien für Wirkung? Nein: kein [[Anspruch|rechtsanspruch]]."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f025-5",
+   "regelId": "q25",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, wann ein Versicherter ein Arzneimittel außerhalb des Katalogs bekommt. Drei Häkchen, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Grundsätzlich nein; Ausnahme bei lebensbedrohlicher Krankheit, ohne Standard, mit Indizien. Heute § 2 Ia [[SGB|sgb]] V.",
+   "warum": "Erst der Grundsatz, dann die drei Häkchen in fester Reihenfolge, zum Schluss Grundlage und [[Norm|rechtsnorm]].",
+   "denkweg": [
+    "1. Grundsatz: nein.",
+    "2. Drei Häkchen der Reihe nach.",
+    "3. Grundlage und § 2 Ia SGB V."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k025-1",
+   "regelId": "q25",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Falk, Hobby-Bodybuilder",
+    "emoji": "🏋️"
+   },
+   "akte": "Herr Falk will Muskelpulver von der Kasse. Er sagt: „Zum [[Existenzminimum]] gehört Gesundheit. Also muss die Kasse alles zahlen, was mir guttut!“",
+   "frage": "Hat er recht?",
+   "optionen": [
+    {
+     "text": "Nein, kein Anspruch auf alles",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Existenzminimum",
+     "richtig": false,
+     "warumNicht": "Das Existenzminimum sichert ein Minimum. Es gibt keinen [[Anspruch|rechtsanspruch]] auf jede Wunschleistung."
+    },
+    {
+     "text": "Ja, wenn der Arzt zustimmt",
+     "richtig": false,
+     "warumNicht": "Auch mit Arzt reicht das nicht. Die Ausnahme verlangt eine lebensbedrohliche Krankheit."
+    }
+   ],
+   "ergebnis": "Nein: Gesundheit gehört zum Minimum, aber daraus folgt kein Anspruch auf jede gewünschte Leistung.",
+   "warum": "Der [[Gesetzgeber]] hat [[Spielraum|gestaltungsspielraum]], und die Kasse muss wirtschaftlich sein. Eine Ausnahme gibt es nur bei lebensbedrohlicher Krankheit.",
+   "denkweg": [
+    "1. Existenzminimum: nur ein Minimum, Höhe regelt der Gesetzgeber.",
+    "2. Nikolaus-Ausnahme: lebensbedrohlich? Nein.",
+    "3. Also kein Anspruch."
+   ],
+   "dauerSek": 28,
+   "kombiRegeln": [
+    "q24"
+   ]
+  }
+ ],
+ "glossar": [
+  {
+   "id": "abwehrrecht",
+   "begriff": "Abwehrrecht",
+   "formen": [
+    "Abwehrrechte"
+   ],
+   "erklaerung": "Ein Grundrecht, das den Staat aus deinem Leben heraushält.",
+   "beispiel": "Die Polizei darf nicht einfach deine Wohnung durchsuchen."
+  },
+  {
+   "id": "teilhaberecht",
+   "begriff": "Teilhaberecht",
+   "formen": [
+    "Teilhabe",
+    "Teilhaberechte"
+   ],
+   "erklaerung": "Dein Recht, fair an einem Angebot des Staates beteiligt zu werden, das es schon gibt.",
+   "beispiel": "Du bekommst eine faire Chance auf einen der vorhandenen Studienplätze."
+  },
+  {
+   "id": "schutzpflicht",
+   "begriff": "Schutzpflicht",
+   "formen": [
+    "Schutzpflichten"
+   ],
+   "erklaerung": "Die Pflicht des Staates, dich vor Gefahren durch andere zu schützen.",
+   "beispiel": "Der Staat prüft Medikamente, bevor sie verkauft werden dürfen."
+  },
+  {
+   "id": "drittwirkung",
+   "begriff": "Drittwirkung",
+   "formen": [
+    "mittelbare Drittwirkung"
+   ],
+   "erklaerung": "Grundrechte wirken über die Auslegung der Gesetze auch in Streits unter Privaten.",
+   "beispiel": "Im Mietstreit beachtet das Gericht auch die Grundrechte der Mieterin."
+  },
+  {
+   "id": "untermassverbot",
+   "begriff": "Untermaßverbot",
+   "formen": [],
+   "erklaerung": "Der Staat darf nicht zu wenig schützen. Ein Mindestschutz muss sein.",
+   "beispiel": "Ein Schwimmbad ohne jede Aufsicht wäre zu wenig Schutz."
+  },
+  {
+   "id": "schutzbereich",
+   "begriff": "Schutzbereich",
+   "formen": [
+    "Schutzbereichs"
+   ],
+   "erklaerung": "Das Revier eines Grundrechts: wen es schützt und welches Verhalten.",
+   "beispiel": "Die Berufsfreiheit schützt Menschen bei ihrer Arbeit."
+  },
+  {
+   "id": "eingriff",
+   "begriff": "Eingriff",
+   "formen": [],
+   "erklaerung": "Der Staat macht dir etwas Geschütztes unmöglich oder deutlich schwerer.",
+   "beispiel": "Die Stadt verbietet dir, auf dem Marktplatz Musik zu machen."
+  },
+  {
+   "id": "schranke",
+   "begriff": "Schranke",
+   "formen": [
+    "Schranken"
+   ],
+   "erklaerung": "Die Grenze, bis zu der man ein Grundrecht einschränken darf.",
+   "beispiel": "Ein Gesetz darf Demos unter freiem Himmel Regeln geben."
+  },
+  {
+   "id": "gesetzesvorbehalt",
+   "begriff": "Gesetzesvorbehalt",
+   "formen": [],
+   "erklaerung": "Im Grundgesetz steht: Dieses Grundrecht darf durch ein Gesetz begrenzt werden.",
+   "beispiel": "Art. 8 II erlaubt Gesetze für Versammlungen unter freiem Himmel."
+  },
+  {
+   "id": "vorbehaltlos",
+   "begriff": "vorbehaltlos",
+   "formen": [
+    "vorbehaltlose",
+    "vorbehaltlosen"
+   ],
+   "erklaerung": "Ein Grundrecht ohne Gesetzesvorbehalt. Nur andere Werte aus dem Grundgesetz dürfen es begrenzen.",
+   "beispiel": "Die Kunstfreiheit: Ein einfaches Gesetz reicht nicht, um ein Bild zu verbieten."
+  },
+  {
+   "id": "schrankentrias",
+   "begriff": "Schrankentrias",
+   "formen": [],
+   "erklaerung": "Die drei Grenzen von Art. 2 I: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+   "beispiel": "Du darfst frei handeln, aber nicht die Rechte deiner Nachbarn verletzen."
+  },
+  {
+   "id": "verfassungsmaessige-ordnung",
+   "begriff": "verfassungsmäßige Ordnung",
+   "formen": [],
+   "erklaerung": "Alle Gesetze, die selbst mit dem Grundgesetz vereinbar sind.",
+   "beispiel": "Ein korrekt beschlossenes, faires Gesetz gehört dazu, ein verfassungswidriges nicht."
+  },
+  {
+   "id": "schranken-schranke",
+   "begriff": "Schranken-Schranke",
+   "formen": [
+    "Schranken-Schranken"
+   ],
+   "erklaerung": "Regeln, an die sich ein Gesetz halten muss, das ein Grundrecht begrenzt.",
+   "beispiel": "Ein Gesetz darf nicht nur für eine einzige Person gelten."
+  },
+  {
+   "id": "zitiergebot",
+   "begriff": "Zitiergebot",
+   "formen": [],
+   "erklaerung": "Ein Gesetz muss ausdrücklich nennen, welches Grundrecht es einschränkt (Art. 19 I 2).",
+   "beispiel": "Im Gesetz steht: „Art. 11 wird insoweit eingeschränkt.“"
+  },
+  {
+   "id": "berufsfreiheit",
+   "begriff": "Berufsfreiheit",
+   "formen": [],
+   "erklaerung": "Das Grundrecht aus Art. 12 I, einen Beruf frei zu wählen und auszuüben.",
+   "beispiel": "Du darfst entscheiden, ob du Bäckerin oder Busfahrer wirst."
+  },
+  {
+   "id": "berufsausuebung",
+   "begriff": "Berufsausübung",
+   "formen": [],
+   "erklaerung": "Wie du deinen Beruf machst: Zeiten, Werbung, Abläufe.",
+   "beispiel": "Der Friseur darf sonntags nicht öffnen."
+  },
+  {
+   "id": "berufswahl",
+   "begriff": "Berufswahl",
+   "formen": [],
+   "erklaerung": "Ob du einen Beruf überhaupt ergreifen darfst.",
+   "beispiel": "Ohne bestandene Prüfung darfst du nicht als Ärztin arbeiten."
+  },
+  {
+   "id": "approbation",
+   "begriff": "Approbation",
+   "formen": [],
+   "erklaerung": "Die staatliche Erlaubnis, als Arzt, Zahnarzt oder Apotheker zu arbeiten.",
+   "beispiel": "Nach Studium und Prüfung bekommt die Ärztin ihre Approbation."
+  },
+  {
+   "id": "beduerfnispruefung",
+   "begriff": "Bedürfnisprüfung",
+   "formen": [],
+   "erklaerung": "Der Staat prüft, ob es noch Bedarf für einen weiteren Betrieb gibt.",
+   "beispiel": "Eine neue Apotheke nur, wenn im Ort noch eine fehlt."
+  },
+  {
+   "id": "auffanggrundrecht",
+   "begriff": "Auffanggrundrecht",
+   "formen": [],
+   "erklaerung": "Ein Grundrecht, das alles schützt, wofür kein spezielles Grundrecht passt.",
+   "beispiel": "Tauben füttern schützt Art. 2 I, weil kein anderes Grundrecht passt."
+  },
+  {
+   "id": "willkuerverbot",
+   "begriff": "Willkürverbot",
+   "formen": [
+    "Willkür",
+    "Willkürformel",
+    "alte Formel"
+   ],
+   "erklaerung": "Der Staat darf nicht ohne jeden sachlichen Grund unterschiedlich behandeln.",
+   "beispiel": "Zuschuss nur für Vereine mit „A“ im Namen ist Willkür."
+  },
+  {
+   "id": "gleitende-skala",
+   "begriff": "gleitende Skala",
+   "formen": [],
+   "erklaerung": "Der Prüfmaßstab wird stufenlos strenger, je persönlicher der Unterschied ist.",
+   "beispiel": "Wie ein Lautstärkeregler, nicht wie ein Lichtschalter."
+  },
+  {
+   "id": "menschenwuerde",
+   "begriff": "Menschenwürde",
+   "formen": [],
+   "erklaerung": "Jeder Mensch hat einen eigenen Wert, den der Staat achten und schützen muss (Art. 1 I).",
+   "beispiel": "Niemand darf wie ein Gegenstand behandelt werden."
+  },
+  {
+   "id": "sozialstaat",
+   "begriff": "Sozialstaat",
+   "formen": [],
+   "erklaerung": "Der Staat muss für soziale Sicherheit und Ausgleich sorgen (Art. 20 I).",
+   "beispiel": "Wer kein Geld hat, bekommt Hilfe zum Leben."
+  },
+  {
+   "id": "nikolaus-beschluss",
+   "begriff": "Nikolaus-Beschluss",
+   "formen": [],
+   "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005 zu Behandlungen außerhalb des Katalogs.",
+   "beispiel": "Bei tödlicher Krankheit ohne Standard-Behandlung kann die Kasse zahlen müssen."
+  }
+ ]
+}

@@ -35,6 +35,7 @@ const F = (m) => fehler.push(m), W = (m) => warn.push(m);
 const regelMap = Object.fromEntries(regeln.map((r) => [r.id, r]));
 const gMap = {};
 glossar.forEach((g) => { gMap[g.id] = g; [g.begriff, ...g.formen].forEach((w) => { gMap[w.toLowerCase()] = g; }); });
+const glossarFormenLang = glossar.flatMap((g) => [g.begriff, ...g.formen]).sort((a, b) => b.length - a.length);
 const woerterVon = (s) => s.split(/\s+/).filter(Boolean).length;
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const ganzesWort = (w) => new RegExp(`(?<![A-Za-zÄÖÜäöüß-])${esc(w)}(?![A-Za-zÄÖÜäöüß])`);
@@ -55,8 +56,11 @@ function einheit(name, texte, { eigenerBegriff = '', nurGlossarPruefen = [] } = 
     const treffer = [g.begriff, ...g.formen].find((w) => ganzesWort(w).test(plain));
     if (treffer) F(`${name}: Fachwort „${treffer}“ nicht markiert (mindestens einmal [[…]] setzen)`);
   }
+  // Bekannte Glossarbegriffe (auch mehrteilige wie „Vorbehalt des Gesetzes“) vor der Stammprüfung entfernen
+  let rest = `${klar(roh.replace(/\[\[[^\]]*\]\]/g, ' '))}\n${stempel}`;   // markierte Stellen sind erklärt
+  for (const w of glossarFormenLang) rest = rest.replace(new RegExp(`(?<![A-Za-zÄÖÜäöüß-])${esc(w)}(?![A-Za-zÄÖÜäöüß])`, 'gi'), ' ');
   for (const stamm of FACHSTAEMME) {
-    const m = `${plain}\n${stempel}`.match(new RegExp(`(?<![A-Za-zÄÖÜäöüß])${esc(stamm)}[a-zäöüß]*`, 'i'));
+    const m = rest.match(new RegExp(`(?<![A-Za-zÄÖÜäöüß])${esc(stamm)}[a-zäöüß]*`, 'i'));
     if (!m) continue;
     const wort = m[0];
     const abgedeckt = gMap[wort.toLowerCase()] || glossar.some((g) => [g.begriff, ...g.formen].some((f) => f.toLowerCase() === wort.toLowerCase()));

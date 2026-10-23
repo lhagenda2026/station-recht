@@ -4,11 +4,24 @@
   "begriff": "Bescheid",
   "formen": [
    "Bescheide",
+   "Bescheiden",
+   "Bescheides",
    "Bescheids",
-   "Bescheides"
+   "VA"
   ],
   "erklaerung": "Ein Brief vom Amt, der für dich verbindlich etwas entscheidet. Fachwort: Verwaltungsakt.",
-  "beispiel": "Die Kasse schreibt dir: „Ihr Antrag auf eine Brille ist bewilligt.“"
+  "beispiel": "Die Kasse schreibt dir: „Ihre neue Brille wird bezahlt.“"
+ },
+ {
+  "id": "verwaltungsakt",
+  "begriff": "Verwaltungsakt",
+  "formen": [
+   "Verwaltungsakts",
+   "Verwaltungsakte",
+   "Verwaltungsaktes"
+  ],
+  "erklaerung": "Die Entscheidung einer Behörde in einem einzelnen Fall, die für dich verbindlich ist. Im Alltag heißt das meist Bescheid.",
+  "beispiel": "Das Amt bewilligt dir Wohngeld. Das ist ein Verwaltungsakt."
  },
  {
   "id": "behoerde",
@@ -20,6 +33,121 @@
   "beispiel": "Das Bürgeramt, das Finanzamt oder die Krankenkasse."
  },
  {
+  "id": "verwaltung",
+  "begriff": "Verwaltung",
+  "formen": [
+   "Amt",
+   "Verwaltungen"
+  ],
+  "erklaerung": "Alle Stellen des Staates, die Gesetze im Alltag umsetzen. Sie machen keine Gesetze, sie wenden sie an.",
+  "beispiel": "Das Bürgeramt stellt deinen Ausweis aus."
+ },
+ {
+  "id": "gesetzgeber",
+  "begriff": "Gesetzgeber",
+  "formen": [
+   "Bundestag",
+   "Parlament",
+   "Parlamentsgesetz",
+   "Gesetzgebers"
+  ],
+  "erklaerung": "Wer Gesetze beschließt. In Deutschland sind das vor allem der Bundestag und die Landtage.",
+  "beispiel": "Der Bundestag stimmt über ein neues Gesetz ab."
+ },
+ {
+  "id": "grundgesetz",
+  "begriff": "Grundgesetz",
+  "formen": [
+   "GG",
+   "Verfassung"
+  ],
+  "erklaerung": "Die Verfassung Deutschlands. Sie steht über allen anderen Gesetzen.",
+  "beispiel": "Dort steht zum Beispiel: Die Würde des Menschen ist unantastbar."
+ },
+ {
+  "id": "grundrecht",
+  "begriff": "Grundrecht",
+  "formen": [
+   "Grundrechte",
+   "Grundrechten",
+   "Grundrechts",
+   "grundrechtlich",
+   "grundrechtlichen",
+   "grundrechtliche"
+  ],
+  "erklaerung": "Ein Recht aus dem Grundgesetz, das dich vor dem Staat schützt oder dir etwas garantiert.",
+  "beispiel": "Du darfst deinen Beruf frei wählen. Das ist ein Grundrecht."
+ },
+ {
+  "id": "sgb",
+  "begriff": "Sozialgesetzbuch",
+  "formen": [
+   "SGB"
+  ],
+  "erklaerung": "Die Sammlung der Gesetze zu Krankenkasse, Rente, Pflege und Sozialhilfe. Abgekürzt SGB.",
+  "beispiel": "Im fünften Buch (SGB V) steht, was die Krankenkasse zahlt."
+ },
+ {
+  "id": "sgg",
+  "begriff": "Sozialgerichtsgesetz",
+  "formen": [
+   "SGG"
+  ],
+  "erklaerung": "Das Gesetz, das regelt, wie man sich vor dem Sozialgericht wehrt. Abgekürzt SGG.",
+  "beispiel": "Dort steht, wie lange du Zeit für eine Klage hast."
+ },
+ {
+  "id": "gkv",
+  "begriff": "gesetzliche Krankenversicherung",
+  "formen": [
+   "GKV",
+   "gesetzlich versichert",
+   "gesetzliche Krankenkasse"
+  ],
+  "erklaerung": "Die Krankenversicherung, in der die meisten Menschen in Deutschland Pflichtmitglied sind. Abgekürzt GKV.",
+  "beispiel": "Wer angestellt ist, ist meist in der GKV, etwa bei einer AOK."
+ },
+ {
+  "id": "gba",
+  "begriff": "Gemeinsamer Bundesausschuss",
+  "formen": [
+   "G-BA",
+   "Gemeinsame Bundesausschuss",
+   "Gemeinsamen Bundesausschuss"
+  ],
+  "erklaerung": "Ein Gremium aus Ärzten, Kliniken und Krankenkassen. Es legt fest, welche Behandlungen die Kassen bezahlen.",
+  "beispiel": "Der G-BA entscheidet, ob eine neue Untersuchung Kassenleistung wird."
+ },
+ {
+  "id": "rechtsnorm",
+  "begriff": "Rechtsnorm",
+  "formen": [
+   "Norm",
+   "Normen",
+   "Rechtsnormen"
+  ],
+  "erklaerung": "Eine verbindliche Regel, die für viele Fälle und viele Menschen gilt. Gesetze bestehen aus solchen Regeln.",
+  "beispiel": "„Wer krank ist, hat Anspruch auf Behandlung.“ Das gilt für alle."
+ },
+ {
+  "id": "tatbestand",
+  "begriff": "Tatbestand",
+  "formen": [
+   "Tatbestands"
+  ],
+  "erklaerung": "Der Wenn-Teil einer Regel: die Voraussetzungen, die erfüllt sein müssen.",
+  "beispiel": "„Wenn du 18 bist …“ ist der Tatbestand."
+ },
+ {
+  "id": "rechtsfolge",
+  "begriff": "Rechtsfolge",
+  "formen": [
+   "Rechtsfolgen"
+  ],
+  "erklaerung": "Der Dann-Teil einer Regel: was passiert, wenn die Voraussetzungen erfüllt sind.",
+  "beispiel": "„… dann darfst du wählen“ ist die Rechtsfolge."
+ },
+ {
   "id": "ermessen",
   "begriff": "Ermessen",
   "formen": [
@@ -29,35 +157,899 @@
   "beispiel": "„Die Kasse kann einen Zuschuss zahlen.“ Sie muss also nicht."
  },
  {
-  "id": "ermessensnichtgebrauch",
-  "begriff": "Ermessensnichtgebrauch",
+  "id": "widerspruch",
+  "begriff": "Widerspruch",
   "formen": [
-   "Ermessensausfall"
+   "Widersprüche",
+   "Widerspruchs"
   ],
-  "erklaerung": "Die Behörde hätte eine Wahl, nutzt sie aber nicht. Oft glaubt sie fälschlich, sie müsse.",
-  "beispiel": "Der Hausmeister sagt: „Ich muss die Halle abschließen.“ Dabei dürfte er sie offen lassen."
+  "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss dann noch einmal prüfen.",
+  "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst: „Ich lege Widerspruch ein.“"
+ },
+ {
+  "id": "widerspruchsbescheid",
+  "begriff": "Widerspruchsbescheid",
+  "formen": [
+   "Widerspruchsbescheids"
+  ],
+  "erklaerung": "Die Antwort des Amts auf deinen Widerspruch. Danach kannst du klagen.",
+  "beispiel": "Die Kasse schreibt: „Wir bleiben bei unserer Entscheidung.“"
+ },
+ {
+  "id": "bekanntgabe",
+  "begriff": "Bekanntgabe",
+  "formen": [
+   "bekanntgegeben"
+  ],
+  "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
+  "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als angekommen."
+ },
+ {
+  "id": "frist",
+  "begriff": "Frist",
+  "formen": [
+   "Fristen"
+  ],
+  "erklaerung": "Eine Zeitspanne, in der du etwas tun musst. Danach ist es zu spät.",
+  "beispiel": "Die Rechnung ist innerhalb von 14 Tagen zu zahlen."
+ },
+ {
+  "id": "klage",
+  "begriff": "Klage",
+  "formen": [
+   "Klagen",
+   "klagen"
+  ],
+  "erklaerung": "Du bittest ein Gericht, einen Streit zu entscheiden.",
+  "beispiel": "Du gehst zum Sozialgericht, weil die Kasse nicht zahlen will."
+ },
+ {
+  "id": "sozialgericht",
+  "begriff": "Sozialgericht",
+  "formen": [
+   "Sozialgerichte",
+   "Sozialgerichts"
+  ],
+  "erklaerung": "Das Gericht für Streit mit Krankenkasse, Rentenversicherung oder Jobcenter.",
+  "beispiel": "Frau K. klagt dort gegen ihre Krankenkasse."
+ },
+ {
+  "id": "bverfg",
+  "begriff": "Bundesverfassungsgericht",
+  "formen": [
+   "BVerfG"
+  ],
+  "erklaerung": "Das höchste Gericht für Fragen zum Grundgesetz. Es sitzt in Karlsruhe.",
+  "beispiel": "Es kann ein Gesetz für ungültig erklären."
+ },
+ {
+  "id": "bsg",
+  "begriff": "Bundessozialgericht",
+  "formen": [
+   "BSG"
+  ],
+  "erklaerung": "Das höchste Gericht für Streit um Sozialleistungen. Es sitzt in Kassel.",
+  "beispiel": "Es entscheidet am Ende, ob die Kasse eine Therapie zahlen muss."
+ },
+ {
+  "id": "ruecknahme",
+  "begriff": "Rücknahme",
+  "formen": [],
+  "erklaerung": "Ein Bescheid wird aufgehoben, weil er schon beim Erlass falsch war.",
+  "beispiel": "Die Lehrerin hat sich bei der Note verrechnet und korrigiert sie."
+ },
+ {
+  "id": "widerruf",
+  "begriff": "Widerruf",
+  "formen": [],
+  "erklaerung": "Ein Bescheid wird aufgehoben, obwohl er beim Erlass richtig war. Meist gilt das nur für die Zukunft.",
+  "beispiel": "Die Schule erlaubte Handys und ändert später die Hausordnung."
+ },
+ {
+  "id": "anhoerung",
+  "begriff": "Anhörung",
+  "formen": [
+   "angehört",
+   "anhören"
+  ],
+  "erklaerung": "Bevor das Amt etwas Belastendes entscheidet, darfst du deine Sicht schildern.",
+  "beispiel": "Bevor der Trainer dich aus dem Team wirft, fragt er dich nach deiner Sicht."
+ },
+ {
+  "id": "verhaeltnismaessig",
+  "begriff": "verhältnismäßig",
+  "formen": [
+   "Verhältnismäßigkeit",
+   "unverhältnismäßig"
+  ],
+  "erklaerung": "Eine Maßnahme ist verhältnismäßig, wenn sie sinnvoll, nötig und nicht übertrieben ist.",
+  "beispiel": "Für einen Kratzer am Auto muss man nicht das ganze Auto neu lackieren."
+ },
+ {
+  "id": "satzung",
+  "begriff": "Satzung",
+  "formen": [
+   "Satzungen"
+  ],
+  "erklaerung": "Regeln, die sich eine Einrichtung mit eigener Selbstverwaltung selbst gibt, für ihre Mitglieder.",
+  "beispiel": "Ein Sportverein beschließt eigene Vereinsregeln."
+ },
+ {
+  "id": "rechtsverordnung",
+  "begriff": "Rechtsverordnung",
+  "formen": [
+   "Rechtsverordnungen",
+   "Verordnung",
+   "Verordnungen"
+  ],
+  "erklaerung": "Regeln, die die Regierung oder ein Ministerium erlässt. Ein Gesetz muss das vorher erlauben.",
+  "beispiel": "Ein Gesetz erlaubt dem Ministerium, die Prüfungsordnung für Ärzte zu schreiben."
+ },
+ {
+  "id": "koerperschaft",
+  "begriff": "Körperschaft",
+  "formen": [
+   "Körperschaft des öffentlichen Rechts",
+   "Körperschaften"
+  ],
+  "erklaerung": "Eine öffentliche Einrichtung mit Mitgliedern, die sich selbst verwaltet.",
+  "beispiel": "Eine Krankenkasse hat Mitglieder, das sind die Versicherten."
+ },
+ {
+  "id": "anstalt",
+  "begriff": "Anstalt",
+  "formen": [
+   "Anstalt des öffentlichen Rechts",
+   "Anstalten",
+   "AöR"
+  ],
+  "erklaerung": "Eine öffentliche Einrichtung mit Personal und Sachmitteln für einen Zweck. Sie hat Nutzer, keine Mitglieder.",
+  "beispiel": "Eine Sparkasse oder eine Uniklinik."
+ },
+ {
+  "id": "selbstverwaltung",
+  "begriff": "Selbstverwaltung",
+  "formen": [
+   "gemeinsame Selbstverwaltung"
+  ],
+  "erklaerung": "Eine Einrichtung regelt ihre Angelegenheiten selbst, der Staat schaut nur zu, ob alles rechtmäßig ist.",
+  "beispiel": "Die Ärztekammer macht ihre Berufsregeln selbst."
+ },
+ {
+  "id": "rechtsaufsicht",
+  "begriff": "Rechtsaufsicht",
+  "formen": [
+   "Aufsicht"
+  ],
+  "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Sie redet nicht in Zweckmäßigkeitsfragen hinein.",
+  "beispiel": "Das Ministerium prüft, ob der G-BA sich an die Gesetze hält."
+ },
+ {
+  "id": "rechtswidrig",
+  "begriff": "rechtswidrig",
+  "formen": [
+   "Rechtswidrigkeit"
+  ],
+  "erklaerung": "Etwas verstößt gegen das Recht, ist also falsch.",
+  "beispiel": "Ein Bescheid berechnet dein Geld mit einer falschen Zahl."
+ },
+ {
+  "id": "rechtmaessig",
+  "begriff": "rechtmäßig",
+  "formen": [
+   "Rechtmäßigkeit"
+  ],
+  "erklaerung": "Etwas hält sich an das Recht, ist also richtig.",
+  "beispiel": "Der Bescheid wurde korrekt berechnet."
+ },
+ {
+  "id": "klagefrist",
+  "begriff": "Klagefrist",
+  "formen": [
+   "Klagefristen"
+  ],
+  "erklaerung": "Die Zeit, in der du beim Gericht klagen musst. Meist ist das ein Monat.",
+  "beispiel": "Die Kasse schickt ihre Antwort auf deinen Widerspruch. Ab da läuft ein Monat."
+ },
+ {
+  "id": "ermessensfehler",
+  "begriff": "Ermessensfehler",
+  "formen": [],
+  "erklaerung": "Die Behörde hat ihre Wahl falsch genutzt. Dann ist die Entscheidung rechtswidrig.",
+  "beispiel": "Die Kasse lehnt ab, weil ihr der Antragsteller unsympathisch ist."
+ },
+ {
+  "id": "grundrechtstraeger",
+  "begriff": "Grundrechtsträger",
+  "formen": [],
+  "erklaerung": "Wer sich auf ein Grundrecht berufen darf. Manche Rechte gelten für jeden, manche nur für Deutsche.",
+  "beispiel": "Eine Ärztin aus Spanien darf sich auf die Menschenwürde berufen."
+ },
+ {
+  "id": "legitimationsniveau",
+  "begriff": "Legitimationsniveau",
+  "formen": [],
+  "erklaerung": "Wie stark eine Stelle vom Volk her abgesichert ist. Es muss insgesamt ausreichen.",
+  "beispiel": "Ein Minister ist vom Parlament bestimmt, das Parlament vom Volk gewählt."
+ },
+ {
+  "id": "oeffentliches-recht",
+  "begriff": "Öffentliches Recht",
+  "formen": [
+   "Öffentlichen Recht",
+   "öffentlich-rechtlich"
+  ],
+  "erklaerung": "Regeln, nach denen nur der Staat als Staat handeln darf.",
+  "beispiel": "Das Ordnungsamt verlangt ein Bußgeld fürs Falschparken."
+ },
+ {
+  "id": "privatrecht",
+  "begriff": "Privatrecht",
+  "formen": [],
+  "erklaerung": "Regeln, die für alle Menschen gleich gelten.",
+  "beispiel": "Du kaufst auf dem Flohmarkt ein Fahrrad."
+ },
+ {
+  "id": "traeger-hoheitlicher-gewalt",
+  "begriff": "Träger hoheitlicher Gewalt",
+  "formen": [
+   "Hoheitsträger"
+  ],
+  "erklaerung": "Jemand, der Staatsmacht ausübt, zum Beispiel ein Amt.",
+  "beispiel": "Die Polizei, die eine Straße sperrt."
+ },
+ {
+  "id": "auslegung",
+  "begriff": "Auslegung",
+  "formen": [],
+  "erklaerung": "Du klärst, was eine unklare Regel meint.",
+  "beispiel": "Ist ein Fahrrad ein Fahrzeug?"
+ },
+ {
+  "id": "wortlautgrenze",
+  "begriff": "Wortlautgrenze",
+  "formen": [
+   "Wortlaut",
+   "Wortsinn"
+  ],
+  "erklaerung": "Weiter als die Wörter reicht, darf Auslegung nicht gehen.",
+  "beispiel": "Eine Katze ist nie ein Hund."
+ },
+ {
+  "id": "rechtsfortbildung",
+  "begriff": "Rechtsfortbildung",
+  "formen": [],
+  "erklaerung": "Das Recht wird über den Text hinaus weitergedacht.",
+  "beispiel": "Eine Regel für Hunde gilt am Ende auch für Schweine."
+ },
+ {
+  "id": "analogie",
+  "begriff": "Analogie",
+  "formen": [],
+  "erklaerung": "Eine Regel wird auf einen ähnlichen, nicht geregelten Fall übertragen.",
+  "beispiel": "Die Kinderwagen-Ecke im Bus gilt auch für Rollatoren."
+ },
+ {
+  "id": "regelungsluecke",
+  "begriff": "Regelungslücke",
+  "formen": [
+   "planwidrige Regelungslücke",
+   "Lücke"
+  ],
+  "erklaerung": "Das Gesetz sagt zu einem Fall nichts. Planwidrig heißt: ungewollt.",
+  "beispiel": "Die Hausordnung vergisst einfach die Roller."
+ },
+ {
+  "id": "strafrecht",
+  "begriff": "Strafrecht",
+  "formen": [],
+  "erklaerung": "Regeln, die sagen, wofür man bestraft wird.",
+  "beispiel": "Wer klaut, kann bestraft werden."
+ },
+ {
+  "id": "vorrang-des-gesetzes",
+  "begriff": "Vorrang des Gesetzes",
+  "formen": [
+   "Vorrang"
+  ],
+  "erklaerung": "Die Verwaltung darf nicht gegen ein Gesetz handeln.",
+  "beispiel": "Sagt das Gesetz „kostenlos“, darf das Amt kein Geld nehmen."
+ },
+ {
+  "id": "vorbehalt-des-gesetzes",
+  "begriff": "Vorbehalt des Gesetzes",
+  "formen": [],
+  "erklaerung": "Die Verwaltung braucht ein Gesetz, das ihr das Handeln erlaubt.",
+  "beispiel": "Ohne Gesetz darf das Amt keine Abgabe verlangen."
+ },
+ {
+  "id": "ermaechtigung",
+  "begriff": "Ermächtigung",
+  "formen": [],
+  "erklaerung": "Ein Gesetz, das dem Amt etwas ausdrücklich erlaubt.",
+  "beispiel": "„Das Amt darf für Marktstände eine Gebühr nehmen.“"
+ },
+ {
+  "id": "wesentlichkeitstheorie",
+  "begriff": "Wesentlichkeitstheorie",
+  "formen": [],
+  "erklaerung": "Wichtige Fragen, vor allem für Grundrechte, muss das Parlament selbst regeln.",
+  "beispiel": "Eine Impfpflicht regelt kein Ministerium per Brief."
+ },
+ {
+  "id": "normenhierarchie",
+  "begriff": "Normenhierarchie",
+  "formen": [],
+  "erklaerung": "Die Rangfolge der Regeln: Verfassung, Gesetz, Verordnung, Satzung.",
+  "beispiel": "Die Satzung der Gemeinde darf dem Gesetz nicht widersprechen."
+ },
+ {
+  "id": "legitimationskette",
+  "begriff": "Legitimationskette",
+  "formen": [
+   "Legitimation",
+   "demokratische Legitimation"
+  ],
+  "erklaerung": "Die Kette vom Volk bis zum Amt, über die Staatsmacht ihren Rückhalt bekommt.",
+  "beispiel": "Volk wählt Parlament, Parlament trägt Regierung, Regierung bestellt Amtsleitung."
+ },
+ {
+  "id": "richtlinie",
+  "begriff": "Richtlinie",
+  "formen": [
+   "Richtlinien"
+  ],
+  "erklaerung": "Eine verbindliche Regel des G-BA unter dem Gesetz.",
+  "beispiel": "Die Arzneimittel-Richtlinie sagt, welche Mittel die Kasse zahlt."
+ },
+ {
+  "id": "patientenvertreter",
+  "begriff": "Patientenvertreter",
+  "formen": [
+   "Patientenvertreterin",
+   "Patientenvertreterinnen"
+  ],
+  "erklaerung": "Sie sprechen im G-BA für die Patienten, dürfen aber nicht abstimmen.",
+  "beispiel": "Eine Patientenvertreterin stellt einen Antrag und redet mit."
+ },
+ {
+  "id": "leistungserbringer",
+  "begriff": "Leistungserbringer",
+  "formen": [],
+  "erklaerung": "Wer Kranke behandelt oder versorgt, zum Beispiel Ärzte und Kliniken.",
+  "beispiel": "Deine Hausärztin ist eine Leistungserbringerin."
+ },
+ {
+  "id": "sozialstaatsprinzip",
+  "begriff": "Sozialstaatsprinzip",
+  "formen": [],
+  "erklaerung": "Das Ziel im Grundgesetz, für soziale Sicherheit und Gerechtigkeit zu sorgen.",
+  "beispiel": "Es gibt eine Krankenkasse und Hilfe für Menschen ohne Geld."
+ },
+ {
+  "id": "staatsziel",
+  "begriff": "Staatsziel",
+  "formen": [],
+  "erklaerung": "Ein Ziel, das der Staat verfolgen muss. Wie, ist offen.",
+  "beispiel": "„Für soziale Sicherheit sorgen“ ohne genaue Zahlen."
+ },
+ {
+  "id": "existenzminimum",
+  "begriff": "Existenzminimum",
+  "formen": [
+   "Mindestsicherung"
+  ],
+  "erklaerung": "Das, was ein Mensch mindestens zum Leben braucht.",
+  "beispiel": "Essen, Wohnung, Kleidung und ein wenig Teilhabe."
+ },
+ {
+  "id": "gestaltungsspielraum",
+  "begriff": "Gestaltungsspielraum",
+  "formen": [
+   "Spielraum"
+  ],
+  "erklaerung": "Freiheit, selbst zu entscheiden, wie man ein Ziel erreicht.",
+  "beispiel": "Das Parlament wählt, wie hoch eine Hilfe sein soll."
+ },
+ {
+  "id": "behoerdenleiter",
+  "begriff": "Behördenleiter",
+  "formen": [
+   "Behördenleiterin",
+   "Behördenleitung",
+   "Behördenleiters"
+  ],
+  "erklaerung": "Die Person an der Spitze eines Amts. Sie wird von oben eingesetzt und setzt selbst die Leute im Amt ein.",
+  "beispiel": "Die Chefin vom Bürgeramt stellt eine neue Sachbearbeiterin ein."
+ },
+ {
+  "id": "abwehrrecht",
+  "begriff": "Abwehrrecht",
+  "formen": [
+   "Abwehrrechte"
+  ],
+  "erklaerung": "Ein Grundrecht, das den Staat aus deinem Leben heraushält.",
+  "beispiel": "Die Polizei darf nicht einfach deine Wohnung durchsuchen."
+ },
+ {
+  "id": "teilhaberecht",
+  "begriff": "Teilhaberecht",
+  "formen": [
+   "Teilhabe",
+   "Teilhaberechte"
+  ],
+  "erklaerung": "Dein Recht, fair an einem Angebot des Staates beteiligt zu werden, das es schon gibt.",
+  "beispiel": "Du bekommst eine faire Chance auf einen der vorhandenen Studienplätze."
+ },
+ {
+  "id": "schutzpflicht",
+  "begriff": "Schutzpflicht",
+  "formen": [
+   "Schutzpflichten"
+  ],
+  "erklaerung": "Die Pflicht des Staates, dich vor Gefahren durch andere zu schützen.",
+  "beispiel": "Der Staat prüft Medikamente, bevor sie verkauft werden dürfen."
+ },
+ {
+  "id": "drittwirkung",
+  "begriff": "Drittwirkung",
+  "formen": [
+   "mittelbare Drittwirkung"
+  ],
+  "erklaerung": "Grundrechte wirken über die Auslegung der Gesetze auch in Streits unter Privaten.",
+  "beispiel": "Im Mietstreit beachtet das Gericht auch die Grundrechte der Mieterin."
+ },
+ {
+  "id": "untermassverbot",
+  "begriff": "Untermaßverbot",
+  "formen": [],
+  "erklaerung": "Der Staat darf nicht zu wenig schützen. Ein Mindestschutz muss sein.",
+  "beispiel": "Ein Schwimmbad ohne jede Aufsicht wäre zu wenig Schutz."
+ },
+ {
+  "id": "schutzbereich",
+  "begriff": "Schutzbereich",
+  "formen": [
+   "Schutzbereichs"
+  ],
+  "erklaerung": "Das Revier eines Grundrechts: wen es schützt und welches Verhalten.",
+  "beispiel": "Die Berufsfreiheit schützt Menschen bei ihrer Arbeit."
+ },
+ {
+  "id": "eingriff",
+  "begriff": "Eingriff",
+  "formen": [],
+  "erklaerung": "Der Staat macht dir etwas Geschütztes unmöglich oder deutlich schwerer.",
+  "beispiel": "Die Stadt verbietet dir, auf dem Marktplatz Musik zu machen."
+ },
+ {
+  "id": "schranke",
+  "begriff": "Schranke",
+  "formen": [
+   "Schranken"
+  ],
+  "erklaerung": "Die Grenze, bis zu der man ein Grundrecht einschränken darf.",
+  "beispiel": "Ein Gesetz darf Demos unter freiem Himmel Regeln geben."
+ },
+ {
+  "id": "gesetzesvorbehalt",
+  "begriff": "Gesetzesvorbehalt",
+  "formen": [],
+  "erklaerung": "Im Grundgesetz steht: Dieses Grundrecht darf durch ein Gesetz begrenzt werden.",
+  "beispiel": "Art. 8 II erlaubt Gesetze für Versammlungen unter freiem Himmel."
+ },
+ {
+  "id": "vorbehaltlos",
+  "begriff": "vorbehaltlos",
+  "formen": [
+   "vorbehaltlose",
+   "vorbehaltlosen"
+  ],
+  "erklaerung": "Ein Grundrecht ohne Gesetzesvorbehalt. Nur andere Werte aus dem Grundgesetz dürfen es begrenzen.",
+  "beispiel": "Die Kunstfreiheit: Ein einfaches Gesetz reicht nicht, um ein Bild zu verbieten."
+ },
+ {
+  "id": "schrankentrias",
+  "begriff": "Schrankentrias",
+  "formen": [],
+  "erklaerung": "Die drei Grenzen von Art. 2 I: Rechte anderer, verfassungsmäßige Ordnung, Sittengesetz.",
+  "beispiel": "Du darfst frei handeln, aber nicht die Rechte deiner Nachbarn verletzen."
+ },
+ {
+  "id": "verfassungsmaessige-ordnung",
+  "begriff": "verfassungsmäßige Ordnung",
+  "formen": [],
+  "erklaerung": "Alle Gesetze, die selbst mit dem Grundgesetz vereinbar sind.",
+  "beispiel": "Ein korrekt beschlossenes, faires Gesetz gehört dazu, ein verfassungswidriges nicht."
+ },
+ {
+  "id": "schranken-schranke",
+  "begriff": "Schranken-Schranke",
+  "formen": [
+   "Schranken-Schranken"
+  ],
+  "erklaerung": "Regeln, an die sich ein Gesetz halten muss, das ein Grundrecht begrenzt.",
+  "beispiel": "Ein Gesetz darf nicht nur für eine einzige Person gelten."
+ },
+ {
+  "id": "zitiergebot",
+  "begriff": "Zitiergebot",
+  "formen": [],
+  "erklaerung": "Ein Gesetz muss ausdrücklich nennen, welches Grundrecht es einschränkt (Art. 19 I 2).",
+  "beispiel": "Im Gesetz steht: „Art. 11 wird insoweit eingeschränkt.“"
+ },
+ {
+  "id": "berufsfreiheit",
+  "begriff": "Berufsfreiheit",
+  "formen": [],
+  "erklaerung": "Das Grundrecht aus Art. 12 I, einen Beruf frei zu wählen und auszuüben.",
+  "beispiel": "Du darfst entscheiden, ob du Bäckerin oder Busfahrer wirst."
+ },
+ {
+  "id": "berufsausuebung",
+  "begriff": "Berufsausübung",
+  "formen": [],
+  "erklaerung": "Wie du deinen Beruf machst: Zeiten, Werbung, Abläufe.",
+  "beispiel": "Der Friseur darf sonntags nicht öffnen."
+ },
+ {
+  "id": "berufswahl",
+  "begriff": "Berufswahl",
+  "formen": [],
+  "erklaerung": "Ob du einen Beruf überhaupt ergreifen darfst.",
+  "beispiel": "Ohne bestandene Prüfung darfst du nicht als Ärztin arbeiten."
+ },
+ {
+  "id": "approbation",
+  "begriff": "Approbation",
+  "formen": [],
+  "erklaerung": "Die staatliche Erlaubnis, als Arzt, Zahnarzt oder Apotheker zu arbeiten.",
+  "beispiel": "Nach Studium und Prüfung bekommt die Ärztin ihre Approbation."
+ },
+ {
+  "id": "beduerfnispruefung",
+  "begriff": "Bedürfnisprüfung",
+  "formen": [],
+  "erklaerung": "Der Staat prüft, ob es noch Bedarf für einen weiteren Betrieb gibt.",
+  "beispiel": "Eine neue Apotheke nur, wenn im Ort noch eine fehlt."
+ },
+ {
+  "id": "auffanggrundrecht",
+  "begriff": "Auffanggrundrecht",
+  "formen": [],
+  "erklaerung": "Ein Grundrecht, das alles schützt, wofür kein spezielles Grundrecht passt.",
+  "beispiel": "Tauben füttern schützt Art. 2 I, weil kein anderes Grundrecht passt."
+ },
+ {
+  "id": "willkuerverbot",
+  "begriff": "Willkürverbot",
+  "formen": [
+   "Willkür",
+   "Willkürformel",
+   "alte Formel"
+  ],
+  "erklaerung": "Der Staat darf nicht ohne jeden sachlichen Grund unterschiedlich behandeln.",
+  "beispiel": "Zuschuss nur für Vereine mit „A“ im Namen ist Willkür."
+ },
+ {
+  "id": "gleitende-skala",
+  "begriff": "gleitende Skala",
+  "formen": [],
+  "erklaerung": "Der Prüfmaßstab wird stufenlos strenger, je persönlicher der Unterschied ist.",
+  "beispiel": "Wie ein Lautstärkeregler, nicht wie ein Lichtschalter."
+ },
+ {
+  "id": "menschenwuerde",
+  "begriff": "Menschenwürde",
+  "formen": [],
+  "erklaerung": "Jeder Mensch hat einen eigenen Wert, den der Staat achten und schützen muss (Art. 1 I).",
+  "beispiel": "Niemand darf wie ein Gegenstand behandelt werden."
+ },
+ {
+  "id": "sozialstaat",
+  "begriff": "Sozialstaat",
+  "formen": [],
+  "erklaerung": "Der Staat muss für soziale Sicherheit und Ausgleich sorgen (Art. 20 I).",
+  "beispiel": "Wer kein Geld hat, bekommt Hilfe zum Leben."
+ },
+ {
+  "id": "nikolaus-beschluss",
+  "begriff": "Nikolaus-Beschluss",
+  "formen": [],
+  "erklaerung": "Eine Entscheidung des Bundesverfassungsgerichts vom 6.12.2005 zu Behandlungen außerhalb des Katalogs.",
+  "beispiel": "Bei tödlicher Krankheit ohne Standard-Behandlung kann die Kasse zahlen müssen."
+ },
+ {
+  "id": "mittelbare-staatsverwaltung",
+  "begriff": "mittelbare Staatsverwaltung",
+  "formen": [
+   "mittelbaren Staatsverwaltung"
+  ],
+  "erklaerung": "Der Staat erledigt eine Aufgabe nicht selbst, sondern durch eine eigene, selbstständige Stelle.",
+  "beispiel": "Die Krankenkasse zahlt, nicht das Ministerium."
+ },
+ {
+  "id": "realakt",
+  "begriff": "Realakt",
+  "formen": [
+   "Realakte",
+   "schlichtes Verwaltungshandeln"
+  ],
+  "erklaerung": "Die Behörde tut oder sagt etwas, regelt aber nichts verbindlich.",
+  "beispiel": "Die Kasse berät dich am Telefon."
+ },
+ {
+  "id": "oeffentlich-rechtlicher-vertrag",
+  "begriff": "öffentlich-rechtlicher Vertrag",
+  "formen": [
+   "öffentlich-rechtlichen Vertrag",
+   "öffentlich-rechtliche Vertrag"
+  ],
+  "erklaerung": "Ein Vertrag im öffentlichen Recht. Beide Seiten einigen sich, statt dass die Behörde allein bestimmt.",
+  "beispiel": "Die Kasse schließt mit einem Krankenhaus einen Versorgungsvertrag."
+ },
+ {
+  "id": "verwaltungsvorschrift",
+  "begriff": "Verwaltungsvorschrift",
+  "formen": [
+   "Verwaltungsvorschriften"
+  ],
+  "erklaerung": "Eine Regel nur für die Leute in der Behörde.",
+  "beispiel": "„Anträge stempeln wir ab Montag in Blau.“"
+ },
+ {
+  "id": "bestandskraft",
+  "begriff": "Bestandskraft",
+  "formen": [
+   "bestandskräftig"
+  ],
+  "erklaerung": "Ein Bescheid ist fest. Mit Widerspruch oder Klage kann man ihn nicht mehr angreifen.",
+  "beispiel": "Die Frist für den Widerspruch ist lange vorbei."
+ },
+ {
+  "id": "aufschiebende-wirkung",
+  "begriff": "aufschiebende Wirkung",
+  "formen": [],
+  "erklaerung": "Solange Widerspruch oder Klage laufen, darf die Behörde den Bescheid in der Regel nicht durchsetzen.",
+  "beispiel": "Du legst Widerspruch ein. Die Kasse muss mit dem Eintreiben warten."
+ },
+ {
+  "id": "dauerwirkung",
+  "begriff": "Dauerwirkung",
+  "formen": [],
+  "erklaerung": "Ein Bescheid wirkt nicht nur einmal, sondern laufend.",
+  "beispiel": "Die Kasse zahlt jeden Monat einen Zuschuss."
+ },
+ {
+  "id": "vertrauensschutz",
+  "begriff": "Vertrauensschutz",
+  "formen": [],
+  "erklaerung": "Wer auf einen Bescheid vertraut hat, wird beim Aufheben geschützt.",
+  "beispiel": "Du hast dich auf die Zusage verlassen und schon geplant."
+ },
+ {
+  "id": "heilung",
+  "begriff": "Heilung",
+  "formen": [
+   "heilen",
+   "geheilt"
+  ],
+  "erklaerung": "Ein Fehler im Ablauf zählt nicht mehr, weil die Behörde ihn nachgeholt hat.",
+  "beispiel": "Die Kasse schickt die vergessene Begründung nach."
+ },
+ {
+  "id": "nichtigkeit",
+  "begriff": "Nichtigkeit",
+  "formen": [
+   "nichtig",
+   "nichtiger"
+  ],
+  "erklaerung": "Ein Bescheid hat einen so schweren Fehler, dass er gar nicht gilt.",
+  "beispiel": "Wie ein Los, das nie gültig war: Es zählt von Anfang an nicht."
+ },
+ {
+  "id": "ermaechtigungsgrundlage",
+  "begriff": "Ermächtigungsgrundlage",
+  "formen": [
+   "Befugnisnorm"
+  ],
+  "erklaerung": "Ein Gesetz, das der Behörde ein bestimmtes Handeln erlaubt.",
+  "beispiel": "Ein Paragraf erlaubt der Kasse, einen falschen Bescheid aufzuheben."
+ },
+ {
+  "id": "beurteilungsspielraum",
+  "begriff": "Beurteilungsspielraum",
+  "formen": [],
+  "erklaerung": "Eine seltene Ausnahme: Die Behörde darf selbst bewerten, ob eine Bedingung erfüllt ist.",
+  "beispiel": "Nur die Prüfer bewerten, ob deine mündliche Prüfung „gut“ war."
+ },
+ {
+  "id": "planungsspielraum",
+  "begriff": "Planungsspielraum",
+  "formen": [],
+  "erklaerung": "Freiraum der Behörde, wenn sie einen großen Plan für viele aufstellt.",
+  "beispiel": "Das Land plant, wie viele Krankenhausbetten die Region braucht."
+ },
+ {
+  "id": "unbestimmter-rechtsbegriff",
+  "begriff": "unbestimmter Rechtsbegriff",
+  "formen": [
+   "unbestimmte Rechtsbegriffe",
+   "unbestimmten Rechtsbegriffen"
+  ],
+  "erklaerung": "Ein weites Wort im Gesetz, das man erst auslegen muss.",
+  "beispiel": "„Notwendig“, „angemessen“ oder „zumutbar“."
+ },
+ {
+  "id": "entschliessungsermessen",
+  "begriff": "Entschließungsermessen",
+  "formen": [],
+  "erklaerung": "Die Wahl, ob die Behörde überhaupt etwas tut.",
+  "beispiel": "Gehe ich heute essen oder nicht?"
+ },
+ {
+  "id": "auswahlermessen",
+  "begriff": "Auswahlermessen",
+  "formen": [],
+  "erklaerung": "Die Wahl, wie die Behörde handelt, also welches Mittel sie nimmt.",
+  "beispiel": "Pizza oder Sushi?"
+ },
+ {
+  "id": "gebundene-entscheidung",
+  "begriff": "gebundene Entscheidung",
+  "formen": [
+   "gebundenen Entscheidung",
+   "gebunden"
+  ],
+  "erklaerung": "Die Behörde hat keine Wahl. Sind die Bedingungen erfüllt, muss sie handeln.",
+  "beispiel": "„Versicherte haben Anspruch auf Krankenbehandlung.“"
+ },
+ {
+  "id": "rechtsanspruch",
+  "begriff": "Rechtsanspruch",
+  "formen": [
+   "Anspruch"
+  ],
+  "erklaerung": "Ein Recht, das du einfordern kannst, wenn die Bedingungen erfüllt sind.",
+  "beispiel": "Du bist krank und hast Anspruch auf Behandlung."
+ },
+ {
+  "id": "sollvorschrift",
+  "begriff": "Sollvorschrift",
+  "formen": [
+   "Sollvorschriften"
+  ],
+  "erklaerung": "Eine Regel mit „soll“: Normalerweise muss die Behörde so handeln.",
+  "beispiel": "„Die Kasse soll die Kosten übernehmen.“"
+ },
+ {
+  "id": "atypischer-fall",
+  "begriff": "atypischer Fall",
+  "formen": [
+   "atypischen Fall",
+   "Ausnahmefall"
+  ],
+  "erklaerung": "Ein ganz ungewöhnlicher Fall, an den das Gesetz nicht gedacht hat.",
+  "beispiel": "Jemand hat dieselbe Hilfe schon von einer anderen Stelle bekommen."
  },
  {
   "id": "ermessensueberschreitung",
   "begriff": "Ermessensüberschreitung",
   "formen": [],
-  "erklaerung": "Die Behörde wählt etwas, das das Gesetz gar nicht erlaubt. Sie geht über den erlaubten Rahmen hinaus.",
-  "beispiel": "Erlaubt sind bis zu 30 Prozent Kürzung. Die Behörde kürzt 50 Prozent."
+  "erklaerung": "Die Behörde wählt eine Folge außerhalb des Rahmens, den das Gesetz erlaubt.",
+  "beispiel": "Erlaubt sind 30 % Kürzung, die Behörde kürzt 50 %."
  },
  {
-  "id": "widerspruch",
-  "begriff": "Widerspruch",
+  "id": "ermessensfehlgebrauch",
+  "begriff": "Ermessensfehlgebrauch",
   "formen": [
-   "Widersprüche"
+   "Ermessensmissbrauch"
   ],
-  "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss seine Entscheidung dann noch einmal prüfen.",
-  "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst zurück: „Ich lege Widerspruch ein.“"
+  "erklaerung": "Die Behörde wählt aus Gründen, die nicht zum Zweck des Gesetzes passen.",
+  "beispiel": "Die Kasse lehnt ab, weil du dich über sie beschwert hast."
  },
  {
-  "id": "bekanntgabe",
-  "begriff": "Bekanntgabe",
+  "id": "ermessensnichtgebrauch",
+  "begriff": "Ermessensnichtgebrauch",
+  "formen": [
+   "Ermessensausfall"
+  ],
+  "erklaerung": "Die Behörde merkt nicht, dass sie wählen darf, oder wählt nicht.",
+  "beispiel": "Die Kasse schreibt „wir müssen“, obwohl das Gesetz „darf“ sagt."
+ },
+ {
+  "id": "ermessensreduzierung-auf-null",
+  "begriff": "Ermessensreduzierung auf Null",
+  "formen": [
+   "Reduzierung auf Null",
+   "Ermessensreduzierung"
+  ],
+  "erklaerung": "Von allen Wahlmöglichkeiten bleibt nur eine faire übrig. Dann muss die Behörde sie wählen.",
+  "beispiel": "Bei einem schwer kranken Kind wäre jede Absage unfair."
+ },
+ {
+  "id": "wiedereinsetzung",
+  "begriff": "Wiedereinsetzung",
   "formen": [],
-  "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
-  "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als bekanntgegeben."
+  "erklaerung": "Eine zweite Chance, wenn du eine Frist ohne eigene Schuld verpasst hast.",
+  "beispiel": "Du lagst im Krankenhaus und konntest den Brief nicht lesen."
+ },
+ {
+  "id": "widerspruchsverfahren",
+  "begriff": "Widerspruchsverfahren",
+  "formen": [
+   "Vorverfahren"
+  ],
+  "erklaerung": "Die Behörde prüft ihren Bescheid nach deinem Widerspruch noch einmal selbst.",
+  "beispiel": "Erst schaut die Kasse noch mal drauf, dann erst das Gericht."
+ },
+ {
+  "id": "rechtsbehelfsbelehrung",
+  "begriff": "Rechtsbehelfsbelehrung",
+  "formen": [
+   "Belehrung"
+  ],
+  "erklaerung": "Der Hinweis unter dem Bescheid, wie, wo und bis wann du dich wehren kannst.",
+  "beispiel": "„Sie können binnen eines Monats Widerspruch einlegen.“"
+ },
+ {
+  "id": "hoehere-gewalt",
+  "begriff": "höhere Gewalt",
+  "formen": [
+   "höherer Gewalt"
+  ],
+  "erklaerung": "Ein Ereignis, das niemand verhindern kann.",
+  "beispiel": "Ein Hochwasser zerstört die Post im ganzen Ort."
+ },
+ {
+  "id": "anfechtungsklage",
+  "begriff": "Anfechtungsklage",
+  "formen": [],
+  "erklaerung": "Eine Klage, mit der du einen Bescheid loswerden willst.",
+  "beispiel": "Die Kasse fordert Geld zurück, du willst das weghaben."
+ },
+ {
+  "id": "verpflichtungsklage",
+  "begriff": "Verpflichtungsklage",
+  "formen": [],
+  "erklaerung": "Eine Klage, mit der du einen guten Bescheid für dich erzwingen willst.",
+  "beispiel": "Die Kasse soll dir das Hörgerät bewilligen."
+ },
+ {
+  "id": "untaetigkeitsklage",
+  "begriff": "Untätigkeitsklage",
+  "formen": [],
+  "erklaerung": "Eine Klage, wenn die Behörde auf deinen Antrag gar nicht reagiert.",
+  "beispiel": "Dein Antrag liegt seit über einem Jahr ohne Antwort."
+ },
+ {
+  "id": "leistungsklage",
+  "begriff": "Leistungsklage",
+  "formen": [
+   "allgemeine Leistungsklage"
+  ],
+  "erklaerung": "Eine Klage, mit der du verlangst, dass die Behörde etwas tut oder lässt.",
+  "beispiel": "Die Kasse soll eine falsche Warnung löschen."
+ },
+ {
+  "id": "feststellungsklage",
+  "begriff": "Feststellungsklage",
+  "formen": [],
+  "erklaerung": "Eine Klage, mit der das Gericht nur feststellen soll, was gilt.",
+  "beispiel": "Das Gericht klärt, ob du bei einer Kasse versichert bist."
+ },
+ {
+  "id": "verfassungsbeschwerde",
+  "begriff": "Verfassungsbeschwerde",
+  "formen": [],
+  "erklaerung": "Du rufst das höchste Gericht an, weil der Staat deine Grundrechte verletzt.",
+  "beispiel": "Ein Gesetz trifft dich direkt, und du hältst es für falsch."
+ },
+ {
+  "id": "einzelfall",
+  "begriff": "Einzelfall",
+  "formen": [],
+  "erklaerung": "Ein ganz bestimmter Fall einer bestimmten Person.",
+  "beispiel": "Die Brille von Herrn Engel, nicht alle Brillen im Land."
  }
 ]

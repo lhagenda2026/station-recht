@@ -1,149 +1,1957 @@
 {
-  "regeln": [
+ "regeln": [
+  {
+   "id": "q54",
+   "titel": "Wie lange darf man sich wehren?",
+   "fachbegriff": "Widerspruchsfrist",
+   "einSatz": "Gegen einen [[Bescheid]] kannst du **einen Monat** lang [[Widerspruch]] einlegen. Die Uhr startet mit der [[Bekanntgabe]].",
+   "warum": "Die Kasse und der Bürger sollen irgendwann Klarheit haben. Ein Monat reicht zum Überlegen.",
+   "alltag": "Ein Online-Shop gibt dir 14 Tage, um eine Hose zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ein Monat.",
+   "erkennen": [
+    "Wann kam der Bescheid an? Bei Post im Inland gilt der **dritte Tag** nach dem Absenden.",
+    "Ab da läuft **ein Monat**.",
+    "Wohnt die Person im Ausland: **drei Monate**.",
+    "Ohne eigene Schuld zu spät? Dann gibt es eine zweite Chance: [[Wiedereinsetzung]]."
+   ],
+   "merktrick": "Drei Tage Post, dann ein Monat Zeit.",
+   "klausur": {
+    "bausteine": [
+     "Die Widerspruchsfrist beträgt einen Monat nach Bekanntgabe des VA (§ 84 I SGG).",
+     "Bei Bekanntgabe im Ausland gilt eine Frist von drei Monaten.",
+     "Bei Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
+     "Bei unverschuldeter Versäumung ist Wiedereinsetzung möglich (§ 67 SGG)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Die Widerspruchsfrist beträgt zwei Wochen nach Zugang.",
+      "warumNicht": "Falsch: Die Frist beträgt einen Monat ab Bekanntgabe, nicht zwei Wochen."
+     },
+     {
+      "text": "Die Frist beginnt erst mit dem Lesen des Bescheids.",
+      "warumNicht": "Falsch: Die Frist beginnt mit der Bekanntgabe. Bei Post im Inland ist das der dritte Tag nach Aufgabe zur Post."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q55",
+   "titel": "Wie lange darf man nach dem Widerspruch klagen?",
+   "fachbegriff": "Klagefrist",
+   "einSatz": "Nach der Antwort auf deinen [[Widerspruch]] hast du **einen Monat** Zeit für die [[Klage]] beim Gericht.",
+   "warum": "Erst prüft die Kasse den Fall noch mal selbst. Erst dann soll ein Gericht ran. Die Frist sorgt schnell für Klarheit.",
+   "alltag": "Im Café meckerst du erst beim Kellner. Hilft das nicht, gehst du zur Chefin. Die will das aber bald hören, nicht nach Jahren.",
+   "erkennen": [
+    "Gab es schon einen Widerspruch? Ohne ihn geht die Klage meist nicht.",
+    "Die Uhr startet mit der [[Bekanntgabe]] der Antwort auf den Widerspruch. Das ist der [[Widerspruchsbescheid]].",
+    "Im Inland: **ein Monat**. Im Ausland: **drei Monate**.",
+    "Nie ab dem ersten [[Bescheid]] rechnen!"
+   ],
+   "merktrick": "Erst Widerspruch, dann Gericht. Und wieder ein Monat Zeit.",
+   "klausur": {
+    "bausteine": [
+     "Die Klagefrist beträgt einen Monat nach Bekanntgabe des Widerspruchsbescheids (§ 87 SGG).",
+     "Bei Bekanntgabe im Ausland beträgt sie drei Monate.",
+     "Für Anfechtungs- und Verpflichtungsklage muss grundsätzlich das Widerspruchsverfahren vorangegangen sein (§ 78 SGG)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Die Klagefrist beginnt mit der Bekanntgabe des ersten Bescheids.",
+      "warumNicht": "Falsch: Die Klagefrist beginnt erst mit der Bekanntgabe des Widerspruchsbescheids."
+     },
+     {
+      "text": "Die Klage kann immer sofort ohne Widerspruch erhoben werden.",
+      "warumNicht": "Falsch: Vor Anfechtungs- und Verpflichtungsklage muss grundsätzlich das Widerspruchsverfahren laufen."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q56",
+   "titel": "Fehlt der Hinweis auf die Frist, gibt es mehr Zeit",
+   "fachbegriff": "Fehlerhafte Rechtsbehelfsbelehrung",
+   "einSatz": "Fehlt die [[Rechtsbehelfsbelehrung]] oder ist sie falsch, läuft der Monat nicht. Dann hast du **ein Jahr** Zeit.",
+   "warum": "Nur wer seine Rechte kennt, kann sie auch nutzen. Wer dich nicht richtig aufklärt, darf dich nicht mit einer kurzen Frist bestrafen.",
+   "alltag": "Der Trainer sagt dir nicht, bis wann du dich für das Turnier melden musst. Dann kann er dir kaum vorwerfen, du seist zu spät.",
+   "erkennen": [
+    "Steht unter dem Brief, wie du dich wehren kannst?",
+    "Steht da alles? Was du tun kannst, bei wem, wo, bis wann und wie.",
+    "Fehlt etwas oder ist etwas falsch: Der Monat läuft nicht. Es gilt **ein Jahr**.",
+    "Ausnahmen sind selten, etwa bei [[höherer Gewalt|höhere Gewalt]]."
+   ],
+   "merktrick": "Kein Hinweis, kein Monat: Dann zählt das ganze Jahr.",
+   "klausur": {
+    "bausteine": [
+     "Die Monatsfrist beginnt nicht zu laufen, wenn nicht ordnungsgemäß belehrt wurde.",
+     "Die Belehrung muss Rechtsbehelf, Stelle, Sitz, Frist und Form nennen.",
+     "Stattdessen gilt eine Jahresfrist ab Zustellung, Eröffnung oder Verkündung (§ 66 II SGG).",
+     "Ausnahmen: höhere Gewalt oder Belehrung, ein Rechtsbehelf sei nicht gegeben."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Bei fehlender Belehrung ist der Bescheid nichtig.",
+      "warumNicht": "Falsch: Die fehlende Belehrung betrifft nur die Frist. Statt eines Monats gilt ein Jahr."
+     },
+     {
+      "text": "Bei fehlender Belehrung gilt eine Frist von drei Monaten.",
+      "warumNicht": "Falsch: Drei Monate gelten bei Bekanntgabe im Ausland. Ohne richtige Belehrung gilt ein Jahr."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q57",
+   "titel": "Kann man gegen ein Gesetz Widerspruch einlegen?",
+   "fachbegriff": "Rechtsschutz gegen ein Gesetz",
+   "einSatz": "**Nein.** [[Widerspruch]] und [[Anfechtungsklage]] gehen nur gegen einen [[Bescheid]]. Ein Gesetz ist kein Bescheid.",
+   "warum": "Ein Gesetz gilt für alle und für viele Fälle. Ein Bescheid regelt nur deinen Fall. Gegen Gesetze gibt es andere Wege.",
+   "alltag": "Beim Fußball kannst du dich nicht beim Schiri über die Abseitsregel beschweren. Du kannst nur gegen seinen Pfiff in deinem Spiel angehen.",
+   "erkennen": [
+    "Gilt die Regel für alle? Dann ist es ein Gesetz, kein Bescheid.",
+    "Weg 1: Leistung beantragen. Lehnt die Kasse per Bescheid ab, geht Widerspruch und [[Klage]]. Das Gericht kann das Gesetz dem [[Bundesverfassungsgericht]] vorlegen.",
+    "Weg 2: [[Verfassungsbeschwerde]]. Das geht, wenn dich das Gesetz selbst, jetzt und direkt trifft."
+   ],
+   "merktrick": "Gegen das Gesetz kein Widerspruch. Erst den Bescheid holen, dann streiten.",
+   "klausur": {
+    "bausteine": [
+     "Nein: Widerspruch und Anfechtungsklage richten sich nur gegen Verwaltungsakte (§ 54 I, § 78 SGG).",
+     "Ein Gesetz ist eine abstrakt-generelle Rechtsnorm, kein VA.",
+     "Möglich ist eine Verfassungsbeschwerde, wenn R selbst, gegenwärtig und unmittelbar betroffen ist (Art. 93 I Nr. 4a GG).",
+     "Oder inzident: Leistung beantragen und gegen den Ablehnungsbescheid Widerspruch und Klage erheben.",
+     "Im Verfahren die Verfassungswidrigkeit rügen, ggf. Vorlage an das BVerfG (Art. 100 I GG)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Ja: Gegen das Gesetz ist die Anfechtungsklage vor dem Sozialgericht statthaft.",
+      "warumNicht": "Falsch: Die Anfechtungsklage richtet sich nur gegen Verwaltungsakte, nicht gegen Gesetze."
+     },
+     {
+      "text": "Ein Gesetz ist ein VA, weil es von einer Behörde stammt.",
+      "warumNicht": "Falsch: Ein Gesetz ist eine abstrakt-generelle Rechtsnorm und gerade kein VA."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q58",
+   "titel": "Klagen, um etwas Gutes von der Kasse zu bekommen",
+   "fachbegriff": "Verpflichtungsklage (Untätigkeitsklage)",
+   "einSatz": "Willst du einen guten [[Bescheid]] für dich erzwingen, nimmst du die [[Verpflichtungsklage]].",
+   "warum": "Nur die Absage loszuwerden reicht dir nicht. Du willst ja etwas bekommen. Das Gericht soll die Kasse dazu zwingen.",
+   "alltag": "Die Kita sagt dir den Platz ab. Den Brief zu zerreißen bringt dir keinen Platz. Du willst, dass die Kita dir den Platz gibt.",
+   "erkennen": [
+    "Kam eine **Absage**? Dann weg mit der Absage und her mit dem Bescheid: beides in einer Klage.",
+    "Macht die Kasse **gar nichts**? Dann [[Untätigkeitsklage]].",
+    "Geht es am Ende um **Geld**? Dann oft Absage weg und Zahlung her: [[Leistungsklage]]."
+   ],
+   "merktrick": "Absage weg, Bescheid her: Das ist die Verpflichtungsklage.",
+   "klausur": {
+    "bausteine": [
+     "Statthaft ist die Verpflichtungsklage (§ 54 I 1 Alt. 2 SGG).",
+     "Antrag: die Behörde zum Erlass des abgelehnten oder unterlassenen VA zu verpflichten.",
+     "Bei Ablehnung meist als kombinierte Anfechtungs- und Verpflichtungsklage.",
+     "Bei bloßem Nichtstun der Behörde: Untätigkeitsklage (§ 88 SGG).",
+     "Bei einer Geldleistung häufig kombinierte Anfechtungs- und Leistungsklage (§ 54 IV SGG)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Statthaft ist die reine Anfechtungsklage, denn sie verschafft die Leistung.",
+      "warumNicht": "Falsch: Die Anfechtungsklage hebt nur auf. Den Erlass des VA erreicht man mit der Verpflichtungsklage."
+     },
+     {
+      "text": "Bei bloßem Nichtstun der Behörde ist die Anfechtungsklage zu wählen.",
+      "warumNicht": "Falsch: Ohne Bescheid gibt es nichts anzufechten. Bei bloßem Nichtstun passt die Untätigkeitsklage."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q59",
+   "titel": "Gegen eine Warnung oder Auskunft klagen: Welche Klage?",
+   "fachbegriff": "Schlichtes Verwaltungshandeln (Realakt)",
+   "einSatz": "Eine Auskunft oder Warnung ist kein [[Bescheid]]. Darum passt die [[Anfechtungsklage]] hier nicht.",
+   "warum": "Die Anfechtungsklage hebt eine feste Regel für deinen Fall auf. Eine Warnung regelt aber nichts. Sie ist nur ein [[Realakt]].",
+   "alltag": "Der Bademeister ruft: „Vorsicht, der Boden ist glatt!“ Das ist ein Hinweis, kein Hausverbot. Ein Verbot gilt, ein Hinweis informiert nur.",
+   "erkennen": [
+    "Legt die [[Behörde]] etwas fest für dich? Nein? Dann ist es ein Realakt.",
+    "Beispiele: Auskunft, Warnung, Hinweis.",
+    "Soll sie etwas lassen oder rückgängig machen? Dann die allgemeine [[Leistungsklage]].",
+    "Daneben gibt es die [[Feststellungsklage]]."
+   ],
+   "merktrick": "Nichts geregelt, nichts anzufechten.",
+   "klausur": {
+    "bausteine": [
+     "Nein: Schlichtes Verwaltungshandeln (Realakt) ist kein VA, weil ihm die Regelung fehlt.",
+     "Beispiele sind Auskunft, Warnung und Hinweis.",
+     "Die Anfechtungsklage ist nur gegen VA statthaft (§ 54 I 1 SGG).",
+     "Statthaft sind die allgemeine Leistungsklage (§ 54 V SGG) oder die Feststellungsklage (§ 55 SGG).",
+     "Die Leistungsklage zielt auf Unterlassung, Beseitigung oder Folgenbeseitigung."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Ja: Jede Maßnahme einer Behörde kann mit der Anfechtungsklage angegriffen werden.",
+      "warumNicht": "Falsch: Die Anfechtungsklage ist nur gegen VA statthaft. Einem Realakt fehlt die Regelung."
+     },
+     {
+      "text": "Statthaft ist die Verpflichtungsklage, weil die Behörde etwas tun soll.",
+      "warumNicht": "Falsch: Die Verpflichtungsklage zielt auf den Erlass eines VA. Gegen Realakte hilft die allgemeine Leistungsklage."
+     }
+    ]
+   }
+  }
+ ],
+ "faelle": [
+  {
+   "id": "f054-0",
+   "regelId": "q54",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lindqvist, Imker",
+    "emoji": "🧑‍🌾"
+   },
+   "akte": "Die Kasse schickt Herrn Lindqvist einen [[Bescheid]] per Post. Er wohnt in Hamburg. Er möchte [[Widerspruch]] einlegen und fragt, wie viel Zeit er hat.",
+   "frage": "Wie lang ist die [[Frist]]?",
+   "optionen": [
     {
-      "id": "q54",
-      "titel": "Gegen einen Bescheid wehren: Wie lange hast du Zeit?",
-      "fachbegriff": "Widerspruchsfrist",
-      "einSatz": "Gegen einen [[Bescheid]] kannst du [[Widerspruch]] einlegen. Dafür hast du **einen Monat** ab der [[Bekanntgabe]].",
-      "warum": "Wer sich wehren will, braucht Zeit zum Nachdenken. Die Kasse muss aber irgendwann wissen, ob ihre Entscheidung feststeht.",
-      "alltag": "Ein Onlineshop gibt dir 14 Tage, um etwas zurückzuschicken. Danach ist der Kauf fest. Beim Bescheid ist es ähnlich, nur mit einem Monat.",
-      "erkennen": [
-        "Die Frist startet mit der Bekanntgabe, nicht mit dem Datum oben im Brief.",
-        "Kommt der Bescheid mit der Post, gilt er am dritten Tag nach dem Absenden als angekommen.",
-        "Von da an zählst du einen Monat weiter.",
-        "Wohnt die Person im Ausland, hat sie drei Monate."
-      ],
-      "merktrick": "Drei Tage Post, dann ein Monat Frist.",
-      "klausur": {
-        "bausteine": [
-          "Ein Monat nach Bekanntgabe des VA (§ 84 I SGG).",
-          "Im Ausland drei Monate.",
-          "Per Post im Inland gilt der VA am dritten Tag nach Aufgabe zur Post als bekanntgegeben (§ 37 II SGB X).",
-          "Bei unverschuldeter Versäumung: Wiedereinsetzung (§ 67 SGG)."
-        ],
-        "fallenBausteine": [
-          {
-            "text": "Zwei Wochen nach dem Datum des Bescheids.",
-            "warumNicht": "Die Frist ist ein Monat, und sie startet mit der Bekanntgabe, nicht mit dem Datum im Brief."
-          }
-        ]
-      }
-    }
-  ],
-  "faelle": [
-    {
-      "id": "f054-0",
-      "regelId": "q54",
-      "stufe": 0,
-      "format": "F1",
-      "figur": {
-        "name": "Luca, Pizzabäcker",
-        "emoji": "🧑‍🍳"
-      },
-      "akte": "Die Kasse schickt Luca am 3. Februar einen [[Bescheid]] per Post. Luca legt am 20. Februar [[Widerspruch]] ein.",
-      "frage": "Ist der Widerspruch rechtzeitig?",
-      "optionen": [
-        {
-          "text": "Rechtzeitig",
-          "richtig": true,
-          "warumNicht": null
-        },
-        {
-          "text": "Zu spät",
-          "richtig": false,
-          "warumNicht": "Luca hat einen Monat ab Bekanntgabe. Die Frist läuft bis zum 6. März. Der 20. Februar liegt weit davor."
-        }
-      ],
-      "ergebnis": "Lucas Widerspruch kommt rechtzeitig.",
-      "warum": "Der Bescheid gilt am dritten Tag nach dem Absenden als bekannt. Dann hat Luca einen Monat Zeit.",
-      "denkweg": [
-        "1. Abgeschickt am 3. Februar, plus drei Tage: [[Bekanntgabe]] am 6. Februar.",
-        "2. Ein Monat später endet die Frist: am 6. März.",
-        "3. Widerspruch am 20. Februar: rechtzeitig."
-      ],
-      "rechnung": "3. Februar + 3 Tage = 6. Februar. Plus ein Monat = 6. März. Der 20. Februar liegt davor."
+     "text": "Ein Monat",
+     "richtig": true,
+     "warumNicht": null
     },
     {
-      "id": "f054-1",
-      "regelId": "q54",
-      "stufe": 1,
-      "format": "F1",
-      "figur": {
-        "name": "Jana, Fitnesstrainerin",
-        "emoji": "🏋️‍♀️"
-      },
-      "akte": "Jana bekommt einen [[Bescheid]]. Die Kasse hat ihn am 10. Juni zur Post gegeben. Jana war lange im Urlaub und legt am 2. August [[Widerspruch]] ein.",
-      "frage": "Ist der Widerspruch rechtzeitig?",
-      "optionen": [
-        {
-          "text": "Zu spät",
-          "richtig": true,
-          "warumNicht": null
-        },
-        {
-          "text": "Rechtzeitig",
-          "richtig": false,
-          "warumNicht": "Die Frist lief am 13. Juli ab. Der 2. August ist danach. Der Urlaub allein verlängert die Frist nicht."
-        }
-      ],
-      "ergebnis": "Janas Widerspruch kommt zu spät.",
-      "warum": "Die Monatsfrist war schon im Juli vorbei. Ein Urlaub ändert die Frist nicht von selbst.",
-      "denkweg": [
-        "1. Abgeschickt am 10. Juni, plus drei Tage: [[Bekanntgabe]] am 13. Juni.",
-        "2. Ein Monat später endet die Frist: am 13. Juli.",
-        "3. Widerspruch am 2. August: zu spät."
-      ],
-      "rechnung": "10. Juni + 3 Tage = 13. Juni. Plus ein Monat = 13. Juli. Der 2. August liegt danach."
+     "text": "Zwei Wochen",
+     "richtig": false,
+     "warumNicht": "Zwei Wochen sind es beim Widerspruch nicht. Das Gesetz gibt einen Monat."
     },
     {
-      "id": "f054-2",
-      "regelId": "q54",
-      "stufe": 2,
-      "format": "F1",
-      "figur": {
-        "name": "Herr Petersen, Kapitän",
-        "emoji": "🧑‍✈️"
-      },
-      "akte": "Oben im [[Bescheid]] steht das Datum 1. September. Abgeschickt hat die Kasse ihn aber erst am 4. September. Herr Petersen legt am 5. Oktober [[Widerspruch]] ein.",
-      "frage": "Ist der Widerspruch rechtzeitig?",
-      "optionen": [
-        {
-          "text": "Rechtzeitig",
-          "richtig": true,
-          "warumNicht": null
-        },
-        {
-          "text": "Zu spät",
-          "richtig": false,
-          "warumNicht": "Das Datum oben im Brief zählt nicht. Es zählt das Absenden am 4. September. Die Frist läuft bis zum 7. Oktober."
-        }
-      ],
-      "ergebnis": "Herr Petersen ist rechtzeitig.",
-      "warum": "Die Frist startet mit der [[Bekanntgabe]]. Das Datum oben im Brief ist eine Falle.",
-      "denkweg": [
-        "1. Abgeschickt am 4. September, plus drei Tage: Bekanntgabe am 7. September.",
-        "2. Ein Monat später endet die Frist: am 7. Oktober.",
-        "3. Widerspruch am 5. Oktober: rechtzeitig."
-      ],
-      "rechnung": "4. September + 3 Tage = 7. September. Plus ein Monat = 7. Oktober. Der 5. Oktober liegt davor."
+     "text": "Drei Monate",
+     "richtig": false,
+     "warumNicht": "Drei Monate gelten nur, wenn der Bescheid im Ausland [[bekanntgegeben|bekanntgabe]] wird. Hamburg ist Inland."
     }
-  ],
-  "glossar": [
+   ],
+   "ergebnis": "Ein Monat ab Bekanntgabe des Bescheids.",
+   "warum": "Für den Widerspruch gilt im Inland immer ein Monat. Die Zeit startet, wenn der Bescheid als bekanntgegeben gilt.",
+   "denkweg": [
+    "1. Geht es um einen Widerspruch gegen einen Bescheid? Ja.",
+    "2. Wohnt er im Inland? Ja, Hamburg.",
+    "3. Also: ein Monat."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f054-1",
+   "regelId": "q54",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Rossi, Eisdielenbesitzerin",
+    "emoji": "🍦"
+   },
+   "akte": "Frau Rossi lebt seit Jahren in Italien. Die Kasse schickt ihr einen [[Bescheid]] dorthin. Sie will [[Widerspruch]] einlegen.",
+   "frage": "Wie viel Zeit hat sie?",
+   "optionen": [
     {
-      "id": "widerspruch",
-      "begriff": "Widerspruch",
-      "formen": [
-        "Widersprüche"
-      ],
-      "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss seine Entscheidung dann noch einmal prüfen.",
-      "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst zurück: „Ich lege Widerspruch ein.“"
+     "text": "Drei Monate",
+     "richtig": true,
+     "warumNicht": null
     },
     {
-      "id": "bekanntgabe",
-      "begriff": "Bekanntgabe",
-      "formen": [],
-      "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
-      "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als bekanntgegeben."
+     "text": "Ein Monat",
+     "richtig": false,
+     "warumNicht": "Ein Monat gilt im Inland. Bei [[Bekanntgabe]] im Ausland sind es drei Monate."
+    },
+    {
+     "text": "Ein Jahr",
+     "richtig": false,
+     "warumNicht": "Ein Jahr gibt es nur, wenn der Hinweis auf die [[Frist]] fehlt oder falsch ist. Davon steht hier nichts."
     }
-  ]
+   ],
+   "ergebnis": "Drei Monate, weil der Bescheid im Ausland bekanntgegeben wird.",
+   "warum": "Post ins Ausland dauert länger und man braucht mehr Zeit. Deshalb gibt das Gesetz dort drei Monate.",
+   "denkweg": [
+    "1. Widerspruch gegen einen Bescheid? Ja.",
+    "2. Bekanntgabe im Ausland? Ja, Italien.",
+    "3. Also: drei Monate."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f054-2",
+   "regelId": "q54",
+   "stufe": 2,
+   "format": "F4",
+   "figur": {
+    "name": "Herr Kaya, Bäcker mit Frühschicht",
+    "emoji": "🥐"
+   },
+   "akte": "Die Kasse bringt den [[Bescheid]] für Herrn Kaya am 16. Februar zur Post. Er wohnt in Bremen. Er backt jeden Tag ab drei Uhr früh und hat wenig Zeit. Sein [[Widerspruch]] kommt am 25. März an.",
+   "frage": "Ist der Widerspruch rechtzeitig?",
+   "datumA": {
+    "label": "Bescheid zur Post",
+    "datum": "2026-02-16"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-03-25"
+   },
+   "optionen": [
+    {
+     "text": "Nein, zu spät",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er hatte viel Arbeit",
+     "richtig": false,
+     "warumNicht": "Viel Arbeit ist keine fremde Schuld. Er hätte den Brief trotzdem rechtzeitig schicken können."
+    },
+    {
+     "text": "Ja, im Inland gelten drei Monate",
+     "richtig": false,
+     "warumNicht": "Drei Monate gelten nur bei [[Bekanntgabe]] im Ausland. Bremen ist Inland."
+    }
+   ],
+   "ergebnis": "Nein, zu spät: Die [[Frist]] war schon Mitte März vorbei.",
+   "rechnung": "Post am 16. Februar, bekanntgegeben am 19. Februar, Frist endet am 19. März. Der 25. März ist zu spät.",
+   "warum": "Der Bescheid gilt am dritten Tag als bekanntgegeben. Ab da hat er einen Monat. Viel Arbeit verlängert die Frist nicht.",
+   "denkweg": [
+    "1. Zur Post am 16. Februar, also gilt der 19. Februar als Tag der Bekanntgabe.",
+    "2. Ein Monat später ist der 19. März.",
+    "3. Der 25. März liegt danach: zu spät."
+   ],
+   "dauerSek": 32
+  },
+  {
+   "id": "f054-3",
+   "regelId": "q54",
+   "stufe": 3,
+   "format": "F4",
+   "figur": {
+    "name": "Frau Ortega, Surflehrerin auf Teneriffa",
+    "emoji": "🏄‍♀️"
+   },
+   "akte": "Frau Ortega wohnt auf Teneriffa in Spanien. Der [[Bescheid]] der Kasse gilt bei ihr am 11. Februar als [[bekanntgegeben|bekanntgabe]]. Ihr [[Widerspruch]] kommt am 20. April an. Kollege Ole ruft: „Zwei Monate! Viel zu spät!“",
+   "frage": "Hat Ole recht?",
+   "datumA": {
+    "label": "Bekanntgabe in Spanien",
+    "datum": "2026-02-11"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-04-20"
+   },
+   "optionen": [
+    {
+     "text": "Nein, rechtzeitig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, ein Monat ist vorbei",
+     "richtig": false,
+     "warumNicht": "Ein Monat gilt nur im Inland. Wer im Ausland den Bescheid bekommt, hat drei Monate."
+    },
+    {
+     "text": "Ja, nur mit Wiedereinsetzung",
+     "richtig": false,
+     "warumNicht": "Eine zweite Chance braucht sie gar nicht. Die [[Frist]] läuft ja noch."
+    }
+   ],
+   "ergebnis": "Nein, Ole irrt: Im Ausland gelten drei Monate, also ist sie rechtzeitig.",
+   "rechnung": "Bekanntgabe am 11. Februar, drei Monate später ist der 11. Mai. Der 20. April liegt davor.",
+   "warum": "Bei Bekanntgabe im Ausland gibt das Gesetz drei Monate statt einem. Frau Ortega ist also noch gut in der Zeit.",
+   "denkweg": [
+    "1. Wo wurde der Bescheid bekanntgegeben? In Spanien, also im Ausland.",
+    "2. Frist: drei Monate, bis zum 11. Mai.",
+    "3. Der 20. April liegt davor: rechtzeitig."
+   ],
+   "dauerSek": 32
+  },
+  {
+   "id": "f054-4",
+   "regelId": "q54",
+   "stufe": 2,
+   "format": "F4",
+   "figur": {
+    "name": "Herr Nowak, Dachdecker",
+    "emoji": "👷"
+   },
+   "akte": "Die Kasse bringt den [[Bescheid]] für Herrn Nowak am Montag, 9. Februar, zur Post. Er wohnt in Köln. Sein [[Widerspruch]] kommt am 10. März an.",
+   "frage": "Ist der Widerspruch rechtzeitig?",
+   "datumA": {
+    "label": "Bescheid zur Post",
+    "datum": "2026-02-09"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-03-10"
+   },
+   "optionen": [
+    {
+     "text": "Ja, rechtzeitig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, zu spät",
+     "richtig": false,
+     "warumNicht": "Ein Monat ab dem 9. Februar wäre zu kurz gerechnet. Die [[Frist]] startet erst mit der [[Bekanntgabe]] am dritten Tag."
+    },
+    {
+     "text": "Es kommt auf den Wochentag an",
+     "richtig": false,
+     "warumNicht": "Hier endet die Frist erst nach dem 10. März. Der Wochentag ändert daran nichts."
+    }
+   ],
+   "ergebnis": "Ja, rechtzeitig: Die Frist läuft bis zum 12. März.",
+   "rechnung": "Post am 9. Februar, bekanntgegeben am 12. Februar, ein Monat später: 12. März. Der 10. März liegt davor.",
+   "warum": "Die Frist beginnt nicht am Tag der Post, sondern mit der Bekanntgabe am dritten Tag. Ab da läuft ein Monat.",
+   "denkweg": [
+    "1. Zur Post am 9. Februar, also gilt der 12. Februar als Tag der Bekanntgabe.",
+    "2. Ein Monat später ist der 12. März.",
+    "3. Der 10. März liegt davor: rechtzeitig."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f054-7",
+   "regelId": "q54",
+   "stufe": 1,
+   "format": "F4",
+   "figur": {
+    "name": "Frau Kowalski, Schwimmlehrerin",
+    "emoji": "🏊‍♀️"
+   },
+   "akte": "Die Kasse bringt den [[Bescheid]] für Frau Kowalski am Freitag, 8. Mai, zur Post. Sie wohnt in Dortmund. Ihr [[Widerspruch]] kommt am 2. Juni an.",
+   "frage": "Ist der Widerspruch rechtzeitig?",
+   "datumA": {
+    "label": "Bescheid zur Post",
+    "datum": "2026-05-08"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-06-02"
+   },
+   "optionen": [
+    {
+     "text": "Ja, rechtzeitig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, nur zwei Wochen Zeit",
+     "richtig": false,
+     "warumNicht": "Zwei Wochen gibt es beim Widerspruch nicht. Das Gesetz gibt einen Monat."
+    },
+    {
+     "text": "Nur mit Wiedereinsetzung",
+     "richtig": false,
+     "warumNicht": "Eine zweite Chance ([[Wiedereinsetzung]]) braucht sie nicht. Die [[Frist]] läuft noch."
+    }
+   ],
+   "ergebnis": "Ja, rechtzeitig: Die Frist läuft bis zum 11. Juni.",
+   "rechnung": "Post am 8. Mai, bekanntgegeben am 11. Mai, ein Monat später: 11. Juni. Der 2. Juni liegt davor.",
+   "warum": "Der Bescheid gilt am dritten Tag nach der Post als [[bekanntgegeben|bekanntgabe]]. Ab da hat sie einen Monat.",
+   "denkweg": [
+    "1. Zur Post am 8. Mai, also gilt der 11. Mai als Tag der Bekanntgabe.",
+    "2. Ein Monat später ist der 11. Juni.",
+    "3. Der 2. Juni liegt davor: rechtzeitig."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f054-5",
+   "regelId": "q54",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat die Schritte der Fristberechnung durcheinandergeworfen.",
+   "frage": "Bring die Schritte in die richtige Reihenfolge.",
+   "reihenfolge": [
+    "Bescheid geht zur Post",
+    "Am dritten Tag gilt er als bekanntgegeben",
+    "Jetzt läuft ein Monat",
+    "Am Ende des Monats ist die Frist vorbei"
+   ],
+   "ergebnis": "Post, dann [[Bekanntgabe]] am dritten Tag, dann ein Monat [[Frist]].",
+   "warum": "Die Monatsfrist startet erst mit der Bekanntgabe. Deshalb kommt der dritte Tag vor dem Monat.",
+   "denkweg": [
+    "1. Erst wird der Brief verschickt.",
+    "2. Am dritten Tag gilt er als angekommen.",
+    "3. Ab da zählt man einen Monat."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f054-6",
+   "regelId": "q54",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die [[Frist]] für den [[Widerspruch]]. Mit Beginn, Ausland und zweiter Chance, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ein Monat ab Bekanntgabe, im Ausland drei Monate. Post im Inland gilt am dritten Tag als [[bekanntgegeben|bekanntgabe]]. Bei unverschuldeter Versäumung hilft [[Wiedereinsetzung]].",
+   "warum": "Die Prüfung will die [[Frist]], den Start und die Ausnahmen. Genau in dieser Reihenfolge.",
+   "denkweg": [
+    "1. Zuerst die Frist: ein Monat.",
+    "2. Dann Ausland und den dritten Tag.",
+    "3. Zum Schluss die zweite Chance."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f055-0",
+   "regelId": "q55",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Haas, Hebamme",
+    "emoji": "👩‍⚕️"
+   },
+   "akte": "Frau Haas hat [[Widerspruch]] eingelegt. Die Kasse bleibt bei ihrer Absage und schickt den [[Widerspruchsbescheid]]. Frau Haas wohnt in Leipzig und will nun [[klagen|klage]].",
+   "frage": "Wie viel Zeit hat sie für die Klage?",
+   "optionen": [
+    {
+     "text": "Ein Monat",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein Jahr",
+     "richtig": false,
+     "warumNicht": "Ein Jahr gilt nur, wenn der Hinweis auf die [[Frist]] fehlt oder falsch ist. Davon steht hier nichts."
+    }
+   ],
+   "ergebnis": "Ein Monat ab [[Bekanntgabe]] des Widerspruchsbescheids.",
+   "warum": "Für die Klage gilt im Inland ein Monat. Die Uhr startet mit der Antwort auf den Widerspruch.",
+   "denkweg": [
+    "1. Gab es schon einen Widerspruch? Ja.",
+    "2. Wohnt sie im Inland? Ja, Leipzig.",
+    "3. Also: ein Monat für die Klage."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f055-1",
+   "regelId": "q55",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brodersen, Leuchtturmwärter",
+    "emoji": "🗼"
+   },
+   "akte": "Die Kasse lehnt eine Reha für Herrn Brodersen ab. Er ist sauer. Er will **sofort** zum Gericht, ohne vorher [[Widerspruch]] einzulegen.",
+   "frage": "Was rätst du ihm?",
+   "optionen": [
+    {
+     "text": "Erst Widerspruch einlegen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Gleich klagen",
+     "richtig": false,
+     "warumNicht": "Vor dieser [[Klage]] muss meist erst der Widerspruch laufen. Die Kasse soll sich zuerst selbst prüfen."
+    },
+    {
+     "text": "Ein Jahr abwarten",
+     "richtig": false,
+     "warumNicht": "Warten bringt nichts. Er hat nur einen Monat für den Widerspruch."
+    }
+   ],
+   "ergebnis": "Erst Widerspruch einlegen, dann kann er klagen.",
+   "warum": "Vor einer Klage gegen eine Absage steht meist das [[Widerspruchsverfahren]]. Erst danach läuft die [[Klagefrist]].",
+   "denkweg": [
+    "1. Gibt es schon eine Antwort auf einen Widerspruch? Nein.",
+    "2. Vor der Klage braucht es meist den Widerspruch.",
+    "3. Also erst Widerspruch."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f055-2",
+   "regelId": "q55",
+   "stufe": 2,
+   "format": "F4",
+   "figur": {
+    "name": "Frau Weber, Busfahrerin",
+    "emoji": "🚌"
+   },
+   "akte": "Der erste [[Bescheid]] kam schon im Mai. Frau Weber legte [[Widerspruch]] ein. Am 21. August bringt die Kasse den [[Widerspruchsbescheid]] zur Post. Frau Weber wohnt in Kassel. Ihre [[Klage]] kommt am 22. September beim Gericht an.",
+   "frage": "Ist die Klage rechtzeitig?",
+   "datumA": {
+    "label": "Widerspruchsbescheid zur Post",
+    "datum": "2026-08-21"
+   },
+   "datumB": {
+    "label": "Klage kommt an",
+    "datum": "2026-09-22"
+   },
+   "optionen": [
+    {
+     "text": "Ja, rechtzeitig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, ab der Post gerechnet",
+     "richtig": false,
+     "warumNicht": "Die [[Frist]] startet nicht am Tag der Post. Sie startet am dritten Tag danach, mit der [[Bekanntgabe]]."
+    },
+    {
+     "text": "Nein, ab dem Bescheid im Mai",
+     "richtig": false,
+     "warumNicht": "Der erste Bescheid zählt hier nicht. Die [[Klagefrist]] startet mit der Antwort auf den Widerspruch."
+    }
+   ],
+   "ergebnis": "Ja, rechtzeitig: Die Frist läuft bis zum 24. September.",
+   "rechnung": "Post am 21. August, bekanntgegeben am 24. August, Frist endet am 24. September. Der 22. September liegt davor.",
+   "warum": "Die Klagefrist startet mit der Bekanntgabe des Widerspruchsbescheids. Der Bescheid aus dem Mai ist nur Ablenkung.",
+   "denkweg": [
+    "1. Welcher Brief zählt? Der Widerspruchsbescheid, nicht der aus dem Mai.",
+    "2. Bekanntgabe am dritten Tag: 24. August. Frist bis 24. September.",
+    "3. Der 22. September liegt davor: rechtzeitig."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f055-3",
+   "regelId": "q55",
+   "stufe": 3,
+   "format": "F4",
+   "figur": {
+    "name": "Herr de Vries, Tulpenzüchter",
+    "emoji": "🌷"
+   },
+   "akte": "Herr de Vries wohnt in den Niederlanden. Sein [[Widerspruchsbescheid]] gilt dort am 13. Januar als [[bekanntgegeben|bekanntgabe]]. Seine [[Klage]] kommt am 21. April an. Er sagt: „Im Ausland hat man doch ein Jahr!“",
+   "frage": "Ist die Klage rechtzeitig?",
+   "datumA": {
+    "label": "Bekanntgabe im Ausland",
+    "datum": "2026-01-13"
+   },
+   "datumB": {
+    "label": "Klage kommt an",
+    "datum": "2026-04-21"
+   },
+   "optionen": [
+    {
+     "text": "Nein, zu spät",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, im Ausland gilt ein Jahr",
+     "richtig": false,
+     "warumNicht": "Im Ausland gelten drei Monate, kein Jahr. Ein Jahr gibt es nur bei fehlendem oder falschem Hinweis auf die [[Frist]]."
+    },
+    {
+     "text": "Ja, ab Eingang des Widerspruchs",
+     "richtig": false,
+     "warumNicht": "Die Frist startet nicht mit dem [[Widerspruch]]. Sie startet mit der Bekanntgabe des Widerspruchsbescheids."
+    }
+   ],
+   "ergebnis": "Nein, zu spät: Drei Monate waren am 13. April vorbei.",
+   "rechnung": "Bekanntgabe am 13. Januar, drei Monate später ist der 13. April. Der 21. April ist zu spät.",
+   "warum": "Im Ausland gibt es drei Monate statt einem. Ein ganzes Jahr gibt es dort aber nicht.",
+   "denkweg": [
+    "1. Bekanntgabe im Ausland: drei Monate.",
+    "2. Ab 13. Januar endet die Frist am 13. April.",
+    "3. Der 21. April liegt danach: zu spät."
+   ],
+   "dauerSek": 32
+  },
+  {
+   "id": "f055-4",
+   "regelId": "q55",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich ein [[Widerspruchsbescheid]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die Antwort der [[Behörde]] auf einen [[Widerspruch]]. Ab ihr läuft der Monat für die [[Klage]].",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der erste Brief der [[Behörde|verwaltung]], gegen den man sich wehrt.",
+     "richtig": false,
+     "warumNicht": "Das ist der erste [[Bescheid]]. Der Widerspruchsbescheid kommt erst nach dem Widerspruch."
+    },
+    {
+     "text": "Das Urteil des Gerichts über den Streit.",
+     "richtig": false,
+     "warumNicht": "Das Urteil kommt vom Gericht. Den Widerspruchsbescheid schreibt die Behörde selbst."
+    }
+   ],
+   "ergebnis": "Die Antwort der Behörde auf den Widerspruch.",
+   "warum": "Erst kommt der Bescheid, dann der Widerspruch, dann die Antwort darauf. Diese Antwort startet die [[Klagefrist]].",
+   "denkweg": [
+    "1. Wer schreibt ihn? Die Behörde.",
+    "2. Wann? Nach dem Widerspruch.",
+    "3. Also ist es die Antwort auf den Widerspruch."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f055-6",
+   "regelId": "q55",
+   "stufe": 1,
+   "format": "F4",
+   "figur": {
+    "name": "Herr Demir, Taxifahrer",
+    "emoji": "🚕"
+   },
+   "akte": "Am 16. Oktober bringt die Kasse den [[Widerspruchsbescheid]] für Herrn Demir zur Post. Er wohnt in Mainz. Der Hinweis, wie er klagen kann, ist richtig und vollständig. Seine [[Klage]] kommt am 30. November an.",
+   "frage": "Ist die Klage rechtzeitig?",
+   "datumA": {
+    "label": "Widerspruchsbescheid zur Post",
+    "datum": "2026-10-16"
+   },
+   "datumB": {
+    "label": "Klage kommt an",
+    "datum": "2026-11-30"
+   },
+   "optionen": [
+    {
+     "text": "Nein, zu spät",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, für Klagen gilt ein Jahr",
+     "richtig": false,
+     "warumNicht": "Ein Jahr gilt nur, wenn der Hinweis auf die [[Frist]] fehlt oder falsch ist. Hier war er richtig."
+    },
+    {
+     "text": "Ja, im Inland gelten drei Monate",
+     "richtig": false,
+     "warumNicht": "Drei Monate gelten nur bei [[Bekanntgabe]] im Ausland. Mainz ist Inland."
+    }
+   ],
+   "ergebnis": "Nein, zu spät: Die Frist war am 19. November vorbei.",
+   "rechnung": "Post am 16. Oktober, bekanntgegeben am 19. Oktober, Frist endet am 19. November. Der 30. November ist zu spät.",
+   "warum": "Für die Klage gilt im Inland ein Monat. Er startet mit der Bekanntgabe des Widerspruchsbescheids.",
+   "denkweg": [
+    "1. Bekanntgabe am dritten Tag: 19. Oktober.",
+    "2. Ein Monat später ist der 19. November.",
+    "3. Der 30. November liegt danach: zu spät."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f055-5",
+   "regelId": "q55",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die [[Frist]] für die [[Klage]]. Und was vorher passiert sein muss.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Ein Monat ab [[Bekanntgabe]] des [[Widerspruchsbescheids|widerspruchsbescheid]], im Ausland drei Monate. Vorher muss meist das [[Widerspruchsverfahren]] laufen.",
+   "warum": "Die Prüfung will [[Frist]], Startpunkt und das Vorverfahren. Der Startpunkt ist der Widerspruchsbescheid, nicht der erste [[Bescheid]].",
+   "denkweg": [
+    "1. Frist und Startpunkt nennen.",
+    "2. Dann das Ausland.",
+    "3. Zum Schluss: erst [[Widerspruch]], dann [[Klage]]."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f056-0",
+   "regelId": "q56",
+   "stufe": 0,
+   "format": "F4",
+   "figur": {
+    "name": "Frau Yıldız, Floristin",
+    "emoji": "💐"
+   },
+   "akte": "Die Kasse lehnt einen Zuschuss für Frau Yıldız ab. Sie bringt den [[Bescheid]] am 6. Februar zur Post. Unter dem Brief steht **kein** Hinweis, wie sie sich wehren kann. Ihr [[Widerspruch]] kommt am 8. April an.",
+   "frage": "Ist der Widerspruch rechtzeitig?",
+   "datumA": {
+    "label": "Bescheid zur Post",
+    "datum": "2026-02-06"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-04-08"
+   },
+   "optionen": [
+    {
+     "text": "Ja, sie hat ein Jahr Zeit",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, ein Monat ist vorbei",
+     "richtig": false,
+     "warumNicht": "Der Monat läuft gar nicht los, wenn die [[Rechtsbehelfsbelehrung]] fehlt. Dann gilt ein Jahr."
+    },
+    {
+     "text": "Nur mit Wiedereinsetzung",
+     "richtig": false,
+     "warumNicht": "Eine zweite Chance ([[Wiedereinsetzung]]) braucht sie nicht. Die Frist von einem Jahr läuft noch."
+    }
+   ],
+   "ergebnis": "Nicht zu spät: Ohne Hinweis auf die [[Frist]] hat sie ein Jahr.",
+   "rechnung": "Post am 6. Februar, [[bekanntgegeben|bekanntgabe]] am 9. Februar. Ohne Hinweis gilt ein Jahr, also bis Februar 2027. Der 8. April 2026 liegt davor.",
+   "warum": "Fehlt die Belehrung, startet der Monat nicht. Stattdessen gibt es ein Jahr Zeit.",
+   "denkweg": [
+    "1. Steht unter dem Brief, wie man sich wehrt? Nein.",
+    "2. Dann läuft kein Monat, sondern ein Jahr ab dem 9. Februar.",
+    "3. Der 8. April liegt weit davor: rechtzeitig."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f056-1",
+   "regelId": "q56",
+   "stufe": 1,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Sommer, Zirkusclown",
+    "emoji": "🤡"
+   },
+   "akte": "Herr Sommer zeigt dir den Hinweis am Ende seines [[Bescheids|bescheid]]. Er lacht nicht.",
+   "frage": "Wo steckt der Fehler im Hinweis? Tippe ihn an.",
+   "markierbar": [
+    {
+     "text": "Gegen diesen Bescheid können Sie Widerspruch einlegen.",
+     "fehler": false,
+     "warumNicht": "Das stimmt: Der Weg heißt [[Widerspruch]]."
+    },
+    {
+     "text": " Der Widerspruch ist bei der Gesundheitskasse Nordstadt einzulegen,",
+     "fehler": false,
+     "warumNicht": "Die richtige Stelle ist genannt."
+    },
+    {
+     "text": " Hafenstraße 5, 24103 Kiel,",
+     "fehler": false,
+     "warumNicht": "Auch der Sitz der Stelle ist genannt."
+    },
+    {
+     "text": " und zwar innerhalb von **zwei Wochen**",
+     "fehler": true
+    },
+    {
+     "text": " schriftlich oder vor Ort zur Niederschrift.",
+     "fehler": false,
+     "warumNicht": "Die Form ist genannt. Das ist in Ordnung."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Frist falsch: Es gilt ein Jahr",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Frist falsch: Es gilt ein Monat",
+     "richtig": false,
+     "warumNicht": "Ein Monat würde nur bei richtigem Hinweis laufen. Ist der Hinweis falsch, gilt ein Jahr."
+    }
+   ],
+   "ergebnis": "Die [[Frist]] ist falsch angegeben. Deshalb hat Herr Sommer ein Jahr Zeit.",
+   "warum": "Richtig wäre ein Monat. Ein falscher Hinweis startet die Monatsfrist nicht. Dann gilt ein Jahr.",
+   "denkweg": [
+    "1. Prüfe: was, bei wem, wo, bis wann, wie.",
+    "2. „Zwei Wochen“ ist falsch, richtig wäre ein Monat.",
+    "3. Falscher Hinweis: Es gilt ein Jahr."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f056-2",
+   "regelId": "q56",
+   "stufe": 2,
+   "format": "F4",
+   "figur": {
+    "name": "Herr Okonkwo, Fahrradkurier",
+    "emoji": "🚴🏿"
+   },
+   "akte": "Am 6. März bringt die Kasse den [[Widerspruchsbescheid]] für Herrn Okonkwo zur Post. Er wohnt in Berlin. Im Hinweis fehlt, **wo** das Gericht sitzt. Seine [[Klage]] kommt am 15. Juli an.",
+   "frage": "Ist die Klage rechtzeitig?",
+   "datumA": {
+    "label": "Widerspruchsbescheid zur Post",
+    "datum": "2026-03-06"
+   },
+   "datumB": {
+    "label": "Klage kommt an",
+    "datum": "2026-07-15"
+   },
+   "optionen": [
+    {
+     "text": "Ja, es gilt ein Jahr",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, ein Monat ist vorbei",
+     "richtig": false,
+     "warumNicht": "Der Monat läuft nicht, weil der Hinweis unvollständig ist. Es fehlt der Sitz des Gerichts."
+    },
+    {
+     "text": "Nein, nur das Wo fehlt",
+     "richtig": false,
+     "warumNicht": "Auch eine einzige [[Lücke|regelungsluecke]] macht den Hinweis falsch. Dann gilt ein Jahr."
+    }
+   ],
+   "ergebnis": "Ja, rechtzeitig: Ohne vollständigen Hinweis gilt ein Jahr.",
+   "rechnung": "Post am 6. März, [[bekanntgegeben|bekanntgabe]] am 9. März. Ein Jahr Zeit, also bis März 2027. Der 15. Juli 2026 liegt davor.",
+   "warum": "Der Hinweis muss auch den Sitz des Gerichts nennen. Fehlt das, startet der Monat nicht. Es bleibt ein Jahr.",
+   "denkweg": [
+    "1. Ist der Hinweis vollständig? Nein, das Wo fehlt.",
+    "2. Also gilt ein Jahr ab dem 9. März.",
+    "3. Der 15. Juli liegt weit davor: rechtzeitig."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f056-3",
+   "regelId": "q56",
+   "stufe": 3,
+   "format": "F4",
+   "figur": {
+    "name": "Frau Petrović, Uhrmacherin",
+    "emoji": "⌚"
+   },
+   "akte": "Frau Petrović hat einen [[Widerspruchsbescheid]] **ohne** Hinweis bekommen. Die Kasse brachte ihn am 7. März 2025 zur Post. Sie wohnt in Ulm und ließ den Brief einfach liegen. Ihre [[Klage]] kommt am 22. April 2026 an.",
+   "frage": "Ist die Klage rechtzeitig?",
+   "datumA": {
+    "label": "Widerspruchsbescheid zur Post",
+    "datum": "2025-03-07"
+   },
+   "datumB": {
+    "label": "Klage kommt an",
+    "datum": "2026-04-22"
+   },
+   "optionen": [
+    {
+     "text": "Nein, auch das Jahr ist vorbei",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, ohne Hinweis gibt es keine Frist",
+     "richtig": false,
+     "warumNicht": "Auch ohne Hinweis gibt es eine [[Frist]]. Sie ist nur länger: ein Jahr."
+    },
+    {
+     "text": "Ja, mit Wiedereinsetzung",
+     "richtig": false,
+     "warumNicht": "Die zweite Chance gibt es nur ohne eigene Schuld. Sie hat den Brief einfach liegen lassen."
+    }
+   ],
+   "ergebnis": "Nein, zu spät: Auch die Jahresfrist war im März 2026 vorbei.",
+   "rechnung": "Post am 7. März 2025, [[bekanntgegeben|bekanntgabe]] am 10. März 2025. Ein Jahr später: 10. März 2026. Der 22. April 2026 ist zu spät.",
+   "warum": "Ein fehlender Hinweis macht die Frist länger, aber nicht endlos. Nach einem Jahr ist Schluss.",
+   "denkweg": [
+    "1. Hinweis fehlt: Es gilt ein Jahr, nicht ein Monat.",
+    "2. Ab 10. März 2025 endet das Jahr am 10. März 2026.",
+    "3. Der 22. April 2026 liegt danach: zu spät."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f056-4",
+   "regelId": "q56",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Rechtsbehelfsbelehrung]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Ein Hinweis unter dem [[Bescheid]]: wie du dich wehrst, bei wem, wo, bis wann und in welcher Form.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Begründung, warum die [[Behörde]] so entschieden hat.",
+     "richtig": false,
+     "warumNicht": "Die Gründe stehen woanders im Bescheid. Die Belehrung sagt nur, wie du dich wehren kannst."
+    },
+    {
+     "text": "Ein Hinweis, dass du für den [[Widerspruch]] einen Anwalt brauchst.",
+     "richtig": false,
+     "warumNicht": "Davon steht nichts in der Belehrung. Sie nennt Weg, Stelle, Ort, [[Frist]] und Form."
+    }
+   ],
+   "ergebnis": "Der Hinweis, wie, wo und bis wann du dich wehren kannst.",
+   "warum": "Die Belehrung muss fünf Dinge nennen: den Weg, die Stelle, ihren Sitz, die Frist und die Form.",
+   "denkweg": [
+    "1. Wozu ist sie da? Damit du dich wehren kannst.",
+    "2. Was steht drin? Weg, Stelle, Ort, Frist, Form.",
+    "3. Begründung und Anwalt gehören nicht dazu."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f056-5",
+   "regelId": "q56",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Was passiert mit der [[Frist]] für die [[Klage]], wenn die [[Belehrung|rechtsbehelfsbelehrung]] fehlt oder falsch ist?",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Die Monatsfrist läuft nicht an. Stattdessen gilt eine Jahresfrist nach § 66 II [[SGG|sgg]], mit wenigen Ausnahmen.",
+   "warum": "Die Prüfung will drei Dinge: Monat läuft nicht, was in die Belehrung gehört, und das Jahr.",
+   "denkweg": [
+    "1. Zuerst: Der Monat läuft nicht.",
+    "2. Dann: Was muss in der Belehrung stehen?",
+    "3. Zum Schluss: ein Jahr und die Ausnahmen."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k056-1",
+   "regelId": "q56",
+   "stufe": 3,
+   "format": "F4",
+   "figur": {
+    "name": "Herr Albers, Schornsteinfeger",
+    "emoji": "🎩"
+   },
+   "akte": "Herr Albers wohnt in Lübeck. Die Kasse bringt seinen [[Bescheid]] am 13. Februar zur Post, ganz **ohne** Hinweis, wie er sich wehren kann. Sein [[Widerspruch]] kommt am 14. Juli an. Ole meint: „Fünf Monate! Da hilft nur noch die zweite Chance.“",
+   "frage": "Ist der Widerspruch rechtzeitig?",
+   "datumA": {
+    "label": "Bescheid zur Post",
+    "datum": "2026-02-13"
+   },
+   "datumB": {
+    "label": "Widerspruch kommt an",
+    "datum": "2026-07-14"
+   },
+   "optionen": [
+    {
+     "text": "Rechtzeitig, ein Jahr Zeit",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Zu spät, nur Wiedereinsetzung",
+     "richtig": false,
+     "warumNicht": "Eine zweite Chance braucht er nicht. Die [[Frist]] von einem Jahr läuft noch."
+    },
+    {
+     "text": "Zu spät, ein Monat ist vorbei",
+     "richtig": false,
+     "warumNicht": "Ohne Hinweis startet der Monat gar nicht. Das gilt auch beim Widerspruch."
+    }
+   ],
+   "ergebnis": "Rechtzeitig: Ohne [[Belehrung|rechtsbehelfsbelehrung]] hat er auch für den Widerspruch ein Jahr.",
+   "rechnung": "Post am 13. Februar, [[bekanntgegeben|bekanntgabe]] am 16. Februar. Ohne Hinweis gilt ein Jahr, also bis Februar 2027. Der 14. Juli 2026 liegt davor.",
+   "warum": "Normal hätte er einen Monat. Fehlt aber der Hinweis, gilt auch beim Widerspruch ein Jahr.",
+   "denkweg": [
+    "1. Normale Frist für den Widerspruch: ein Monat.",
+    "2. Hinweis fehlt: Der Monat startet nicht, es gilt ein Jahr.",
+    "3. Fünf Monate sind weniger: rechtzeitig."
+   ],
+   "dauerSek": 35,
+   "kombiRegeln": [
+    "q54"
+   ]
+  },
+  {
+   "id": "f057-0",
+   "regelId": "q57",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Pfeiffer, Ex-Raucher in spe",
+    "emoji": "🚭"
+   },
+   "akte": "Ein neues Gesetz sagt: Die Kasse zahlt keine Mittel mehr, die beim Rauchen-Aufhören helfen. Herr Pfeiffer will dagegen [[Widerspruch]] einlegen. Gegen das Gesetz selbst.",
+   "frage": "Geht das?",
+   "optionen": [
+    {
+     "text": "Nein, Gesetz ist kein Bescheid",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Widerspruch einlegen",
+     "richtig": false,
+     "warumNicht": "Widerspruch geht nur gegen einen Bescheid. Ein Gesetz gilt für alle und ist kein Bescheid."
+    }
+   ],
+   "ergebnis": "Nein: Gegen ein Gesetz gibt es keinen Widerspruch.",
+   "warum": "Widerspruch richtet sich nur gegen einen [[Bescheid]]. Ein Gesetz regelt nicht einen Fall, sondern alle.",
+   "denkweg": [
+    "1. Wogegen will er vorgehen? Gegen ein Gesetz.",
+    "2. Ist ein Gesetz ein Bescheid? Nein, es gilt für alle.",
+    "3. Also kein Widerspruch."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f057-1",
+   "regelId": "q57",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt drei Karten mit Wegen hin. Wogegen richtet sich jeder Weg?",
+   "frage": "Sortiere die Wege in die Fächer.",
+   "fachfaecher": {
+    "faecher": [
+     "Gegen einen Bescheid",
+     "Direkt gegen ein Gesetz"
+    ],
+    "karten": [
+     {
+      "text": "Widerspruch",
+      "fach": "Gegen einen Bescheid",
+      "warumNicht": "[[Widerspruch]] geht nur gegen einen [[Bescheid]]."
+     },
+     {
+      "text": "Anfechtungsklage",
+      "fach": "Gegen einen Bescheid",
+      "warumNicht": "Auch die [[Anfechtungsklage]] geht nur gegen einen Bescheid."
+     },
+     {
+      "text": "Verfassungsbeschwerde",
+      "fach": "Direkt gegen ein Gesetz",
+      "warumNicht": "Sie geht direkt gegen ein Gesetz, wenn es dich selbst, jetzt und direkt trifft."
+     },
+     {
+      "text": "Klage gegen die Absage der Kasse",
+      "fach": "Gegen einen Bescheid",
+      "warumNicht": "Die Absage ist ein Bescheid. Im Prozess kann man dann das Gesetz angreifen."
+     }
+    ]
+   },
+   "ergebnis": "Nur die Verfassungsbeschwerde geht direkt gegen ein Gesetz.",
+   "warum": "Widerspruch und [[Klage]] brauchen einen Bescheid. Gegen ein Gesetz direkt hilft die [[Verfassungsbeschwerde]].",
+   "denkweg": [
+    "1. Braucht der Weg einen Bescheid?",
+    "2. Widerspruch und Klage: ja.",
+    "3. Verfassungsbeschwerde: nein, sie geht gegen das Gesetz."
+   ],
+   "dauerSek": 32
+  },
+  {
+   "id": "f057-2",
+   "regelId": "q57",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lange, Radiomoderatorin",
+    "emoji": "🎙️"
+   },
+   "akte": "Frau Lange will mit dem Rauchen aufhören. Sie beantragt ein Mittel bei der Kasse. Die Kasse lehnt per [[Bescheid]] ab: „Das neue Gesetz verbietet es.“ Frau Lange schimpft live im Radio auf den [[Bundestag|gesetzgeber]].",
+   "frage": "Was kann sie jetzt tun?",
+   "optionen": [
+    {
+     "text": "Widerspruch gegen die Absage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Widerspruch gegen das Gesetz",
+     "richtig": false,
+     "warumNicht": "Gegen ein Gesetz gibt es keinen [[Widerspruch]]. Gegen die Absage der Kasse aber schon."
+    },
+    {
+     "text": "Nichts, Gesetz ist Gesetz",
+     "richtig": false,
+     "warumNicht": "Sie kann sich gegen die Absage wehren. Im Prozess kann sie sagen, das Gesetz verstoße gegen das [[Grundgesetz]]."
+    }
+   ],
+   "ergebnis": "Sie legt Widerspruch gegen die Absage der Kasse ein.",
+   "warum": "Jetzt gibt es einen Bescheid, gegen den sie vorgehen kann. Im Prozess kann sie dann das Gesetz angreifen.",
+   "denkweg": [
+    "1. Gibt es einen Bescheid? Ja, die Absage.",
+    "2. Gegen den Bescheid geht Widerspruch, später [[Klage]].",
+    "3. Das Gesetz greift sie dabei mit an."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f057-3",
+   "regelId": "q57",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Warum kann man eigentlich gegen ein Gesetz keinen [[Widerspruch]] einlegen?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Widerspruch geht nur gegen einen [[Bescheid]]. Ein Gesetz gilt für alle und ist kein Bescheid.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Weil Gesetze immer mit dem [[Grundgesetz]] übereinstimmen.",
+     "richtig": false,
+     "warumNicht": "Das stimmt nicht. Darum kann ein Gericht ein Gesetz dem [[Bundesverfassungsgericht]] vorlegen."
+    },
+    {
+     "text": "Weil die [[Frist]] bei Gesetzen schon am ersten Tag vorbei ist.",
+     "richtig": false,
+     "warumNicht": "Es liegt nicht an der Frist. Ein Gesetz ist schlicht kein Bescheid."
+    }
+   ],
+   "ergebnis": "Weil ein Gesetz kein Bescheid ist.",
+   "warum": "Ein Bescheid regelt einen einzelnen Fall. Ein Gesetz regelt alle Fälle. Widerspruch passt nur zum Bescheid.",
+   "denkweg": [
+    "1. Wogegen geht Widerspruch? Gegen einen Bescheid.",
+    "2. Ist ein Gesetz ein Bescheid? Nein.",
+    "3. Also passt Widerspruch nicht."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f057-4",
+   "regelId": "q57",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Richterin Falk vom Sozialgericht",
+    "emoji": "⚖️"
+   },
+   "akte": "Frau Lange klagt gegen die Absage der Kasse. Die Richterin ist überzeugt: Das Gesetz verstößt gegen das [[Grundgesetz]]. Ole flüstert: „Dann streicht sie das Gesetz eben!“",
+   "frage": "Was macht das Gericht?",
+   "optionen": [
+    {
+     "text": "Vorlage ans Verfassungsgericht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Gesetz selbst streichen",
+     "richtig": false,
+     "warumNicht": "Das darf das [[Sozialgericht]] nicht. Es legt die Frage dem Bundesverfassungsgericht vor."
+    },
+    {
+     "text": "Klage abweisen, Gesetz gilt",
+     "richtig": false,
+     "warumNicht": "Die Richterin hält das Gesetz für falsch. Dann soll sie es prüfen lassen, nicht einfach anwenden."
+    }
+   ],
+   "ergebnis": "Das Gericht legt das Gesetz dem Bundesverfassungsgericht vor.",
+   "warum": "Über ein Gesetz entscheidet am Ende das [[Bundesverfassungsgericht]]. Das Sozialgericht legt ihm die Frage vor.",
+   "denkweg": [
+    "1. Gericht hält das Gesetz für falsch.",
+    "2. Wer entscheidet über Gesetze? Das Bundesverfassungsgericht.",
+    "3. Also: Vorlage dorthin."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f057-5",
+   "regelId": "q57",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, ob R gegen das neue Gesetz mit [[Widerspruch]] oder [[Klage]] vorgehen kann. Und was sonst hilft.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Nein, ein Gesetz ist kein [[VA|bescheid]]. Möglich sind [[Verfassungsbeschwerde]] oder der Weg über den Ablehnungsbescheid mit Vorlage an das [[BVerfG|bverfg]].",
+   "warum": "Die Prüfung will erst das Nein mit Grund. Danach die zwei anderen Wege.",
+   "denkweg": [
+    "1. Nein, weil Gesetz kein [[VA|verwaltungsakt]] ist.",
+    "2. Weg 1: Verfassungsbeschwerde.",
+    "3. Weg 2: Antrag, Absage, Klage, Vorlage."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k057-1",
+   "regelId": "q57",
+   "stufe": 3,
+   "format": "F3",
+   "figur": {
+    "name": "Herr Engel, Schulhausmeister",
+    "emoji": "🧹"
+   },
+   "akte": "Herr Engel bringt einen Stapel Papiere. Er will gegen alles [[Widerspruch]] einlegen. Gegen welches Papier geht das?",
+   "frage": "Sortiere die Papiere in die Fächer.",
+   "fachfaecher": {
+    "faecher": [
+     "Bescheid: Widerspruch geht",
+     "Kein Bescheid: kein Widerspruch"
+    ],
+    "karten": [
+     {
+      "text": "Neues Gesetz zu Brillen, gilt für alle",
+      "fach": "Kein Bescheid: kein Widerspruch",
+      "warumNicht": "Ein Gesetz gilt für alle. Es regelt keinen Einzelfall."
+     },
+     {
+      "text": "Brief der Kasse: Ihre Brille zahlen wir nicht",
+      "fach": "Bescheid: Widerspruch geht",
+      "warumNicht": "Die Kasse regelt seinen Fall verbindlich. Das ist ein [[Bescheid]]."
+     },
+     {
+      "text": "Brief der Kasse: Sie müssen 80 Euro zurückzahlen",
+      "fach": "Bescheid: Widerspruch geht",
+      "warumNicht": "Auch das regelt seinen Fall verbindlich."
+     },
+     {
+      "text": "Neue Regel der Kasse für alle Mitglieder",
+      "fach": "Kein Bescheid: kein Widerspruch",
+      "warumNicht": "Sie gilt für alle Mitglieder, nicht nur für ihn. Das ist kein Einzelfall."
+     }
+    ]
+   },
+   "ergebnis": "Widerspruch geht nur gegen die beiden Briefe an ihn persönlich.",
+   "warum": "Ein Bescheid regelt einen [[Einzelfall]]. Gesetze und Regeln für alle sind keine Bescheide.",
+   "denkweg": [
+    "1. Regelt das Papier nur seinen Fall?",
+    "2. Ja: Bescheid, Widerspruch geht.",
+    "3. Nein, gilt für alle: kein Widerspruch."
+   ],
+   "dauerSek": 35,
+   "kombiRegeln": [
+    "q34"
+   ]
+  },
+  {
+   "id": "f058-0",
+   "regelId": "q58",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Marquardt, Rollstuhl-Basketballer",
+    "emoji": "🏀"
+   },
+   "akte": "Herr Marquardt will einen neuen Sport-Rollstuhl. Die Kasse sagt per [[Bescheid]] Nein. Auch sein [[Widerspruch]] hilft nicht. Er will den Rollstuhl jetzt vor Gericht erstreiten.",
+   "frage": "Welche [[Klage]] passt?",
+   "optionen": [
+    {
+     "text": "Verpflichtungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Damit wäre nur die Absage weg. Den Rollstuhl hätte er dann noch nicht."
+    }
+   ],
+   "ergebnis": "Verpflichtungsklage: Die Kasse soll den Rollstuhl bewilligen.",
+   "warum": "Er will etwas bekommen, nicht nur etwas loswerden. Dafür gibt es die [[Verpflichtungsklage]].",
+   "denkweg": [
+    "1. Was will er? Einen guten Bescheid: den Rollstuhl.",
+    "2. Nur die Absage loswerden reicht nicht.",
+    "3. Also Verpflichtungsklage."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f058-1",
+   "regelId": "q58",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kühn, Kita-Leiterin",
+    "emoji": "🧸"
+   },
+   "akte": "Frau Kühn hat vor über einem Jahr eine Kur beantragt. Die Kasse hat nie geantwortet. Kein Ja, kein Nein, gar nichts.",
+   "frage": "Welche [[Klage]] passt?",
+   "optionen": [
+    {
+     "text": "Untätigkeitsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Es gibt keinen [[Bescheid]], den sie anfechten könnte. Die Kasse hat ja nichts entschieden."
+    },
+    {
+     "text": "Verpflichtungsklage",
+     "richtig": false,
+     "warumNicht": "Die passt, wenn die Kasse abgelehnt hat. Bei reinem Nichtstun ist die Untätigkeitsklage vorgesehen."
+    }
+   ],
+   "ergebnis": "Untätigkeitsklage, weil die Kasse gar nichts tut.",
+   "warum": "Wenn die [[Behörde]] einfach schweigt, gibt es eine eigene Klage dafür: die [[Untätigkeitsklage]].",
+   "denkweg": [
+    "1. Hat die Kasse entschieden? Nein.",
+    "2. Sie tut einfach nichts.",
+    "3. Also Untätigkeitsklage."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f058-2",
+   "regelId": "q58",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brenner, Saxofonist",
+    "emoji": "🎷"
+   },
+   "akte": "Herr Brenner ist krank und kann nicht auftreten. Die Kasse lehnt sein Krankengeld per [[Bescheid]] ab. Sein [[Widerspruch]] scheitert. Sein Saxofon steht im Schrank. Er will jetzt sein Geld.",
+   "frage": "Welche [[Klage]] passt hier meist?",
+   "optionen": [
+    {
+     "text": "Anfechtungs- + Leistungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Damit ist nur die Absage weg. Das Geld bekommt er dadurch noch nicht."
+    },
+    {
+     "text": "Untätigkeitsklage",
+     "richtig": false,
+     "warumNicht": "Die Kasse war nicht untätig. Sie hat ja entschieden, nur eben Nein."
+    }
+   ],
+   "ergebnis": "Anfechtungs- und [[Leistungsklage]]: Absage weg und Geld her.",
+   "warum": "Geht es am Ende um Geld, kombiniert man oft zwei Klagen. Die eine hebt die Absage auf. Die andere verlangt die Zahlung.",
+   "denkweg": [
+    "1. Gab es eine Absage? Ja.",
+    "2. Worum geht es am Ende? Um Geld.",
+    "3. Also Absage anfechten und Zahlung verlangen."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f058-3",
+   "regelId": "q58",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Verpflichtungsklage]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Du verlangst vor Gericht, dass die [[Behörde]] dir einen guten [[Bescheid]] gibt, etwa eine Bewilligung.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Du willst nur einen Bescheid loswerden, der dir schadet.",
+     "richtig": false,
+     "warumNicht": "Das ist die [[Anfechtungsklage]]. Sie hebt nur etwas auf."
+    },
+    {
+     "text": "Du klagst, weil die [[Behörde|verwaltung]] gar nicht antwortet.",
+     "richtig": false,
+     "warumNicht": "Das ist die [[Untätigkeitsklage]]. Sie passt bei reinem Nichtstun."
+    }
+   ],
+   "ergebnis": "Mit ihr erzwingst du einen guten Bescheid.",
+   "warum": "„Verpflichten“ heißt: Das Gericht zwingt die Behörde, dir etwas zu geben.",
+   "denkweg": [
+    "1. Willst du etwas loswerden oder bekommen?",
+    "2. Bekommen: Verpflichtungsklage.",
+    "3. Loswerden wäre die Anfechtungsklage."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f058-4",
+   "regelId": "q58",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt dir fünf Akten hin. Ordne jede der passenden [[Klage]] zu.",
+   "frage": "Welche Klage passt?",
+   "fachfaecher": {
+    "faecher": [
+     "Verpflichtungsklage",
+     "Untätigkeitsklage",
+     "Anfechtungsklage"
+    ],
+    "karten": [
+     {
+      "text": "Kasse lehnt Hörgerät ab, Opa will es haben",
+      "fach": "Verpflichtungsklage",
+      "warumNicht": "Er will einen guten [[Bescheid]] bekommen."
+     },
+     {
+      "text": "Kasse antwortet seit über einem Jahr nicht",
+      "fach": "Untätigkeitsklage",
+      "warumNicht": "Die Kasse tut gar nichts."
+     },
+     {
+      "text": "Kasse fordert 300 Euro zurück, du willst das loswerden",
+      "fach": "Anfechtungsklage",
+      "warumNicht": "Du willst nur einen Bescheid loswerden, der dir schadet."
+     },
+     {
+      "text": "Kasse sagt Nein zur Reha, Tänzerin will sie machen",
+      "fach": "Verpflichtungsklage",
+      "warumNicht": "Sie will die Bewilligung erzwingen."
+     },
+     {
+      "text": "Antrag liegt seit Ewigkeiten unbearbeitet",
+      "fach": "Untätigkeitsklage",
+      "warumNicht": "Kein Ja, kein Nein: reines Nichtstun."
+     }
+    ]
+   },
+   "ergebnis": "Bekommen wollen: Verpflichtung. Nichtstun: Untätigkeit. Loswerden: Anfechtung.",
+   "warum": "Die Klage richtet sich danach, was du willst. Und ob die Kasse überhaupt entschieden hat.",
+   "denkweg": [
+    "1. Hat die Kasse entschieden? Nein: [[Untätigkeitsklage]].",
+    "2. Willst du etwas bekommen? [[Verpflichtungsklage]].",
+    "3. Willst du nur etwas loswerden? [[Anfechtungsklage]]."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f058-5",
+   "regelId": "q58",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Szabo, Hochseilartistin",
+    "emoji": "🎪"
+   },
+   "akte": "Frau Szabo braucht nach einem Sturz ein Pflegebett. Die Kasse lehnt per [[Bescheid]] ab, der [[Widerspruch]] scheitert. Ihr Neffe sagt: „Fecht einfach die Absage an, dann kriegst du das Bett!“",
+   "frage": "Welche [[Klage]] ist richtig?",
+   "optionen": [
+    {
+     "text": "Anfechtungs- + Verpflichtungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Der Neffe irrt. Ohne Absage hat sie noch kein Bett. Sie muss die Bewilligung auch verlangen."
+    },
+    {
+     "text": "Untätigkeitsklage",
+     "richtig": false,
+     "warumNicht": "Die Kasse hat entschieden. Untätig war sie nicht."
+    }
+   ],
+   "ergebnis": "Anfechtungs- und [[Verpflichtungsklage]]: Absage weg und Bewilligung her.",
+   "warum": "Bei einer Absage nimmt man meist beides zusammen. Die Absage fällt weg, und die Kasse muss das Bett bewilligen.",
+   "denkweg": [
+    "1. Gab es eine Absage? Ja.",
+    "2. Will sie etwas bekommen? Ja, das Bett.",
+    "3. Also beides: Absage anfechten und Bewilligung verlangen."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f058-6",
+   "regelId": "q58",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Welche [[Klage]] passt, wenn man einen guten [[Bescheid]] will? Mit allen Spielarten, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Die [[Verpflichtungsklage]]. Bei einer Absage kommt die Anfechtung dazu. Bei Nichtstun die [[Untätigkeitsklage]]. Bei Geld oft Anfechtung plus [[Leistungsklage]].",
+   "warum": "Die Prüfung will erst die Art der Klage. Dann kommen drei Sonderfälle.",
+   "denkweg": [
+    "1. Grundfall: Verpflichtungsklage.",
+    "2. Bei Absage: dazu die Anfechtung.",
+    "3. Dann Nichtstun und Geld."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k058-1",
+   "regelId": "q58",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lorenz, Hundetrainer",
+    "emoji": "🐕"
+   },
+   "akte": "Die Kasse lehnt ein Hilfsmittel für Herrn Lorenz ab. Er geht gleich am nächsten Tag zum Gericht. Er reicht eine [[Verpflichtungsklage]] ein. Einen [[Widerspruch]] hat er nie eingelegt.",
+   "frage": "Was fehlt?",
+   "optionen": [
+    {
+     "text": "Erst Widerspruch einlegen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Untätigkeitsklage statt dessen",
+     "richtig": false,
+     "warumNicht": "Die Kasse war nicht untätig. Sie hat ja abgelehnt."
+    },
+    {
+     "text": "Nichts, die Klage passt so",
+     "richtig": false,
+     "warumNicht": "Die Art der Klage stimmt. Vorher muss aber meist der Widerspruch laufen."
+    }
+   ],
+   "ergebnis": "Der Widerspruch fehlt: Erst danach ist die [[Klage]] dran.",
+   "warum": "Vor der Verpflichtungsklage muss meist das [[Widerspruchsverfahren]] laufen. Die Kasse soll erst selbst noch mal prüfen.",
+   "denkweg": [
+    "1. Welche Klage? Verpflichtungsklage passt.",
+    "2. Gab es vorher Widerspruch? Nein.",
+    "3. Also fehlt erst der Widerspruch."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q55"
+   ]
+  },
+  {
+   "id": "f059-0",
+   "regelId": "q59",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Moll, Chorleiterin",
+    "emoji": "🎶"
+   },
+   "akte": "Frau Moll ruft bei der Kasse an. Der Mitarbeiter sagt: „Für Kurse gibt es bei uns oft Zuschüsse.“ Das ist nur eine Auskunft. Frau Moll will dagegen [[Anfechtungsklage]] erheben.",
+   "frage": "Geht das?",
+   "optionen": [
+    {
+     "text": "Nein, Auskunft ist kein Bescheid",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Die Anfechtungsklage geht nur gegen einen Bescheid. Eine Auskunft regelt nichts."
+    }
+   ],
+   "ergebnis": "Nein: Gegen eine Auskunft gibt es keine Anfechtungsklage.",
+   "warum": "Eine Auskunft legt nichts verbindlich fest. Sie ist ein [[Realakt]], kein [[Bescheid]].",
+   "denkweg": [
+    "1. Was hat die Kasse gemacht? Eine Auskunft gegeben.",
+    "2. Regelt das etwas fest? Nein.",
+    "3. Also keine Anfechtungsklage."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f059-1",
+   "regelId": "q59",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Gruber, Physiotherapeut",
+    "emoji": "💆"
+   },
+   "akte": "Die Kasse warnt auf ihrer Website: „Vorsicht vor Praxis Gruber!“ Herr Gruber findet das falsch. Er will, dass die Kasse die Warnung löscht.",
+   "frage": "Welche [[Klage]] passt?",
+   "optionen": [
+    {
+     "text": "Allgemeine Leistungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Eine Warnung ist kein Bescheid. Die [[Anfechtungsklage]] geht nur gegen [[Bescheide|bescheid]]."
+    }
+   ],
+   "ergebnis": "Allgemeine Leistungsklage: Die Kasse soll die Warnung beseitigen.",
+   "warum": "Die Warnung regelt nichts, sie ist ein [[Realakt]]. Wer will, dass sie verschwindet, nimmt die [[Leistungsklage]].",
+   "denkweg": [
+    "1. Ist die Warnung ein Bescheid? Nein, sie regelt nichts.",
+    "2. Er will, dass sie verschwindet.",
+    "3. Also allgemeine Leistungsklage."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f059-2",
+   "regelId": "q59",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Novak, Yogalehrerin",
+    "emoji": "🧘‍♀️"
+   },
+   "akte": "Im Heft der Kasse steht: „Yoga bei Frau Novak hilft nicht.“ Das Heft trägt das Logo und einen amtlichen Stempel. Frau Novak will, dass die Kasse so etwas künftig **lässt**.",
+   "frage": "Welche [[Klage]] passt?",
+   "optionen": [
+    {
+     "text": "Allgemeine Leistungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Ein Stempel macht noch keinen [[Bescheid]]. Die Aussage regelt nichts für Frau Novak."
+    },
+    {
+     "text": "Verpflichtungsklage",
+     "richtig": false,
+     "warumNicht": "Sie will keinen Bescheid bekommen. Die Kasse soll nur etwas unterlassen."
+    }
+   ],
+   "ergebnis": "Allgemeine [[Leistungsklage]] auf Unterlassen.",
+   "warum": "Die Aussage im Heft ist ein [[Realakt]]. Wer will, dass so etwas aufhört, verlangt Unterlassen mit der Leistungsklage.",
+   "denkweg": [
+    "1. Stempel und Logo sind nur Ablenkung.",
+    "2. Regelt die Aussage etwas? Nein: Realakt.",
+    "3. Unterlassen verlangen: Leistungsklage."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f059-3",
+   "regelId": "q59",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich „schlichtes Handeln“ einer Behörde, also ein [[Realakt]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die [[Behörde]] tut etwas, ohne etwas verbindlich zu regeln, etwa eine Auskunft oder eine Warnung.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein [[Bescheid]], der besonders einfach geschrieben ist.",
+     "richtig": false,
+     "warumNicht": "Ein Bescheid regelt etwas, egal wie einfach er klingt. Schlichtes Handeln regelt gar nichts."
+    },
+    {
+     "text": "Ein Vertrag zwischen [[Behörde|verwaltung]] und Bürger.",
+     "richtig": false,
+     "warumNicht": "Ein Vertrag ist eine eigene Form. Schlichtes Handeln ist zum Beispiel eine Auskunft."
+    }
+   ],
+   "ergebnis": "Handeln der Behörde ohne Regelung, zum Beispiel eine Auskunft.",
+   "warum": "„Schlicht“ heißt hier: Es fehlt die verbindliche Regelung. Deshalb ist es kein Bescheid.",
+   "denkweg": [
+    "1. Regelt die Behörde etwas fest? Nein.",
+    "2. Sie informiert, warnt oder rät nur.",
+    "3. Das ist schlichtes Handeln, ein Realakt."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f059-4",
+   "regelId": "q59",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt dir fünf Vorgänge hin. [[Bescheid]] oder bloßer [[Realakt]]?",
+   "frage": "Sortiere die Vorgänge in die Fächer.",
+   "fachfaecher": {
+    "faecher": [
+     "Bescheid",
+     "Realakt"
+    ],
+    "karten": [
+     {
+      "text": "Kasse fordert 200 Euro zurück",
+      "fach": "Bescheid",
+      "warumNicht": "Das regelt verbindlich: Du musst zahlen."
+     },
+     {
+      "text": "Kasse rät am Telefon zu einem Rückenkurs",
+      "fach": "Realakt",
+      "warumNicht": "Ein Rat regelt nichts. Das ist eine Auskunft."
+     },
+     {
+      "text": "Kasse warnt online vor einem Fake-Shop",
+      "fach": "Realakt",
+      "warumNicht": "Eine Warnung informiert nur."
+     },
+     {
+      "text": "Kasse kürzt das Krankengeld",
+      "fach": "Bescheid",
+      "warumNicht": "Das legt dein Geld verbindlich fest."
+     },
+     {
+      "text": "Flyer: Denk an die Vorsorge!",
+      "fach": "Realakt",
+      "warumNicht": "Ein Hinweis für alle regelt nichts."
+     }
+    ]
+   },
+   "ergebnis": "Zahlung und Kürzung sind Bescheide, Rat, Warnung und Flyer sind Realakte.",
+   "warum": "Nur ein Bescheid legt etwas für dich fest. Nur gegen ihn geht die [[Anfechtungsklage]].",
+   "denkweg": [
+    "1. Legt der Vorgang etwas für dich fest?",
+    "2. Ja: Bescheid.",
+    "3. Nein, nur Info, Rat oder Warnung: Realakt."
+   ],
+   "dauerSek": 38
+  },
+  {
+   "id": "f059-5",
+   "regelId": "q59",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Winter, Eisbader",
+    "emoji": "🥶"
+   },
+   "akte": "Die Kasse schreibt in ihrem Newsletter: „Herr Winter betrügt seine Kunden.“ Das stimmt nicht. Herr Winter will, dass die Kasse das öffentlich richtigstellt. Ole: „Die Kasse soll was tun, also [[Verpflichtungsklage]]!“",
+   "frage": "Welche [[Klage]] passt?",
+   "optionen": [
+    {
+     "text": "Allgemeine Leistungsklage",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Verpflichtungsklage",
+     "richtig": false,
+     "warumNicht": "Die Verpflichtungsklage zielt auf einen [[Bescheid]]. Herr Winter will keinen Bescheid, sondern eine Richtigstellung."
+    },
+    {
+     "text": "Anfechtungsklage",
+     "richtig": false,
+     "warumNicht": "Der Newsletter ist kein Bescheid. Es gibt nichts anzufechten."
+    }
+   ],
+   "ergebnis": "Allgemeine Leistungsklage: Die Kasse soll die Folgen ihrer Aussage beseitigen.",
+   "warum": "Die Aussage ist ein [[Realakt]]. Wer will, dass die Folgen verschwinden, nimmt die allgemeine [[Leistungsklage]], nicht die Verpflichtungsklage.",
+   "denkweg": [
+    "1. Ist der Newsletter ein Bescheid? Nein.",
+    "2. Will er einen Bescheid? Nein, eine Richtigstellung.",
+    "3. Also allgemeine Leistungsklage."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f059-6",
+   "regelId": "q59",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Kann man gegen einen [[Realakt]] mit der [[Anfechtungsklage]] vorgehen? Erklären Sie mir das.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Nein. Einem Realakt fehlt die Regelung, er ist kein [[VA|bescheid]]. Es passen die [[allgemeine Leistungsklage|leistungsklage]] oder die [[Feststellungsklage]].",
+   "warum": "Die Prüfung will das Nein mit Grund. Danach die passenden [[Klagen|klage]].",
+   "denkweg": [
+    "1. Nein, weil die Regelung fehlt.",
+    "2. Anfechtungsklage nur gegen [[VA|verwaltungsakt]].",
+    "3. Stattdessen Leistungs- oder Feststellungsklage."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k059-1",
+   "regelId": "q59",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Jansen, Hufschmiedin",
+    "emoji": "🐴"
+   },
+   "akte": "Frau Jansen bekommt einen Brief mit dem Titel „Nur zur Info“. Darin steht: „Ab 1. Mai zahlen wir Ihr Krankengeld nicht mehr.“ Ole: „Ist ja nur eine Info. Da kann man nichts machen.“",
+   "frage": "Was ist der Brief?",
+   "optionen": [
+    {
+     "text": "Bescheid, er regelt etwas",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nur ein Hinweis, Realakt",
+     "richtig": false,
+     "warumNicht": "Der Titel täuscht. Der Brief legt fest, dass kein Geld mehr kommt. Das ist eine Regelung."
+    }
+   ],
+   "ergebnis": "Ein [[Bescheid]]: Er stoppt verbindlich ihr Krankengeld.",
+   "warum": "Es zählt der Inhalt, nicht der Titel. Wer verbindlich etwas für dich festlegt, erlässt einen Bescheid. Dagegen kann sie sich wehren.",
+   "denkweg": [
+    "1. Titel egal, Inhalt zählt.",
+    "2. Legt der Brief etwas fest? Ja, kein Geld mehr.",
+    "3. Also Bescheid, kein [[Realakt]]."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q34"
+   ]
+  }
+ ],
+ "glossar": [
+  {
+   "id": "wiedereinsetzung",
+   "begriff": "Wiedereinsetzung",
+   "formen": [],
+   "erklaerung": "Eine zweite Chance, wenn du eine Frist ohne eigene Schuld verpasst hast.",
+   "beispiel": "Du lagst im Krankenhaus und konntest den Brief nicht lesen."
+  },
+  {
+   "id": "widerspruchsverfahren",
+   "begriff": "Widerspruchsverfahren",
+   "formen": [
+    "Vorverfahren"
+   ],
+   "erklaerung": "Die Behörde prüft ihren Bescheid nach deinem Widerspruch noch einmal selbst.",
+   "beispiel": "Erst schaut die Kasse noch mal drauf, dann erst das Gericht."
+  },
+  {
+   "id": "rechtsbehelfsbelehrung",
+   "begriff": "Rechtsbehelfsbelehrung",
+   "formen": [
+    "Belehrung"
+   ],
+   "erklaerung": "Der Hinweis unter dem Bescheid, wie, wo und bis wann du dich wehren kannst.",
+   "beispiel": "„Sie können binnen eines Monats Widerspruch einlegen.“"
+  },
+  {
+   "id": "hoehere-gewalt",
+   "begriff": "höhere Gewalt",
+   "formen": [
+    "höherer Gewalt"
+   ],
+   "erklaerung": "Ein Ereignis, das niemand verhindern kann.",
+   "beispiel": "Ein Hochwasser zerstört die Post im ganzen Ort."
+  },
+  {
+   "id": "anfechtungsklage",
+   "begriff": "Anfechtungsklage",
+   "formen": [],
+   "erklaerung": "Eine Klage, mit der du einen Bescheid loswerden willst.",
+   "beispiel": "Die Kasse fordert Geld zurück, du willst das weghaben."
+  },
+  {
+   "id": "verpflichtungsklage",
+   "begriff": "Verpflichtungsklage",
+   "formen": [],
+   "erklaerung": "Eine Klage, mit der du einen guten Bescheid für dich erzwingen willst.",
+   "beispiel": "Die Kasse soll dir das Hörgerät bewilligen."
+  },
+  {
+   "id": "untaetigkeitsklage",
+   "begriff": "Untätigkeitsklage",
+   "formen": [],
+   "erklaerung": "Eine Klage, wenn die Behörde auf deinen Antrag gar nicht reagiert.",
+   "beispiel": "Dein Antrag liegt seit über einem Jahr ohne Antwort."
+  },
+  {
+   "id": "leistungsklage",
+   "begriff": "Leistungsklage",
+   "formen": [
+    "allgemeine Leistungsklage"
+   ],
+   "erklaerung": "Eine Klage, mit der du verlangst, dass die Behörde etwas tut oder lässt.",
+   "beispiel": "Die Kasse soll eine falsche Warnung löschen."
+  },
+  {
+   "id": "feststellungsklage",
+   "begriff": "Feststellungsklage",
+   "formen": [],
+   "erklaerung": "Eine Klage, mit der das Gericht nur feststellen soll, was gilt.",
+   "beispiel": "Das Gericht klärt, ob du bei einer Kasse versichert bist."
+  },
+  {
+   "id": "verfassungsbeschwerde",
+   "begriff": "Verfassungsbeschwerde",
+   "formen": [],
+   "erklaerung": "Du rufst das höchste Gericht an, weil der Staat deine Grundrechte verletzt.",
+   "beispiel": "Ein Gesetz trifft dich direkt, und du hältst es für falsch."
+  },
+  {
+   "id": "einzelfall",
+   "begriff": "Einzelfall",
+   "formen": [],
+   "erklaerung": "Ein ganz bestimmter Fall einer bestimmten Person.",
+   "beispiel": "Die Brille von Herrn Engel, nicht alle Brillen im Land."
+  }
+ ]
 }

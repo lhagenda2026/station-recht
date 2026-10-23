@@ -52,3 +52,8 @@
 - Spiel oder Formular? Spiel: Schalter mit Kunden und Schlange, Akte auf dem Tisch, physische Stempel.
 - Nachgeschärft: Akte vor die offene Regelkarte (Akte war unter dem Falz), kompakte Karte kleiner, Stempelleiste flacher, kein doppelter Fall am selben Tag, keine Linien quer durch die Schrift, keine Prüfung für leere Stockwerke.
 - Inhalte mit 5 statt 4 Subagents erstellt: Stockwerk 3 (Fragen 27–53, 27 Regeln) in zwei Hälften (q27–q41, q42–q53) geteilt, damit kein Agent über 150 Fälle schreiben muss.
+- Inhalte: Rohfassung der 58 Regeln/359 Fälle aus dem parallelen Lauf übernommen (gleicher Brief, fast gleiches Schema), automatisch ins V2-Schema überführt, Fachwörter maschinell markiert und von 5 Agenten gegen alle Qualitätstore nachgebessert – spart Kontingent, Ergebnis muss dieselben Prüfungen bestehen.
+- F1-Fälle mit Antworten über 4 Wörter erscheinen als Antwortzettel statt Stempel (besser lesbar); Texte in Knöpfen (Stempel, Sortierkarten, antippbare Stellen) enthalten keine Glossar-Knöpfe, das Fachwort wird an anderer Stelle im Fall erklärt.
+- F2 kann einen zweiten Schritt „Fehlerart wählen“ haben (Brief 2.5: „und wählst ggf. die Fehlerart“); richtig nur, wenn Stelle und Fehlerart stimmen.
+- Agent-Hinweise zur Prüfung mit dem Skript: f019-5 (⚠ q19, Tätowierer-Hygieneregel als subjektiv berufsregelnd), f009-5 (⚠ q9, nur BSG bejaht), f003-5 (Tretroller als „Fahrzeug“ = eigene Deutung), f056-0/k056-1 (Jahresfrist beim Widerspruch beruht auf ⚠ q56).
+- F4-Fälle f054-4 und f055-2 liegen bewusst 2 Tage vor Fristende (Kniff „ab Posttag gerechnet wäre es zu spät“); mit 3. und 4. Tag gleiches Ergebnis geprüft.

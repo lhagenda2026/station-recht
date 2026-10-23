@@ -1,0 +1,4021 @@
+{
+ "regeln": [
+  {
+   "id": "q27",
+   "titel": "Eine Einheit mit Mitgliedern: Was ist eine Körperschaft?",
+   "fachbegriff": "Körperschaft des öffentlichen Rechts",
+   "einSatz": "Eine [[Körperschaft]] ist eine per Gesetz gegründete Einheit mit **Mitgliedern**. Sie hat eine öffentliche Aufgabe.",
+   "warum": "Manche Aufgaben regeln die Leute am besten selbst. Darum hat eine Körperschaft Mitglieder. Sie verwaltet sich selbst.",
+   "alltag": "Ein Sportverein hat Mitglieder. Sie wählen den Vorstand. Treten Leute aus oder ein, bleibt der Verein bestehen. Eine Körperschaft ist so ähnlich, nur vom Staat gegründet.",
+   "erkennen": [
+    "Hat sie **Mitglieder**, die mitbestimmen? Dann ist es wohl eine Körperschaft.",
+    "Bleibt sie bestehen, auch wenn die Mitglieder wechseln?",
+    "Kann sie selbst Rechte und Pflichten haben? Das heißt rechtsfähig.",
+    "Beispiele: Gemeinde, Ärztekammer, [[gesetzliche Krankenkasse|gkv]]."
+   ],
+   "merktrick": "Körperschaft: Viele Köpfe bilden einen Körper.",
+   "klausur": {
+    "bausteine": [
+     "Eine Körperschaft ist eine mitgliedschaftlich verfasste, rechtsfähige Verwaltungseinheit.",
+     "Sie ist vom Wechsel der Mitglieder unabhängig.",
+     "Sie erfüllt öffentliche Aufgaben und wird durch Hoheitsakt, meist Gesetz, errichtet.",
+     "Sie hat Mitglieder und Selbstverwaltung.",
+     "Beispiel: gesetzliche Krankenkassen (§ 4 I SGB V), Kassenärztliche Vereinigungen (§ 77 V SGB V)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Eine Körperschaft hat keine Mitglieder, sondern Nutzer.",
+      "warumNicht": "Verwechslung mit der Anstalt: Nutzer statt Mitglieder hat die Anstalt, die Körperschaft hat Mitglieder."
+     },
+     {
+      "text": "Sie entsteht durch einen privaten Gründungsvertrag.",
+      "warumNicht": "Eine Körperschaft wird durch Hoheitsakt errichtet, meist durch Gesetz, nicht durch privaten Vertrag."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q28",
+   "titel": "Eine Einrichtung zum Nutzen: Was ist eine Anstalt?",
+   "fachbegriff": "Anstalt des öffentlichen Rechts",
+   "einSatz": "Eine [[Anstalt]] besteht aus Sachen und Personal. Sie dient dauerhaft einem öffentlichen Zweck. Sie hat **Nutzer**, keine Mitglieder.",
+   "warum": "Manche Aufgaben brauchen vor allem Häuser, Geräte und Fachleute. Wer das nutzt, muss nicht mitbestimmen.",
+   "alltag": "Im Freibad kaufst du ein Ticket und schwimmst. Du bist Gast, kein Mitglied. Über die Öffnungszeiten stimmst du nicht ab.",
+   "erkennen": [
+    "Gibt es **Nutzer** statt Mitglieder? Dann spricht viel für eine Anstalt.",
+    "Gibt es Gebäude, Technik und Personal für einen festen öffentlichen Zweck?",
+    "Sie kann selbst Rechte haben (dann heißt sie AöR) oder nicht.",
+    "Beispiele: Uniklinik, öffentlicher Rundfunk, Sparkasse."
+   ],
+   "merktrick": "In der Anstalt wirst du bedient. In der [[Körperschaft]] bestimmst du mit.",
+   "klausur": {
+    "bausteine": [
+     "Eine Anstalt ist ein Bestand an sachlichen und persönlichen Mitteln.",
+     "Er dient in der Hand eines Verwaltungsträgers dauerhaft einem besonderen öffentlichen Zweck.",
+     "Sie hat keine Mitglieder, sondern Nutzer.",
+     "Sie kann rechtsfähig (AöR) oder nicht rechtsfähig sein.",
+     "Beispiele: Universitätsklinikum, öffentlich-rechtliche Rundfunkanstalt, Sparkasse."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Eine Anstalt ist mitgliedschaftlich verfasst und hat Selbstverwaltung.",
+      "warumNicht": "Mitglieder und Selbstverwaltung kennzeichnen die Körperschaft. Die Anstalt hat Nutzer."
+     },
+     {
+      "text": "Eine Anstalt ist immer rechtsfähig.",
+      "warumNicht": "Eine Anstalt kann rechtsfähig (AöR) oder nicht rechtsfähig sein."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q29",
+   "titel": "Regeln von der Regierung: Was ist eine Rechtsverordnung?",
+   "fachbegriff": "Rechtsverordnung (Art. 80 GG)",
+   "einSatz": "Eine [[Rechtsverordnung]] ist eine Regel für alle. Die Regierung erlässt sie, aber nur mit Erlaubnis aus einem Gesetz.",
+   "warum": "Das [[Parlament]] kann nicht jedes Detail selbst regeln. Es gibt Arbeit ab, legt aber den Rahmen genau fest.",
+   "alltag": "Der Vorstand erlaubt der Platzwartin, die Platzordnung zu schreiben. Er sagt genau: worüber, wozu und wie weit. Oben auf dem Zettel steht, wer es erlaubt hat.",
+   "erkennen": [
+    "Wer erlässt die Regel? Regierung, Ministerium oder [[Behörde]].",
+    "Erlaubt ein Gesetz genau das? Inhalt, Zweck und Ausmaß müssen drinstehen.",
+    "In der Verordnung muss stehen, auf welches Gesetz sie sich stützt.",
+    "Sie steht im Rang unter dem Gesetz."
+   ],
+   "merktrick": "Ohne Gesetz keine Verordnung: erst die Erlaubnis, dann die Regel.",
+   "klausur": {
+    "bausteine": [
+     "Eine Rechtsverordnung ist eine abstrakt-generelle Rechtsnorm.",
+     "Sie wird von der Exekutive aufgrund einer gesetzlichen Ermächtigung erlassen.",
+     "Sie ist materielles Gesetz, aber kein Parlamentsgesetz.",
+     "Die Ermächtigung muss Inhalt, Zweck und Ausmaß bestimmen (Art. 80 I 2 GG).",
+     "Die Ermächtigungsgrundlage ist in der Verordnung zu nennen (Zitiergebot, Art. 80 I 3 GG).",
+     "Rang: unter dem Gesetz. Beispiel: Approbationsordnung für Ärzte."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Eine Rechtsverordnung wird vom Parlament im förmlichen Gesetzgebungsverfahren beschlossen.",
+      "warumNicht": "Das wäre ein Parlamentsgesetz. Die Rechtsverordnung erlässt die Exekutive."
+     },
+     {
+      "text": "Die Exekutive darf Rechtsverordnungen auch ohne gesetzliche Ermächtigung erlassen.",
+      "warumNicht": "Sie braucht immer eine gesetzliche Ermächtigung, die Inhalt, Zweck und Ausmaß bestimmt (Art. 80 I GG)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q30",
+   "titel": "Regeln, die man sich selbst gibt: Was ist eine Satzung?",
+   "fachbegriff": "Satzung",
+   "einSatz": "Eine [[Satzung]] ist eine Regel, die sich eine Gemeinde, Kammer oder Kasse selbst gibt. Sie gilt für ihre Mitglieder.",
+   "warum": "Wer sich selbst verwaltet, soll seine eigenen Dinge auch selbst regeln. Das ist der Kern der [[Selbstverwaltung]].",
+   "alltag": "Eine WG schreibt selbst ihren Putzplan. Niemand von außen hat ihn vorgegeben. Er gilt für alle, die dort wohnen.",
+   "erkennen": [
+    "Wer erlässt die Regel? Eine öffentliche Stelle, die sich selbst verwaltet.",
+    "Für wen gilt sie? Für ihre Mitglieder oder Angehörigen.",
+    "Satzung: Man regelt sich selbst. [[Verordnung|Rechtsverordnung]]: Der Staat gibt Arbeit ab.",
+    "Beispiele: Satzung der Krankenkasse, Berufsordnung der Ärztekammer."
+   ],
+   "merktrick": "Satzung: Wir setzen uns selbst die Regeln.",
+   "klausur": {
+    "bausteine": [
+     "Eine Satzung ist eine abstrakt-generelle Rechtsnorm.",
+     "Sie wird von einer juristischen Person des öffentlichen Rechts erlassen.",
+     "Das geschieht im Rahmen ihrer Selbstverwaltungsautonomie, für ihre Mitglieder bzw. Angehörigen.",
+     "Unterschied: Satzung = Selbstverwaltung, Rechtsverordnung = staatliche Delegation.",
+     "Beispiel: Satzung einer gesetzlichen Krankenkasse (§ 194 SGB V), Berufsordnung der Ärztekammer."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Unterschied: Satzung = staatliche Delegation, Rechtsverordnung = Selbstverwaltung.",
+      "warumNicht": "Genau vertauscht: Satzung = Selbstverwaltung, Rechtsverordnung = staatliche Delegation."
+     },
+     {
+      "text": "Eine Satzung regelt einen Einzelfall gegenüber einem Mitglied.",
+      "warumNicht": "Eine Satzung ist abstrakt-generell. Einen Einzelfall regelt ein Verwaltungsakt."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q31",
+   "titel": "Wer verwaltet, wenn nichts anderes geregelt ist?",
+   "fachbegriff": "Verwaltungskompetenzen (Art. 30, 83 GG)",
+   "einSatz": "Grundsätzlich sind die **Länder** zuständig. Der Bund nur, wenn das [[Grundgesetz]] es bestimmt oder erlaubt.",
+   "warum": "So ist immer klar, wer zuständig ist. Auch Gesetze des Bundes führen die Länder als eigene Sache aus.",
+   "alltag": "In einer Firma arbeiten die Filialen vor Ort selbst. Die Zentrale macht nur, was ihr der Vertrag ausdrücklich gibt.",
+   "erkennen": [
+    "Sagt das Grundgesetz nichts? Dann ist das **Land** dran (Art. 30).",
+    "Ein Gesetz des Bundes führen die Länder aus (Art. 83).",
+    "Die gleiche Regel gilt für Gesetze (Art. 70) und Gerichte (Art. 92 ff.).",
+    "Ausnahmen für den Bund: Art. 86 ff., etwa Kassen über ein Land hinaus."
+   ],
+   "merktrick": "Land zuerst, Bund nur mit Erlaubnis.",
+   "klausur": {
+    "bausteine": [
+     "Grundregel ist Art. 30 GG: Staatliche Befugnisse und Aufgaben sind Sache der Länder.",
+     "Das gilt, soweit das GG nichts anderes bestimmt oder zulässt.",
+     "Art. 83 GG: Die Länder führen die Bundesgesetze als eigene Angelegenheit aus.",
+     "Parallel bestätigen Art. 70 I GG (Gesetzgebung) und Art. 92 ff. GG (Rechtsprechung) die Grundregel.",
+     "Ausnahmen der Bundesverwaltung: Art. 86 ff. GG, z. B. Art. 87 II für bundesunmittelbare Sozialversicherungsträger."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Grundregel ist Art. 30 GG: Die Verwaltung ist Sache des Bundes.",
+      "warumNicht": "Nach Art. 30 GG sind staatliche Aufgaben Sache der Länder, nicht des Bundes."
+     },
+     {
+      "text": "Art. 83 GG: Der Bund führt die Bundesgesetze selbst aus.",
+      "warumNicht": "Nach Art. 83 GG führen die Länder die Bundesgesetze als eigene Angelegenheit aus."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q32",
+   "titel": "Bund oder Länder: Wer verwaltet meistens, und warum?",
+   "fachbegriff": "Exekutivföderalismus",
+   "einSatz": "Meist verwalten die **Länder**. Der Bund macht vor allem die Gesetze.",
+   "warum": "Macht soll verteilt sein, nicht in einer Hand. Das ist eine Lehre aus der NS-Zeit. Dazu sind die Länder näher dran.",
+   "alltag": "Die Zentrale einer Bäckerkette schreibt die Rezepte. Backen und verkaufen tun die Filialen vor Ort. Sie kennen ihre Kunden.",
+   "erkennen": [
+    "Wer schreibt die meisten Gesetze? Der Bund.",
+    "Wer führt die meisten Gesetze aus? Die Länder.",
+    "Gründe: Macht teilen, Nähe zu Bürgern und Sache, vorhandene Ämter."
+   ],
+   "merktrick": "Der Bund schreibt, das Land treibt.",
+   "klausur": {
+    "bausteine": [
+     "Für die Verwaltung sind vor allem die Länder zuständig (Art. 30, 83 GG).",
+     "Der Bund ist überwiegend Gesetzgeber (Exekutivföderalismus).",
+     "Grund ist die föderale Gewaltenteilung, eine Lehre aus dem Zentralismus der NS-Zeit.",
+     "Weitere Gründe: Bürgernähe, Sachnähe und vorhandene Ämter der Länder."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Vor allem der Bund verwaltet, die Länder sind überwiegend Gesetzgeber.",
+      "warumNicht": "Umgekehrt: Die Länder verwalten vor allem, der Bund ist überwiegend Gesetzgeber."
+     },
+     {
+      "text": "Grund ist, dass der Bund keine eigenen Behörden haben darf.",
+      "warumNicht": "Der Bund hat eigene Behörden (Art. 86 ff. GG). Die Gründe sind Gewaltenteilung, Bürgernähe und Sachnähe."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q33",
+   "titel": "Gehört die Krankenkasse zum Bund oder zum Land?",
+   "fachbegriff": "bundes- und landesunmittelbare Krankenkassen (Art. 87 II GG)",
+   "einSatz": "Krankenkassen sind [[Körperschaften]] mit [[Selbstverwaltung]]. Ob Bund oder Land, hängt davon ab, wo sie tätig sind.",
+   "warum": "Wer nur in einem Land arbeitet, wird von diesem Land überwacht. Wer über ein Land hinaus arbeitet, vom Bund.",
+   "alltag": "Ein Fußballclub spielt nur in der Stadtliga. Dann ist der Stadtverband zuständig. Spielt er bundesweit, ist es der Bundesverband.",
+   "erkennen": [
+    "Nur in einem Land tätig? Dann **landesunmittelbar**, die [[Aufsicht]] hat das Land.",
+    "Über ein Land hinaus? Dann **bundesunmittelbar**, die Aufsicht hat ein Bundesamt.",
+    "Bis zu drei Länder bleiben Landessache, wenn die Länder das vereinbaren.",
+    "Immer gilt: Die Kasse ist [[mittelbare Staatsverwaltung]]."
+   ],
+   "merktrick": "Die Grenze zählt: ein Land, Landessache. Mehr Länder, Bundessache.",
+   "klausur": {
+    "bausteine": [
+     "Gesetzliche Krankenkassen sind Körperschaften des öffentlichen Rechts mit Selbstverwaltung (§ 4 I SGB V).",
+     "Sie sind also mittelbare Staatsverwaltung.",
+     "Bundes- oder landesunmittelbar richtet sich nach dem räumlichen Zuständigkeitsbereich (Art. 87 II GG).",
+     "Über ein Land hinaus: bundesunmittelbar, Aufsicht Bundesamt für Soziale Sicherung.",
+     "Nur ein Land (oder bis drei Länder bei Vereinbarung): landesunmittelbar, Aufsicht Landesbehörde."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Krankenkassen sind unmittelbare Staatsverwaltung des Bundesgesundheitsministeriums.",
+      "warumNicht": "Krankenkassen sind Körperschaften mit Selbstverwaltung, also mittelbare Staatsverwaltung."
+     },
+     {
+      "text": "Entscheidend ist die Zahl der Versicherten.",
+      "warumNicht": "Entscheidend ist der räumliche Zuständigkeitsbereich (Art. 87 II GG), nicht die Größe."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q34",
+   "titel": "Wann ist ein Brief der Behörde ein echter Bescheid?",
+   "fachbegriff": "Verwaltungsakt (§ 31 SGB X)",
+   "einSatz": "Ein [[Bescheid]] ist eine einseitige Entscheidung einer [[Behörde]]. Sie regelt verbindlich einen einzelnen Fall nach außen.",
+   "warum": "Ein Bescheid legt fest, was gilt. Darum muss man ihn von bloßen Infos, Verträgen und internen Notizen trennen.",
+   "alltag": "Der Schiri zeigt einem Spieler die Rote Karte. Er entscheidet allein, für diesen einen Spieler, und es gilt sofort. Ein Tipp vom Trainer wäre keine solche Entscheidung.",
+   "erkennen": [
+    "Handelt eine **Behörde**, einseitig und im öffentlichen Recht?",
+    "Wird etwas verbindlich **geregelt**, nicht nur erklärt?",
+    "Geht es um **einen** Fall, nicht um alle?",
+    "Wirkt es **nach außen**, beim Bürger, nicht nur intern?"
+   ],
+   "merktrick": "Fehlt ein Merkmal, fehlt der Bescheid.",
+   "klausur": {
+    "bausteine": [
+     "Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme (§ 31 S. 1 SGB X),",
+     "die eine Behörde",
+     "zur Regelung eines Einzelfalls",
+     "auf dem Gebiet des öffentlichen Rechts trifft",
+     "und die auf unmittelbare Rechtswirkung nach außen gerichtet ist."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "und die abstrakt-generell eine Vielzahl von Fällen regelt.",
+      "warumNicht": "Abstrakt-generelle Regelungen sind Rechtsnormen. Der VA regelt einen Einzelfall."
+     },
+     {
+      "text": "die durch Vertrag zwischen Behörde und Bürger zustande kommt",
+      "warumNicht": "Der VA ist eine einseitige hoheitliche Maßnahme. Der Vertrag ist eine eigene Handlungsform (§ 53 SGB X)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q35",
+   "titel": "Braucht die Behörde ein Gericht, um ihren Bescheid durchzusetzen?",
+   "fachbegriff": "Selbsttitulierung und Verwaltungsvollstreckung",
+   "einSatz": "Nein. Die [[Behörde]] kann ihren [[Bescheid]] selbst durchsetzen. Ein Gericht braucht sie dafür nicht.",
+   "warum": "Private Leute brauchen erst ein Urteil. Bei der Behörde ist der Bescheid selbst schon die Grundlage.",
+   "alltag": "Der Handwerker will sein Geld. Zahlt der Kunde nicht, muss er vor Gericht. Die Behörde schreibt sich den Titel selbst.",
+   "erkennen": [
+    "Gibt es einen Bescheid? Dann braucht die Behörde kein Urteil.",
+    "Mittel: Zwangsgeld, Ersatzvornahme oder direkter Zwang.",
+    "Aber: Der Bescheid muss schon durchsetzbar sein.",
+    "Hat ein [[Widerspruch]] [[aufschiebende Wirkung]], muss sie warten."
+   ],
+   "merktrick": "Der Bescheid ist sein eigenes Urteil.",
+   "klausur": {
+    "bausteine": [
+     "Nein, die Verwaltung muss kein Gericht anrufen.",
+     "Sie kann ihre VA selbst vollstrecken (Selbsttitulierung).",
+     "Im Gegensatz zum Privatrecht braucht sie keinen gerichtlichen Titel.",
+     "Die Vollstreckung richtet sich nach dem VwVG: Zwangsgeld, Ersatzvornahme, unmittelbarer Zwang.",
+     "Voraussetzung ist die Vollziehbarkeit: Unanfechtbarkeit oder sofortige Vollziehbarkeit.",
+     "Sonst haben Widerspruch und Klage aufschiebende Wirkung (§ 86a SGG)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Ja, die Verwaltung braucht wie ein Privater einen gerichtlichen Titel.",
+      "warumNicht": "Gerade nicht: Die Verwaltung braucht keinen gerichtlichen Titel (Selbsttitulierung)."
+     },
+     {
+      "text": "Die Vollstreckung ist auch während der aufschiebenden Wirkung stets zulässig.",
+      "warumNicht": "Vollstreckung setzt Vollziehbarkeit voraus. Während der aufschiebenden Wirkung fehlt sie."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q36",
+   "titel": "Was kann die Verwaltung außer Bescheiden noch tun?",
+   "fachbegriff": "Handlungsformen der Verwaltung",
+   "einSatz": "Neben dem [[Bescheid]] gibt es Regeln, Verträge, interne Vorschriften, einfaches Handeln, Pläne und privates Handeln.",
+   "warum": "Nicht jede Aufgabe passt in einen Bescheid. Je nach Ziel wählt die Verwaltung ein anderes Werkzeug.",
+   "alltag": "Eine Schule verteilt Zeugnisse. Sie schreibt aber auch eine Hausordnung, berät Eltern, plant den Stundenplan und kauft Kreide im Laden.",
+   "erkennen": [
+    "Regel für viele: [[Rechtsverordnung]] oder [[Satzung]].",
+    "Beide Seiten einigen sich: [[öffentlich-rechtlicher Vertrag]].",
+    "Nur für die eigenen Leute: [[Verwaltungsvorschrift]]. Nur tun oder informieren: [[Realakt]].",
+    "Planen: Plan. Einkaufen wie jeder andere: privates Handeln."
+   ],
+   "merktrick": "Regel, Vertrag, Vorschrift, Tat, Plan, Einkauf: sechs Werkzeuge neben dem Bescheid.",
+   "klausur": {
+    "bausteine": [
+     "Rechtsetzung: Rechtsverordnung, Satzung.",
+     "Öffentlich-rechtlicher Vertrag (§§ 53 ff. SGB X), z. B. Versorgungsverträge nach § 109 SGB V.",
+     "Verwaltungsvorschriften (Innenrecht).",
+     "Realakte bzw. schlichtes Verwaltungshandeln: Auskunft, Beratung (§§ 14, 15 SGB I), Warnung.",
+     "Pläne, z. B. Bedarfsplanung.",
+     "Privatrechtliches Handeln der Verwaltung (Verwaltungsprivatrecht, fiskalisches Handeln)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Gerichtsurteile als Handlungsform der Verwaltung.",
+      "warumNicht": "Urteile sprechen Gerichte, nicht die Verwaltung."
+     },
+     {
+      "text": "Verwaltungsvorschriften als Außenrecht mit unmittelbarer Wirkung für Bürger.",
+      "warumNicht": "Verwaltungsvorschriften sind Innenrecht. Sie binden die Verwaltung, nicht unmittelbar den Bürger."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q37",
+   "titel": "Ein fester Bescheid soll weg: Welche Wege gibt es?",
+   "fachbegriff": "Aufhebung von Verwaltungsakten (§§ 44 bis 49 SGB X)",
+   "einSatz": "Auch ein fester [[Bescheid]] ([[Bestandskraft]]) kann aufgehoben werden. Die Wege stehen in §§ 44 bis 49 [[SGB|sgb]] X.",
+   "warum": "Manchmal ist ein Bescheid falsch, oder die Lage ändert sich. Dann soll die [[Behörde]] ihn ändern können. Wer etwas Gutes bekam, wird dabei geschützt.",
+   "alltag": "Ein Handyvertrag läuft. Mal war der Preis falsch berechnet, mal zieht die Kundin um. Für jeden Fall gibt es eine eigene Regel.",
+   "erkennen": [
+    "Von Anfang an falsch: [[Rücknahme]]. Belastet er dich: § 44. Gibt er dir etwas: § 45.",
+    "Damals richtig: [[Widerruf]]. Belastet er: § 46. Gibt er etwas: § 47.",
+    "Ein laufender Bescheid ([[Dauerwirkung]]) und die Lage ändert sich: § 48.",
+    "Während [[Widerspruch]] oder [[Klage]] laufen: § 49."
+   ],
+   "merktrick": "44 bis 47: falsch oder richtig, gut oder schlecht. 48 läuft, 49 streitet.",
+   "klausur": {
+    "bausteine": [
+     "Die Bestandskraft wird durch Aufhebung des VA durchbrochen.",
+     "§ 44 SGB X: Rücknahme eines rechtswidrigen nicht begünstigenden VA.",
+     "§ 45 SGB X: Rücknahme eines rechtswidrigen begünstigenden VA (Vertrauensschutz).",
+     "§§ 46, 47 SGB X: Widerruf eines rechtmäßigen nicht begünstigenden bzw. begünstigenden VA.",
+     "§ 48 SGB X: Aufhebung eines VA mit Dauerwirkung bei Änderung der Verhältnisse.",
+     "§ 49 SGB X: Rücknahme und Widerruf im Rechtsbehelfsverfahren; § 50: Erstattung und Verzinsung."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "§ 44 SGB X: Widerruf eines rechtmäßigen begünstigenden VA.",
+      "warumNicht": "§ 44 SGB X regelt die Rücknahme eines rechtswidrigen nicht begünstigenden VA."
+     },
+     {
+      "text": "Ein bestandskräftiger VA kann nur durch ein Gericht aufgehoben werden.",
+      "warumNicht": "Die Verwaltung kann den VA selbst aufheben (§§ 44 bis 49 SGB X)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q38",
+   "titel": "Bescheid wieder aufheben: Von Anfang an falsch oder später überholt?",
+   "fachbegriff": "Rücknahme und Widerruf",
+   "einSatz": "**Rücknahme:** Der [[Bescheid]] war schon beim Erlass falsch. **Widerruf:** Er war richtig, wird aber für die Zukunft aufgehoben.",
+   "warum": "Die Kasse darf ihre Entscheidungen ändern. Sie muss aber klären, ob sie einen Fehler repariert oder auf eine neue Lage reagiert.",
+   "alltag": "Die Lehrerin verrechnet sich bei der Note und korrigiert sie: Rücknahme. Die Schule erlaubt Handys in der Pause und ändert später die Hausordnung: Widerruf.",
+   "erkennen": [
+    "Frage dich: War der Bescheid am ersten Tag schon falsch?",
+    "Ja, von Anfang an falsch: **Rücknahme**.",
+    "Nein, damals richtig: **Widerruf**.",
+    "Ein Widerruf gilt nur für die Zukunft."
+   ],
+   "merktrick": "Rücknahme repariert den Fehler. Widerruf winkt dem Richtigen zum Abschied.",
+   "klausur": {
+    "bausteine": [
+     "Entscheidend ist die Rechtmäßigkeit des VA bei Erlass.",
+     "Rücknahme: Der VA war von Anfang an rechtswidrig.",
+     "Widerruf: Der VA war rechtmäßig, wird aber aufgehoben.",
+     "Der Widerruf wirkt grundsätzlich nur für die Zukunft."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Rücknahme: Der VA war rechtmäßig, wird aber aufgehoben.",
+      "warumNicht": "Vertauscht: Rechtmäßig und aufgehoben ist der Widerruf. Die Rücknahme betrifft rechtswidrige VA."
+     },
+     {
+      "text": "Entscheidend ist, ob der Bürger zustimmt.",
+      "warumNicht": "Entscheidend ist allein die Rechtmäßigkeit des VA bei Erlass."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q39",
+   "titel": "Fehler im Ablauf nachträglich reparieren",
+   "fachbegriff": "Heilung von Verfahrens- und Formfehlern (§ 41 SGB X)",
+   "einSatz": "Manche Fehler im Ablauf kann die [[Behörde]] später **nachholen**. Dann zählen sie nicht mehr. Das heißt [[Heilung]].",
+   "warum": "Wer einen vergessenen Schritt nachholt, hat den Fehler behoben. Und hat ein Fehler klar nichts geändert, muss der [[Bescheid]] auch nicht weg (§ 42).",
+   "alltag": "Du gibst ein Referat ab und vergisst das Deckblatt. Am nächsten Tag reichst du es nach. Jetzt ist alles komplett.",
+   "erkennen": [
+    "Geht es um den **Ablauf** oder die **Form**, nicht um den Inhalt?",
+    "Nachholbar: Antrag, Begründung, [[Anhörung]], Beschluss eines Ausschusses, Mitwirkung einer anderen [[Behörde|verwaltung]].",
+    "Zeitgrenze: bis zur letzten Gerichtsstufe, die noch Tatsachen prüft.",
+    "Nicht heilbar: ein [[nichtiger|Nichtigkeit]] Bescheid."
+   ],
+   "merktrick": "Vergessen? Nachholen! Dann heilt der Fehler wie ein Kratzer.",
+   "klausur": {
+    "bausteine": [
+     "Nach § 41 SGB X werden Verfahrens- und Formfehler unbeachtlich, wenn sie nachgeholt werden.",
+     "Das gilt für Fehler, die nicht zur Nichtigkeit führen (§ 40).",
+     "Nachgeholt werden können Antrag, Begründung und Anhörung,",
+     "ebenso ein Ausschussbeschluss und die Mitwirkung einer anderen Behörde.",
+     "Zeitgrenze: bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens (§ 41 II).",
+     "Ergänzend § 42: Keine Aufhebung, wenn der Fehler die Entscheidung offensichtlich nicht beeinflusst hat."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Auch nichtige Verwaltungsakte werden durch Nachholung geheilt.",
+      "warumNicht": "Heilbar sind nur Fehler, die nicht zur Nichtigkeit führen (§ 40)."
+     },
+     {
+      "text": "Die Nachholung ist nur bis zum Erlass des Bescheids möglich.",
+      "warumNicht": "Die Nachholung ist bis zur letzten Tatsacheninstanz des sozialgerichtlichen Verfahrens möglich (§ 41 II)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "q40",
+   "titel": "Bevor es wehtut: erst zuhören, dann entscheiden",
+   "fachbegriff": "Anhörung (§ 24 SGB X)",
+   "einSatz": "Will die [[Behörde]] in deine Rechte eingreifen, muss sie dich vorher fragen. Das heißt [[Anhörung]].",
+   "warum": "Du kennst deinen Fall oft am besten. Du sollst deine Sicht sagen können, bevor etwas gegen dich entschieden wird.",
+   "alltag": "Bevor der Trainer dich aus dem Team nimmt, fragt er: „Was sagst du dazu?“ Erst dann entscheidet er.",
+   "erkennen": [
+    "Wird etwas **gegen** die Person entschieden? Etwa eine Kürzung oder [[Rücknahme]].",
+    "Dann darf sie sich vorher zu den wichtigen Tatsachen äußern.",
+    "Ausnahmen: etwa Gefahr im Verzug oder viele gleiche [[Bescheide|bescheid]] auf einmal.",
+    "Vergessen? Ein Fehler im Ablauf. Er lässt sich durch Nachholen [[heilen|Heilung]]."
+   ],
+   "merktrick": "Erst hören, dann kürzen.",
+   "klausur": {
+    "bausteine": [
+     "Die Anhörung ist in § 24 SGB X normiert.",
+     "Vor einem VA, der in Rechte eines Beteiligten eingreift,",
+     "muss ihm Gelegenheit gegeben werden, sich zu den entscheidungserheblichen Tatsachen zu äußern.",
+     "Es geht um belastende VA, z. B. Rücknahme, Kürzung, Aufhebung einer Leistung.",
+     "Ausnahmen (§ 24 II): z. B. Gefahr im Verzug, zwingendes öffentliches Interesse, Allgemeinverfügungen.",
+     "Folge bei Verstoß: Verfahrensfehler, heilbar (§ 41 I Nr. 3 SGB X)."
+    ],
+    "fallenBausteine": [
+     {
+      "text": "Die Anhörung ist vor jedem begünstigenden VA erforderlich.",
+      "warumNicht": "Die Anhörung ist vor VA nötig, die in Rechte eingreifen, also vor belastenden VA."
+     },
+     {
+      "text": "Folge bei Verstoß: Der VA ist stets nichtig.",
+      "warumNicht": "Ein Verstoß ist ein Verfahrensfehler. Er ist heilbar (§ 41 I Nr. 3 SGB X)."
+     }
+    ]
+   }
+  }
+ ],
+ "faelle": [
+  {
+   "id": "f027-0",
+   "regelId": "q27",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Dr. Pohl, Hausärztin",
+    "emoji": "👩‍⚕️"
+   },
+   "akte": "Dr. Pohl ist Mitglied der Ärztekammer. Die Mitglieder wählen ihren Vorstand. Die Kammer wurde per Gesetz gegründet.",
+   "frage": "Was ist die Ärztekammer?",
+   "optionen": [
+    {
+     "text": "Körperschaft",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Anstalt",
+     "richtig": false,
+     "warumNicht": "Eine [[Anstalt]] hat Nutzer, keine Mitglieder. Die Kammer hat Mitglieder, die wählen."
+    }
+   ],
+   "ergebnis": "[[Körperschaft]], weil die Kammer Mitglieder hat, die mitbestimmen.",
+   "warum": "Mitglieder, die wählen, sind das Kennzeichen einer Körperschaft. Gegründet wurde sie per Gesetz.",
+   "denkweg": [
+    "1. Gibt es Mitglieder? Ja, alle Ärzte.",
+    "2. Bestimmen sie mit? Ja, sie wählen.",
+    "3. Also: Körperschaft."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f027-1",
+   "regelId": "q27",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Körperschaft]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Eine per Gesetz gegründete Einheit mit Mitgliedern. Sie erfüllt eine öffentliche Aufgabe und verwaltet sich selbst.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Eine Einrichtung mit Gebäuden und Personal, die ihre Nutzer bedient, zum Beispiel eine Uniklinik.",
+     "richtig": false,
+     "warumNicht": "Das ist eine [[Anstalt]]. Sie hat Nutzer, eine Körperschaft hat Mitglieder."
+    },
+    {
+     "text": "Ein privater Verein, den ein paar Leute mit einem Vertrag gründen.",
+     "richtig": false,
+     "warumNicht": "Eine Körperschaft gründet der Staat, meist per Gesetz. Ein privater Vertrag reicht nicht."
+    }
+   ],
+   "ergebnis": "Eine Körperschaft hat Mitglieder, wird per Gesetz gegründet und erfüllt öffentliche Aufgaben.",
+   "warum": "Die Mitglieder sind der Kern. Dazu kommen die Gründung durch den Staat und die öffentliche Aufgabe.",
+   "denkweg": [
+    "1. Mitglieder oder Nutzer? Mitglieder.",
+    "2. Wer gründet sie? Der Staat, per Gesetz.",
+    "3. Also die erste Erklärung."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f027-2",
+   "regelId": "q27",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Herr Nguyen, Archivar",
+    "emoji": "🧑‍💼"
+   },
+   "akte": "Herrn Nguyen sind die Etiketten von sechs Akten abgefallen. Jede Akte gehört zu einer anderen Einrichtung.",
+   "frage": "[[Körperschaft]] oder [[Anstalt]]? Sortiere die Akten.",
+   "fachfaecher": {
+    "faecher": [
+     "Körperschaft",
+     "Anstalt"
+    ],
+    "karten": [
+     {
+      "text": "Gemeinde",
+      "fach": "Körperschaft",
+      "warumNicht": "Die Einwohner sind ihre Mitglieder."
+     },
+     {
+      "text": "Sparkasse",
+      "fach": "Anstalt",
+      "warumNicht": "Kunden nutzen sie, sie sind keine Mitglieder."
+     },
+     {
+      "text": "Ärztekammer",
+      "fach": "Körperschaft",
+      "warumNicht": "Die Ärzte sind Mitglieder und wählen."
+     },
+     {
+      "text": "Uniklinik",
+      "fach": "Anstalt",
+      "warumNicht": "Patienten nutzen sie. Je nach Land ist sie eine Anstalt."
+     },
+     {
+      "text": "Gesetzliche Krankenkasse",
+      "fach": "Körperschaft",
+      "warumNicht": "Sie hat Mitglieder und [[Selbstverwaltung]]."
+     },
+     {
+      "text": "Öffentlicher Rundfunk",
+      "fach": "Anstalt",
+      "warumNicht": "Zuschauer nutzen ihn, sie sind keine Mitglieder."
+     }
+    ]
+   },
+   "ergebnis": "Gemeinde, Ärztekammer und Krankenkasse sind Körperschaften. Sparkasse, Uniklinik und Rundfunk sind Anstalten.",
+   "warum": "Es zählt nur eine Frage: Gibt es Mitglieder oder nur Nutzer?",
+   "denkweg": [
+    "1. Frage bei jeder Akte: Mitglieder oder Nutzer?",
+    "2. Mitglieder: Körperschaft.",
+    "3. Nutzer: Anstalt."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f027-3",
+   "regelId": "q27",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Dr. Haas, Kinderarzt kurz vor der Rente",
+    "emoji": "👴"
+   },
+   "akte": "In der Kassenärztlichen Vereinigung gehen viele Ärzte in Rente. Neue Ärzte kommen dazu. Dr. Haas fragt: „Gibt es dann eine neue Vereinigung?“",
+   "frage": "Was antwortest du?",
+   "optionen": [
+    {
+     "text": "Nein, es bleibt dieselbe",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, sie wird neu gegründet",
+     "richtig": false,
+     "warumNicht": "Eine [[Körperschaft]] hängt nicht davon ab, wer gerade Mitglied ist."
+    },
+    {
+     "text": "Ja, sie wird eine Anstalt",
+     "richtig": false,
+     "warumNicht": "Die Ärzte bleiben Mitglieder, nur die Personen wechseln. Nutzer statt Mitglieder gibt es hier nicht."
+    }
+   ],
+   "ergebnis": "Es bleibt dieselbe Körperschaft, egal wer gerade Mitglied ist.",
+   "warum": "Eine Körperschaft ist vom Wechsel der Mitglieder unabhängig. Wie ein Verein, der bleibt, wenn Leute gehen.",
+   "denkweg": [
+    "1. Was ändert sich? Nur die Personen.",
+    "2. Hängt die Körperschaft an den Personen? Nein.",
+    "3. Also bleibt sie dieselbe."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f027-5",
+   "regelId": "q27",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Ilse Kranz, Bürgermeisterin",
+    "emoji": "🙋‍♀️"
+   },
+   "akte": "Frau Kranz leitet die Stadt Kleinhausen. Mitglied ist, wer dort wohnt. Die Stadt hat auch eine Bücherei und ein Freibad.",
+   "frage": "Welche Art von [[Körperschaft]] ist die Stadt?",
+   "optionen": [
+    {
+     "text": "Gebietskörperschaft",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Personalkörperschaft",
+     "richtig": false,
+     "warumNicht": "Dazu zählen etwa Ärztekammer und IHK. Bei der Stadt zählt das Gebiet, in dem man wohnt."
+    },
+    {
+     "text": "Anstalt",
+     "richtig": false,
+     "warumNicht": "Bücherei und Freibad lenken ab. Die Stadt selbst hat Mitglieder: ihre Einwohner."
+    }
+   ],
+   "ergebnis": "Gebietskörperschaft, denn Mitglied ist, wer im Gebiet wohnt.",
+   "warum": "Bund, Land und Gemeinde sind Gebietskörperschaften. Bei ihnen hängt die Mitgliedschaft am Ort.",
+   "denkweg": [
+    "1. Hat die Stadt Mitglieder? Ja, die Einwohner.",
+    "2. Woran hängt das? Am Wohnort.",
+    "3. Also: Gebietskörperschaft."
+   ],
+   "dauerSek": 24
+  },
+  {
+   "id": "f027-4",
+   "regelId": "q27",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was eine [[Körperschaft]] ist. Mit Beispiel, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Eine Körperschaft hat Mitglieder. Sie bleibt, wenn die Mitglieder wechseln. Sie hat eine Aufgabe für alle.",
+   "warum": "Erst kommen die Merkmale. Dann folgt das Beispiel Krankenkasse.",
+   "denkweg": [
+    "1. Zuerst: Mitglieder und eigene Rechte.",
+    "2. Dann: Aufgabe, Gründung per Gesetz, [[Selbstverwaltung]].",
+    "3. Zum Schluss das Beispiel."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f027-6",
+   "regelId": "q27",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Dr. Lindqvist, Hautärztin",
+    "emoji": "👩‍⚕️"
+   },
+   "akte": "Dr. Lindqvist ist Mitglied der Ärztekammer. Dort wählen die Ärzte ihre Vertreter. Die Kammer wurde per Gesetz gegründet.",
+   "frage": "Was ist die Ärztekammer?",
+   "optionen": [
+    {
+     "text": "Körperschaft",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Anstalt",
+     "richtig": false,
+     "warumNicht": "Eine [[Anstalt]] hat nur Nutzer. Hier gibt es Mitglieder, die wählen."
+    },
+    {
+     "text": "Privater Verein",
+     "richtig": false,
+     "warumNicht": "Einen Verein gründen Privatleute. Die Kammer hat der Staat per Gesetz gegründet."
+    }
+   ],
+   "ergebnis": "Die Ärztekammer ist eine Körperschaft.",
+   "warum": "Sie hat Mitglieder, die mitbestimmen. Und der Staat hat sie per Gesetz gegründet.",
+   "denkweg": [
+    "1. Gibt es Mitglieder? Ja, die Ärzte.",
+    "2. Wer hat sie gegründet? Der Staat, per Gesetz.",
+    "3. Also eine [[Körperschaft]]."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f028-0",
+   "regelId": "q28",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Lena, Studentin mit Gipsbein",
+    "emoji": "🤕"
+   },
+   "akte": "Lena wird in der Uniklinik behandelt. Dort gibt es Ärzte, Betten und Geräte. Lena ist Patientin, kein Mitglied. Mitbestimmen darf sie nicht.",
+   "frage": "Was ist die Uniklinik (je nach Land)?",
+   "optionen": [
+    {
+     "text": "Anstalt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Körperschaft",
+     "richtig": false,
+     "warumNicht": "Eine [[Körperschaft]] hat Mitglieder. Lena ist nur Nutzerin."
+    }
+   ],
+   "ergebnis": "[[Anstalt]], denn die Klinik hat Nutzer, keine Mitglieder.",
+   "warum": "Sachen und Personal dienen einem öffentlichen Zweck. Die Patienten nutzen das nur.",
+   "denkweg": [
+    "1. Ist Lena Mitglied? Nein, Patientin.",
+    "2. Gibt es Personal und Geräte für einen Zweck? Ja.",
+    "3. Also: Anstalt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f028-1",
+   "regelId": "q28",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brösel, Fernsehkoch",
+    "emoji": "👨‍🍳"
+   },
+   "akte": "Herr Brösel kocht in einer Sendung des öffentlichen Rundfunks. Millionen Menschen schauen zu. Mitglied im Sender ist keiner von ihnen.",
+   "frage": "Was ist der öffentliche Sender?",
+   "optionen": [
+    {
+     "text": "Anstalt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Körperschaft",
+     "richtig": false,
+     "warumNicht": "Die Zuschauer sind keine Mitglieder. Ohne Mitglieder keine [[Körperschaft]]."
+    },
+    {
+     "text": "Private Firma",
+     "richtig": false,
+     "warumNicht": "Der öffentlich-rechtliche Rundfunk ist eine Rundfunkanstalt, keine private Firma."
+    }
+   ],
+   "ergebnis": "[[Anstalt]]: Der Sender hat Zuschauer als Nutzer, keine Mitglieder.",
+   "warum": "Studio, Technik und Personal dienen einem öffentlichen Zweck. Wer zuschaut, nutzt das Angebot nur.",
+   "denkweg": [
+    "1. Gibt es Mitglieder? Nein.",
+    "2. Gibt es Nutzer? Ja, die Zuschauer.",
+    "3. Also: Anstalt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f028-2",
+   "regelId": "q28",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was ist eigentlich der Unterschied zwischen [[Anstalt]] und [[Körperschaft]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die Anstalt hat nur Nutzer. Die Körperschaft hat Mitglieder. Die reden mit.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Anstalt hat Mitglieder. Die Körperschaft hat nur Kunden.",
+     "richtig": false,
+     "warumNicht": "Genau falsch herum. Mitglieder hat die Körperschaft, Nutzer hat die Anstalt."
+    },
+    {
+     "text": "Die Anstalt ist immer privat. Die Körperschaft ist vom Staat.",
+     "richtig": false,
+     "warumNicht": "Beide sind öffentlich. Der Unterschied: Mitglieder oder Nutzer."
+    }
+   ],
+   "ergebnis": "Anstalt: Nutzer. Körperschaft: Mitglieder.",
+   "warum": "Beide tun etwas für alle. Nur die Körperschaft hat Mitglieder, die mitreden.",
+   "denkweg": [
+    "1. Beide sind öffentlich.",
+    "2. Wer gehört dazu? Mitglieder oder Nutzer?",
+    "3. Mitglieder: Körperschaft. Nutzer: Anstalt."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f028-3",
+   "regelId": "q28",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt fünf Kärtchen hin. Auf jedem steht eine Person.",
+   "frage": "Ist die Person Mitglied oder Nutzer?",
+   "fachfaecher": {
+    "faecher": [
+     "Mitglied",
+     "Nutzer"
+    ],
+    "karten": [
+     {
+      "text": "Ärztin in der Kassenärztlichen Vereinigung",
+      "fach": "Mitglied",
+      "warumNicht": "Die Vereinigung ist eine [[Körperschaft]] mit Mitgliedern."
+     },
+     {
+      "text": "Kundin der Sparkasse",
+      "fach": "Nutzer",
+      "warumNicht": "Die Sparkasse ist eine [[Anstalt]]."
+     },
+     {
+      "text": "Arzt in der Ärztekammer",
+      "fach": "Mitglied",
+      "warumNicht": "Die Kammer ist eine Körperschaft."
+     },
+     {
+      "text": "Patient der Uniklinik",
+      "fach": "Nutzer",
+      "warumNicht": "Die Uniklinik ist je nach Land eine Anstalt."
+     },
+     {
+      "text": "Einwohnerin der Gemeinde",
+      "fach": "Mitglied",
+      "warumNicht": "Die Gemeinde ist eine Körperschaft."
+     }
+    ]
+   },
+   "ergebnis": "Bei Körperschaften ist man Mitglied, bei Anstalten Nutzer.",
+   "warum": "So erkennst du schnell, ob eine Einrichtung eine Anstalt ist: Dort gibt es nur Nutzer.",
+   "denkweg": [
+    "1. Zu welcher Einrichtung gehört die Person?",
+    "2. Körperschaft: Mitglied.",
+    "3. Anstalt: Nutzer."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f028-4",
+   "regelId": "q28",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was eine [[Anstalt]] ist. Und nennen Sie Beispiele.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Bestand an Sach- und Personalmitteln für einen öffentlichen Zweck, mit Nutzern statt Mitgliedern.",
+   "warum": "Die Prüfung will Mittel, Zweck, Nutzer und die Frage der Rechtsfähigkeit. Dann folgen Beispiele.",
+   "denkweg": [
+    "1. Zuerst: Sach- und Personalmittel.",
+    "2. Dann: öffentlicher Zweck, Nutzer, rechtsfähig oder nicht.",
+    "3. Zum Schluss die Beispiele."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k028-1",
+   "regelId": "q28",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Sparr, Kassenwartin im Gartenverein",
+    "emoji": "🧮"
+   },
+   "akte": "Frau Sparr grübelt: „Sparkasse und Krankenkasse. Beide heißen Kasse. Dann sind sie doch dasselbe?“ Bei der Sparkasse hat sie nur ein Konto.",
+   "frage": "Was ist die Sparkasse?",
+   "optionen": [
+    {
+     "text": "Anstalt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Körperschaft wie die Krankenkasse",
+     "richtig": false,
+     "warumNicht": "Der Name täuscht. Die Krankenkasse hat Mitglieder, die Sparkasse nur Kunden als Nutzer."
+    }
+   ],
+   "ergebnis": "Die Sparkasse ist eine [[Anstalt]], die Krankenkasse eine [[Körperschaft]].",
+   "warum": "Nicht der Name zählt, sondern wer dazugehört. Kunden der Sparkasse sind Nutzer, keine Mitglieder.",
+   "denkweg": [
+    "1. Name ignorieren.",
+    "2. Mitglieder oder Nutzer? Bei der Sparkasse: Nutzer.",
+    "3. Also Anstalt."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": [
+    "q27"
+   ]
+  },
+  {
+   "id": "f028-5",
+   "regelId": "q28",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Tomasz, Pfleger in der Nachtschicht",
+    "emoji": "🧑‍⚕️"
+   },
+   "akte": "Tomasz arbeitet in der Uniklinik. Sie ist in seinem Land eine [[Anstalt]]. Tomasz sagt: „Wir sind 5.000 Leute. Also sind wir Mitglieder einer Körperschaft.“",
+   "frage": "Hat Tomasz recht?",
+   "optionen": [
+    {
+     "text": "Nein, Personal der Anstalt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Mitglieder einer Körperschaft",
+     "richtig": false,
+     "warumNicht": "Wer dort arbeitet, ist nicht Mitglied. Mitglieder hat nur eine [[Körperschaft]]."
+    },
+    {
+     "text": "Nein, Patienten sind Mitglieder",
+     "richtig": false,
+     "warumNicht": "Patienten nutzen die Klinik. Sie sind Nutzer, keine Mitglieder."
+    }
+   ],
+   "ergebnis": "Nein. Die Leute sind Personal der Anstalt, keine Mitglieder.",
+   "warum": "Eine Anstalt besteht aus Sachen und Personal für einen öffentlichen Zweck. Mitglieder hat sie nicht, nur Nutzer.",
+   "denkweg": [
+    "1. Was sind die 5.000 Leute? Personal.",
+    "2. Personal gehört zu den Mitteln der Anstalt.",
+    "3. Mitglieder hat sie keine, nur Nutzer."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f028-6",
+   "regelId": "q28",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brückner, Rentner mit Dackel",
+    "emoji": "📻"
+   },
+   "akte": "Herr Brückner hört jeden Morgen Radio vom öffentlichen Sender. Sein Dackel Bruno hört mit. Herr Brückner fragt: „Bin ich da eigentlich Mitglied?“",
+   "frage": "Was ist Herr Brückner für den Sender?",
+   "optionen": [
+    {
+     "text": "Nutzer",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Mitglied",
+     "richtig": false,
+     "warumNicht": "Mitglieder hat eine [[Körperschaft]]. Ein Sender wie dieser hat Nutzer."
+    },
+    {
+     "text": "Kunde einer Firma",
+     "richtig": false,
+     "warumNicht": "Der Sender ist keine Firma. Er ist öffentlich und dient einem öffentlichen Zweck."
+    }
+   ],
+   "ergebnis": "Herr Brückner ist Nutzer, nicht Mitglied.",
+   "warum": "Ein öffentlicher Sender ist eine Rundfunkanstalt. Eine [[Anstalt]] hat keine Mitglieder, sondern Nutzer.",
+   "denkweg": [
+    "1. Der Dackel spielt keine Rolle.",
+    "2. Was ist der Sender? Eine Anstalt.",
+    "3. Anstalt heißt: Nutzer statt Mitglieder."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f029-0",
+   "regelId": "q29",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kılıç, Medizinstudentin",
+    "emoji": "👩‍🎓"
+   },
+   "akte": "Frau Kılıçs Prüfungen regelt die Approbationsordnung für Ärzte. Ein Ministerium hat sie erlassen. Ein Gesetz hat das erlaubt.",
+   "frage": "Was ist die Approbationsordnung?",
+   "optionen": [
+    {
+     "text": "Rechtsverordnung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Parlamentsgesetz",
+     "richtig": false,
+     "warumNicht": "Ein solches Gesetz beschließt das [[Parlament|gesetzgeber]]. Hier hat ein Ministerium die Regel erlassen."
+    }
+   ],
+   "ergebnis": "[[Rechtsverordnung]]: Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen.",
+   "warum": "Eine Regel für alle, von der Regierung, gestützt auf ein Gesetz: Das ist eine Rechtsverordnung.",
+   "denkweg": [
+    "1. Wer erlässt sie? Ein Ministerium.",
+    "2. Gibt es eine Erlaubnis im Gesetz? Ja.",
+    "3. Also: Rechtsverordnung."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f029-1",
+   "regelId": "q29",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brenner, Schornsteinfeger",
+    "emoji": "🧑‍🏭"
+   },
+   "akte": "Ein Ministerium will eine [[Verordnung|rechtsverordnung]] über das Fegen von Schornsteinen erlassen. Kein Gesetz erlaubt ihm das. Herr Brenner ist empört.",
+   "frage": "Darf das Ministerium das?",
+   "optionen": [
+    {
+     "text": "Nein, ohne Erlaubnis im Gesetz",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, die Regierung darf das immer",
+     "richtig": false,
+     "warumNicht": "Eine Verordnung braucht immer eine Erlaubnis in einem Gesetz."
+    }
+   ],
+   "ergebnis": "Nein: Ohne Erlaubnis in einem Gesetz gibt es keine Verordnung.",
+   "warum": "Die Regierung darf nur Regeln für alle machen, wenn das [[Parlament|gesetzgeber]] es ihr per Gesetz erlaubt.",
+   "denkweg": [
+    "1. Wer will die Regel? Ein Ministerium.",
+    "2. Gibt es ein Gesetz, das es erlaubt? Nein.",
+    "3. Also darf es nicht."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f029-2",
+   "regelId": "q29",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Dr. Wendt, Referentin im Ministerium",
+    "emoji": "👩‍💻"
+   },
+   "akte": "Dr. Wendt zeigt dir den Entwurf einer [[Verordnung|Rechtsverordnung]]. Ein Gesetz erlaubt sie wirklich. Trotzdem fehlt etwas.",
+   "frage": "Wo fehlt etwas Wichtiges? Tippe die Stelle an.",
+   "markierbar": [
+    "Verordnung über Hygiene in Tattoo-Studios.",
+    {
+     "text": " Das Ministerium verordnet:",
+     "fehler": true
+    },
+    {
+     "text": " § 1: Nadeln dürfen nur einmal benutzt werden.",
+     "fehler": false,
+     "warumNicht": "Das ist der Inhalt der Regel. Er gilt für alle Studios, so soll es sein."
+    },
+    {
+     "text": " § 2: Die Verordnung gilt ab 1. Juli.",
+     "fehler": false,
+     "warumNicht": "Ein Datum für den Start ist kein Fehler."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Gesetz nicht genannt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Regel gilt für alle",
+     "richtig": false,
+     "warumNicht": "Eine Verordnung soll für alle gelten. Das ist kein Fehler."
+    }
+   ],
+   "ergebnis": "Am Anfang fehlt, auf welches Gesetz sich die Verordnung stützt.",
+   "warum": "In jeder Verordnung muss stehen, welches Gesetz sie erlaubt. So kann jeder die Erlaubnis prüfen.",
+   "denkweg": [
+    "1. Gibt es eine Erlaubnis? Ja, laut Dr. Wendt.",
+    "2. Steht sie in der Verordnung? Nein.",
+    "3. Also fehlt die Angabe des Gesetzes am Anfang."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f029-3",
+   "regelId": "q29",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Herr Okonkwo, Bibliothekar",
+    "emoji": "🧑🏾‍🏫"
+   },
+   "akte": "Herr Okonkwo ordnet Regeln in seine Regale. Er hat drei Fächer.",
+   "frage": "Sortiere jede Regel ins richtige Fach.",
+   "fachfaecher": {
+    "faecher": [
+     "Parlamentsgesetz",
+     "Rechtsverordnung",
+     "Satzung"
+    ],
+    "karten": [
+     {
+      "text": "Der Bundestag beschließt es.",
+      "fach": "Parlamentsgesetz",
+      "warumNicht": "Was das Parlament beschließt, ist ein [[Parlamentsgesetz|gesetzgeber]]."
+     },
+     {
+      "text": "Ein Ministerium erlässt es mit Erlaubnis aus einem Gesetz.",
+      "fach": "Rechtsverordnung",
+      "warumNicht": "Regierung plus Erlaubnis im Gesetz: [[Verordnung|rechtsverordnung]]."
+     },
+     {
+      "text": "Die Krankenkasse regelt es für ihre Mitglieder.",
+      "fach": "Satzung",
+      "warumNicht": "Die Kasse regelt sich selbst: [[Satzung]]."
+     },
+     {
+      "text": "Die Approbationsordnung für Ärzte",
+      "fach": "Rechtsverordnung",
+      "warumNicht": "Ein Ministerium hat sie mit Erlaubnis aus einem Gesetz erlassen."
+     },
+     {
+      "text": "Die Berufsordnung der Ärztekammer",
+      "fach": "Satzung",
+      "warumNicht": "Die Kammer regelt hier selbst für ihre Mitglieder."
+     }
+    ]
+   },
+   "ergebnis": "Parlament: Gesetz. Regierung mit Erlaubnis: Verordnung. [[Selbstverwaltung]]: Satzung.",
+   "warum": "Es kommt darauf an, wer die Regel macht und woher die Befugnis kommt.",
+   "denkweg": [
+    "1. Wer erlässt die Regel?",
+    "2. Parlament, Regierung oder eine Stelle, die sich selbst verwaltet?",
+    "3. Danach richtet sich das Fach."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f029-4",
+   "regelId": "q29",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Bruno Wabe, Imker",
+    "emoji": "🐝"
+   },
+   "akte": "Ein Gesetz sagt: Bienenstöcke muss man bis 31. März melden. Eine [[Verordnung|rechtsverordnung]] dazu sagt: bis 31. Januar. Sie ist neuer und genauer. Bruno ist verwirrt.",
+   "frage": "Welche Regel geht vor?",
+   "optionen": [
+    {
+     "text": "Das Gesetz",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Verordnung, sie ist neuer",
+     "richtig": false,
+     "warumNicht": "Neu oder alt zählt hier nicht. Die Verordnung steht im Rang unter dem Gesetz."
+    },
+    {
+     "text": "Die Verordnung, sie ist genauer",
+     "richtig": false,
+     "warumNicht": "Genauer heißt nicht höher. Die Verordnung steht unter dem Gesetz."
+    }
+   ],
+   "ergebnis": "Das Gesetz geht vor, denn die Verordnung steht im Rang darunter.",
+   "warum": "Die Verordnung lebt von der Erlaubnis aus dem Gesetz. Darum darf sie nicht über ihm stehen.",
+   "denkweg": [
+    "1. Welche Regeln streiten? Gesetz und Verordnung.",
+    "2. Welche steht höher? Das Gesetz.",
+    "3. Also gilt der 31. März."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f029-5",
+   "regelId": "q29",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was eine [[Rechtsverordnung]] ist. Mit Artikel aus dem [[Grundgesetz]].",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Eine [[Rechtsnorm]] der Regierung. Sie braucht eine [[Ermächtigung]] im Gesetz, nach Art. 80 [[GG|grundgesetz]].",
+   "warum": "Die Prüfung will wissen: Wer macht sie? Mit welcher Erlaubnis? Was muss drinstehen? Wo steht sie im Rang?",
+   "denkweg": [
+    "1. Zuerst: Norm der Regierung mit Erlaubnis.",
+    "2. Dann: Inhalt, Zweck, Ausmaß und [[Zitiergebot]].",
+    "3. Zum Schluss: Rang und Beispiel."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f029-6",
+   "regelId": "q29",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Darf ein Ministerium einfach selbst Regeln für alle machen?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Nur, wenn ein Gesetz es erlaubt. Das Gesetz muss Inhalt, Zweck und Ausmaß festlegen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, ein Ministerium darf immer Regeln für alle machen.",
+     "richtig": false,
+     "warumNicht": "Ohne Erlaubnis aus einem Gesetz geht es nicht. Das sagt das [[Grundgesetz]]."
+    },
+    {
+     "text": "Nein, Regeln für alle macht nur das Parlament.",
+     "richtig": false,
+     "warumNicht": "Mit [[Ermächtigung]] aus einem Gesetz darf auch die Regierung Regeln machen. Das ist die [[Rechtsverordnung]]."
+    }
+   ],
+   "ergebnis": "Ja, aber nur mit Erlaubnis aus einem Gesetz.",
+   "warum": "So bleibt das [[Parlament|gesetzgeber]] der Chef. Es legt fest, wie weit die Regierung gehen darf.",
+   "denkweg": [
+    "1. Wer macht die Regel? Ein Ministerium.",
+    "2. Braucht es eine Erlaubnis? Ja, aus einem Gesetz.",
+    "3. Dann ist es eine Rechtsverordnung."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f030-0",
+   "regelId": "q30",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Albers, Bademeister",
+    "emoji": "🏊"
+   },
+   "akte": "Herr Albers ist Mitglied seiner Krankenkasse. Die Kasse beschließt selbst eine Regel für alle ihre Mitglieder. Sie regelt damit ihre eigenen Dinge.",
+   "frage": "Was ist diese Regel?",
+   "optionen": [
+    {
+     "text": "Satzung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rechtsverordnung",
+     "richtig": false,
+     "warumNicht": "Eine [[Verordnung|rechtsverordnung]] erlässt die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt die Kasse sich selbst."
+    }
+   ],
+   "ergebnis": "[[Satzung]]: Die Kasse regelt selbst für ihre Mitglieder.",
+   "warum": "Wer sich selbst verwaltet und Regeln für seine Mitglieder macht, erlässt eine Satzung.",
+   "denkweg": [
+    "1. Wer macht die Regel? Die Kasse selbst.",
+    "2. Für wen? Für ihre Mitglieder.",
+    "3. Also: Satzung."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f030-1",
+   "regelId": "q30",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Satzung]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Eine Regel, die sich eine Gemeinde, Kammer oder Kasse selbst gibt, für ihre Mitglieder.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz erlässt.",
+     "richtig": false,
+     "warumNicht": "Das ist eine [[Rechtsverordnung]]. Bei ihr gibt der Staat Arbeit ab."
+    },
+    {
+     "text": "Eine Entscheidung der [[Behörde]] für einen einzelnen Bürger.",
+     "richtig": false,
+     "warumNicht": "Das ist ein [[Bescheid]]. Eine Satzung gilt für alle Mitglieder."
+    }
+   ],
+   "ergebnis": "Eine Satzung ist eine selbst gemachte Regel für die eigenen Mitglieder.",
+   "warum": "Die Satzung kommt aus der [[Selbstverwaltung]]. Sie gilt nicht nur für einen, sondern für alle Mitglieder.",
+   "denkweg": [
+    "1. Wer macht sie? Die Einrichtung selbst.",
+    "2. Für wen? Für alle Mitglieder.",
+    "3. Also die erste Erklärung."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f030-2",
+   "regelId": "q30",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lorenz, Geigenlehrerin",
+    "emoji": "🎻"
+   },
+   "akte": "Der Gemeinderat von Waldbrück beschließt eine Regel. Sie legt die Gebühren der Musikschule der Gemeinde fest. Frau Lorenz bekommt dazu einen Infobrief.",
+   "frage": "Was ist die Regel des Gemeinderats?",
+   "optionen": [
+    {
+     "text": "Satzung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Bescheid",
+     "richtig": false,
+     "warumNicht": "Ein [[Bescheid]] regelt einen einzelnen Fall. Diese Regel gilt für alle. Der Infobrief lenkt nur ab."
+    },
+    {
+     "text": "Rechtsverordnung",
+     "richtig": false,
+     "warumNicht": "Die Gemeinde regelt hier ihre eigenen Dinge. Das ist [[Selbstverwaltung]], also eine [[Satzung]]."
+    }
+   ],
+   "ergebnis": "Satzung: Die Gemeinde regelt ihre eigene Musikschule selbst.",
+   "warum": "Die Gemeinde verwaltet sich selbst. Ihre allgemeinen Regeln für ihre Einwohner sind Satzungen.",
+   "denkweg": [
+    "1. Wer macht die Regel? Der Gemeinderat.",
+    "2. Für einen Fall oder für alle? Für alle.",
+    "3. Selbst geregelt: Satzung."
+   ],
+   "dauerSek": 24
+  },
+  {
+   "id": "f030-3",
+   "regelId": "q30",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat Merkmale auf Zettel geschrieben. Ole soll sie zuordnen.",
+   "frage": "[[Satzung]] oder [[Rechtsverordnung]]?",
+   "fachfaecher": {
+    "faecher": [
+     "Satzung",
+     "Rechtsverordnung"
+    ],
+    "karten": [
+     {
+      "text": "Die Kasse regelt ihre eigenen Dinge.",
+      "fach": "Satzung",
+      "warumNicht": "Selbst regeln heißt [[Selbstverwaltung]]."
+     },
+     {
+      "text": "Der Staat gibt Arbeit an die Regierung ab.",
+      "fach": "Rechtsverordnung",
+      "warumNicht": "Das ist staatliche Delegation."
+     },
+     {
+      "text": "Braucht eine Erlaubnis mit Inhalt, Zweck und Ausmaß.",
+      "fach": "Rechtsverordnung",
+      "warumNicht": "So verlangt es das [[Grundgesetz]] für Verordnungen."
+     },
+     {
+      "text": "Gilt für die eigenen Mitglieder.",
+      "fach": "Satzung",
+      "warumNicht": "Die Satzung regelt die eigenen Leute."
+     }
+    ]
+   },
+   "ergebnis": "Satzung = Selbstverwaltung. Rechtsverordnung = der Staat gibt Arbeit ab.",
+   "warum": "Beide sind Regeln für viele. Der Unterschied ist, woher die Befugnis kommt.",
+   "denkweg": [
+    "1. Regelt man sich selbst? Dann Satzung.",
+    "2. Gibt der Staat Arbeit ab? Dann Verordnung.",
+    "3. So jeden Zettel prüfen."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f030-4",
+   "regelId": "q30",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, was eine [[Satzung]] ist. Und wie sie sich von der [[Rechtsverordnung]] unterscheidet.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Eine [[Rechtsnorm]], die eine öffentliche Stelle für ihre Mitglieder selbst macht.",
+   "warum": "Der Kern: Die Satzung kommt aus der [[Selbstverwaltung]]. Die Verordnung gibt der Staat ab.",
+   "denkweg": [
+    "1. Zuerst: Norm, und wer sie macht.",
+    "2. Dann: für die eigenen Mitglieder.",
+    "3. Zum Schluss: der Unterschied und ein Beispiel."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k030-1",
+   "regelId": "q30",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Dr. Lindgren, Chirurgin",
+    "emoji": "👩🏼‍⚕️"
+   },
+   "akte": "Die Ärztekammer beschließt eine neue Berufsordnung für ihre Mitglieder. Dr. Lindgren meint: „Ordnung klingt wie Approbationsordnung. Die ist eine [[Verordnung|rechtsverordnung]].“",
+   "frage": "Was ist die Berufsordnung der Kammer?",
+   "optionen": [
+    {
+     "text": "Satzung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rechtsverordnung",
+     "richtig": false,
+     "warumNicht": "Der Name täuscht. Die Kammer regelt hier selbst ihre Mitglieder. Das ist [[Selbstverwaltung]]."
+    },
+    {
+     "text": "Bescheid",
+     "richtig": false,
+     "warumNicht": "Die Berufsordnung gilt für alle Ärzte, nicht nur für einen Fall."
+    }
+   ],
+   "ergebnis": "[[Satzung]], denn die Kammer regelt selbst für ihre Mitglieder.",
+   "warum": "Nicht das Wort „Ordnung“ zählt, sondern wer die Regel macht. Die Kammer verwaltet sich selbst.",
+   "denkweg": [
+    "1. Name ignorieren.",
+    "2. Wer macht die Regel? Die Kammer für ihre Mitglieder.",
+    "3. Selbstverwaltung: Satzung."
+   ],
+   "dauerSek": 24,
+   "kombiRegeln": [
+    "q29"
+   ]
+  },
+  {
+   "id": "f030-5",
+   "regelId": "q30",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Osei, Lehrerin",
+    "emoji": "👩🏿‍🏫"
+   },
+   "akte": "Frau Osei bekommt einen Brief von ihrer Krankenkasse. Darin steht: Die Kasse hat selbst eine neue Regel für alle Mitglieder beschlossen.",
+   "frage": "Was ist die neue Regel?",
+   "optionen": [
+    {
+     "text": "Satzung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Bescheid",
+     "richtig": false,
+     "warumNicht": "Der Brief geht zwar an Frau Osei. Die Regel gilt aber für alle. Ein [[Bescheid]] regelt nur einen Fall."
+    },
+    {
+     "text": "Rechtsverordnung",
+     "richtig": false,
+     "warumNicht": "Die Kasse ist kein Ministerium. Sie regelt ihre Sachen in [[Selbstverwaltung]]."
+    }
+   ],
+   "ergebnis": "Die Regel ist eine Satzung der Kasse.",
+   "warum": "Die Kasse regelt selbst etwas für alle Mitglieder. Der Brief teilt das nur mit.",
+   "denkweg": [
+    "1. Wer macht die Regel? Die Kasse selbst.",
+    "2. Für wen gilt sie? Für alle Mitglieder.",
+    "3. Also eine [[Satzung]], kein Bescheid."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f030-6",
+   "regelId": "q30",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Petrović, Hundebesitzer",
+    "emoji": "🐕"
+   },
+   "akte": "Herr Petrović hat einen Hund namens Keks. Der Gemeinderat beschließt eine Regel für alle Hundehalter im Ort. Keks findet das unfair.",
+   "frage": "Was hat die Gemeinde erlassen?",
+   "optionen": [
+    {
+     "text": "Satzung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rechtsverordnung",
+     "richtig": false,
+     "warumNicht": "Eine [[Rechtsverordnung]] macht die Regierung mit Erlaubnis aus einem Gesetz. Hier regelt der Ort seine Sachen selbst."
+    },
+    {
+     "text": "Parlamentsgesetz",
+     "richtig": false,
+     "warumNicht": "Der Gemeinderat ist nicht der [[Bundestag|gesetzgeber]]. Er regelt die Sachen des Ortes selbst."
+    }
+   ],
+   "ergebnis": "Die Regel ist eine Satzung der Gemeinde.",
+   "warum": "Die Gemeinde verwaltet sich selbst. Ihre Regeln für alle im Ort sind Satzungen.",
+   "denkweg": [
+    "1. Was Keks denkt, spielt keine Rolle.",
+    "2. Wer macht die Regel? Die Gemeinde selbst.",
+    "3. Also eine [[Satzung]]."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f031-0",
+   "regelId": "q31",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Sommer, Försterin",
+    "emoji": "🌲"
+   },
+   "akte": "Eine ganz neue Aufgabe für den Staat entsteht. Das [[Grundgesetz]] sagt nichts dazu, wer sie erledigt. Frau Sommer fragt, wer zuständig ist.",
+   "frage": "Wer ist zuständig?",
+   "optionen": [
+    {
+     "text": "Die Länder",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bund",
+     "richtig": false,
+     "warumNicht": "Der Bund ist nur zuständig, wenn das Grundgesetz es bestimmt oder erlaubt. Hier sagt es nichts."
+    }
+   ],
+   "ergebnis": "Die Länder, denn das ist der Normalfall nach Art. 30 GG.",
+   "warum": "Wenn das Grundgesetz schweigt, sind die Länder dran. Der Bund braucht immer eine Erlaubnis.",
+   "denkweg": [
+    "1. Sagt das Grundgesetz etwas? Nein.",
+    "2. Dann gilt die Grundregel.",
+    "3. Also: die Länder."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f031-1",
+   "regelId": "q31",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Pavlović, Busunternehmer",
+    "emoji": "🚌"
+   },
+   "akte": "Der [[Bundestag|gesetzgeber]] beschließt ein neues Gesetz des Bundes. Herr Pavlović fragt: „Wer setzt das im Alltag um?“",
+   "frage": "Wer führt das Bundesgesetz aus?",
+   "optionen": [
+    {
+     "text": "Die Länder, als eigene Sache",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bund, er hat es beschlossen",
+     "richtig": false,
+     "warumNicht": "Wer das Gesetz macht, führt es nicht automatisch aus. Nach Art. 83 [[GG|grundgesetz]] tun das die Länder."
+    }
+   ],
+   "ergebnis": "Die Länder führen die Bundesgesetze als eigene Sache aus (Art. 83 GG).",
+   "warum": "Der Bund macht das Gesetz. Umsetzen tun es im Normalfall die Länder.",
+   "denkweg": [
+    "1. Wer hat das Gesetz gemacht? Der Bund.",
+    "2. Wer führt Gesetze im Normalfall aus? Die Länder.",
+    "3. Also: die Länder."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f031-2",
+   "regelId": "q31",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat Aufgaben auf Kärtchen geschrieben. Er weiß nicht, wer jeweils zuständig ist.",
+   "frage": "Länder oder Bund? Sortiere die Kärtchen.",
+   "fachfaecher": {
+    "faecher": [
+     "Länder",
+     "Bund"
+    ],
+    "karten": [
+     {
+      "text": "Bundesgesetze im Alltag umsetzen",
+      "fach": "Länder",
+      "warumNicht": "Das ist der Normalfall nach Art. 83 [[GG|grundgesetz]]."
+     },
+     {
+      "text": "Eine Aufgabe, zu der das Grundgesetz schweigt",
+      "fach": "Länder",
+      "warumNicht": "Grundregel nach Art. 30 GG."
+     },
+     {
+      "text": "Eine Krankenkasse, die in ganz Deutschland tätig ist",
+      "fach": "Bund",
+      "warumNicht": "Ausnahme nach Art. 87 II GG: über ein Land hinaus."
+     },
+     {
+      "text": "Gesetze, für die der Bund keine Befugnis hat",
+      "fach": "Länder",
+      "warumNicht": "Die gleiche Grundregel gilt für Gesetze (Art. 70 GG)."
+     }
+    ]
+   },
+   "ergebnis": "Fast alles bleibt bei den Ländern. Nur die bundesweite Kasse gehört zum Bund.",
+   "warum": "Die Länder sind der Normalfall. Der Bund braucht eine ausdrückliche Ausnahme im Grundgesetz.",
+   "denkweg": [
+    "1. Gibt es eine Ausnahme für den Bund?",
+    "2. Ja, etwa Art. 87 II: Bund.",
+    "3. Nein: Länder."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f031-4",
+   "regelId": "q31",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dr. Marx, Richterin",
+    "emoji": "👩‍⚖️"
+   },
+   "akte": "Frau Dr. Marx sagt: „Die Grundregel aus Art. 30 [[GG|grundgesetz]] gibt es auch bei den Gerichten. Auch dort sind die Länder der Normalfall.“",
+   "frage": "Welche Artikel bestätigen das für die Gerichte?",
+   "optionen": [
+    {
+     "text": "Art. 92 ff. GG",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Art. 87 II GG",
+     "richtig": false,
+     "warumNicht": "Art. 87 II ist eine Ausnahme für den Bund bei der [[Verwaltung]], nicht bei Gerichten."
+    },
+    {
+     "text": "Art. 70 I GG",
+     "richtig": false,
+     "warumNicht": "Art. 70 I bestätigt die Grundregel für die Gesetze, nicht für die Gerichte."
+    }
+   ],
+   "ergebnis": "Art. 92 ff. GG: Gerichte sind Ländersache, soweit es keine Bundesgerichte sind.",
+   "warum": "Die Grundregel taucht dreimal auf: Verwaltung (Art. 83), Gesetze (Art. 70), Gerichte (Art. 92 ff.).",
+   "denkweg": [
+    "1. Worum geht es? Gerichte.",
+    "2. Gesetze: Art. 70. Gerichte: Art. 92 ff.",
+    "3. Also: Art. 92 ff."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f031-3",
+   "regelId": "q31",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die Grundregel: Wer ist für die [[Verwaltung]] zuständig? Und was bestätigt die Regel?",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Art. 30 [[GG|grundgesetz]]: in der Regel die Länder. Art. 83 GG gilt für Bundesgesetze. Art. 70 und 92 bestätigen das.",
+   "warum": "Erst die Grundregel, dann die Konkretisierung, dann die Parallelen, dann die Ausnahmen.",
+   "denkweg": [
+    "1. Zuerst Art. 30 GG.",
+    "2. Dann Art. 83 und die Parallelen.",
+    "3. Zum Schluss die Ausnahmen ab Art. 86."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f032-0",
+   "regelId": "q32",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Weber, Lokführer",
+    "emoji": "🚂"
+   },
+   "akte": "Herr Weber sagt: „Der Bund regiert doch alles. Also verwaltet er auch fast alles.“ Ole nickt.",
+   "frage": "Wer verwaltet in Deutschland vor allem?",
+   "optionen": [
+    {
+     "text": "Die Länder",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bund",
+     "richtig": false,
+     "warumNicht": "Der Bund macht vor allem die Gesetze. Ausführen tun sie meist die Länder."
+    }
+   ],
+   "ergebnis": "Vor allem die Länder verwalten. Der Bund macht vor allem Gesetze.",
+   "warum": "In Deutschland gibt es eine Arbeitsteilung: Der Bund schreibt, die Länder führen aus.",
+   "denkweg": [
+    "1. Wer macht die meisten Gesetze? Der Bund.",
+    "2. Wer führt sie aus? Die Länder.",
+    "3. Also verwalten vor allem die Länder."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f032-1",
+   "regelId": "q32",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich Exekutivföderalismus?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Der Bund macht vor allem die Gesetze. Die Länder führen sie meistens aus.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Länder machen die Gesetze. Der Bund führt sie aus.",
+     "richtig": false,
+     "warumNicht": "Genau umgekehrt: Der Bund ist vor allem [[Gesetzgeber]], die Länder verwalten."
+    },
+    {
+     "text": "Bund und Länder entscheiden alles immer gemeinsam.",
+     "richtig": false,
+     "warumNicht": "Es gibt eine klare Arbeitsteilung: Bund vor allem Gesetze, Länder vor allem [[Verwaltung]]."
+    }
+   ],
+   "ergebnis": "Bund schreibt die Gesetze, Länder führen sie aus.",
+   "warum": "Das Wort heißt grob: Bundesstaat, in dem die Länder die Ausführung übernehmen.",
+   "denkweg": [
+    "1. Wer schreibt? Vor allem der Bund.",
+    "2. Wer führt aus? Vor allem die Länder.",
+    "3. Also die erste Erklärung."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f032-2",
+   "regelId": "q32",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Arslan, Geschichtslehrerin",
+    "emoji": "👩‍🏫"
+   },
+   "akte": "Ihre Klasse fragt: „Warum verwalten die Länder so viel?“ Drei Schüler melden sich mit einer Antwort.",
+   "frage": "Welche Antwort ist richtig?",
+   "optionen": [
+    {
+     "text": "Macht teilen, Lehre aus NS-Zeit",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bund hat zu wenig Geld",
+     "richtig": false,
+     "warumNicht": "Geld wird als Grund nicht genannt. Es geht um Machtverteilung und Nähe."
+    },
+    {
+     "text": "Der Bund darf keine Gesetze machen",
+     "richtig": false,
+     "warumNicht": "Doch, der Bund ist sogar überwiegend [[Gesetzgeber]]."
+    }
+   ],
+   "ergebnis": "Macht soll verteilt sein. Das ist eine Lehre aus dem Zentralismus der NS-Zeit.",
+   "warum": "Wenn Bund und Länder sich die Arbeit teilen, hat keiner alle Macht. Dazu sind die Länder näher an den Bürgern.",
+   "denkweg": [
+    "1. Was ist der Hauptgrund? Macht teilen.",
+    "2. Woher kommt die Idee? Aus der NS-Zeit.",
+    "3. Weitere Gründe: Nähe zu Bürgern und Sache."
+   ],
+   "dauerSek": 24
+  },
+  {
+   "id": "f032-3",
+   "regelId": "q32",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt Sätze über Bund und Länder hin.",
+   "frage": "Zu wem passt der Satz?",
+   "fachfaecher": {
+    "faecher": [
+     "Bund",
+     "Länder"
+    ],
+    "karten": [
+     {
+      "text": "macht vor allem die Gesetze",
+      "fach": "Bund",
+      "warumNicht": "Der Bund ist überwiegend [[Gesetzgeber]]."
+     },
+     {
+      "text": "führt die meisten Gesetze aus",
+      "fach": "Länder",
+      "warumNicht": "Die Länder sind für die [[Verwaltung]] zuständig."
+     },
+     {
+      "text": "ist näher an den Bürgern",
+      "fach": "Länder",
+      "warumNicht": "Bürgernähe ist ein Grund für die Länderverwaltung."
+     },
+     {
+      "text": "hat schon eigene Ämter vor Ort",
+      "fach": "Länder",
+      "warumNicht": "Vorhandene Ämter der Länder sind ein Grund."
+     }
+    ]
+   },
+   "ergebnis": "Der Bund macht die Gesetze. Ausführung, Nähe und Ämter vor Ort gehören zu den Ländern.",
+   "warum": "Die Länder sind nah dran und haben die Ämter. Darum verwalten sie.",
+   "denkweg": [
+    "1. Geht es um Gesetze machen? Bund.",
+    "2. Geht es um Ausführen und Nähe? Länder.",
+    "3. So jeden Satz prüfen."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f032-4",
+   "regelId": "q32",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, ob vor allem Bund oder Länder verwalten. Und warum.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Vor allem die Länder, der Bund ist überwiegend [[Gesetzgeber]]. Gründe: Gewaltenteilung, Bürger- und Sachnähe.",
+   "warum": "Erst die Antwort, dann das Schlagwort, dann die Gründe.",
+   "denkweg": [
+    "1. Zuerst: die Länder, Art. 30 und 83.",
+    "2. Dann: Exekutivföderalismus.",
+    "3. Zum Schluss die Gründe."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f032-5",
+   "regelId": "q32",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kowalski, Busfahrerin",
+    "emoji": "🚌"
+   },
+   "akte": "Frau Kowalski liest: Der Bund hat ein neues Gesetz gemacht. Sie denkt: „Dann kümmert sich jetzt ein [[Amt|verwaltung]] des Bundes darum.“",
+   "frage": "Wer führt das Gesetz in der Regel aus?",
+   "optionen": [
+    {
+     "text": "Die Länder",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bund selbst",
+     "richtig": false,
+     "warumNicht": "Der Bund macht vor allem die Gesetze. Ausführen tun sie meist die Länder."
+    },
+    {
+     "text": "Ein Gericht",
+     "richtig": false,
+     "warumNicht": "Gerichte entscheiden Streit. Gesetze führt die Verwaltung aus."
+    }
+   ],
+   "ergebnis": "Auch Bundesgesetze führen meist die Länder aus.",
+   "warum": "Das [[Grundgesetz]] gibt die [[Verwaltung]] vor allem den Ländern. So bleibt die Macht verteilt, und die Ämter sind nah an den Bürgern.",
+   "denkweg": [
+    "1. Wer hat das Gesetz gemacht? Der Bund.",
+    "2. Wer führt es aus? Das ist eine andere Frage.",
+    "3. Regel: die Länder."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f033-0",
+   "regelId": "q33",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Jansen, Krabbenfischer",
+    "emoji": "🦐"
+   },
+   "akte": "Herr Jansens Krankenkasse ist nur in Schleswig-Holstein tätig. Sie hat keine Kunden in anderen Ländern.",
+   "frage": "Gehört sie zum Bund oder zum Land?",
+   "optionen": [
+    {
+     "text": "Landesunmittelbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Bundesunmittelbar",
+     "richtig": false,
+     "warumNicht": "Zum Bund gehört eine Kasse nur, wenn sie über ein Land hinaus tätig ist."
+    }
+   ],
+   "ergebnis": "Landesunmittelbar, weil sie nur in einem Land tätig ist.",
+   "warum": "Es kommt darauf an, wo die Kasse zuständig ist. Ein Land heißt: Landessache.",
+   "denkweg": [
+    "1. Wo ist die Kasse tätig? Nur in einem Land.",
+    "2. Ein Land: Landessache.",
+    "3. Also: landesunmittelbar."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f033-1",
+   "regelId": "q33",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Hoffmann, Pilotin",
+    "emoji": "👩‍✈️"
+   },
+   "akte": "Frau Hoffmanns Krankenkasse ist in allen 16 Ländern tätig. Sie hat Versicherte von Flensburg bis München.",
+   "frage": "Wohin gehört diese Kasse?",
+   "optionen": [
+    {
+     "text": "Bundesunmittelbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Landesunmittelbar",
+     "richtig": false,
+     "warumNicht": "Landessache ist eine Kasse nur, wenn sie in einem Land tätig ist. Diese ist bundesweit."
+    },
+    {
+     "text": "Gar nicht zum Staat, sie ist privat",
+     "richtig": false,
+     "warumNicht": "Gesetzliche Kassen sind [[Körperschaften|koerperschaft]] des öffentlichen Rechts, also Teil der [[Verwaltung]]."
+    }
+   ],
+   "ergebnis": "Bundesunmittelbar, weil sie über ein Land hinaus tätig ist.",
+   "warum": "Wer bundesweit tätig ist, kann nicht von einem einzigen Land überwacht werden. Deshalb ist der Bund zuständig.",
+   "denkweg": [
+    "1. Wo ist die Kasse tätig? In allen Ländern.",
+    "2. Über ein Land hinaus: Bundessache.",
+    "3. Also: bundesunmittelbar."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f033-2",
+   "regelId": "q33",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Kaya, Imbisswirt",
+    "emoji": "🥙"
+   },
+   "akte": "Herr Kayas Kasse ist bundesweit tätig. Er wohnt in Bremen. Er will sich über die Kasse beschweren und fragt, wer sie überwacht.",
+   "frage": "Wer hat die [[Aufsicht|rechtsaufsicht]]?",
+   "optionen": [
+    {
+     "text": "Bundesamt für Soziale Sicherung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Eine Behörde in Bremen",
+     "richtig": false,
+     "warumNicht": "Bremen ist nur sein Wohnort. Eine Landesbehörde ist nur für Kassen zuständig, die in einem Land tätig sind."
+    },
+    {
+     "text": "Das Gesundheitsamt der Stadt",
+     "richtig": false,
+     "warumNicht": "Eine Stadt überwacht keine Krankenkasse. Bei bundesweiten Kassen ist der Bund zuständig."
+    }
+   ],
+   "ergebnis": "Das Bundesamt für Soziale Sicherung, weil die Kasse bundesweit tätig ist.",
+   "warum": "Bundesweite Kassen sind bundesunmittelbar. Ihre Aufsicht ist das Bundesamt für Soziale Sicherung.",
+   "denkweg": [
+    "1. Wo ist die Kasse tätig? Bundesweit.",
+    "2. Also ist sie bundesunmittelbar.",
+    "3. Aufsicht: das Bundesamt."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f033-3",
+   "regelId": "q33",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was heißt eigentlich [[mittelbare Staatsverwaltung]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Der Staat erledigt die Aufgabe nicht selbst, sondern durch eine eigene [[Körperschaft]] wie die Krankenkasse.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Kasse ist eine private Firma, die im Auftrag des Staates arbeitet.",
+     "richtig": false,
+     "warumNicht": "Die gesetzliche Kasse ist nicht privat. Sie ist eine Körperschaft des öffentlichen Rechts."
+    },
+    {
+     "text": "Das Ministerium zahlt jede Leistung selbst direkt aus.",
+     "richtig": false,
+     "warumNicht": "Das wäre unmittelbare [[Verwaltung]]. Die Kasse ist aber eine eigene Körperschaft."
+    }
+   ],
+   "ergebnis": "Mittelbar heißt: Der Staat handelt durch eine eigene, selbstständige Körperschaft.",
+   "warum": "Die Kasse gehört zur Verwaltung, ist aber kein Teil eines Ministeriums. Sie verwaltet sich selbst.",
+   "denkweg": [
+    "1. Ist die Kasse privat? Nein.",
+    "2. Ist sie Teil eines Ministeriums? Nein, eigene Körperschaft.",
+    "3. Also: mittelbare Staatsverwaltung."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f033-4",
+   "regelId": "q33",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, ob Krankenkassen zur Bundes- oder Landesverwaltung gehören.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "[[Körperschaften|koerperschaft]] mit [[Selbstverwaltung]], also [[mittelbare Staatsverwaltung]]. Bund oder Land? Das regelt Art. 87 [[GG|grundgesetz]].",
+   "warum": "Erst sagst du, was die Kasse ist. Dann, wonach man trennt. Dann kommen beide Fälle mit [[Aufsicht|rechtsaufsicht]].",
+   "denkweg": [
+    "1. Zuerst: Körperschaft, mittelbar.",
+    "2. Dann: Wie weit reicht die Kasse? Art. 87.",
+    "3. Zum Schluss: Bund oder Land."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k033-1",
+   "regelId": "q33",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Berger, Seilbahnführerin",
+    "emoji": "🚡"
+   },
+   "akte": "Frau Bergers Kasse ist in Bayern, Baden-Württemberg und Hessen tätig. Die drei Länder haben vereinbart, welches Land die [[Aufsicht|rechtsaufsicht]] führt.",
+   "frage": "Wohin gehört diese Kasse?",
+   "optionen": [
+    {
+     "text": "Landesunmittelbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Bundesunmittelbar",
+     "richtig": false,
+     "warumNicht": "Normalerweise ja, weil mehr als ein Land. Aber bis drei Länder mit Vereinbarung bleiben Landessache."
+    }
+   ],
+   "ergebnis": "Landesunmittelbar, weil es höchstens drei Länder sind und eine Vereinbarung besteht.",
+   "warum": "Die Ausnahme in Art. 87 II [[GG|grundgesetz]]: Bis zu drei Länder können die Aufsicht unter sich regeln.",
+   "denkweg": [
+    "1. Mehr als ein Land? Ja, drei.",
+    "2. Höchstens drei und eine Vereinbarung? Ja.",
+    "3. Also bleibt es Landessache."
+   ],
+   "dauerSek": 25,
+   "kombiRegeln": [
+    "q31"
+   ]
+  },
+  {
+   "id": "f033-5",
+   "regelId": "q33",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Nakamura, Statistiker",
+    "emoji": "📊"
+   },
+   "akte": "Eine kleine Kasse hat nur 40.000 Versicherte. Sie ist aber in ganz Deutschland tätig. Herr Nakamura meint: „So klein? Dann ist das Land zuständig.“",
+   "frage": "Wer führt die Aufsicht?",
+   "optionen": [
+    {
+     "text": "Bundesamt für Soziale Sicherung",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Eine Behörde des Landes",
+     "richtig": false,
+     "warumNicht": "Die Größe zählt nicht. Die Kasse reicht über ein Land hinaus. Darum führt der Bund die [[Aufsicht|rechtsaufsicht]]."
+    },
+    {
+     "text": "Niemand, sie ist frei",
+     "richtig": false,
+     "warumNicht": "Jede Kasse hat eine Aufsicht. [[Selbstverwaltung]] heißt nicht: ohne Aufsicht."
+    }
+   ],
+   "ergebnis": "Die Kasse ist bundesunmittelbar. Die Aufsicht hat das Bundesamt für Soziale Sicherung.",
+   "warum": "Es zählt, wie weit die Kasse reicht, nicht wie groß sie ist. Reicht sie über ein Land hinaus, ist der Bund dran.",
+   "denkweg": [
+    "1. Wie viele Versicherte? Egal.",
+    "2. Wo ist die Kasse tätig? In ganz Deutschland.",
+    "3. Also bundesunmittelbar."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f034-0",
+   "regelId": "q34",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Rapp, Tätowierer",
+    "emoji": "🎨"
+   },
+   "akte": "Die Kasse schreibt Herrn Rapp: „Ihre Physiotherapie wird bewilligt.“ Der Brief geht nur an ihn.",
+   "frage": "Ist das ein [[Bescheid]]?",
+   "optionen": [
+    {
+     "text": "Ja, ein Bescheid",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nein, nur eine Info",
+     "richtig": false,
+     "warumNicht": "Eine Info teilt nur etwas mit. Hier wird verbindlich entschieden: Die Kasse zahlt."
+    }
+   ],
+   "ergebnis": "Ja: Eine [[Behörde]] regelt verbindlich seinen Fall.",
+   "warum": "Alle Merkmale passen: [[Behörde|verwaltung]], Regelung, ein Fall, Wirkung beim Bürger.",
+   "denkweg": [
+    "1. Wer handelt? Die Kasse, eine Behörde.",
+    "2. Wird etwas für ihn verbindlich geregelt? Ja.",
+    "3. Also: ein Bescheid."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f034-1",
+   "regelId": "q34",
+   "stufe": 1,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Ziegler, Hausmeister",
+    "emoji": "🧹"
+   },
+   "akte": "Herr Ziegler findet eine Notiz am Schwarzen Brett der Kasse. Ist das ein [[Bescheid]]?",
+   "frage": "Woran scheitert es? Tippe die Stelle an.",
+   "markierbar": [
+    "Hausmitteilung Nr. 7:",
+    {
+     "text": " An alle Beschäftigten der Kasse:",
+     "fehler": true
+    },
+    {
+     "text": " Ab Montag stempeln wir Anträge in Blau.",
+     "fehler": false,
+     "warumNicht": "Eine feste Anordnung ist da. Das Problem ist, an wen sie geht."
+    },
+    {
+     "text": " Gez. die Leitung",
+     "fehler": false,
+     "warumNicht": "Die Kasse ist eine [[Behörde]]. Daran liegt es nicht."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Keine Wirkung nach außen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Keine Behörde",
+     "richtig": false,
+     "warumNicht": "Die Kasse ist eine [[Behörde|verwaltung]]. Es fehlt die Wirkung nach außen."
+    }
+   ],
+   "ergebnis": "Kein Bescheid: Die Notiz richtet sich nur an die eigenen Leute.",
+   "warum": "Ein Bescheid muss beim Bürger wirken. Eine interne Anweisung bleibt im Haus.",
+   "denkweg": [
+    "1. An wen richtet sich die Notiz? An die Beschäftigten.",
+    "2. Wirkt sie beim Bürger? Nein.",
+    "3. Wirkung nach außen fehlt: kein Bescheid."
+   ],
+   "dauerSek": 28,
+   "modus": "einer"
+  },
+  {
+   "id": "f034-2",
+   "regelId": "q34",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Frau Mai, Hebamme",
+    "emoji": "🤱"
+   },
+   "akte": "Frau Mai hat die Kasse gefragt, welche Kurse sie zahlt. Jetzt hält sie die Antwort in der Hand. Sie will wissen, ob das ein [[Bescheid]] ist.",
+   "frage": "Woran scheitert der Bescheid? Tippe die Stelle an.",
+   "markierbar": [
+    "Sehr geehrte Frau Mai,",
+    {
+     "text": " die Kasse beantwortet hier Ihre Frage.",
+     "fehler": false,
+     "warumNicht": "Eine [[Behörde]] schreibt an eine Bürgerin. Daran scheitert es nicht."
+    },
+    {
+     "text": " Zur Info: Rückbildungskurse zahlen wir in der Regel.",
+     "fehler": true
+    },
+    {
+     "text": " Bei Fragen rufen Sie uns gern an.",
+     "fehler": false,
+     "warumNicht": "Ein freundlicher Schluss ändert nichts."
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Keine Regelung, nur Auskunft",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Kein Einzelfall",
+     "richtig": false,
+     "warumNicht": "Der Brief geht nur an Frau Mai. Am [[Einzelfall]] liegt es nicht."
+    },
+    {
+     "text": "Keine Wirkung nach außen",
+     "richtig": false,
+     "warumNicht": "Der Brief geht an eine Bürgerin, also nach außen."
+    }
+   ],
+   "ergebnis": "Kein Bescheid: Die Kasse informiert nur und entscheidet nichts.",
+   "warum": "Eine Auskunft legt nichts verbindlich fest. Ohne Regelung kein Bescheid.",
+   "denkweg": [
+    "1. Entscheidet die Kasse etwas? Nein, sie informiert.",
+    "2. Ohne Regelung fehlt ein Merkmal.",
+    "3. Also: kein Bescheid."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f034-3",
+   "regelId": "q34",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Grün, Yogalehrerin",
+    "emoji": "🧘"
+   },
+   "akte": "Ihr privates Fitnessstudio schreibt: „Wir kündigen Ihren Vertrag zum Monatsende.“ Frau Grün will dagegen [[Widerspruch]] einlegen, wie bei der Kasse.",
+   "frage": "Ist die Kündigung ein [[Bescheid]]?",
+   "optionen": [
+    {
+     "text": "Nein, keine Behörde",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, sie ist verbindlich",
+     "richtig": false,
+     "warumNicht": "Verbindlich ist sie. Aber ein Bescheid kommt nur von einer [[Behörde]]."
+    },
+    {
+     "text": "Ja, es ist ein Einzelfall",
+     "richtig": false,
+     "warumNicht": "Ein [[Einzelfall]] allein reicht nicht. Alle Merkmale müssen da sein."
+    }
+   ],
+   "ergebnis": "Kein Bescheid, weil ein privates Studio keine [[Behörde|verwaltung]] ist.",
+   "warum": "Private handeln nicht durch Bescheide. Hier gilt das [[Privatrecht]].",
+   "denkweg": [
+    "1. Wer handelt? Ein privates Studio.",
+    "2. Ist das eine Behörde? Nein.",
+    "3. Ein Merkmal fehlt: kein Bescheid."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f034-4",
+   "regelId": "q34",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Was macht einen [[Verwaltungsakt]] aus? Sagen Sie es so, wie es im Gesetz steht.",
+   "frage": "Lege die Definition aus den Bausteinen.",
+   "ergebnis": "Eine [[Behörde]] regelt einseitig einen [[Einzelfall]] im öffentlichen Recht. Das wirkt nach außen.",
+   "warum": "Die Definition steht in § 31 [[SGB|sgb]] X. Jedes Merkmal grenzt ab.",
+   "denkweg": [
+    "1. Zuerst: Wer handelt? Eine Behörde.",
+    "2. Dann: Sie regelt einen Fall im öffentlichen Recht.",
+    "3. Zum Schluss: Wirkung nach außen."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k034-1",
+   "regelId": "q34",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Ritter, Schlagzeuger",
+    "emoji": "🥁"
+   },
+   "akte": "Die Kasse ändert ihre [[Satzung]]. Ab jetzt gilt eine neue Regel für alle Mitglieder. Herr Ritter fragt: „Ich bin Mitglied. Ist das ein [[Bescheid]] an mich?“",
+   "frage": "Was antwortest du?",
+   "optionen": [
+    {
+     "text": "Nein, eine Regel für alle",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er ist ja Mitglied",
+     "richtig": false,
+     "warumNicht": "Die Satzung gilt für alle Mitglieder. Ein Bescheid regelt nur einen Fall."
+    },
+    {
+     "text": "Ja, sie wirkt nach außen",
+     "richtig": false,
+     "warumNicht": "Nach außen wirkt sie schon. Es fehlt aber der [[Einzelfall]]."
+    }
+   ],
+   "ergebnis": "Kein Bescheid: Die Satzung ist eine Regel für alle, kein Einzelfall.",
+   "warum": "Eine [[Rechtsnorm]] gilt für viele Fälle und viele Menschen. Ein Bescheid regelt genau einen Fall.",
+   "denkweg": [
+    "1. Wie viele betrifft die Regel? Alle Mitglieder.",
+    "2. Einzelfall? Nein.",
+    "3. Also kein Bescheid, sondern eine Rechtsnorm."
+   ],
+   "dauerSek": 24,
+   "kombiRegeln": [
+    "q30"
+   ]
+  },
+  {
+   "id": "f034-5",
+   "regelId": "q34",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Adeyemi, Sachbearbeiter",
+    "emoji": "🗂️"
+   },
+   "akte": "Herr Adeyemi bekommt eine Mail von seiner Chefin: „Prüfen Sie den Antrag von Frau Berg noch einmal.“ Er fragt: „Ist das ein [[Verwaltungsakt]] an mich?“",
+   "frage": "Was antwortest du?",
+   "optionen": [
+    {
+     "text": "Nein, nur intern",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er ist betroffen",
+     "richtig": false,
+     "warumNicht": "Die Anweisung bleibt in der [[Behörde]]. Ihr fehlt die Wirkung nach außen."
+    },
+    {
+     "text": "Nein, kein Einzelfall",
+     "richtig": false,
+     "warumNicht": "Es geht um einen [[Einzelfall]], den Antrag von Frau Berg. Es fehlt aber die Wirkung nach außen."
+    }
+   ],
+   "ergebnis": "Die Anweisung ist kein Verwaltungsakt. Sie wirkt nur innerhalb der Behörde.",
+   "warum": "Ein Verwaltungsakt muss nach außen wirken, also auf Bürger. Eine Anweisung an Mitarbeiter bleibt intern.",
+   "denkweg": [
+    "1. An wen geht die Mail? An einen Mitarbeiter.",
+    "2. Wirkt sie nach außen? Nein.",
+    "3. Also kein Verwaltungsakt."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f034-6",
+   "regelId": "q34",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brodersen, Azubi im ersten Jahr",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Frau Brodersen sortiert die Post vom Tag. Sie soll alle [[Verwaltungsakte|verwaltungsakt]] herausfischen. Nebenbei isst sie ein Käsebrot.",
+   "frage": "Sortiere jede Karte ins richtige Fach.",
+   "fachfaecher": {
+    "faecher": [
+     "Verwaltungsakt",
+     "Kein Verwaltungsakt"
+    ],
+    "karten": [
+     {
+      "text": "Die Kasse lehnt die Kur von Herrn Fuchs ab.",
+      "fach": "Verwaltungsakt",
+      "warumNicht": "Eine Behörde regelt verbindlich einen Fall nach außen."
+     },
+     {
+      "text": "Die Kasse fordert von Frau Lang 200 Euro zurück.",
+      "fach": "Verwaltungsakt",
+      "warumNicht": "Die Kasse legt einseitig fest, was Frau Lang zahlen muss."
+     },
+     {
+      "text": "Die Kasse gibt am Telefon eine Auskunft.",
+      "fach": "Kein Verwaltungsakt",
+      "warumNicht": "Eine Auskunft regelt nichts. Sie ist ein [[Realakt]]."
+     },
+     {
+      "text": "Die Kasse schließt einen Vertrag mit einer Klinik.",
+      "fach": "Kein Verwaltungsakt",
+      "warumNicht": "Ein Vertrag braucht beide Seiten. Ein Verwaltungsakt ist einseitig."
+     },
+     {
+      "text": "Ein Fitnessstudio kündigt einem Kunden.",
+      "fach": "Kein Verwaltungsakt",
+      "warumNicht": "Ein Fitnessstudio ist keine Behörde. Private handeln nicht durch Verwaltungsakt."
+     }
+    ]
+   },
+   "ergebnis": "Ablehnung und Rückforderung sind Verwaltungsakte. Die anderen drei nicht.",
+   "warum": "Ein Verwaltungsakt braucht eine [[Behörde]]. Sie legt einen [[Einzelfall]] fest. Das wirkt nach außen.",
+   "denkweg": [
+    "1. Handelt eine Behörde?",
+    "2. Regelt sie einseitig und verbindlich einen Einzelfall?",
+    "3. Wirkt das nach außen? Dann ist es ein Verwaltungsakt."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f035-0",
+   "regelId": "q35",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lehmann, Gerüstbauer",
+    "emoji": "👷"
+   },
+   "akte": "Ein [[Bescheid]] verpflichtet Herrn Lehmann, 400 Euro zurückzuzahlen. Die [[Fristen|frist]] für [[Widerspruch]] und [[Klage]] sind vorbei. Er zahlt trotzdem nicht.",
+   "frage": "Muss die Kasse erst vor Gericht?",
+   "optionen": [
+    {
+     "text": "Nein, sie setzt es selbst durch",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, sie braucht ein Urteil",
+     "richtig": false,
+     "warumNicht": "Ein Urteil brauchen Private. Die [[Behörde]] hat mit dem Bescheid schon ihren Titel."
+    }
+   ],
+   "ergebnis": "Nein, die Kasse kann ihren Bescheid selbst durchsetzen.",
+   "warum": "Der Bescheid ist schon die Grundlage zum Durchsetzen. Ein Gericht ist nicht nötig.",
+   "denkweg": [
+    "1. Gibt es einen Bescheid? Ja.",
+    "2. Kann er noch angegriffen werden? Nein, Fristen vorbei.",
+    "3. Also darf die Kasse selbst vollstrecken."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f035-1",
+   "regelId": "q35",
+   "stufe": 1,
+   "format": "F5",
+   "akte": "Was ist eigentlich Selbsttitulierung?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Die [[Behörde]] schafft sich mit dem [[Bescheid]] selbst die Grundlage, um ihn durchzusetzen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die [[Behörde|verwaltung]] muss erst ein Gericht um einen Titel bitten.",
+     "richtig": false,
+     "warumNicht": "Das gilt für Private. Die Behörde braucht kein Gericht."
+    },
+    {
+     "text": "Die Behörde darf den Bescheid nur durchsetzen, wenn der Bürger zustimmt.",
+     "richtig": false,
+     "warumNicht": "Zustimmen muss der Bürger nicht. Der Bescheid ist einseitig."
+    }
+   ],
+   "ergebnis": "Selbsttitulierung: Der Bescheid ist selbst der Titel zum Durchsetzen.",
+   "warum": "Ein Titel ist die Grundlage für Zwang. Die Behörde stellt ihn sich mit dem Bescheid selbst aus.",
+   "denkweg": [
+    "1. Wer stellt den Titel aus? Die Behörde selbst.",
+    "2. Braucht sie ein Gericht? Nein.",
+    "3. Also die erste Erklärung."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f035-2",
+   "regelId": "q35",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Engel, Floristin",
+    "emoji": "💐"
+   },
+   "akte": "Die Kasse fordert per [[Bescheid]] 250 Euro zurück. Frau Engel legt rechtzeitig [[Widerspruch]] ein. Der Bescheid ist nicht sofort vollziehbar. Die Kasse will trotzdem gleich vollstrecken.",
+   "frage": "Darf sie das jetzt?",
+   "optionen": [
+    {
+     "text": "Nein, erst warten",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, sie braucht kein Gericht",
+     "richtig": false,
+     "warumNicht": "Ein Gericht braucht sie wirklich nicht. Aber der Widerspruch hat aufschiebende Wirkung."
+    },
+    {
+     "text": "Nur mit Urteil",
+     "richtig": false,
+     "warumNicht": "Ein Urteil braucht sie nie. Sie muss nur warten, bis der Bescheid durchsetzbar ist."
+    }
+   ],
+   "ergebnis": "Noch nicht: Der Widerspruch hat [[aufschiebende Wirkung]].",
+   "warum": "Durchsetzen darf die [[Behörde]] nur einen vollziehbaren Bescheid. Solange der Widerspruch läuft, ist er das hier nicht.",
+   "denkweg": [
+    "1. Braucht die Kasse ein Gericht? Nein.",
+    "2. Ist der Bescheid schon vollziehbar? Nein, Widerspruch läuft.",
+    "3. Also muss sie warten."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "k035-1",
+   "regelId": "q35",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Demir, Pizzabäcker",
+    "emoji": "👨‍🍳"
+   },
+   "akte": "Herr Demir hat für einen Kunden eine große Feier ausgerichtet. Der Kunde zahlt die Rechnung nicht. Herr Demir sagt: „Die Kasse holt sich ihr Geld doch auch selbst!“",
+   "frage": "Kann Herr Demir sein Geld selbst eintreiben?",
+   "optionen": [
+    {
+     "text": "Nein, er braucht ein Gericht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, wie die Kasse",
+     "richtig": false,
+     "warumNicht": "Das Selbst-Durchsetzen hat nur die [[Behörde]]. Herr Demir ist privat."
+    }
+   ],
+   "ergebnis": "Nein: Als Privater braucht er einen Titel vom Gericht.",
+   "warum": "Nur die [[Behörde|verwaltung]] kann sich mit dem [[Bescheid]] selbst einen Titel schaffen. Im [[Privatrecht]] entscheidet erst ein Gericht.",
+   "denkweg": [
+    "1. Wer will Geld? Ein privater Wirt.",
+    "2. Handelt hier der Staat? Nein, Privatrecht.",
+    "3. Also braucht er ein Gericht."
+   ],
+   "dauerSek": 22,
+   "kombiRegeln": [
+    "q1"
+   ]
+  },
+  {
+   "id": "f035-3",
+   "regelId": "q35",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, ob die [[Verwaltung]] ein Gericht braucht, um einen [[Verwaltungsakt]] durchzusetzen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Nein. Sie vollstreckt selbst, etwa mit Zwangsgeld. Der [[Bescheid]] muss aber vollziehbar sein.",
+   "warum": "Erst die klare Antwort. Dann Begriff, Mittel und Bedingung.",
+   "denkweg": [
+    "1. Zuerst: Nein, Selbsttitulierung.",
+    "2. Dann: VwVG und seine Mittel.",
+    "3. Zum Schluss: Vollziehbarkeit und [[aufschiebende Wirkung]]."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f035-4",
+   "regelId": "q35",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lindemann, Imker",
+    "emoji": "🐝"
+   },
+   "akte": "Die Kasse fordert von Herrn Lindemann 300 Euro zurück. Er legt rechtzeitig [[Widerspruch]] ein. Eine sofortige Vollziehung hat die Kasse nicht angeordnet. Trotzdem will sie das Geld schon eintreiben.",
+   "frage": "Darf die Kasse jetzt vollstrecken?",
+   "optionen": [
+    {
+     "text": "Nein, noch nicht",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, ohne Gericht",
+     "richtig": false,
+     "warumNicht": "Ohne Gericht stimmt. Aber der Widerspruch hat [[aufschiebende Wirkung]]. Der Bescheid ist noch nicht vollziehbar."
+    },
+    {
+     "text": "Nur mit Gerichtsurteil",
+     "richtig": false,
+     "warumNicht": "Die Kasse braucht kein Gericht. Sie kann ihre Bescheide selbst vollstrecken."
+    }
+   ],
+   "ergebnis": "Nein. Die Kasse muss warten, bis der Bescheid vollziehbar ist.",
+   "warum": "Die Kasse braucht zwar kein Gericht. Aber der Widerspruch hält den [[Bescheid]] erst einmal an.",
+   "denkweg": [
+    "1. Braucht sie ein Gericht? Nein.",
+    "2. Ist der Bescheid vollziehbar? Nein, der Widerspruch hält ihn an.",
+    "3. Also: noch warten."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f036-0",
+   "regelId": "q36",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Iwanowa, Taxifahrerin",
+    "emoji": "🚕"
+   },
+   "akte": "Frau Iwanowa ruft bei der Kasse an. Die Mitarbeiterin erklärt ihr, welche Unterlagen sie für einen Antrag braucht. Entschieden wird noch nichts.",
+   "frage": "Was ist diese Beratung?",
+   "optionen": [
+    {
+     "text": "Realakt (einfaches Handeln)",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Bescheid",
+     "richtig": false,
+     "warumNicht": "Ein [[Bescheid]] regelt etwas verbindlich. Hier wird nur erklärt."
+    }
+   ],
+   "ergebnis": "Ein [[Realakt]]: Die Kasse berät nur und regelt nichts.",
+   "warum": "Beratung und Auskunft sind einfaches Handeln. Sie legen nichts verbindlich fest.",
+   "denkweg": [
+    "1. Wird etwas entschieden? Nein.",
+    "2. Was passiert? Die Kasse erklärt.",
+    "3. Also: Realakt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f036-1",
+   "regelId": "q36",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt legt fünf Vorgänge aus der Kasse auf den Tisch.",
+   "frage": "Welche Handlungsform ist das?",
+   "fachfaecher": {
+    "faecher": [
+     "Rechtsetzung",
+     "Vertrag",
+     "Realakt"
+    ],
+    "karten": [
+     {
+      "text": "Satzung der Kasse",
+      "fach": "Rechtsetzung",
+      "warumNicht": "Eine [[Satzung]] ist eine Regel für viele."
+     },
+     {
+      "text": "Versorgungsvertrag mit einem Krankenhaus",
+      "fach": "Vertrag",
+      "warumNicht": "Beide Seiten einigen sich: ein [[öffentlich-rechtlicher Vertrag]]."
+     },
+     {
+      "text": "Beratung am Telefon",
+      "fach": "Realakt",
+      "warumNicht": "Beraten regelt nichts verbindlich."
+     },
+     {
+      "text": "Warnung vor falschen Anrufern",
+      "fach": "Realakt",
+      "warumNicht": "Eine Warnung informiert nur."
+     },
+     {
+      "text": "Verordnung eines Ministeriums",
+      "fach": "Rechtsetzung",
+      "warumNicht": "Auch die [[Verordnung|rechtsverordnung]] ist eine Regel für viele."
+     }
+    ]
+   },
+   "ergebnis": "Satzung und Verordnung: Rechtsetzung. Versorgungsvertrag: Vertrag. Beratung und Warnung: [[Realakt]].",
+   "warum": "Frag dich: Regel für viele, Einigung beider Seiten oder nur ein Tun?",
+   "denkweg": [
+    "1. Regel für viele? Rechtsetzung.",
+    "2. Einigen sich beide? Vertrag.",
+    "3. Nur tun oder informieren? Realakt."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f036-2",
+   "regelId": "q36",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Ludwig, Möbelhändlerin",
+    "emoji": "🪑"
+   },
+   "akte": "Die Kasse kauft bei Frau Ludwig 30 neue Bürostühle. Beide unterschreiben einen Kaufvertrag. Ole meint: „Die Kasse ist eine [[Behörde]]. Also ist das öffentliches Recht.“",
+   "frage": "Wie handelt die Kasse hier?",
+   "optionen": [
+    {
+     "text": "Privatrechtlich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Öffentlich-rechtlicher Vertrag",
+     "richtig": false,
+     "warumNicht": "Die Kasse kauft hier ein wie jeder andere Kunde. Dafür gilt das [[Privatrecht]]."
+    },
+    {
+     "text": "Bescheid",
+     "richtig": false,
+     "warumNicht": "Ein [[Bescheid]] ist einseitig. Hier einigen sich zwei Seiten."
+    }
+   ],
+   "ergebnis": "Privatrechtliches Handeln: Die Kasse kauft ein wie jeder andere.",
+   "warum": "Auch eine [[Behörde|verwaltung]] kann privat handeln. Beim Einkauf von Stühlen ist sie ein ganz normaler Kunde.",
+   "denkweg": [
+    "1. Was tut die Kasse? Sie kauft Stühle.",
+    "2. Tut sie das als Staat oder wie jeder andere? Wie jeder andere.",
+    "3. Also: privatrechtliches Handeln."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f036-3",
+   "regelId": "q36",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Was ist eigentlich eine [[Verwaltungsvorschrift]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Eine interne Regel für die Mitarbeiter der [[Behörde]]. Sie gilt nach innen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Eine Regel, die ein Ministerium mit Erlaubnis aus einem Gesetz für alle erlässt.",
+     "richtig": false,
+     "warumNicht": "Das ist eine [[Rechtsverordnung]]. Sie gilt für alle, nicht nur intern."
+    },
+    {
+     "text": "Ein Vertrag, den die [[Behörde|verwaltung]] mit einem Bürger schließt.",
+     "richtig": false,
+     "warumNicht": "Das ist ein [[öffentlich-rechtlicher Vertrag]]. Eine Vorschrift ist keine Einigung."
+    }
+   ],
+   "ergebnis": "Eine Verwaltungsvorschrift ist Innenrecht: Regeln für die eigenen Leute.",
+   "warum": "Sie sagt den Mitarbeitern, wie sie arbeiten sollen. Für Bürger gilt sie nicht direkt.",
+   "denkweg": [
+    "1. Für wen gilt sie? Für die Mitarbeiter.",
+    "2. Innen oder außen? Innen.",
+    "3. Also die erste Erklärung."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f036-4",
+   "regelId": "q36",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Wie kann die [[Verwaltung]] handeln, außer mit einem [[Verwaltungsakt]]?",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Regeln setzen, [[öffentlich-rechtlicher Vertrag]], [[Verwaltungsvorschrift]], [[Realakt]], Plan, privates Handeln.",
+   "warum": "Die Prüfung will alle sechs Formen. Zu jeder ein Beispiel.",
+   "denkweg": [
+    "1. Zuerst: Regeln setzen und Vertrag.",
+    "2. Dann: Vorschriften und Realakte.",
+    "3. Zum Schluss: Pläne und privates Handeln."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k036-1",
+   "regelId": "q36",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Schmitt, Rentnerin mit Telefon",
+    "emoji": "👵🏽"
+   },
+   "akte": "Die Kasse warnt auf ihrer Webseite: „Vorsicht vor falschen Anrufen!“ Ole sagt: „Das richtet sich an Bürger, also nach außen. Dann ist es ein [[Bescheid]].“",
+   "frage": "Was ist die Warnung?",
+   "optionen": [
+    {
+     "text": "Ein Realakt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ein Bescheid",
+     "richtig": false,
+     "warumNicht": "Wirkung nach außen allein reicht nicht. Es fehlen Regelung und [[Einzelfall]]."
+    },
+    {
+     "text": "Eine Satzung",
+     "richtig": false,
+     "warumNicht": "Eine [[Satzung]] ist eine verbindliche Regel. Die Warnung regelt nichts, sie informiert."
+    }
+   ],
+   "ergebnis": "Ein [[Realakt]]: Die Warnung informiert, sie regelt nichts.",
+   "warum": "Für einen Bescheid müssen alle Merkmale passen. Die Warnung legt nichts fest und betrifft keinen Einzelfall.",
+   "denkweg": [
+    "1. Regelt die Warnung etwas? Nein.",
+    "2. Also kein Bescheid.",
+    "3. Nur informieren: Realakt."
+   ],
+   "dauerSek": 24,
+   "kombiRegeln": [
+    "q34"
+   ]
+  },
+  {
+   "id": "f036-5",
+   "regelId": "q36",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Hoffmann, Möbelhändlerin",
+    "emoji": "🪑"
+   },
+   "akte": "Die Kasse kauft bei Frau Hoffmann 40 neue Bürostühle. Beide schließen einen Kaufvertrag. Ole meint: „Die Kasse ist eine [[Behörde]]. Also ist das ein öffentlich-rechtlicher Vertrag.“",
+   "frage": "Wie handelt die Kasse hier?",
+   "optionen": [
+    {
+     "text": "Privatrechtlich",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Öffentlich-rechtlicher Vertrag",
+     "richtig": false,
+     "warumNicht": "Ein [[öffentlich-rechtlicher Vertrag]] dient öffentlichen Aufgaben, etwa der Versorgung. Stühle kauft die Kasse wie jeder andere."
+    },
+    {
+     "text": "Verwaltungsakt",
+     "richtig": false,
+     "warumNicht": "Die Kasse regelt nichts einseitig. Beide Seiten einigen sich. Das ist kein [[Verwaltungsakt]]."
+    }
+   ],
+   "ergebnis": "Die Kasse handelt privatrechtlich, wie ein normaler Kunde.",
+   "warum": "Auch eine Behörde kann wie ein Privater einkaufen. Das nennt man privatrechtliches Handeln.",
+   "denkweg": [
+    "1. Wer handelt? Eine Behörde. Das allein reicht nicht.",
+    "2. Was tut sie? Sie kauft Stühle wie jeder Kunde.",
+    "3. Also privatrechtliches Handeln."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f036-6",
+   "regelId": "q36",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Weber, Pilzsammler",
+    "emoji": "🍄"
+   },
+   "akte": "Die Kasse warnt auf ihrer Webseite: „Vorsicht vor falschen Anrufern, die nach Ihrer Kartennummer fragen!“ Herr Weber fragt, was das für eine Handlung ist.",
+   "frage": "Was ist die Warnung?",
+   "optionen": [
+    {
+     "text": "Realakt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Verwaltungsakt",
+     "richtig": false,
+     "warumNicht": "Die Warnung regelt nichts verbindlich. Ein [[Verwaltungsakt]] braucht eine Regelung."
+    },
+    {
+     "text": "Satzung",
+     "richtig": false,
+     "warumNicht": "Eine [[Satzung]] legt Regeln für Mitglieder fest. Die Warnung legt nichts fest."
+    }
+   ],
+   "ergebnis": "Die Warnung ist ein Realakt.",
+   "warum": "Ein [[Realakt]] ist schlichtes Handeln ohne Regelung. Dazu gehören Auskunft, Beratung und Warnung.",
+   "denkweg": [
+    "1. Regelt die Kasse etwas verbindlich? Nein.",
+    "2. Sie informiert nur.",
+    "3. Also ein Realakt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f037-0",
+   "regelId": "q37",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Albrecht, Gärtner",
+    "emoji": "🧑‍🌾"
+   },
+   "akte": "Die Kasse hat Herrn Albrecht einen Rollator abgelehnt. Das war von Anfang an falsch. Die Ablehnung belastet ihn. Die Kasse will sie aufheben.",
+   "frage": "Welche Vorschrift passt?",
+   "optionen": [
+    {
+     "text": "§ 44: Rücknahme, belastend",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "§ 45: Rücknahme, begünstigend",
+     "richtig": false,
+     "warumNicht": "§ 45 gilt, wenn der falsche [[Bescheid]] dir etwas gibt. Hier nimmt er dir etwas."
+    }
+   ],
+   "ergebnis": "§ 44 [[SGB|sgb]] X: [[Rücknahme]] eines falschen, belastenden Bescheids.",
+   "warum": "Der Bescheid war von Anfang an falsch: Rücknahme. Er gibt nichts, er belastet: § 44.",
+   "denkweg": [
+    "1. Von Anfang an falsch? Ja: Rücknahme.",
+    "2. Gibt er etwas oder belastet er? Er belastet.",
+    "3. Also: § 44."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f037-1",
+   "regelId": "q37",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Yildiz, Kranführerin",
+    "emoji": "🏗️"
+   },
+   "akte": "Frau Yildiz bekam aus Versehen zu viel Geld bewilligt. Der [[Bescheid]] war von Anfang an falsch, aber gut für sie. Die Kasse will ihn aufheben.",
+   "frage": "Welche Vorschrift passt?",
+   "optionen": [
+    {
+     "text": "§ 45: Rücknahme, begünstigend",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "§ 44: Rücknahme, belastend",
+     "richtig": false,
+     "warumNicht": "Der Bescheid belastet sie nicht. Er gibt ihr Geld."
+    },
+    {
+     "text": "§ 47: Widerruf, begünstigend",
+     "richtig": false,
+     "warumNicht": "[[Widerruf]] passt nur, wenn der Bescheid damals richtig war. Er war aber von Anfang an falsch."
+    }
+   ],
+   "ergebnis": "§ 45 [[SGB|sgb]] X: [[Rücknahme]] eines falschen, begünstigenden Bescheids.",
+   "warum": "Falsch von Anfang an und gut für sie: § 45. Hier muss die Kasse ihr Vertrauen beachten.",
+   "denkweg": [
+    "1. Von Anfang an falsch? Ja: Rücknahme.",
+    "2. Gibt er ihr etwas? Ja, Geld.",
+    "3. Also: § 45 mit [[Vertrauensschutz]]."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f037-2",
+   "regelId": "q37",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Lund, Kapitänin",
+    "emoji": "⚓"
+   },
+   "akte": "Ein [[Bescheid]] verpflichtet Frau Lund zu einer Zuzahlung. Er war völlig korrekt. Ein Jahr später will die Kasse ihr entgegenkommen und die Pflicht aufheben.",
+   "frage": "Welche Vorschrift passt?",
+   "optionen": [
+    {
+     "text": "§ 46: Widerruf, belastend",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "§ 44: Rücknahme, belastend",
+     "richtig": false,
+     "warumNicht": "§ 44 gilt nur für Bescheide, die von Anfang an falsch waren. Dieser war korrekt."
+    },
+    {
+     "text": "§ 47: Widerruf, begünstigend",
+     "richtig": false,
+     "warumNicht": "Die Pflicht zur Zuzahlung gibt ihr nichts Gutes. Sie belastet sie."
+    }
+   ],
+   "ergebnis": "§ 46 [[SGB|sgb]] X: [[Widerruf]] eines richtigen, belastenden Bescheids.",
+   "warum": "Der Bescheid war richtig: Widerruf. Er belastet sie: § 46.",
+   "denkweg": [
+    "1. Damals richtig? Ja: Widerruf.",
+    "2. Gibt er etwas oder belastet er? Er belastet.",
+    "3. Also: § 46."
+   ],
+   "dauerSek": 24
+  },
+  {
+   "id": "f037-3",
+   "regelId": "q37",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat fünf Fälle notiert. Er soll sie dem richtigen Weg zuordnen.",
+   "frage": "Welcher Weg passt?",
+   "fachfaecher": {
+    "faecher": [
+     "Rücknahme (§§ 44, 45)",
+     "Widerruf (§§ 46, 47)",
+     "Laufend, Lage neu (§ 48)"
+    ],
+    "karten": [
+     {
+      "text": "Ablehnung war von Anfang an falsch",
+      "fach": "Rücknahme (§§ 44, 45)",
+      "warumNicht": "Falsch von Anfang an: [[Rücknahme]]."
+     },
+     {
+      "text": "Zu viel Geld aus Versehen bewilligt",
+      "fach": "Rücknahme (§§ 44, 45)",
+      "warumNicht": "Auch hier war der [[Bescheid]] von Anfang an falsch."
+     },
+     {
+      "text": "Richtige Pflicht zur Zuzahlung wird erlassen",
+      "fach": "Widerruf (§§ 46, 47)",
+      "warumNicht": "Der Bescheid war richtig: [[Widerruf]]."
+     },
+     {
+      "text": "Monatlicher Zuschuss, Einkommen steigt",
+      "fach": "Laufend, Lage neu (§ 48)",
+      "warumNicht": "Ein laufender Bescheid und eine neue Lage: § 48."
+     },
+     {
+      "text": "Richtige Zusage, Kasse hebt sie auf",
+      "fach": "Widerruf (§§ 46, 47)",
+      "warumNicht": "Damals richtig, jetzt aufgehoben: Widerruf."
+     }
+    ]
+   },
+   "ergebnis": "Falsch von Anfang an: Rücknahme. Damals richtig: Widerruf. Laufend und Lage neu: § 48.",
+   "warum": "Erst fragst du nach dem Anfang. Bei laufenden Bescheiden mit neuer Lage gilt § 48.",
+   "denkweg": [
+    "1. Läuft der Bescheid und die Lage ändert sich? Dann § 48.",
+    "2. Sonst: von Anfang an falsch? Rücknahme.",
+    "3. Damals richtig? Widerruf."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f037-4",
+   "regelId": "q37",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Bei § 45 steht immer Vertrauensschutz dabei. Was ist das eigentlich?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Wer durch einen [[Bescheid]] etwas Gutes bekam, wird geschützt. Er durfte auf den Bescheid vertrauen.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Die Kasse muss dem Bürger glauben, dass er die Wahrheit sagt.",
+     "richtig": false,
+     "warumNicht": "Es geht nicht ums Glauben. Geschützt wird das Vertrauen in den Bescheid."
+    },
+    {
+     "text": "Schutz für den, dem ein falscher Bescheid etwas wegnimmt.",
+     "richtig": false,
+     "warumNicht": "Wer belastet wird, will den Bescheid ja loswerden. Das ist § 44, nicht § 45."
+    }
+   ],
+   "ergebnis": "[[Vertrauensschutz]] schützt den, der durch den Bescheid etwas Gutes bekam.",
+   "warum": "Bei § 45 nimmt die Kasse etwas Gutes weg. Darum muss sie das Vertrauen der Person beachten.",
+   "denkweg": [
+    "1. § 45: falsch und gut für die Person.",
+    "2. Aufheben nimmt ihr etwas weg.",
+    "3. Also wird ihr Vertrauen geschützt."
+   ],
+   "dauerSek": 30
+  },
+  {
+   "id": "f037-5",
+   "regelId": "q37",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, wie die [[Verwaltung]] die [[Bestandskraft]] eines [[Verwaltungsakts|verwaltungsakt]] durchbrechen kann. Mit Paragrafen.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Die Kasse hebt den [[Bescheid]] auf, nach §§ 44 bis 49 [[SGB|sgb]] X. Es kommt an auf [[Rechtmäßigkeit|rechtmaessig]], Vorteil und [[Dauerwirkung]].",
+   "warum": "Die Paragrafen folgen einer Logik. Erst [[Rücknahme]], dann [[Widerruf]], dann Sonderfälle.",
+   "denkweg": [
+    "1. Zuerst: Aufheben bricht die Bestandskraft.",
+    "2. Dann §§ 44 bis 47 der Reihe nach.",
+    "3. Zum Schluss §§ 48, 49 und 50."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k037-1",
+   "regelId": "q37",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Mertens, Uhrmacher",
+    "emoji": "⌚"
+   },
+   "akte": "Die Kasse zahlt Herrn Mertens jeden Monat einen Zuschuss. Der [[Bescheid]] war richtig. Jetzt verdient er mehr, und die Voraussetzung fällt weg. Ole ruft: „Richtig gewesen, also [[Widerruf]]!“",
+   "frage": "Welche Vorschrift passt am besten?",
+   "optionen": [
+    {
+     "text": "§ 48: laufend, Lage geändert",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "§ 47: Widerruf, begünstigend",
+     "richtig": false,
+     "warumNicht": "Klingt passend. Für laufende Bescheide mit neuer Lage gibt es aber die eigene Regel § 48."
+    },
+    {
+     "text": "§ 45: Rücknahme, begünstigend",
+     "richtig": false,
+     "warumNicht": "Der Bescheid war am Anfang richtig. Eine [[Rücknahme]] scheidet aus."
+    }
+   ],
+   "ergebnis": "§ 48 [[SGB|sgb]] X: Ein laufender Bescheid wird wegen geänderter Lage aufgehoben.",
+   "warum": "Der Zuschuss kommt jeden Monat, der Bescheid hat [[Dauerwirkung]]. Ändert sich die Lage, gilt § 48.",
+   "denkweg": [
+    "1. Damals richtig? Ja, also keine Rücknahme.",
+    "2. Läuft der Bescheid jeden Monat? Ja.",
+    "3. Lage geändert: § 48."
+   ],
+   "dauerSek": 26,
+   "kombiRegeln": [
+    "q38"
+   ]
+  },
+  {
+   "id": "f037-6",
+   "regelId": "q37",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Delgado, Floristin",
+    "emoji": "💐"
+   },
+   "akte": "Die Kasse hat Frau Delgado zu viel Geld bewilligt. Der [[Bescheid]] war von Anfang an falsch. Jetzt will die Kasse ihn aufheben.",
+   "frage": "Welche Vorschrift passt?",
+   "optionen": [
+    {
+     "text": "§ 45 SGB X",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "§ 44 SGB X",
+     "richtig": false,
+     "warumNicht": "§ 44 gilt für falsche Bescheide ohne Vorteil. Hier hat Frau Delgado einen Vorteil bekommen."
+    },
+    {
+     "text": "§ 47 SGB X",
+     "richtig": false,
+     "warumNicht": "§ 47 ist ein [[Widerruf]]. Der setzt einen Bescheid voraus, der am Anfang richtig war."
+    }
+   ],
+   "ergebnis": "Es ist die [[Rücknahme]] eines falschen Bescheids, der Frau Delgado begünstigt. Das regelt § 45.",
+   "warum": "Der Bescheid war von Anfang an falsch und gab ihr einen Vorteil. Dann gilt § 45 [[SGB|sgb]] X mit [[Vertrauensschutz]].",
+   "denkweg": [
+    "1. War der Bescheid von Anfang an falsch? Ja: Rücknahme.",
+    "2. Hat er ihr einen Vorteil gebracht? Ja.",
+    "3. Also § 45, nicht § 44."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f038-0",
+   "regelId": "q38",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Kowalski, Tischlerin",
+    "emoji": "👩‍🔧"
+   },
+   "akte": "Die Kasse hat Frau Kowalski Krankengeld bewilligt. Dabei hat sich jemand beim Einkommen verrechnet. Der [[Bescheid]] war also **von Anfang an** falsch.",
+   "frage": "Die Kasse will den Bescheid aufheben. Welcher Stempel passt?",
+   "optionen": [
+    {
+     "text": "Rücknahme",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Widerruf",
+     "richtig": false,
+     "warumNicht": "[[Widerruf]] passt nur, wenn der Bescheid am Anfang richtig war. Hier war er von Anfang an falsch."
+    }
+   ],
+   "ergebnis": "[[Rücknahme]], weil der Bescheid schon beim Erlass falsch war.",
+   "warum": "Der Fehler steckte schon im Bescheid, als er rausging. Einen Fehler von Anfang an repariert man mit der Rücknahme.",
+   "denkweg": [
+    "1. Will die Kasse einen Bescheid aufheben? Ja.",
+    "2. War er am ersten Tag schon falsch? Ja, verrechnet.",
+    "3. Also: Rücknahme."
+   ],
+   "dauerSek": 22
+  },
+  {
+   "id": "f038-1",
+   "regelId": "q38",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Brückner, Marathonläufer",
+    "emoji": "🏃"
+   },
+   "akte": "Herr Brückner bekam vor einem Jahr eine Gehhilfe bewilligt. Damals war das völlig korrekt. Jetzt läuft er wieder Marathon. Die Kasse will die Bewilligung **ab sofort** aufheben.",
+   "frage": "Welcher Stempel passt?",
+   "optionen": [
+    {
+     "text": "Widerruf",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Rücknahme",
+     "richtig": false,
+     "warumNicht": "[[Rücknahme]] gibt es nur bei einem [[Bescheid]], der von Anfang an falsch war. Hier war er damals richtig."
+    }
+   ],
+   "ergebnis": "[[Widerruf]], weil der Bescheid damals richtig war und nur für die Zukunft aufgehoben wird.",
+   "warum": "Der Bescheid war beim Erlass korrekt. Erst die Lage hat sich geändert. Dann hebt man ihn für die Zukunft auf: Widerruf.",
+   "denkweg": [
+    "1. War der Bescheid beim Erlass richtig? Ja.",
+    "2. Hat sich danach etwas geändert? Ja, er ist wieder fit.",
+    "3. Also: Widerruf für die Zukunft."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f038-2",
+   "regelId": "q38",
+   "stufe": 2,
+   "format": "F1",
+   "figur": {
+    "name": "Oma Liesel mit Hörgerät",
+    "emoji": "👵"
+   },
+   "akte": "Oma Liesel ruft laut: „Die Kasse hat mir das Hörgerät bewilligt, aber eine falsche Rechtsgrundlage benutzt! Das stand schon so im Brief vom März.“ Die Kasse prüft: Stimmt. Sie will den [[Bescheid]] aufheben.",
+   "frage": "Was macht die Kasse?",
+   "optionen": [
+    {
+     "text": "Rücknahme",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Widerruf",
+     "richtig": false,
+     "warumNicht": "[[Widerruf]] wäre nur richtig, wenn der Bescheid im März korrekt gewesen wäre. Er war aber schon damals falsch."
+    },
+    {
+     "text": "Nichts, Bescheid bleibt",
+     "richtig": false,
+     "warumNicht": "Die Kasse will ihn ja aufheben. Gefragt ist nur, wie das heißt."
+    }
+   ],
+   "ergebnis": "[[Rücknahme]], weil der Fehler schon im Bescheid vom März steckte.",
+   "warum": "Es kommt nur auf den Zeitpunkt des Erlasses an. War der Bescheid da schon falsch, heißt das Aufheben Rücknahme.",
+   "denkweg": [
+    "1. Wann entstand der Fehler? Schon im Brief vom März.",
+    "2. Also war der Bescheid von Anfang an falsch.",
+    "3. Aufheben heißt dann: Rücknahme."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f038-3",
+   "regelId": "q38",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Demir, Pizzabäcker",
+    "emoji": "👨‍🍳"
+   },
+   "akte": "Herr Demir hatte eine Reha bewilligt bekommen. Alles war korrekt. Ein halbes Jahr später findet die Kasse heraus: Er hatte beim Antrag eine Vorerkrankung **verschwiegen**. Mit ihr hätte er die Reha nie bekommen.",
+   "frage": "Welcher Stempel passt?",
+   "optionen": [
+    {
+     "text": "Rücknahme",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Widerruf",
+     "richtig": false,
+     "warumNicht": "Es wirkt nur so, als sei der [[Bescheid]] richtig gewesen. Wegen der verschwiegenen Krankheit war er schon beim Erlass falsch."
+    }
+   ],
+   "ergebnis": "[[Rücknahme]], denn der Bescheid war schon beim Erlass falsch, man wusste es nur nicht.",
+   "warum": "Entscheidend ist, wie es wirklich war, nicht was die Kasse damals wusste. Mit der wahren Lage war der Bescheid von Anfang an falsch.",
+   "denkweg": [
+    "1. Fehler erst später entdeckt? Ja, aber das zählt nicht.",
+    "2. War der Bescheid mit der wahren Lage richtig? Nein.",
+    "3. Also von Anfang an falsch: Rücknahme."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f038-4",
+   "regelId": "q38",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat vier Notizen auf den Tisch gelegt. Sortiere sie in die richtigen Fächer.",
+   "frage": "[[Rücknahme]] oder [[Widerruf]]?",
+   "fachfaecher": {
+    "faecher": [
+     "Rücknahme",
+     "Widerruf"
+    ],
+    "karten": [
+     {
+      "text": "Beim Bescheid wurde falsch gerechnet",
+      "fach": "Rücknahme",
+      "warumNicht": "Der Fehler war von Anfang an da."
+     },
+     {
+      "text": "Der Patient ist wieder gesund",
+      "fach": "Widerruf",
+      "warumNicht": "Der [[Bescheid]] war damals richtig, die Lage hat sich geändert."
+     },
+     {
+      "text": "Falsche Angaben im Antrag",
+      "fach": "Rücknahme",
+      "warumNicht": "Mit den wahren Angaben war der Bescheid von Anfang an falsch."
+     },
+     {
+      "text": "Gilt nur für die Zukunft",
+      "fach": "Widerruf",
+      "warumNicht": "Der Widerruf wirkt grundsätzlich nur für die Zukunft."
+     }
+    ]
+   },
+   "ergebnis": "Fehler von Anfang an gehören zur Rücknahme, spätere Änderungen zum Widerruf.",
+   "warum": "Entscheidend ist immer: War der Bescheid am ersten Tag richtig oder falsch?",
+   "denkweg": [
+    "1. Frage bei jeder Notiz: Gab es den Fehler schon beim Erlass?",
+    "2. Ja: Rücknahme.",
+    "3. Nein: Widerruf."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f038-5",
+   "regelId": "q38",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir den Unterschied zwischen [[Rücknahme]] und [[Widerruf]]. Kurz und prüfungsfest, bitte.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "Es kommt darauf an, ob der [[Bescheid]] am Anfang richtig war. Falsch: Rücknahme. Richtig: Widerruf.",
+   "warum": "Die Prüfung fragt nach dem einen Punkt: War der [[VA|verwaltungsakt]] beim Erlass [[rechtmäßig]] oder [[rechtswidrig]]?",
+   "denkweg": [
+    "1. Zuerst das Kriterium nennen.",
+    "2. Dann Rücknahme und Widerruf zuordnen.",
+    "3. Zum Schluss: Widerruf nur für die Zukunft."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "f038-6",
+   "regelId": "q38",
+   "stufe": 2,
+   "format": "F5",
+   "akte": "Ein [[Bescheid]] war am Anfang richtig. Später passt er nicht mehr, und die Kasse hebt ihn auf. Ist das eine [[Rücknahme]]?",
+   "frage": "Welche Erklärung gibst du Ole?",
+   "optionen": [
+    {
+     "text": "Nein. Er war am Anfang richtig. Wird er aufgehoben, ist das ein Widerruf.",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja. Jede Aufhebung eines Bescheids heißt Rücknahme.",
+     "richtig": false,
+     "warumNicht": "Es kommt auf den Anfang an. War der Bescheid da richtig, heißt es [[Widerruf]]."
+    },
+    {
+     "text": "Ja. Wenn er heute nicht passt, war er von Anfang an falsch.",
+     "richtig": false,
+     "warumNicht": "Es zählt der Tag, an dem er erlassen wurde. Damals war er richtig."
+    }
+   ],
+   "ergebnis": "Es ist ein Widerruf, weil der Bescheid beim Erlass richtig war.",
+   "warum": "Rücknahme heißt: von Anfang an [[rechtswidrig]]. Widerruf heißt: am Anfang [[rechtmäßig]], später aufgehoben.",
+   "denkweg": [
+    "1. War der Bescheid beim Erlass richtig? Ja.",
+    "2. Dann ist es keine Rücknahme.",
+    "3. Also ein Widerruf."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f039-0",
+   "regelId": "q39",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Petrov, Kita-Leiterin",
+    "emoji": "🧸"
+   },
+   "akte": "Die Kasse lehnt eine Kur für Frau Petrov ab. Im [[Bescheid]] fehlt die Begründung. Zwei Wochen später schickt die Kasse die Begründung nach.",
+   "frage": "Zählt der Fehler noch?",
+   "optionen": [
+    {
+     "text": "Nein, er ist geheilt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, er bleibt ein Fehler",
+     "richtig": false,
+     "warumNicht": "Eine fehlende Begründung kann man nachholen. Danach zählt der Fehler nicht mehr."
+    }
+   ],
+   "ergebnis": "Geheilt: Die Kasse hat die Begründung nachgeholt.",
+   "warum": "Eine fehlende Begründung ist ein Fehler im Ablauf. Holt die Kasse sie nach, ist er [[geheilt|heilung]].",
+   "denkweg": [
+    "1. Was fehlte? Die Begründung.",
+    "2. Wurde sie nachgeholt? Ja.",
+    "3. Also: geheilt."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f039-1",
+   "regelId": "q39",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Szabo, Fahrlehrer",
+    "emoji": "🚗"
+   },
+   "akte": "Der [[Bescheid]] an Herrn Szabo hat einen so schweren Fehler, dass er [[nichtig|Nichtigkeit]] ist. Die Kasse will den Fehler einfach nachträglich [[heilen|heilung]].",
+   "frage": "Geht das?",
+   "optionen": [
+    {
+     "text": "Nein, nichtig ist nicht heilbar",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Heilung geht immer",
+     "richtig": false,
+     "warumNicht": "Heilung gibt es nur bei Fehlern, die nicht zur Nichtigkeit führen."
+    }
+   ],
+   "ergebnis": "Nein: Ein nichtiger Bescheid lässt sich nicht heilen.",
+   "warum": "Die Heilung gilt nur für leichtere Fehler im Ablauf und in der Form. Bei Nichtigkeit hilft sie nicht.",
+   "denkweg": [
+    "1. Wie schwer ist der Fehler? Der Bescheid ist nichtig.",
+    "2. Heilung gilt nur ohne Nichtigkeit.",
+    "3. Also: nicht heilbar."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f039-2",
+   "regelId": "q39",
+   "stufe": 2,
+   "format": "F3",
+   "figur": {
+    "name": "Frau Brandt",
+    "emoji": "👩🏼‍💼"
+   },
+   "akte": "Frau Brandt hat sechs Fehler aus alten Akten gesammelt. Welche lassen sich durch Nachholen [[heilen|heilung]]?",
+   "frage": "Sortiere die Fehler.",
+   "fachfaecher": {
+    "faecher": [
+     "Heilbar durch Nachholen",
+     "Nicht so heilbar"
+    ],
+    "karten": [
+     {
+      "text": "Begründung fehlte",
+      "fach": "Heilbar durch Nachholen",
+      "warumNicht": "Die Begründung kann nachgeholt werden."
+     },
+     {
+      "text": "Anhörung vergessen",
+      "fach": "Heilbar durch Nachholen",
+      "warumNicht": "Die [[Anhörung]] kann nachgeholt werden."
+     },
+     {
+      "text": "Antrag fehlte",
+      "fach": "Heilbar durch Nachholen",
+      "warumNicht": "Der Antrag kann nachträglich gestellt werden."
+     },
+     {
+      "text": "Andere Behörde nicht beteiligt",
+      "fach": "Heilbar durch Nachholen",
+      "warumNicht": "Die Mitwirkung kann nachgeholt werden."
+     },
+     {
+      "text": "Der Bescheid ist nichtig",
+      "fach": "Nicht so heilbar",
+      "warumNicht": "Heilung gilt nur für Fehler ohne [[Nichtigkeit]]."
+     },
+     {
+      "text": "Die Summe ist falsch berechnet",
+      "fach": "Nicht so heilbar",
+      "warumNicht": "Das ist ein Fehler im Inhalt, kein Fehler im Ablauf oder in der Form."
+     }
+    ]
+   },
+   "ergebnis": "Fehler im Ablauf sind heilbar. Nichtigkeit und Fehler im Inhalt nicht.",
+   "warum": "Nachholen kann man nur fehlende Schritte. Einen falschen Inhalt repariert man nicht durch Nachholen.",
+   "denkweg": [
+    "1. Ist der [[Bescheid]] nichtig? Dann nicht heilbar.",
+    "2. Fehlt ein Schritt im Ablauf? Dann heilbar.",
+    "3. Ist der Inhalt falsch? Nicht durch Nachholen."
+   ],
+   "dauerSek": 40
+  },
+  {
+   "id": "f039-3",
+   "regelId": "q39",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Lamprecht, Orgelbauer",
+    "emoji": "🎹"
+   },
+   "akte": "Die Kasse hat vergessen, eine andere [[Behörde]] zu beteiligen. Nachgeholt hat sie das nie. Es ist aber offensichtlich: Am Ergebnis hätte das nichts geändert. Herr Lamprecht will den [[Bescheid]] deshalb aufheben lassen.",
+   "frage": "Bekommt er die Aufhebung?",
+   "optionen": [
+    {
+     "text": "Nein, wegen § 42",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, der Fehler ist nicht geheilt",
+     "richtig": false,
+     "warumNicht": "Geheilt ist er nicht. Aber nach § 42 gibt es keine Aufhebung, wenn der Fehler offensichtlich nichts geändert hat."
+    },
+    {
+     "text": "Ja, jeder Fehler reicht",
+     "richtig": false,
+     "warumNicht": "Nicht jeder Fehler im Ablauf führt zur Aufhebung. § 42 macht eine Ausnahme."
+    }
+   ],
+   "ergebnis": "Nein: Der Fehler hat die Entscheidung offensichtlich nicht beeinflusst (§ 42 [[SGB|sgb]] X).",
+   "warum": "§ 42 ergänzt die [[Heilung]]. Wenn der Fehler am Ergebnis klar nichts ändert, gibt es keine Aufhebung.",
+   "denkweg": [
+    "1. Wurde der Fehler geheilt? Nein.",
+    "2. Hat er das Ergebnis beeinflusst? Offensichtlich nicht.",
+    "3. Also keine Aufhebung nach § 42."
+   ],
+   "dauerSek": 28
+  },
+  {
+   "id": "f039-4",
+   "regelId": "q39",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir die [[Heilung]] von Verfahrens- und Formfehlern im Sozialverwaltungsverfahren.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "§ 41 [[SGB|sgb]] X: Nachholung macht Fehler unbeachtlich, bis zur letzten Tatsacheninstanz. Ergänzend § 42.",
+   "warum": "Erst die Grundregel, dann die Fälle, dann die Zeitgrenze und § 42.",
+   "denkweg": [
+    "1. Zuerst: § 41, Fehler ohne [[Nichtigkeit]].",
+    "2. Dann: was nachgeholt werden kann.",
+    "3. Zum Schluss: Zeitgrenze und § 42."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k039-1",
+   "regelId": "q39",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Dahl, Zirkusartistin",
+    "emoji": "🎪"
+   },
+   "akte": "Die Kasse kürzt Frau Dahls Krankengeld, ohne sie vorher anzuhören. Frau Dahl legt [[Widerspruch]] ein. Jetzt gibt ihr die Kasse Gelegenheit, sich zu äußern, und prüft ihre Argumente.",
+   "frage": "Was ist mit dem Fehler?",
+   "optionen": [
+    {
+     "text": "Geheilt durch Nachholen",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Der Bescheid ist nichtig",
+     "richtig": false,
+     "warumNicht": "Eine fehlende [[Anhörung]] ist ein Fehler im Ablauf. Das Gesetz lässt ihn [[heilen|heilung]]."
+    },
+    {
+     "text": "Keine Anhörung nötig",
+     "richtig": false,
+     "warumNicht": "Eine Kürzung greift in ihre Rechte ein. Dann ist eine Anhörung nötig."
+    }
+   ],
+   "ergebnis": "Die Anhörung wurde nachgeholt. Der Fehler ist geheilt.",
+   "warum": "Die Kürzung brauchte eine Anhörung. Sie fehlte, wurde aber rechtzeitig nachgeholt.",
+   "denkweg": [
+    "1. War eine Anhörung nötig? Ja, Kürzung.",
+    "2. Fehlte sie? Ja, aber sie wurde nachgeholt.",
+    "3. Also: geheilt."
+   ],
+   "dauerSek": 26,
+   "kombiRegeln": [
+    "q40"
+   ]
+  },
+  {
+   "id": "f040-0",
+   "regelId": "q40",
+   "stufe": 0,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Fischer, Bäcker",
+    "emoji": "🥖"
+   },
+   "akte": "Die Kasse will Herrn Fischers Krankengeld kürzen. Sie hat ihn dazu noch nicht gefragt.",
+   "frage": "Was muss die Kasse vorher tun?",
+   "optionen": [
+    {
+     "text": "Ihn anhören",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Nichts, einfach kürzen",
+     "richtig": false,
+     "warumNicht": "Eine Kürzung greift in seine Rechte ein. Vorher muss er sich äußern dürfen."
+    }
+   ],
+   "ergebnis": "Die Kasse muss ihn vorher [[anhören|anhoerung]].",
+   "warum": "Eine Kürzung belastet ihn. Darum darf er vorher seine Sicht sagen.",
+   "denkweg": [
+    "1. Wird etwas gegen ihn entschieden? Ja, Kürzung.",
+    "2. Dann ist eine Anhörung nötig.",
+    "3. Also: erst anhören."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f040-1",
+   "regelId": "q40",
+   "stufe": 1,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Tanaka, Origami-Künstlerin",
+    "emoji": "👩🏻‍🎨"
+   },
+   "akte": "Frau Tanaka hat eine Reha beantragt. Die Kasse will ihr genau das bewilligen, was sie beantragt hat.",
+   "frage": "Muss die Kasse sie vorher [[anhören|anhoerung]]?",
+   "optionen": [
+    {
+     "text": "Nein, kein Eingriff",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, vor jedem Bescheid",
+     "richtig": false,
+     "warumNicht": "Die Anhörung ist nur nötig, wenn der [[Bescheid]] in Rechte eingreift. Eine volle Bewilligung tut das nicht."
+    }
+   ],
+   "ergebnis": "Nein: Die Bewilligung greift nicht in ihre Rechte ein.",
+   "warum": "Die Anhörung schützt vor belastenden Bescheiden. Wer alles bekommt, wird nicht belastet.",
+   "denkweg": [
+    "1. Wird etwas gegen sie entschieden? Nein.",
+    "2. Sie bekommt, was sie wollte.",
+    "3. Also keine Anhörung nötig."
+   ],
+   "dauerSek": 20
+  },
+  {
+   "id": "f040-2",
+   "regelId": "q40",
+   "stufe": 2,
+   "format": "F2",
+   "figur": {
+    "name": "Herr Vogel, Postbote",
+    "emoji": "👨‍🦰"
+   },
+   "akte": "Herr Vogel bringt dir einen Brief der Kasse. Er ist an ihn selbst gerichtet. Er findet ihn unfair.",
+   "frage": "Wo steckt der Fehler? Tippe die Stelle an.",
+   "markierbar": [
+    "Sehr geehrter Herr Vogel,",
+    {
+     "text": " wir haben neue Unterlagen zu Ihrem Einkommen erhalten.",
+     "fehler": false,
+     "warumNicht": "Hier nennt die Kasse nur, was sie weiß. Das ist kein Fehler."
+    },
+    {
+     "text": " Deshalb kürzen wir Ihr Krankengeld ab 1. Juni.",
+     "fehler": false,
+     "warumNicht": "Kürzen kann die Kasse, wenn die Lage es hergibt. Der Fehler liegt woanders."
+    },
+    {
+     "text": " Eine Stellungnahme von Ihnen brauchen wir nicht.",
+     "fehler": true
+    }
+   ],
+   "optionen": [
+    {
+     "text": "Anhörung fehlt",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Begründung fehlt",
+     "richtig": false,
+     "warumNicht": "Die Kasse nennt einen Grund: die neuen Unterlagen. Es fehlt die Chance, sich zu äußern."
+    }
+   ],
+   "ergebnis": "Der letzte Satz: Die Kasse kürzt, ohne Herrn Vogel anzuhören.",
+   "warum": "Eine Kürzung greift in seine Rechte ein. Vorher muss er sich zu den Tatsachen äußern dürfen.",
+   "denkweg": [
+    "1. Wird etwas gegen ihn entschieden? Ja, Kürzung.",
+    "2. Darf er sich vorher äußern? Nein, laut Brief.",
+    "3. Also fehlt die [[Anhörung]]."
+   ],
+   "dauerSek": 30,
+   "modus": "einer"
+  },
+  {
+   "id": "f040-3",
+   "regelId": "q40",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Herr Kessler, Schleusenwärter",
+    "emoji": "🧔"
+   },
+   "akte": "Die [[Behörde]] muss sofort entscheiden, sonst droht großer Schaden. Jede Stunde zählt. Die Entscheidung greift in Herrn Kesslers Rechte ein. Für eine [[Anhörung]] ist keine Zeit.",
+   "frage": "Muss die [[Behörde|verwaltung]] ihn trotzdem vorher anhören?",
+   "optionen": [
+    {
+     "text": "Nein, Gefahr im Verzug",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, Anhörung ist immer Pflicht",
+     "richtig": false,
+     "warumNicht": "Grundsätzlich ja. Aber bei Gefahr im Verzug macht das Gesetz eine Ausnahme."
+    },
+    {
+     "text": "Nein, es gibt keinen Eingriff",
+     "richtig": false,
+     "warumNicht": "Ein [[Eingriff]] liegt vor. Die Anhörung entfällt nur wegen der Eile."
+    }
+   ],
+   "ergebnis": "Keine Anhörung nötig: Es gilt die Ausnahme „Gefahr im Verzug“.",
+   "warum": "Wenn Warten großen Schaden bringt, darf die Behörde ausnahmsweise ohne Anhörung entscheiden.",
+   "denkweg": [
+    "1. Gibt es einen Eingriff? Ja.",
+    "2. Gibt es eine Ausnahme? Ja, Gefahr im Verzug.",
+    "3. Also ohne Anhörung."
+   ],
+   "dauerSek": 25
+  },
+  {
+   "id": "f040-4",
+   "regelId": "q40",
+   "stufe": 1,
+   "format": "F3",
+   "figur": {
+    "name": "Ole, Praktikant",
+    "emoji": "🧑‍🎓"
+   },
+   "akte": "Ole hat fünf geplante [[Bescheide|bescheid]] auf dem Tisch. Bei welchen muss die Kasse vorher [[anhören|anhoerung]]?",
+   "frage": "Sortiere die Bescheide.",
+   "fachfaecher": {
+    "faecher": [
+     "Anhörung nötig",
+     "Keine Anhörung nötig"
+    ],
+    "karten": [
+     {
+      "text": "Die Kasse kürzt das Krankengeld.",
+      "fach": "Anhörung nötig",
+      "warumNicht": "Eine Kürzung greift in Rechte ein."
+     },
+     {
+      "text": "Die Kasse nimmt einen Bescheid zurück, der Geld gab.",
+      "fach": "Anhörung nötig",
+      "warumNicht": "Die [[Rücknahme]] nimmt etwas weg."
+     },
+     {
+      "text": "Die Kasse bewilligt alles wie beantragt.",
+      "fach": "Keine Anhörung nötig",
+      "warumNicht": "Kein [[Eingriff]] in Rechte."
+     },
+     {
+      "text": "Es herrscht Gefahr im Verzug.",
+      "fach": "Keine Anhörung nötig",
+      "warumNicht": "Das ist eine gesetzliche Ausnahme."
+     },
+     {
+      "text": "Die Kasse hebt eine Leistung auf.",
+      "fach": "Anhörung nötig",
+      "warumNicht": "Die Aufhebung belastet die Person."
+     }
+    ]
+   },
+   "ergebnis": "Kürzung, Rücknahme und Aufhebung brauchen eine Anhörung. Bewilligung und Eilfall nicht.",
+   "warum": "Die Anhörung gilt, wenn der Bescheid jemandem schadet. Ausnahmen wie Gefahr im Verzug gehen vor.",
+   "denkweg": [
+    "1. Belastet der Bescheid? Dann Anhörung.",
+    "2. Gibt es eine Ausnahme? Dann keine.",
+    "3. Begünstigt er nur? Dann keine."
+   ],
+   "dauerSek": 35
+  },
+  {
+   "id": "f040-5",
+   "regelId": "q40",
+   "stufe": 3,
+   "format": "F6",
+   "akte": "Erklären Sie mir, wann eine [[Anhörung]] vor Erlass eines [[Verwaltungsakts|verwaltungsakt]] nötig ist. Und wo das steht.",
+   "frage": "Lege die Antwort aus den Bausteinen.",
+   "ergebnis": "§ 24 [[SGB|sgb]] X: Anhörung vor belastendem [[VA|bescheid]], Ausnahmen in § 24 II, Verstoß heilbar.",
+   "warum": "Erst die [[Norm|rechtsnorm]], dann die Voraussetzung, dann Ausnahmen und Folge.",
+   "denkweg": [
+    "1. Zuerst: § 24 SGB X.",
+    "2. Dann: [[Eingriff]] in Rechte, Äußerung zu Tatsachen.",
+    "3. Zum Schluss: Ausnahmen und [[Heilung]]."
+   ],
+   "dauerSek": 45
+  },
+  {
+   "id": "k040-1",
+   "regelId": "q40",
+   "stufe": 3,
+   "format": "F1",
+   "figur": {
+    "name": "Frau Ebert, Sommelière",
+    "emoji": "🍷"
+   },
+   "akte": "Frau Ebert bekam eine Reha bewilligt. Der [[Bescheid]] war von Anfang an falsch. Die Kasse will ihn zurücknehmen. Der Sachbearbeiter meint: „Eine Rücknahme ist nur eine Korrektur. Anhören müssen wir nicht.“",
+   "frage": "Hat er recht?",
+   "optionen": [
+    {
+     "text": "Nein, Anhörung nötig",
+     "richtig": true,
+     "warumNicht": null
+    },
+    {
+     "text": "Ja, nur eine Korrektur",
+     "richtig": false,
+     "warumNicht": "Die Rücknahme nimmt ihr etwas Gutes weg. Sie greift in ihre Rechte ein."
+    },
+    {
+     "text": "Widerruf statt Rücknahme",
+     "richtig": false,
+     "warumNicht": "Der Bescheid war von Anfang an falsch, also ist Rücknahme richtig. Gefragt ist die [[Anhörung]]."
+    }
+   ],
+   "ergebnis": "Nein: Vor der Rücknahme muss die Kasse Frau Ebert anhören.",
+   "warum": "Die [[Rücknahme]] eines Bescheids, der etwas gab, belastet. Belastende Bescheide brauchen eine Anhörung.",
+   "denkweg": [
+    "1. Rücknahme oder [[Widerruf]]? Rücknahme, falsch von Anfang an.",
+    "2. Belastet sie Frau Ebert? Ja, sie verliert die Reha.",
+    "3. Also vorher anhören."
+   ],
+   "dauerSek": 26,
+   "kombiRegeln": [
+    "q38"
+   ]
+  }
+ ],
+ "glossar": [
+  {
+   "id": "mittelbare-staatsverwaltung",
+   "begriff": "mittelbare Staatsverwaltung",
+   "formen": [
+    "mittelbaren Staatsverwaltung"
+   ],
+   "erklaerung": "Der Staat erledigt eine Aufgabe nicht selbst, sondern durch eine eigene, selbstständige Stelle.",
+   "beispiel": "Die Krankenkasse zahlt, nicht das Ministerium."
+  },
+  {
+   "id": "realakt",
+   "begriff": "Realakt",
+   "formen": [
+    "Realakte",
+    "schlichtes Verwaltungshandeln"
+   ],
+   "erklaerung": "Die Behörde tut oder sagt etwas, regelt aber nichts verbindlich.",
+   "beispiel": "Die Kasse berät dich am Telefon."
+  },
+  {
+   "id": "oeffentlich-rechtlicher-vertrag",
+   "begriff": "öffentlich-rechtlicher Vertrag",
+   "formen": [
+    "öffentlich-rechtlichen Vertrag",
+    "öffentlich-rechtliche Vertrag"
+   ],
+   "erklaerung": "Ein Vertrag im öffentlichen Recht. Beide Seiten einigen sich, statt dass die Behörde allein bestimmt.",
+   "beispiel": "Die Kasse schließt mit einem Krankenhaus einen Versorgungsvertrag."
+  },
+  {
+   "id": "verwaltungsvorschrift",
+   "begriff": "Verwaltungsvorschrift",
+   "formen": [
+    "Verwaltungsvorschriften"
+   ],
+   "erklaerung": "Eine Regel nur für die Leute in der Behörde.",
+   "beispiel": "„Anträge stempeln wir ab Montag in Blau.“"
+  },
+  {
+   "id": "bestandskraft",
+   "begriff": "Bestandskraft",
+   "formen": [
+    "bestandskräftig"
+   ],
+   "erklaerung": "Ein Bescheid ist fest. Mit Widerspruch oder Klage kann man ihn nicht mehr angreifen.",
+   "beispiel": "Die Frist für den Widerspruch ist lange vorbei."
+  },
+  {
+   "id": "aufschiebende-wirkung",
+   "begriff": "aufschiebende Wirkung",
+   "formen": [],
+   "erklaerung": "Solange Widerspruch oder Klage laufen, darf die Behörde den Bescheid in der Regel nicht durchsetzen.",
+   "beispiel": "Du legst Widerspruch ein. Die Kasse muss mit dem Eintreiben warten."
+  },
+  {
+   "id": "dauerwirkung",
+   "begriff": "Dauerwirkung",
+   "formen": [],
+   "erklaerung": "Ein Bescheid wirkt nicht nur einmal, sondern laufend.",
+   "beispiel": "Die Kasse zahlt jeden Monat einen Zuschuss."
+  },
+  {
+   "id": "vertrauensschutz",
+   "begriff": "Vertrauensschutz",
+   "formen": [],
+   "erklaerung": "Wer auf einen Bescheid vertraut hat, wird beim Aufheben geschützt.",
+   "beispiel": "Du hast dich auf die Zusage verlassen und schon geplant."
+  },
+  {
+   "id": "heilung",
+   "begriff": "Heilung",
+   "formen": [
+    "heilen",
+    "geheilt"
+   ],
+   "erklaerung": "Ein Fehler im Ablauf zählt nicht mehr, weil die Behörde ihn nachgeholt hat.",
+   "beispiel": "Die Kasse schickt die vergessene Begründung nach."
+  },
+  {
+   "id": "nichtigkeit",
+   "begriff": "Nichtigkeit",
+   "formen": [
+    "nichtig",
+    "nichtiger"
+   ],
+   "erklaerung": "Ein Bescheid hat einen so schweren Fehler, dass er gar nicht gilt.",
+   "beispiel": "Wie ein Los, das nie gültig war: Es zählt von Anfang an nicht."
+  }
+ ]
+}

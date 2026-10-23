@@ -8,6 +8,7 @@ export default defineConfig({
   reporter: [['list']],
   use: {
     ...devices['iPhone 14'],
+    viewport: { width: 390, height: 844 },
     browserName: 'webkit',
     baseURL: process.env.BASE_URL ?? 'http://localhost:4173/',
   },
