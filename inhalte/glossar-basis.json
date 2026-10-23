@@ -1,0 +1,342 @@
+{
+  "glossar": [
+    {
+      "id": "bescheid",
+      "begriff": "Bescheid",
+      "formen": [
+        "Bescheide",
+        "Bescheiden",
+        "Bescheides",
+        "Bescheids",
+        "VA"
+      ],
+      "erklaerung": "Ein Brief vom Amt, der für dich verbindlich etwas entscheidet. Fachwort: Verwaltungsakt.",
+      "beispiel": "Die Kasse schreibt dir: „Ihre neue Brille wird bezahlt.“"
+    },
+    {
+      "id": "verwaltungsakt",
+      "begriff": "Verwaltungsakt",
+      "formen": [
+        "Verwaltungsakts",
+        "Verwaltungsakte",
+        "Verwaltungsaktes"
+      ],
+      "erklaerung": "Die Entscheidung einer Behörde in einem einzelnen Fall, die für dich verbindlich ist. Im Alltag heißt das meist Bescheid.",
+      "beispiel": "Das Amt bewilligt dir Wohngeld. Das ist ein Verwaltungsakt."
+    },
+    {
+      "id": "behoerde",
+      "begriff": "Behörde",
+      "formen": [
+        "Behörden"
+      ],
+      "erklaerung": "Eine Stelle, die für den Staat Aufgaben erledigt. Auch eine gesetzliche Krankenkasse zählt dazu.",
+      "beispiel": "Das Bürgeramt, das Finanzamt oder die Krankenkasse."
+    },
+    {
+      "id": "verwaltung",
+      "begriff": "Verwaltung",
+      "formen": [
+        "Amt",
+        "Verwaltungen"
+      ],
+      "erklaerung": "Alle Stellen des Staates, die Gesetze im Alltag umsetzen. Sie machen keine Gesetze, sie wenden sie an.",
+      "beispiel": "Das Bürgeramt stellt deinen Ausweis aus."
+    },
+    {
+      "id": "gesetzgeber",
+      "begriff": "Gesetzgeber",
+      "formen": [
+        "Bundestag",
+        "Parlament",
+        "Parlamentsgesetz"
+      ],
+      "erklaerung": "Wer Gesetze beschließt. In Deutschland sind das vor allem der Bundestag und die Landtage.",
+      "beispiel": "Der Bundestag stimmt über ein neues Gesetz ab."
+    },
+    {
+      "id": "grundgesetz",
+      "begriff": "Grundgesetz",
+      "formen": [
+        "GG",
+        "Verfassung"
+      ],
+      "erklaerung": "Die Verfassung Deutschlands. Sie steht über allen anderen Gesetzen.",
+      "beispiel": "Dort steht zum Beispiel: Die Würde des Menschen ist unantastbar."
+    },
+    {
+      "id": "grundrecht",
+      "begriff": "Grundrecht",
+      "formen": [
+        "Grundrechte",
+        "Grundrechten",
+        "Grundrechts"
+      ],
+      "erklaerung": "Ein Recht aus dem Grundgesetz, das dich vor dem Staat schützt oder dir etwas garantiert.",
+      "beispiel": "Du darfst deinen Beruf frei wählen. Das ist ein Grundrecht."
+    },
+    {
+      "id": "sgb",
+      "begriff": "Sozialgesetzbuch",
+      "formen": [
+        "SGB"
+      ],
+      "erklaerung": "Die Sammlung der Gesetze zu Krankenkasse, Rente, Pflege und Sozialhilfe. Abgekürzt SGB.",
+      "beispiel": "Im fünften Buch (SGB V) steht, was die Krankenkasse zahlt."
+    },
+    {
+      "id": "sgg",
+      "begriff": "Sozialgerichtsgesetz",
+      "formen": [
+        "SGG"
+      ],
+      "erklaerung": "Das Gesetz, das regelt, wie man sich vor dem Sozialgericht wehrt. Abgekürzt SGG.",
+      "beispiel": "Dort steht, wie lange du Zeit für eine Klage hast."
+    },
+    {
+      "id": "gkv",
+      "begriff": "gesetzliche Krankenversicherung",
+      "formen": [
+        "GKV",
+        "gesetzlich versichert",
+        "gesetzliche Krankenkasse"
+      ],
+      "erklaerung": "Die Krankenversicherung, in der die meisten Menschen in Deutschland Pflichtmitglied sind. Abgekürzt GKV.",
+      "beispiel": "Wer angestellt ist, ist meist in der GKV, etwa bei einer AOK."
+    },
+    {
+      "id": "gba",
+      "begriff": "Gemeinsamer Bundesausschuss",
+      "formen": [
+        "G-BA",
+        "Gemeinsame Bundesausschuss",
+        "Gemeinsamen Bundesausschuss"
+      ],
+      "erklaerung": "Ein Gremium aus Ärzten, Kliniken und Krankenkassen. Es legt fest, welche Behandlungen die Kassen bezahlen.",
+      "beispiel": "Der G-BA entscheidet, ob eine neue Untersuchung Kassenleistung wird."
+    },
+    {
+      "id": "rechtsnorm",
+      "begriff": "Rechtsnorm",
+      "formen": [
+        "Norm",
+        "Normen",
+        "Rechtsnormen"
+      ],
+      "erklaerung": "Eine verbindliche Regel, die für viele Fälle und viele Menschen gilt. Gesetze bestehen aus solchen Regeln.",
+      "beispiel": "„Wer krank ist, hat Anspruch auf Behandlung.“ Das gilt für alle."
+    },
+    {
+      "id": "tatbestand",
+      "begriff": "Tatbestand",
+      "formen": [
+        "Tatbestands"
+      ],
+      "erklaerung": "Der Wenn-Teil einer Regel: die Voraussetzungen, die erfüllt sein müssen.",
+      "beispiel": "„Wenn du 18 bist …“ ist der Tatbestand."
+    },
+    {
+      "id": "rechtsfolge",
+      "begriff": "Rechtsfolge",
+      "formen": [
+        "Rechtsfolgen"
+      ],
+      "erklaerung": "Der Dann-Teil einer Regel: was passiert, wenn die Voraussetzungen erfüllt sind.",
+      "beispiel": "„… dann darfst du wählen“ ist die Rechtsfolge."
+    },
+    {
+      "id": "ermessen",
+      "begriff": "Ermessen",
+      "formen": [
+        "Ermessens"
+      ],
+      "erklaerung": "Das Gesetz lässt der Behörde eine Wahl. Du erkennst es an Wörtern wie „kann“ oder „darf“.",
+      "beispiel": "„Die Kasse kann einen Zuschuss zahlen.“ Sie muss also nicht."
+    },
+    {
+      "id": "widerspruch",
+      "begriff": "Widerspruch",
+      "formen": [
+        "Widersprüche"
+      ],
+      "erklaerung": "Dein schriftliches „Nein, das stimmt so nicht“ an das Amt. Das Amt muss dann noch einmal prüfen.",
+      "beispiel": "Die Kasse lehnt deinen Rollstuhl ab. Du schreibst: „Ich lege Widerspruch ein.“"
+    },
+    {
+      "id": "widerspruchsbescheid",
+      "begriff": "Widerspruchsbescheid",
+      "formen": [
+        "Widerspruchsbescheids"
+      ],
+      "erklaerung": "Die Antwort des Amts auf deinen Widerspruch. Danach kannst du klagen.",
+      "beispiel": "Die Kasse schreibt: „Wir bleiben bei unserer Entscheidung.“"
+    },
+    {
+      "id": "bekanntgabe",
+      "begriff": "Bekanntgabe",
+      "formen": [
+        "bekanntgegeben"
+      ],
+      "erklaerung": "Der Moment, ab dem ein Bescheid als bei dir angekommen gilt. Bei Post: drei Tage nach dem Absenden.",
+      "beispiel": "Brief am Montag abgeschickt: Er gilt am Donnerstag als angekommen."
+    },
+    {
+      "id": "frist",
+      "begriff": "Frist",
+      "formen": [
+        "Fristen"
+      ],
+      "erklaerung": "Eine Zeitspanne, in der du etwas tun musst. Danach ist es zu spät.",
+      "beispiel": "Die Rechnung ist innerhalb von 14 Tagen zu zahlen."
+    },
+    {
+      "id": "klage",
+      "begriff": "Klage",
+      "formen": [
+        "Klagen",
+        "klagen"
+      ],
+      "erklaerung": "Du bittest ein Gericht, einen Streit zu entscheiden.",
+      "beispiel": "Du gehst zum Sozialgericht, weil die Kasse nicht zahlen will."
+    },
+    {
+      "id": "sozialgericht",
+      "begriff": "Sozialgericht",
+      "formen": [
+        "Sozialgerichte",
+        "Sozialgerichts"
+      ],
+      "erklaerung": "Das Gericht für Streit mit Krankenkasse, Rentenversicherung oder Jobcenter.",
+      "beispiel": "Frau K. klagt dort gegen ihre Krankenkasse."
+    },
+    {
+      "id": "bverfg",
+      "begriff": "Bundesverfassungsgericht",
+      "formen": [
+        "BVerfG"
+      ],
+      "erklaerung": "Das höchste Gericht für Fragen zum Grundgesetz. Es sitzt in Karlsruhe.",
+      "beispiel": "Es kann ein Gesetz für ungültig erklären."
+    },
+    {
+      "id": "bsg",
+      "begriff": "Bundessozialgericht",
+      "formen": [
+        "BSG"
+      ],
+      "erklaerung": "Das höchste Gericht für Streit um Sozialleistungen. Es sitzt in Kassel.",
+      "beispiel": "Es entscheidet am Ende, ob die Kasse eine Therapie zahlen muss."
+    },
+    {
+      "id": "ruecknahme",
+      "begriff": "Rücknahme",
+      "formen": [],
+      "erklaerung": "Ein Bescheid wird aufgehoben, weil er schon beim Erlass falsch war.",
+      "beispiel": "Die Lehrerin hat sich bei der Note verrechnet und korrigiert sie."
+    },
+    {
+      "id": "widerruf",
+      "begriff": "Widerruf",
+      "formen": [],
+      "erklaerung": "Ein Bescheid wird aufgehoben, obwohl er beim Erlass richtig war. Meist gilt das nur für die Zukunft.",
+      "beispiel": "Die Schule erlaubte Handys und ändert später die Hausordnung."
+    },
+    {
+      "id": "anhoerung",
+      "begriff": "Anhörung",
+      "formen": [
+        "angehört",
+        "anhören"
+      ],
+      "erklaerung": "Bevor das Amt etwas Belastendes entscheidet, darfst du deine Sicht schildern.",
+      "beispiel": "Bevor der Trainer dich aus dem Team wirft, fragt er dich nach deiner Sicht."
+    },
+    {
+      "id": "verhaeltnismaessig",
+      "begriff": "verhältnismäßig",
+      "formen": [
+        "Verhältnismäßigkeit",
+        "unverhältnismäßig"
+      ],
+      "erklaerung": "Eine Maßnahme ist verhältnismäßig, wenn sie sinnvoll, nötig und nicht übertrieben ist.",
+      "beispiel": "Für einen Kratzer am Auto muss man nicht das ganze Auto neu lackieren."
+    },
+    {
+      "id": "satzung",
+      "begriff": "Satzung",
+      "formen": [
+        "Satzungen"
+      ],
+      "erklaerung": "Regeln, die sich eine Einrichtung mit eigener Selbstverwaltung selbst gibt, für ihre Mitglieder.",
+      "beispiel": "Ein Sportverein beschließt eigene Vereinsregeln."
+    },
+    {
+      "id": "rechtsverordnung",
+      "begriff": "Rechtsverordnung",
+      "formen": [
+        "Rechtsverordnungen",
+        "Verordnung",
+        "Verordnungen"
+      ],
+      "erklaerung": "Regeln, die die Regierung oder ein Ministerium erlässt. Ein Gesetz muss das vorher erlauben.",
+      "beispiel": "Ein Gesetz erlaubt dem Ministerium, die Prüfungsordnung für Ärzte zu schreiben."
+    },
+    {
+      "id": "koerperschaft",
+      "begriff": "Körperschaft",
+      "formen": [
+        "Körperschaft des öffentlichen Rechts",
+        "Körperschaften"
+      ],
+      "erklaerung": "Eine öffentliche Einrichtung mit Mitgliedern, die sich selbst verwaltet.",
+      "beispiel": "Eine Krankenkasse hat Mitglieder, das sind die Versicherten."
+    },
+    {
+      "id": "anstalt",
+      "begriff": "Anstalt",
+      "formen": [
+        "Anstalt des öffentlichen Rechts",
+        "Anstalten",
+        "AöR"
+      ],
+      "erklaerung": "Eine öffentliche Einrichtung mit Personal und Sachmitteln für einen Zweck. Sie hat Nutzer, keine Mitglieder.",
+      "beispiel": "Eine Sparkasse oder eine Uniklinik."
+    },
+    {
+      "id": "selbstverwaltung",
+      "begriff": "Selbstverwaltung",
+      "formen": [
+        "gemeinsame Selbstverwaltung"
+      ],
+      "erklaerung": "Eine Einrichtung regelt ihre Angelegenheiten selbst, der Staat schaut nur zu, ob alles rechtmäßig ist.",
+      "beispiel": "Die Ärztekammer macht ihre Berufsregeln selbst."
+    },
+    {
+      "id": "rechtsaufsicht",
+      "begriff": "Rechtsaufsicht",
+      "formen": [
+        "Aufsicht"
+      ],
+      "erklaerung": "Eine höhere Stelle prüft nur, ob Gesetze eingehalten werden. Sie redet nicht in Zweckmäßigkeitsfragen hinein.",
+      "beispiel": "Das Ministerium prüft, ob der G-BA sich an die Gesetze hält."
+    },
+    {
+      "id": "rechtswidrig",
+      "begriff": "rechtswidrig",
+      "formen": [
+        "Rechtswidrigkeit"
+      ],
+      "erklaerung": "Etwas verstößt gegen das Recht, ist also falsch.",
+      "beispiel": "Ein Bescheid berechnet dein Geld mit einer falschen Zahl."
+    },
+    {
+      "id": "rechtmaessig",
+      "begriff": "rechtmäßig",
+      "formen": [
+        "Rechtmäßigkeit"
+      ],
+      "erklaerung": "Etwas hält sich an das Recht, ist also richtig.",
+      "beispiel": "Der Bescheid wurde korrekt berechnet."
+    }
+  ]
+}

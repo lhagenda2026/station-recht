@@ -7,11 +7,20 @@ import { klar, wstf, langeSaetze } from './lesbarkeit.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const lies = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
+const arg = (name) => { const i = process.argv.indexOf(name); return i > 0 ? process.argv[i + 1] : null; };
 const voll = process.argv.includes('--voll');
 const bericht = process.argv.includes('--bericht');
-const regeln = lies('data/regeln.json');
-const faelle = lies('data/faelle.json');
-const glossar = lies('data/glossar.json');
+// --datei stockwerk-2.json: nur diese Inhaltsdatei (+ glossar-basis.json) bauen und deren Regeln streng prüfen
+const nurDatei = arg('--datei');
+let regeln, faelle, glossar;
+if (nurDatei) {
+  const { baue } = await import('./build.mjs');
+  ({ regeln, faelle } = baue(['glossar-basis.json', nurDatei]));
+  ({ glossar } = baue());   // Glossar aller Dateien, damit Verweise auf andere Stockwerke gelten
+} else {
+  regeln = lies('data/regeln.json'); faelle = lies('data/faelle.json'); glossar = lies('data/glossar.json');
+}
+const proDatei = !!nurDatei;
 
 export const ABGRENZUNG = ['q1', 'q17', 'q20', 'q27', 'q28', 'q29', 'q30', 'q34', 'q36', 'q37', 'q38', 'q44', 'q46', 'q47', 'q48', 'q50', 'q51', 'q52', 'q58', 'q59'];
 // Fachwort-Stämme: Kommen sie im Spielertext vor, muss ein Glossar-Eintrag sie abdecken.
@@ -31,8 +40,9 @@ const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const ganzesWort = (w) => new RegExp(`(?<![A-Za-zÄÖÜäöüß-])${esc(w)}(?![A-Za-zÄÖÜäöüß])`);
 
 /** Prüft eine Leseeinheit: Glossar-Verweise gültig, Fachwörter markiert, Lesbarkeit. */
-function einheit(name, texte, { eigenerBegriff = '' } = {}) {
+function einheit(name, texte, { eigenerBegriff = '', nurGlossarPruefen = [] } = {}) {
   const roh = texte.filter(Boolean).join('\n');
+  const stempel = klar(nurGlossarPruefen.join('\n'));
   const markiert = new Set();
   for (const m of roh.matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)) {
     const g = gMap[(m[2] ?? m[1]).toLowerCase()];
@@ -46,7 +56,7 @@ function einheit(name, texte, { eigenerBegriff = '' } = {}) {
     if (treffer) F(`${name}: Fachwort „${treffer}“ nicht markiert (mindestens einmal [[…]] setzen)`);
   }
   for (const stamm of FACHSTAEMME) {
-    const m = plain.match(new RegExp(`(?<![A-Za-zÄÖÜäöüß])${esc(stamm)}[a-zäöüß]*`, 'i'));
+    const m = `${plain}\n${stempel}`.match(new RegExp(`(?<![A-Za-zÄÖÜäöüß])${esc(stamm)}[a-zäöüß]*`, 'i'));
     if (!m) continue;
     const wort = m[0];
     const abgedeckt = gMap[wort.toLowerCase()] || glossar.some((g) => [g.begriff, ...g.formen].some((f) => f.toLowerCase() === wort.toLowerCase()));
@@ -85,17 +95,20 @@ for (const f of faelle) {
   for (const k of ['frage', 'ergebnis', 'warum']) if (!f[k]?.trim()) F(`${n}: Feld ${k} fehlt`);
   if (!['F5', 'F6'].includes(f.format) && !(f.figur?.name && f.figur?.emoji)) F(`${n}: figur fehlt`);
   if (!Array.isArray(f.denkweg) || f.denkweg.length < 2 || f.denkweg.length > 3) F(`${n}: denkweg braucht 2–3 Schritte`);
-  (f.kombiRegeln ?? []).forEach((id) => { if (!regelMap[id]) F(`${n}: kombiRegeln enthält unbekannte ${id}`); });
+  const alleIds = new Set(lies('data/base.json').map((b) => b.id));
+  (f.kombiRegeln ?? []).forEach((id) => { if (!(proDatei ? alleIds.has(id) : regelMap[id])) F(`${n}: kombiRegeln enthält unbekannte ${id}`); });
   if (f.kombiRegeln?.length && f.stufe !== 3) F(`${n}: Kniffelfälle müssen Stufe 3 sein`);
-  const extra = [];
+  const extra = [], stempelTexte = [];
   if (['F1', 'F4', 'F5'].includes(f.format)) {
     const o = f.optionen ?? [];
     const soll = f.format === 'F1' ? [2, 4] : [3, 3];
     if (o.length < soll[0] || o.length > soll[1]) F(`${n}: ${f.format} braucht ${soll.join('–')} Optionen`);
     if (o.filter((x) => x.richtig).length !== 1) F(`${n}: genau eine richtige Option nötig`);
     o.filter((x) => !x.richtig).forEach((x) => { if (!x.warumNicht?.trim()) F(`${n}: Option „${x.text}“ ohne warumNicht`); });
-    if (f.format === 'F1') o.forEach((x) => { if (woerterVon(klar(x.text)) > 4) F(`${n}: Stempeltext „${x.text}“ zu lang (max. 4 Wörter)`); });
-    extra.push(...o.map((x) => x.text), ...o.map((x) => x.warumNicht));
+    o.forEach((x) => { if (/\[\[/.test(x.text) && f.format !== 'F5') F(`${n}: Option „${x.text}“: in Stempel/Zettel-Texten keine [[ ]]`); });
+    if (f.format === 'F5') extra.push(...o.map((x) => x.text));
+    else stempelTexte.push(...o.map((x) => x.text));
+    extra.push(...o.map((x) => x.warumNicht));
   }
   if (f.format === 'F4') {
     for (const k of ['datumA', 'datumB']) if (!f[k]?.label || !/^\d{4}-\d{2}-\d{2}$/.test(f[k]?.datum ?? '')) F(`${n}: ${k} braucht label und datum (JJJJ-MM-TT)`);
@@ -109,7 +122,8 @@ for (const f of faelle) {
     if (klick.filter((t) => t.fehler).length < 1) F(`${n}: F2 braucht mindestens einen Teil mit fehler: true`);
     if (f.modus === 'einer' && klick.filter((t) => t.fehler).length !== 1) F(`${n}: modus "einer" braucht genau einen Treffer`);
     klick.filter((t) => !t.fehler).forEach((t) => { if (!t.warumNicht) F(`${n}: Teil „${t.text}“ ohne warumNicht`); });
-    extra.push(...teile.map((t) => (typeof t === 'string' ? t : `${t.text} ${t.warumNicht ?? ''} ${t.fehlerart ?? ''}`)));
+    teile.forEach((t) => { if (typeof t === 'string') extra.push(t); else { stempelTexte.push(t.text); extra.push(t.warumNicht, t.fehlerart); } });
+    if (f.optionen?.length) { stempelTexte.push(...f.optionen.map((o) => o.text)); extra.push(...f.optionen.map((o) => o.warumNicht)); }
   }
   if (f.format === 'F3') {
     if (f.fachfaecher) {
@@ -117,19 +131,26 @@ for (const f of faelle) {
       if (!(faecher?.length >= 2 && faecher.length <= 3)) F(`${n}: F3 braucht 2–3 Fächer`);
       if (!(karten?.length >= 3)) F(`${n}: F3 braucht mindestens 3 Karten`);
       karten?.forEach((k) => { if (!faecher.includes(k.fach)) F(`${n}: Karte „${k.text}“ hat unbekanntes Fach`); if (!k.warumNicht) F(`${n}: Karte „${k.text}“ ohne warumNicht`); });
-      extra.push(...(faecher ?? []), ...(karten ?? []).flatMap((k) => [k.text, k.warumNicht]));
+      stempelTexte.push(...(faecher ?? []), ...(karten ?? []).map((k) => k.text));
+      extra.push(...(karten ?? []).map((k) => k.warumNicht));
     } else if (f.reihenfolge) {
       if (f.reihenfolge.length < 3) F(`${n}: Reihenfolge braucht mindestens 3 Schritte`);
-      extra.push(...f.reihenfolge);
+      stempelTexte.push(...f.reihenfolge);
     } else F(`${n}: F3 braucht fachfaecher oder reihenfolge`);
   }
   if (f.format === 'F6' && !(regelMap[f.regelId].klausur.bausteine?.length >= 3)) F(`${n}: F6 ohne Bausteine in der Regel`);
   const textFelder = f.format === 'F6' ? [f.akte, f.frage, f.ergebnis, f.warum, ...(f.denkweg ?? [])] : [f.akte, f.frage, ...extra, f.ergebnis, f.warum, ...(f.denkweg ?? [])];
-  wstfWerte.push(einheit(n, textFelder));
+  wstfWerte.push(einheit(n, textFelder, { nurGlossarPruefen: stempelTexte }));
 }
 
 // --- Glossar
+const formSeen = {};
 for (const g of glossar) {
+  for (const w of [g.begriff, ...g.formen]) {
+    const k = w.toLowerCase();
+    if (formSeen[k] && formSeen[k] !== g.id) F(`Glossar: „${w}“ gehört zu ${formSeen[k]} und ${g.id}`);
+    formSeen[k] = g.id;
+  }
   if (!g.id || !g.begriff || !g.erklaerung) F(`Glossar ${g.id}: id, begriff, erklaerung nötig`);
   if (!g.beispiel) F(`Glossar ${g.id}: Alltagsbeispiel fehlt`);
   for (const s of langeSaetze(`${g.erklaerung} ${g.beispiel ?? ''}`)) F(`Glossar ${g.id}: Satz > 22 Wörter`);
@@ -143,9 +164,9 @@ for (const r of regeln) {
   const fs = proRegel(r.id);
   const stufen = new Set(fs.map((f) => f.stufe));
   const min = ABGRENZUNG.includes(r.id) ? 6 : 4;
-  if (voll && fs.length < min) F(`${r.id}: nur ${fs.length} Fälle (mind. ${min})`);
-  if (voll) [0, 1, 2, 3].forEach((s) => { if (!stufen.has(s)) F(`${r.id}: kein Fall für Stufe ${s}`); });
-  if (voll && !faelle.some((f) => f.regelId === r.id && f.format === 'F6')) F(`${r.id}: keine F6-Aufgabe`);
+  if ((voll || proDatei) && fs.length < min) F(`${r.id}: nur ${fs.length} Fälle (mind. ${min})`);
+  if (voll || proDatei) [0, 1, 2, 3].forEach((s) => { if (!stufen.has(s)) F(`${r.id}: kein Fall für Stufe ${s}`); });
+  if ((voll || proDatei) && !faelle.some((f) => f.regelId === r.id && f.format === 'F6')) F(`${r.id}: keine F6-Aufgabe`);
   if (!voll && !stufen.has(0)) W(`${r.id}: kein Fall für Stufe 0`);
 }
 const kniffel = faelle.filter((f) => f.kombiRegeln?.length).length;

@@ -9,7 +9,8 @@ const lies = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
 const base = Object.fromEntries(lies('data/base.json').map((b) => [b.id, b]));
 const norm = lies('quellen/normpruefung.json');
 
-const dateien = readdirSync(join(root, 'inhalte')).filter((f) => f.endsWith('.json')).sort();
+/** Baut die Spieldaten aus den angegebenen Inhaltsdateien (Standard: alle in inhalte/). */
+export function baue(dateien = readdirSync(join(root, 'inhalte')).filter((f) => f.endsWith('.json')).sort()) {
 const regeln = [], faelle = [], glossar = new Map();
 for (const datei of dateien) {
   const inhalt = lies(`inhalte/${datei}`);
@@ -37,8 +38,13 @@ for (const datei of dateien) {
   }
 }
 regeln.sort((a, b) => a.nr - b.nr);
+return { regeln, faelle, glossar: [...glossar.values()], dateien };
+}
 
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+const { regeln, faelle, glossar, dateien } = baue();
 writeFileSync(join(root, 'data/regeln.json'), JSON.stringify(regeln, null, 1) + '\n');
 writeFileSync(join(root, 'data/faelle.json'), JSON.stringify(faelle, null, 1) + '\n');
-writeFileSync(join(root, 'data/glossar.json'), JSON.stringify([...glossar.values()], null, 1) + '\n');
-console.log(`Build: ${regeln.length} Regeln, ${faelle.length} Fälle, ${glossar.size} Glossar-Begriffe (${dateien.join(', ')})`);
+writeFileSync(join(root, 'data/glossar.json'), JSON.stringify(glossar, null, 1) + '\n');
+console.log(`Build: ${regeln.length} Regeln, ${faelle.length} Fälle, ${glossar.length} Glossar-Begriffe (${dateien.join(', ')})`);
+}

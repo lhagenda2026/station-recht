@@ -29,7 +29,12 @@ export function load() {
   return S;
 }
 
+let nurLesen = false;
+/** Testmodus (?fall=…): nichts speichern. */
+export function testModus() { nurLesen = true; }
+
 export function save() {
+  if (nurLesen) return;
   try { localStorage.setItem(KEY, JSON.stringify(S)); } catch { /* Speicher voll oder gesperrt */ }
 }
 

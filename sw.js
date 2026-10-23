@@ -6,7 +6,7 @@ const DATEIEN = [
   'data/regeln.json', 'data/faelle.json', 'data/glossar.json',
   'js/store.js', 'js/daten.js', 'js/lernen.js', 'js/ui.js', 'js/ton.js', 'js/regelkarte.js',
   'js/szenen/buero.js', 'js/szenen/tag.js', 'js/szenen/schalter.js', 'js/szenen/regelbuch.js', 'js/szenen/einstellungen.js',
-  'js/formate/index.js', 'js/formate/f1.js',
+  'js/formate/index.js', 'js/formate/f1.js', 'js/formate/f2.js', 'js/formate/f3.js', 'js/formate/f4.js', 'js/formate/f5.js', 'js/formate/f6.js',
   'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-512-maskable.png',
 ];
 

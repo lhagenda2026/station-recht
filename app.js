@@ -1,5 +1,5 @@
 // Einstieg: Spielstand und Daten laden, Service Worker registrieren, Szenen wechseln.
-import { S, load, persistAnfragen } from './js/store.js';
+import { S, load, persistAnfragen, testModus } from './js/store.js';
 import { ladeDaten } from './js/daten.js';
 import { h } from './js/ui.js';
 import { buero } from './js/szenen/buero.js';
@@ -32,7 +32,20 @@ async function start() {
     app.replaceChildren(h('p', { class: 'laden' }, 'Die Spieldaten konnten nicht geladen werden. Öffne das Spiel einmal mit Internetverbindung.'));
     return;
   }
+  const testFall = new URLSearchParams(location.search).get('fall');
+  if (testFall) return testeFall(testFall);
   nav.buero();
+}
+
+// Testzugang ?fall=<id>: genau dieser Fall am Schalter, ohne Fortschritt zu verändern
+async function testeFall(id) {
+  const { D } = await import('./js/daten.js');
+  const { schalter } = await import('./js/szenen/schalter.js');
+  const f = D.fallMap[id];
+  if (!f) { app.replaceChildren(h('p', { class: 'laden' }, `Fall ${id} gibt es nicht.`)); return; }
+  testModus();   // Test darf nichts speichern
+  schalter(app, { art: 'test', plan: { plaetze: [{ fallId: id, regelId: f.regelId }] }, index: 0, sterne: 0, muenzen: 0, beschwerden: 0, falsche: [], aufstiege: [], richtig: 0, maxBeschwerden: 3 },
+    { onEnde: () => app.replaceChildren(h('p', { class: 'laden', 'data-test-ende': '' }, 'Testfall beendet.')), onPause: () => {} });
 }
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {

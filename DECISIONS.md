@@ -51,3 +51,4 @@
 - Feedback ein Belohnungsmoment? Stempelschlag, Gesicht reagiert, Münzen fliegen bzw. Beschwerdezettel; danach der Zettel mit Warum/Denkweg. Ja.
 - Spiel oder Formular? Spiel: Schalter mit Kunden und Schlange, Akte auf dem Tisch, physische Stempel.
 - Nachgeschärft: Akte vor die offene Regelkarte (Akte war unter dem Falz), kompakte Karte kleiner, Stempelleiste flacher, kein doppelter Fall am selben Tag, keine Linien quer durch die Schrift, keine Prüfung für leere Stockwerke.
+- Inhalte mit 5 statt 4 Subagents erstellt: Stockwerk 3 (Fragen 27–53, 27 Regeln) in zwei Hälften (q27–q41, q42–q53) geteilt, damit kein Agent über 150 Fälle schreiben muss.

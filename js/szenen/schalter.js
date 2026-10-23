@@ -83,8 +83,9 @@ export function schalter(app, lauf, { onEnde, onPause }) {
       h('header', { class: 'akte-kopf' },
         h('span', { class: 'akte-format' }, FORMAT_NAME[fall.format]),
         h('span', { class: 'akte-stufe' }, pruefung ? 'Prüfung' : STUFEN[stufe])),
+      fall.format === 'F5' && format.akte,
       fall.akte && h('div', { class: 'akte-text' }, txt(fall.akte)),
-      format.akte,
+      fall.format !== 'F5' && format.akte,
       h('p', { class: 'akte-frage' }, txt(fall.frage)));
     const tisch = h('section', { class: 'tisch' },
       akte,

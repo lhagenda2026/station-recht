@@ -1,5 +1,5 @@
 // F1 Stempeln: 2–4 Stempel, antippen oder auf die Akte ziehen.
-import { h } from '../ui.js';
+import { h, klar } from '../ui.js';
 
 const ROT = /abgelehnt|nein|zu spät|nichtig|unzulässig|verboten|kein |nicht /i;
 const BLAU = /bewilligt|^ja|rechtzeitig|zulässig|gültig|erlaubt/i;
@@ -12,6 +12,7 @@ export function stempelFarbe(text, i) {
 }
 
 export function f1(fall, ctx) {
+  if (fall.optionen.some((o) => o.text.split(/\s+/).length > 4)) return { steuerung: zettelAuswahl(fall.optionen, ctx) };
   const reihe = h('div', { class: `stempelreihe n${fall.optionen.length}` });
   fall.optionen.forEach((o, i) => {
     const farbe = stempelFarbe(o.text, i);
@@ -62,4 +63,18 @@ export function ziehbar(el, ziel, ausloesen) {
   el.addEventListener('pointerup', ende);
   el.addEventListener('pointercancel', ende);
   el.addEventListener('click', (e) => { if (e.detail === 0) ausloesen(); });   // Tastatur
+}
+
+/** Lange Antworten als Zettelstapel (statt Stempel). onWahl optional, sonst direkt ctx.antwort. */
+export function zettelAuswahl(optionen, ctx, onWahl) {
+  const liste = h('div', { class: 'zettelstapel' });
+  optionen.forEach((o, i) => liste.append(h('button', { class: 'antwortzettel', type: 'button', 'data-option': i, onClick: (e) => {
+    if (ctx.gesperrt() || liste.dataset.fertig) return;
+    liste.dataset.fertig = '1';
+    e.currentTarget.classList.add('gewaehlt');
+    liste.querySelectorAll('.antwortzettel').forEach((z, j) => { if (optionen[j].richtig) z.classList.add('ist-richtig'); });
+    if (onWahl) onWahl(o);
+    else ctx.antwort({ richtig: o.richtig, gewaehlt: o.richtig ? [] : [o] });
+  } }, h('span', { class: 'zettel-buchstabe', 'aria-hidden': 'true' }, 'ABCD'[i]), h('span', {}, klar(o.text)))));
+  return liste;
 }
